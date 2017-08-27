@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College submits planning application to Westminster Council for cooling plant on roof of Sherfield Building
 date: "2014-05-09 01:56:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090256-jal08-news_library_cooling.png"
 headline: true
 featured: true
 imported: true

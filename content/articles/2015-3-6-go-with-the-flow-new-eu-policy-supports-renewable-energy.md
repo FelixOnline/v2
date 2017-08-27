@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
 image_caption: "Uniting gas and electricity markets, a new challenge for the Energy Union Strategic Framework."
 headline: true
 featured: true

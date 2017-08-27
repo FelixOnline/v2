@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A pivotal day in the history of IC tennis
 date: "2011-02-27 19:50:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271949-ks607-tenniste.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271949-ks607-tenniste.jpg"
 headline: true
 featured: true
 imported: true

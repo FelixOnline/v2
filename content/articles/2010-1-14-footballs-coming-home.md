@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gaelic football is a quickly budding game on Imperial's sports scene; ic gaelic athletic club boasts full rosters for both Mens' and Ladies' teams this year. Dan Wan follows them on their tour of Dublin and even gets stuck in himself
 date: "2010-01-14 16:49:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141646-felix-gaelicgi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141646-felix-gaelicgi.jpg"
 headline: true
 featured: true
 imported: true

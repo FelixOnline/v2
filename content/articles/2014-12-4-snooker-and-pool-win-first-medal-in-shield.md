@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aaron Brown and Robert Hughes report as Snooker and Pool win their first medal at the Southern England Championships
 date: "2014-12-04 20:20:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211301139-jp1409-torrent-websites.png"
 image_caption: "The fallen torrenting giants, well mostly"
 headline: true
 featured: true

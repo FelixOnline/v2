@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Banksy is cool!!1
 date: "2016-02-19 12:09:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
 image_caption: "Super-cool 'artist' Banksy. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men's 2nd – 1 / Roehampton – 0
 date: "2012-02-02 23:05:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022305-sjw209-img_0877.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022305-sjw209-img_0877.jpg"
 headline: true
 featured: true
 imported: true

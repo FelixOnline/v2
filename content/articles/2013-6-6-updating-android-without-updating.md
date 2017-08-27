@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A slew of new features for Android revealed at Google I/O 2013!
 date: "2013-06-06 17:47:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306061849-tna08-android-jelly-bean.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032156-felix-cilla.jpg"
 image_caption: "Not the Blind Date you might be thinking of"
 headline: true
 featured: true

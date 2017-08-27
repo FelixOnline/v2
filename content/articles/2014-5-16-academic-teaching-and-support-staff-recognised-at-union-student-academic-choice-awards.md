@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs).
 date: "2014-05-16 01:31:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
 image_caption: "The Student Academic Choice Awards"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Top research powerhouses form new consortium
 date: "2013-05-16 20:41:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201305162141-tna08-quad6may08_08.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305162141-tna08-quad6may08_08.jpeg"
 image_caption: "Yeah, they've partnered with UCL for something. Dragging ourselves down BIG TIME"
 headline: true
 featured: true

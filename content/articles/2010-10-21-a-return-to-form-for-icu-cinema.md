@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Union's Cinema is reborn!
 date: "2010-10-21 19:18:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201010212017-ks607-ICUcinme.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010212017-ks607-ICUcinme.jpg"
 headline: true
 featured: true
 imported: true

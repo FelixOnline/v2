@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deepka Rana spends 3 hours pretending to write a byline
 date: "2012-10-05 12:39:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051339-felix-gp3dwileycapstone-(2)-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051339-felix-gp3dwileycapstone-(2)-copy.jpg"
 image_caption: "I procrastinate by reading this book. Technically time well spent?"
 headline: true
 featured: true

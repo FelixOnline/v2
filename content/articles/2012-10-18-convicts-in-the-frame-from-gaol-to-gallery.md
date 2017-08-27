@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lily Le looks at some art from behind bars, by which we don't mean that she is at a pub...
 date: "2012-10-18 21:00:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182200-felix-disappoint-man.jpg"
 image_caption: "Tweezer shortage affects Wayne Rooney "
 headline: true
 featured: true

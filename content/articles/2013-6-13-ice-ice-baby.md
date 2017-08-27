@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Iceman review
 date: "2013-06-13 23:32:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140031-tna08-the-iceman_02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140031-tna08-the-iceman_02.jpg"
 image_caption: "The Apprentice - 1975"
 headline: true
 featured: true
@@ -33,13 +33,13 @@ Richard is very good at what he does: and in the central role Shannon is simply 
 
 Despite the fantastic performance, it must be noted that his “career” that spanned decades is quickly rushed through by using many frequent time jumps of many years, only showing the few highlights of his killing days. It doesn’t dig deep enough into the work of a mob hitman, and at times the film seems to be more interested in the less gripping, unnecessarily overblown mafia politics that leads to familiar territory as everything unfolds away from Shannon.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140031-tna08-michael-shannon-in-the-iceman-2013-movie-image-600x399-1.jpg" title="“You better hit bull’s eye” - Vanilla Ice" caption="“You better hit bull’s eye” - Vanilla Ice" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140031-tna08-michael-shannon-in-the-iceman-2013-movie-image-600x399-1.jpg" title="“You better hit bull’s eye” - Vanilla Ice" caption="“You better hit bull’s eye” - Vanilla Ice" attr="" >}}
 
 No mafia movie casting is complete without Liotta, and he rocks up in a predictable yet effective role, David Schwimmer (i.e. Ross from Friends), barely recognisable with his moustache and ponytail, is a young, ambitious player who steals too much and lies too much. We all know what happens to that kind in films like this. Speaking of barely recognisable actors, Chris Evans, who usually dons the Captain America suit, instead sports grizzly hair and generally greasy appearance here, as a killer who may be as psychotic or perhaps even more so, than Kuklinski himself.
 
 Not a lot is given away in terms of trying to explain why Richard is the way he is, aside from a brief flashback sequence into his childhood, and also theconcise yet hugely effective and informative scene in which Richie visits his brother Joseph (the excellent Stephen Dorff) in prison. Here we see the two estranged, dysfunctional brothers reminisce in their own way, about the disturbing events surrounding their childhood, giving us some insight as to explain their nature.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140031-tna08-ice_04cf.jpg" title="Did I leave the lights on when I left the house?" caption="Did I leave the lights on when I left the house?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140031-tna08-ice_04cf.jpg" title="Did I leave the lights on when I left the house?" caption="Did I leave the lights on when I left the house?" attr="" >}}
 
 Throughout there is a lot of focus on the fact that Kuklinski doesn’t hurt women or children, and his domestic life that keeps him somewhat grounded is one of the key themes. It’s nice to see the age-resistant and talented Winona Ryder have a prominent role again, as “the good wife”, always staying loyal to her husband even though it’s obvious he’s keeping secrets. Over the years we see huge changes in wealth in their lives, and like any mob wife, Deborah has no problem accepting the nice gifts her husband buys for her, and yet at times she does wonder just how he’s managing to afford such luxury. There’s doubt, from the more cautious side of her for sure, but also an element of trust, this one stemming from the loyal, affectionate side.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophie Kirk and Eoghan J Totten on the muddy running
 date: "2013-02-08 00:30:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ This year saw the biggest team ever (44!) from Imperial travel to Leeds for what
 
 Eoghan J Totten (34:41) led the team home with a 20th place finish over the 10km course, just over a minute short of a medal (Stephen Scullion, St. Mary’s London, 33:32). He was strongly supported by a headstrong team who battled ferociously through the mud-laden course to produce finishes all within the top fifty. The American, Clinton ‘Abs’ Cahall produced a massive 36th place finish (35:23). Clinton had to realign his concept of cross country to one more attuned to the English weather, coping exceptionally with the treacherous underfoot conditions and finishing strongly. Christopher Bannon successfully transferred his prowess on the track to the mud bath, producing a 47th place finish (35:41) with Faron Hesse giving chase in 49th (35:43), moving strongly through the field in the closing lap. Sam O’Neill competing in his 6th and final BUCS competition, was the 5th Imperial College man home (with four to score), produced a solid run in 168th place. First year Chris Thomas had an interesting race after being ill the previous week it appears he took 3 hours to complete the course but who really knows what happened here? We look forward to seeing him progress in future years. The team result was a tremendous achievement (topping Oxford) given four of the top five team positions were occupied by Universities receiving significant funding for sport. The top three (St. Mary’s London, Birmingham & Loughborough) receive funding from London Marathon and UK Athletics and are established endurance running institutions. For Imperial College to be in tow shows that it is possible to balance sporting and academic prowess.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302080030-tna08-601004_10152553244140607_325538247_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302080030-tna08-601004_10152553244140607_325538247_n.jpg" title="" caption="" attr="" >}}
 
 Next up was the Women’s race on what was now a tumultuous, freshly-churned course. Melissa Newton-Mora led the Imperial College team home in 169th position with Sophie Kirk in 190th position and Kimberley ‘very possible’ Mason in 214th place. All credit must go to Sophie for organising transport, accommodation (in the swish Jurys Inn!) and general co-ordination. However, the greatest achievement was the size of the Women’s team from Imperial College; with all 12 completing the gruelling course making this double previous years!
 
@@ -40,7 +40,7 @@ Liam ‘Car park attendant’ Smith and Jean Claude Besse were the first freshme
 
 Following the race, there was much celebration not only for the 6th position but also celebrating the clubs successes thus far. This has been one of the best years in the clubs history with 100 members and participation going through the roof. Anticipation for the infamous after party was high at Captains’ drinks, and with the freshers’ challenges completed it was time for curry! At Leeds University Union we joined hundreds of other runners for a celebration complete with foam. Armed with our bandannas we took to the floor pulling moves that haven’t been seen since last year. We certainly left our mark at Leeds Union, I would say more but what happens in Leeds stays in Leeds (or at least on Facebook). After 6 hours of partying it was time to head back and get what sleep we could for the long journey back down south.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302080030-tna08-819375_570720982939466_73482403_o-1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302080030-tna08-819375_570720982939466_73482403_o-1.jpg" title="" caption="" attr="" >}}
 
 First year Isabel Holding summed up her experiences of the weekend: “As a fresher it was a daunting thought to sign up for the XC weekend trip to Leeds. I was prepared to endure the physical challenge of running 6.5km, as well as the freshman humiliation, which was probably my greater worry.
 

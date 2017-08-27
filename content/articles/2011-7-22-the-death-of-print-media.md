@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The phone hacking scandal has left print media in an unenviable position, to say the least
 date: "2011-07-22 10:33:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 headline: true
 featured: true
 imported: true

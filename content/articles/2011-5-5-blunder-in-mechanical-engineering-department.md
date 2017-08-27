@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Investigation launched after £3 million exhaust system is built with wrong type of steel
 date: "2011-05-05 23:40:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
 image_caption: "The Mechanical Engineering Department"
 headline: true
 featured: true

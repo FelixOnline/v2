@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 1 of 3)
 date: "2013-06-20 16:25:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306201726-cac111-ml-w-portrait.jpg"
 headline: true
 featured: true
 imported: true
@@ -53,7 +53,7 @@ TA: Yeah, we have a luxury. We do it on a screen and the next day it’s deliver
 
 MLW: That’s fantastic. It was all glue and scissors for us.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210148-tna08-frontcover1michael.jpg" title="A front cover from Michael's year. Classic Felix, always swearing" caption="A front cover from Michael's year. Classic Felix, always swearing" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210148-tna08-frontcover1michael.jpg" title="A front cover from Michael's year. Classic Felix, always swearing" caption="A front cover from Michael's year. Classic Felix, always swearing" attr="" >}}
 
 TA: Any standout moments and achievements from your year that you’re really proud of?
 

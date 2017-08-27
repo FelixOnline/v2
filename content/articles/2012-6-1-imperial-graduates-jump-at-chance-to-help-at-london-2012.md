@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New BP graduate scheme gives students an Olympic chance
 date: "2012-06-01 12:11:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
 image_caption: "BP graduates at the Olympic Stadium, including Claire Madden, but not including Kelly Holmes"
 headline: true
 featured: true

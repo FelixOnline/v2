@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial professor becomes member of the Institute of Medicine
 date: "2013-11-01 09:11:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010911-felix-newseventsimages.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010911-felix-newseventsimages.jpg"
 image_caption: "Professor Lord Ara Darzi"
 headline: true
 featured: true

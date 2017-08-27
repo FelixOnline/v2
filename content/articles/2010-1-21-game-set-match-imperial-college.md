@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College take a decisive win!
 date: "2010-01-21 21:16:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201001212112-rsp07-Universt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001212112-rsp07-Universt.jpg"
 headline: true
 featured: true
 imported: true

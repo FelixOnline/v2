@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Neighbouring RCA protested outside the Daily Mail
 date: "2015-11-19 22:23:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
 image_caption: "RCA students outside the Daily Mail"
 headline: true
 featured: true

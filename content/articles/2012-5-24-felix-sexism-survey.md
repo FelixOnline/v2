@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Results of Felix's Sexism Survey
 date: "2012-05-24 23:40:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205250040-mc4509-sexismspread.jpg"
 headline: true
 featured: true
 imported: true

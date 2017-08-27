@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fen kicks off a showcase of female playwrights in Fulham
 date: "2011-03-18 08:28:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103180827-ks607-fenwoman.jpg"
 image_caption: "Katharine Burford as Val"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe’s new production of a classic
 date: "2014-11-06 21:36:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
 image_caption: "Fiona Button as Annabella and Max Bennett as Giovanni in Michael Longhurst's production. "
 headline: true
 featured: true

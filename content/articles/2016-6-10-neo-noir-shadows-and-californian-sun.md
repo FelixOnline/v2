@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Nice Guys is a send-up of genre flicks that's in on the joke
 date: "2016-06-10 08:30:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101030-felix-niceguys-1200x800.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101030-felix-niceguys-1200x800.jpg"
 image_caption: "Ryan Gosling and Russel Crowe play the odd couple in 1970s neo-noir comedy The Nice Guys. "
 headline: true
 featured: true

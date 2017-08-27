@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Delicate, lyrical, and moving; Anatomy of a Suicide is a theatrical experience
 date: "2017-06-15 15:32:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201706151724-im1413-anatomy-of-a-suicide.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706151724-im1413-anatomy-of-a-suicide.jpg"
 image_caption: "Hattie Morahan, Kate O’Flynn and Adelle Leonce in Anatomy of a Suicide | Photo: Stephen Cummiskey"
 headline: true
 featured: true

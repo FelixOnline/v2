@@ -4,7 +4,7 @@ title: >
 subtitle: >
   And does the bursary scheme cover the price of living in the capital?
 date: "2014-11-21 13:20:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211320-ps3110-pie-chart.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211320-ps3110-pie-chart.png"
 headline: true
 featured: true
 imported: true

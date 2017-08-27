@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The semi-finals of the ICCA's will be held this Saturday at Imperial
 date: "2015-01-23 00:42:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
 image_caption: "The Techtonics are just one of three Imperial groups competing on Saturday"
 headline: true
 featured: true

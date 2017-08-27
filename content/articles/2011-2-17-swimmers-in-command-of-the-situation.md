@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The IC swimming team, a formidable force
 date: "2011-02-17 20:48:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172046-nm1010-swimswim.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172046-nm1010-swimswim.jpg"
 headline: true
 featured: true
 imported: true

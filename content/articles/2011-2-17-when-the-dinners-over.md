@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christian Franke lists how to end a dinner on a non-WINE note
 date: "2011-02-17 19:42:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171937-nm1010-digestdi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171937-nm1010-digestdi.jpg"
 headline: true
 featured: true
 imported: true

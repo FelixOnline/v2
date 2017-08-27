@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As Imperial College Business School continues to gain international acclaim for the quality of its academic teaching and research, and the success of its alumni, felix interviews its Principal, Professor David Begg
 date: "2010-02-01 17:20:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011718-rsp07-tannaka.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011718-rsp07-tannaka.jpg"
 headline: true
 featured: true
 imported: true

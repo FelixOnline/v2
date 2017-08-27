@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men's 2nd 135-90
 date: "2011-10-21 10:13:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211113-ak6309-dsc_5484website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211113-ak6309-dsc_5484website.jpg"
 image_caption: "Cut, thrust, parry, riposte...oh wait, there’s two lights. Referee needed"
 headline: true
 featured: true

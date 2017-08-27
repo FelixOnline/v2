@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl ruminates on the repercussion of our device addiction
 date: "2013-10-12 23:50:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201310130049-jal08-tech_hudev.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310130049-jal08-tech_hudev.jpg"
 headline: true
 featured: true
 imported: true

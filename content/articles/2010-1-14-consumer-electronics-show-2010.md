@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our highlights and picks from the year's biggest gadget exhibition straight out of the City of Sin
 date: "2010-01-14 16:18:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201002191157-srg03-CESLogo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002191157-srg03-CESLogo.jpg"
 headline: true
 featured: true
 imported: true

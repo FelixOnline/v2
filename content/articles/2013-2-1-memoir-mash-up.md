@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli reads (well, listens) to the best of the celebrity autobiographys
 date: "2013-02-01 00:16:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010016-tna08-collage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010016-tna08-collage.jpg"
 headline: true
 featured: true
 imported: true

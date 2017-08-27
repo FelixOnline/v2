@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam is worn out from all the real news that's appeared on Facebook
 date: "2011-12-01 19:33:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112011933-pk1811-facebook_logo.jpg"
 headline: true
 featured: true
 imported: true

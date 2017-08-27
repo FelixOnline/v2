@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng takes on Verdi’s classic La Traviata
 date: "2015-02-22 17:32:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201502221731-ps3110-11315.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502221731-ps3110-11315.jpeg"
 image_caption: "Elizabeth Zharoff as Vittoria, in ENO’s production of Verdi’s La Traviata "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students from Imperial Jewish Society travelled to Lithuania to explore the country’s Jewish heritage. JSoc member Andrea Levy describes the experience of revisiting the past
 date: "2012-03-15 21:07:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152104-ig711-levy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152104-ig711-levy.jpg"
 image_caption: "JSoc in Lithuania"
 headline: true
 featured: true

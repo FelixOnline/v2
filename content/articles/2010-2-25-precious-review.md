@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jade Hoffman takes a look at the the emotionally harrowing film Precious
 date: "2010-02-25 15:44:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251542-egk08-Precious.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251542-egk08-Precious.jpg"
 headline: true
 featured: true
 imported: true

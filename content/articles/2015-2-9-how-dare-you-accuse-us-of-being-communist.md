@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt meets the Socratic Society’s committee
 date: "2015-02-09 18:04:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
 headline: true
 featured: true
 imported: true

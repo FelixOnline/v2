@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Re-live Ruby Ramjan’s experience of last year’s Global Brigades
 date: "2012-01-26 22:06:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262200-cac111-honduras-building.jpg"
 image_caption: "Global Brigaders have so much fun, working together to get the job done..."
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Nothing warms my heart more than a Honduran child. The afternoon we spent at the
 
 El Rapaco is a magical little condo in the mountains and our Honduran home. Every evening we had siestas in the hammocks, fiestas under the tree, dinner with Spanish music in the background, constant inter-mocking of accents between us and the Americans, and random bursts of Salsa. There are a thousand stories to tell, and while I could happily divulge every detail of my Global Brigades experience, I could never convey the feeling of complete peace and undisputed happiness that I felt in El Rapaco.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201262201-cac111-global-kids.jpg" title="“Nothing warms my heart more than a Honduran child”" caption="“Nothing warms my heart more than a Honduran child”" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201262201-cac111-global-kids.jpg" title="“Nothing warms my heart more than a Honduran child”" caption="“Nothing warms my heart more than a Honduran child”" attr="" >}}
 
 I never fully comprehended the meaning of the words “manual labour” until we did the Public Health Brigade. The 11 Imperial students, along with some local community members and masons, built a latrine, a stove, a concrete floor and a pila in one of the houses in the enchanting village of Zurzular. When I was first told we were building a latrine (toilet), I assumed the last one was either not hygienic enough or it was falling apart: the concept of not having a latrine is so foreign to me that it never even crossed my naive mind, but that was indeed the case for this elderly couple. The lady of the house told me that the old stove used to get so hot that her grandchildren have been burnt whilst playing in the kitchen. We built a concrete floor because the plain earth that previously made up the floor of their home was a parasite paradise.
 

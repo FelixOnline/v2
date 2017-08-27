@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh talks about Clive Cussler’s fantastic new novel
 date: "2013-01-10 22:40:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102240-csw09-cussler2cmyk.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey explains why fat people are not afforded the privilege of 'normal' eating habits
 date: "2017-02-03 15:46:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.02.47.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.02.47.png"
 headline: true
 featured: true
 imported: true

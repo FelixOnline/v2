@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202027-felix-union-bar.jpg"
 image_caption: "Some club chairs want to call time on the new regulations"
 headline: true
 featured: true

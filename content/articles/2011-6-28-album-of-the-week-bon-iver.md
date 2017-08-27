@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bon Iver's second album surpasses his debut says Harry Rickerby
 date: "2011-06-28 11:12:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281213-felix-bon_iver.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281213-felix-bon_iver.jpg"
 headline: true
 featured: true
 imported: true

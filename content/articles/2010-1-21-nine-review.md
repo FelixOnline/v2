@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park finds that Fergie is the star of the show in Rob Marshall musical tribute to Fellini.
 date: "2010-01-21 14:03:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201001211349-egk08-Continif.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001211349-egk08-Continif.jpg"
 headline: true
 featured: true
 imported: true

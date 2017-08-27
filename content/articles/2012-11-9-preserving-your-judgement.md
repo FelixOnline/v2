@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Savell avoids sticking a knife in his eye at the Jam Cupboard
 date: "2012-11-09 12:34:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Utsav Radia on a new step to neurodegenerative disease treatment
 date: "2013-10-18 21:12:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
 image_caption: "PET scan of brains (l. normal, r. Alzheimers)"
 headline: true
 featured: true

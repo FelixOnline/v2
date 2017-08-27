@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's always room in your head for new knowledge
 date: "2011-10-14 00:15:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140110-sjw209-omar.jpg"
 headline: true
 featured: true
 imported: true

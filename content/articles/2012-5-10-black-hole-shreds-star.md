@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scientists have observed radiation stemming from the consumption of a star by a black hole
 date: "2012-05-10 20:02:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102101-ams111-p1218ay.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102101-ams111-p1218ay.jpg"
 image_caption: "Simulation of a black hole flare as the remains of the disrupted star stream into the black hole"
 headline: true
 featured: true

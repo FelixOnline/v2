@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park looks at the top film nominations in each category at the London Film Festival
 date: "2013-09-29 15:55:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
 headline: true
 featured: true
 imported: true

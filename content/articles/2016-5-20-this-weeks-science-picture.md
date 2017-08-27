@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-05-20 09:09:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201109-felix-13224110_10156866257595394_501452679_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201109-felix-13224110_10156866257595394_501452679_o.jpg"
 headline: true
 featured: true
 imported: true

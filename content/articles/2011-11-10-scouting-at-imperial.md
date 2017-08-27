@@ -4,7 +4,7 @@ title: >
 subtitle: >
   SSAGO is back after a decade-long hiatus
 date: "2011-11-10 22:10:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102210-pk1811-ssago-picture.jpg"
 image_caption: "Better than Titanic"
 headline: true
 featured: true

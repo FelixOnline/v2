@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It's all things chocolate this October
 date: "2011-10-07 13:02:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
 image_caption: "So much chocolate, so little time..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cécile Borkhataria on the race to develop a drug for the deadly disease
 date: "2014-11-10 22:52:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
 headline: true
 featured: true
 imported: true

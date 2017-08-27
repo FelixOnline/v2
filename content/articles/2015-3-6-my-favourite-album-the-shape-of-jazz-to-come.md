@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland shows us the power and beauty of Ornette Coleman's masterpiece
 date: "2015-03-06 13:18:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061314-ff712-ejc55450.jpg"
 headline: true
 featured: true
 imported: true

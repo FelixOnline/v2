@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik looks at Emma Sulkowicz’s Carry That Weight
 date: "2014-12-04 19:53:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041952-cj914-mattress-protest.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041952-cj914-mattress-protest.jpg"
 headline: true
 featured: true
 imported: true

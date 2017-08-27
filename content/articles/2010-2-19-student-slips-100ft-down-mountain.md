@@ -4,7 +4,7 @@ title: >
 subtitle: >
    Joanna Cai looks into the Mountaineering Club's disastrous climbing adventure in Snowdonia this week
 date: "2010-02-19 10:44:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002191040-felix-snowdon.jpg"
 headline: true
 featured: true
 imported: true

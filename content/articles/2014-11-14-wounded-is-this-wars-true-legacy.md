@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland explores what remains after Iraq and Afghanistan
 date: "2014-11-14 20:53:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142053-ps3110-for-the-webupload.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142053-ps3110-for-the-webupload.jpg"
 headline: true
 featured: true
 imported: true

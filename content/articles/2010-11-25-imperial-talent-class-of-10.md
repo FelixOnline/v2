@@ -4,7 +4,7 @@ title: >
 subtitle: >
   For possibly the first time, all three of our drama societies are staging shows written by Imperial students. We meet the playwrights to talk about their productions
 date: "2010-11-25 20:20:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252018-nm1010-Imperial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252018-nm1010-Imperial.jpg"
 headline: true
 featured: true
 imported: true

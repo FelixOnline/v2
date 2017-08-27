@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sarah Byrne explores a potentially useful facet in plant-fungi relationships
 date: "2013-05-23 22:08:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232308-tna08-20100916_011605_mycelium.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232308-tna08-20100916_011605_mycelium.jpg"
 headline: true
 featured: true
 imported: true

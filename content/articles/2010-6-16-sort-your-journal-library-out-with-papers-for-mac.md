@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking at the iTunes of journal articles, Papers for Mac and iPhone/iPad
 date: "2010-06-16 19:44:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201006162036-srg03-Papers.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle goes back through the pages of Phil Hughes' tragically short career.
 date: "2014-11-28 00:56:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280117-kmw13-199111.jpg"
 headline: true
 featured: true
 imported: true

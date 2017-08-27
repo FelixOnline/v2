@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Hoskin discusses advancements in finding a vaccine for Malaria
 date: "2013-10-18 21:15:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
 headline: true
 featured: true
 imported: true

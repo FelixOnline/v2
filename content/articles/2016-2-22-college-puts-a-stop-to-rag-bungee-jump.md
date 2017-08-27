@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Despite knowing about it since November, college officials have decided to stop the charity event just three days beforehand
 date: "2016-02-22 18:53:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602221908-felix-bungee.jpg"
 image_caption: "The bungee jump in full swing over Queen's Lawn last year."
 headline: true
 featured: true

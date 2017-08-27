@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber chats with Josh Byrne, head of XVI Records
 date: "2012-06-07 22:22:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072319-felix-josh1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072319-felix-josh1.jpg"
 image_caption: "XVI rolling deep"
 headline: true
 featured: true

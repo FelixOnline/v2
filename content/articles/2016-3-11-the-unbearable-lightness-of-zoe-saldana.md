@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Race, colourism and the estate of Nina Simone
 date: "2016-03-11 11:57:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111156-felix-Nina_Simone_1965.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111156-felix-Nina_Simone_1965.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men's 7s football report
 date: "2011-05-20 02:51:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
 headline: true
 featured: true
 imported: true

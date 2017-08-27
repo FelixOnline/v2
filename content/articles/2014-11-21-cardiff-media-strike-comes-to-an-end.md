@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Appeal to stop re-election of paid Editor is granted
 date: "2014-11-21 13:19:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
 image_caption: "Last week's issue of the paper"
 headline: true
 featured: true

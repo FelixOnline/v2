@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICSM Boat Club cycle nearly 300km to Paris for RAG
 date: "2016-03-04 11:55:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041154-felix-Boat club paris.JPG"
 image_caption: "The Boat Club took on Paris in a blistering ride in aid of charity."
 headline: true
 featured: true

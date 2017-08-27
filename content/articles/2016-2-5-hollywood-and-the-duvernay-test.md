@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ava DuVernay has supported a new test to encourage wholly developed minority characters in films
 date: "2016-02-05 12:28:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051226-felix-Ava_DuVernay_2015.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051226-felix-Ava_DuVernay_2015.jpg"
 headline: true
 featured: true
 imported: true

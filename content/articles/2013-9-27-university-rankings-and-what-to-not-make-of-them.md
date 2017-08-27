@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh briefs you on College's ranking prowess...
 date: "2013-09-27 23:40:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309280038-jal08-rankingstable.png"
 image_caption: "Imperial College - A day at the rankings!"
 headline: true
 featured: true

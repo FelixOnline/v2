@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Furse ponders fast food
 date: "2011-05-27 13:57:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105271456-felix-fried-chicken-2.jpg"
 headline: true
 featured: true
 imported: true

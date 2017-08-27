@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could this be the ‘Great Gig in the Scala’?
 date: "2010-10-28 19:33:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282030-ma1307-easystar.jpg"
 headline: true
 featured: true
 imported: true

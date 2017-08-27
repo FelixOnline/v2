@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week: Argentinian punk
 date: "2011-12-01 21:15:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012115-pk1811-4db6fc1fc81c5_sumo_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012115-pk1811-4db6fc1fc81c5_sumo_2.jpg"
 headline: true
 featured: true
 imported: true

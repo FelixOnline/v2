@@ -4,7 +4,7 @@ title: >
 subtitle: >
   City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports
 date: "2011-06-12 16:27:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201106121726-felix-engineers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106121726-felix-engineers.jpg"
 image_caption: "The winning team from last year’s intra-faculty Engineers Sevens tournament"
 headline: true
 featured: true

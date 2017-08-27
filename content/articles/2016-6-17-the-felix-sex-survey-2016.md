@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It's finally come. Have you?
 date: "2016-06-17 09:01:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171058-felix-1nightstandinbold.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171058-felix-1nightstandinbold.jpg"
 image_caption: "Have you ever had a one night stand?"
 headline: true
 featured: true
@@ -30,7 +30,7 @@ Here it is, for the sixth year running, the infamous FELIX Sex Survey results. T
 
 There are a lot of assumptions we make with the sex survey. Yes, our 600 respondents are likely to be a little more swayed towards the sexually active, because let’s face it, it’s more fun to talk about sex if you’re having it. We had fewer responders from the Business School, and have perhaps underrepresented some of the engineering departments. Home students far outnumber EU and international responders, but we do have a good spread across the year groups, and a decent gender ratio.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171059-felix-Masturbation.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171059-felix-Masturbation.jpg" title="" caption="" attr="" >}}
 
 **Self Love**
 
@@ -44,7 +44,7 @@ Our sex survey results in 2011 reported that 83% of those surveyed identified as
 
 40% of those who identified as heterosexual said they’d had some kind of sexual experience with a member of the same sex. Overall, women were more likely to have done so (60%) than men (43%).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171100-felix-SexualContact.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171100-felix-SexualContact.jpg" title="" caption="" attr="" >}}
 
 **Love n stuff**
 
@@ -58,7 +58,7 @@ When we asked you if you were in love, a surprisingly high number of you were. 7
 
 It’s 2016, and you don’t have time to have actual sex. A whopping 44% of you say you like sexting, and half of those of you in monogamous relationships say you do it on the regular, whereas a mighty 75% of you who are seeing multiple people are fans of this particular method of sexytimes. As for your methods, the overwhelming winner is Snapchat. Of those of you who said you were into sending dirty pics, 56% used Snapchat. The next most popular medium was Whatsapp, with the good old-fashioned text coming in third. Presumably the inherent risk of accidentally publishing a picture of your dick out meant that only 17% of those asked said they used Facebook messenger to send their tasteful nudes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171103-felix-sexting.jpg" title="How often do you sext?" caption="How often do you sext?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171103-felix-sexting.jpg" title="How often do you sext?" caption="How often do you sext?" attr="" >}}
 
 **Sexual health**
 
@@ -92,10 +92,10 @@ Pretty much everyone is into, or at least into the idea of restraints – with b
 
 In terms of contentedness with your sex lives, the vast majority of you were happy or very happy, with the happiest of you in Civil Engineering (who are also the ones having the most one night stands – just saying). Those in EEE and Computing were the least happy, with 33% of each course saying they were either unhappy or very unhappy with their sex lives.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171105-felix-1 nite.jpg" title="Have you ever had a one night stand?" caption="Have you ever had a one night stand?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171105-felix-1 nite.jpg" title="Have you ever had a one night stand?" caption="Have you ever had a one night stand?" attr="" >}}
 
 Contrary to what you might think, most responders didn’t think Imperial had negatively affected their sex lives, with 35% of responders saying they thought being at Imperial had not had changed their luck either way. Female responders were a few percentage points higher than men in saying that being at Imperial had positively affected their sex lives, whilst slightly more men than women said going here had damaged their game.
 
 The majority of students in every department said they did have time to meet people whilst studying, excet in the Business School, where 67% they struggled to fit that into their busy schedules.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171106-felix-VirginByDepartment2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171106-felix-VirginByDepartment2.jpg" title="" caption="" attr="" >}}

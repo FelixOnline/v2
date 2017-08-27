@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hamilton’s coolness disappoints at the National
 date: "2012-11-01 22:48:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012248-tna08-richard_hamiltons_late_works_national_gallery.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012248-tna08-richard_hamiltons_late_works_national_gallery.jpg"
 headline: true
 featured: true
 imported: true

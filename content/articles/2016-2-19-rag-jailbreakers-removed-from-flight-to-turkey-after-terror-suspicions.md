@@ -4,7 +4,7 @@ title: >
 subtitle: >
   'Hand in Hand for Syria' charity caused confusion
 date: "2016-02-19 11:05:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191102-felix-online.jpg"
 headline: true
 featured: true
 imported: true
@@ -52,7 +52,7 @@ When the group returned to the UK they had a meeting with the union and RAG, whe
 
 The jailbreak team members told FELIX they were “extremely frustrated” with the union, so decided to attempt to recoup the charity money themselves. Although several weeks had now passed, the group repeatedly tried to get in contact with Turkish Airlines, which culminated in the three students turning up at the company’s headquarters in Kensington Olympia last week. After initially promising them a full refund, a member of staff later emailed the group saying they would only be paid back the tax. After explaining the situation once again to the airline, they finally agreed to pay back the amount which had been raised for charity.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201602191104-felix-online2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201602191104-felix-online2.jpg" title="" caption="" attr="" >}}
 
 ‘Hand in Hand for Syria’, the charity whose name seems to have got them chucked off the flight, told FELIX that it was “sorry to hear they encountered difficulties” but that “their total raised amount was incredible, and we’re so grateful that they have dedicated to raising funds for the people of Syria”.
 

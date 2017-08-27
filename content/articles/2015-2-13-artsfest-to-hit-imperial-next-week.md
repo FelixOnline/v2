@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan McNaught on the biggest Arts Event on the Union's calendar.
 date: "2015-02-13 14:36:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
 image_caption: "IC Big Band’s performance from the Queen’s Tower has featured in every Artsfest so far."
 headline: true
 featured: true

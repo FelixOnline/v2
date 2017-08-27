@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011320-mc4509-daviddeply.jpg"
 image_caption: "David Delpy, CEO of the EPSRC and Gordon Brown"
 headline: true
 featured: true

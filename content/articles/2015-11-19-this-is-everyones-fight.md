@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jeremy Hunt’s plans for junior doctor contracts will affect the care you receive
 date: "2015-11-19 22:44:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What killed the dinosaurs... the ice age!
 date: "2013-03-07 22:05:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
 image_caption: "Some pretty chill guys"
 headline: true
 featured: true

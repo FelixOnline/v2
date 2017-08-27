@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Graduate studies in the USA
 date: "2011-06-23 19:17:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232016-felix-usa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232016-felix-usa.jpg"
 headline: true
 featured: true
 imported: true

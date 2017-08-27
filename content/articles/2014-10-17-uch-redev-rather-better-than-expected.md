@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt investigates
 date: "2014-10-17 15:00:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171600-kmw13-cinema.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171600-kmw13-cinema.jpg"
 headline: true
 featured: true
 imported: true

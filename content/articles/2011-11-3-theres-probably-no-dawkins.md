@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Fountain asks, "Why does Dawkins refuse to debate Craig?"
 date: "2011-11-03 21:51:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032151-sjw209-fountain.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032151-sjw209-fountain.jpg"
 headline: true
 featured: true
 imported: true

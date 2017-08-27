@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg returns for the second part of his theatre guide
 date: "2015-02-17 16:48:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171648-ps3110-battersea_arts_centre,_lavender_hill,_sw11_(3324322940).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171648-ps3110-battersea_arts_centre,_lavender_hill,_sw11_(3324322940).jpg"
 image_caption: "Battersea Arts Centre, Battersea"
 headline: true
 featured: true

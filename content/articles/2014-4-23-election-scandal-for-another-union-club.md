@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Chinese Students and Scholars Association has been caught up in an election scandal only weeks after the Christian Union had its own election dispute. The election is being re-run on May 2nd with the DPFS acting as a returning officer.
 date: "2014-04-23 17:15:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
 image_caption: "Ballot scandal at CSSA"
 headline: true
 featured: true

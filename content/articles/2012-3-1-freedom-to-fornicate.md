@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial is an orgy by international standards
 date: "2012-03-01 21:00:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012102-cac111-world-map-page-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012102-cac111-world-map-page-001.jpg"
 image_caption: "Imperial doesn’t seem so bad now, does it?"
 headline: true
 featured: true

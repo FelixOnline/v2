@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271848-ks607-dnadnadn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271848-ks607-dnadnadn.jpg"
 headline: true
 featured: true
 imported: true

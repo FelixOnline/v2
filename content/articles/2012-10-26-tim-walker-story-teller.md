@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang enters the magical world of fashion photography
 date: "2012-10-26 02:18:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201210281226-ay310-tim_walker_storyteller_annoucement.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210281226-ay310-tim_walker_storyteller_annoucement.png"
 headline: true
 featured: true
 imported: true

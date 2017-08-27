@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Underwater hockey - a fast paced sport invented in the 50s
 date: "2012-03-15 21:23:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152123-ig711-imperial1.jpg"
 image_caption: "Because ‘Diving for Lead’ just isn’t as catchy"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Unravelling a cooking conundrum
 date: "2011-11-04 16:59:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201111041659-felix-rhys-davies-avatar-cut.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111041659-felix-rhys-davies-avatar-cut.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an entertaining and interesting event
 date: "2013-10-04 02:03:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040302-jal08-damscus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040302-jal08-damscus.jpg"
 headline: true
 featured: true
 imported: true

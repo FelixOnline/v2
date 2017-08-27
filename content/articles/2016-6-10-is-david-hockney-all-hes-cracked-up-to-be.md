@@ -4,7 +4,7 @@ title: >
 subtitle: >
   He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny?
 date: "2016-06-10 08:34:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101033-felix-2398.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101033-felix-2398.jpg"
 image_caption: "Barry Humphrie by David Hockney. "
 headline: true
 featured: true

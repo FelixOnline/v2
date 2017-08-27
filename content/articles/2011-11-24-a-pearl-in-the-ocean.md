@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Festival winner delves into religion and ethics
 date: "2011-11-24 22:34:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242230-felix-ocean-of-pearls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242230-felix-ocean-of-pearls.jpg"
 headline: true
 featured: true
 imported: true

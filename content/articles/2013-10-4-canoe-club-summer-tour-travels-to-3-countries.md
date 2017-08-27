@@ -4,7 +4,7 @@ title: >
 subtitle: >
   President Reece Blunt reveals all
 date: "2013-10-04 02:21:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040321-jal08-sport_iccc.jpg"
 image_caption: "ICU Canoe Club"
 headline: true
 featured: true

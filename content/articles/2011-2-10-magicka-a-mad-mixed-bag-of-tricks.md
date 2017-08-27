@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope is too much of a n00b to play Magicka
 date: "2011-02-10 20:36:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102035-ks607-magickam.jpg"
 headline: true
 featured: true
 imported: true

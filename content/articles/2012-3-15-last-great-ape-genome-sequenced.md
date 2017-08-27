@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Genome sequences for each of the four great ape groups have been investigated
 date: "2012-03-15 19:58:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
 image_caption: "Kamilah the gorrila"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster gives his spoiler-free review of Bioshock: Infinite
 date: "2013-05-01 14:07:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
 headline: true
 featured: true
 imported: true

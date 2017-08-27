@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rector Sir Keith O'Nions gets pied for charity
 date: "2011-02-24 19:52:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241948-ks607-rectorpi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241948-ks607-rectorpi.jpg"
 headline: true
 featured: true
 imported: true

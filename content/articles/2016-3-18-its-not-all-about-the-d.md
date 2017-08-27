@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An ode to our nutrition’s unsung hero, vitamin B
 date: "2016-03-18 11:48:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
 image_caption: "I don’t care who told you steak is rich in vitamin B. If you come near me, I will cut you. "
 headline: true
 featured: true

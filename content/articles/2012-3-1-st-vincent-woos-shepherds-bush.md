@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson left all starry-eyed by Annie Clark’s stunning performance
 date: "2012-03-01 23:10:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012309-cac111-st.-vincent_web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012309-cac111-st.-vincent_web.jpg"
 image_caption: "Sun, absence of concrete and chewing gum. Clearly not Shepherd’s Bush"
 headline: true
 featured: true

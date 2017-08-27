@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The SecondSkin is marketed as having a ‘soft, talky touch feel’
 date: "2011-03-10 19:38:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101930-nm1010-akinskin.jpg"
 headline: true
 featured: true
 imported: true

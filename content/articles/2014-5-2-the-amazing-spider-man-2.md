@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The obvious point to be made here is that not only is this yet another sequel, it’s also a sequel to a reboot to a film series that was barely a decade old the first time around. And so it is again, with this reboot sequel coming ten years after the best film in the original trilogy.
 date: "2014-05-02 01:20:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020221-jal08-asm_gwen_swing_header.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020221-jal08-asm_gwen_swing_header.jpg"
 headline: true
 featured: true
 imported: true

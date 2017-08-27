@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Universal healthcare actually protects human lives during tougher economic times
 date: "2016-06-17 09:11:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
 image_caption: "During periods of economic austerity easily treatable illnesses thrive."
 headline: true
 featured: true

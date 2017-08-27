@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College urges vigilance after spate of thefts on campus
 date: "2011-03-03 05:45:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030544-ks607-electric.jpg"
 headline: true
 featured: true
 imported: true

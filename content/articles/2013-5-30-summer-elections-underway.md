@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Voting to open from 3-10 June. Deputy President (Education) to be elected in Summer Elections
 date: "2013-05-30 12:05:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305301306-tna08-elections.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ This year, the position of Deputy President (Education) will be part of the elec
 
 Other positions available are BME Officer, Campaigns Officer, Council Chair, Disabilities Officer, Ethics & Environmental Officer, Gender Equality Officer, Interfaith Officer, International Officer, and LGBT Officer. It appears that the Council Chair, who chairs the meetings of Union Council, is hotly contested as four people have thrown their names into the hat. International Officer also has four contenders. Three positions (BME, Ethics & Environmental, and LGBT Officers) only have one person running for them. It is rare for RON to win elections, so these candidates will be under less pressure than the others.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305301308-tna08-election-clapper-board.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305301308-tna08-election-clapper-board.jpg" title="" caption="" attr="" >}}
 
 The Graduate Students’ Union (GSU, formerly GSA) will be electing their committee for next year. Last year, many of these positions had to be re-run as nobody put themselves forward for the positions. This seems to be also happening this year, as multiple positions are uncontested. 8 out of the 14 positions available will have to be re-run as nobody is going for them. There is also the problem with one person going for two positions that cannot be simultaneously held.
 

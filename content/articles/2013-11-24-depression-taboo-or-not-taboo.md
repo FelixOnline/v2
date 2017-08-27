@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.
 date: "2013-11-24 15:51:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201311241650-jal08-openminds.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311241650-jal08-openminds.png"
 headline: true
 featured: true
 imported: true

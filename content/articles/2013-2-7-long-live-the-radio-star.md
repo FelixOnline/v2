@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter on why radio is still as relevant as ever
 date: "2013-02-07 22:47:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072243-tna08-rinse_logotype.png"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ highlights:
 
 Now, however, I realise that it’s the humble wireless (or the 21st Century equivalent: [BBC iPlayer](http://www.bbc.co.uk/iplayer/)) that’s been holding my musical attention. In a world where technologies and ways of consuming media are born, blow up and become obsolete within years, the fact that radio is as relevant today as it was almost a century ago is quite staggering. 90% of the population listen to the radio every week and, on average, those listeners absorb a whopping 22 hours of music, news and Nick Grimshaw’s drivel. Digital radio and the internet have made it all the easier to avoid Scott Mills and find something you actually want to listen to, and now almost 20% of us are using our mobile phones to tune in as well.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302072245-tna08-nickgrim.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302072245-tna08-nickgrim.jpg" title="" caption="" attr="" >}}
 
 The BBC’s continual evolution with the times is laudable. For such a large, stuffy corporation it would have been easy for them to plough all their resources into daytime Radio 1 for the kids and Radio 2 for the grown-ups. But the Beeb 1’s musical finger is dead on the pulse of the dance music scene here in the UK with Benji B and new-recruit Jackmaster getting serious airtime. In fact Gilles Peterson’s departure from the station was a blessing in disguise as he now resides over on 6 Music where he is given 3 hours, every Saturday, to spin the finest cuts from all worldly genres. And let’s not forget Pete Tong and The Esssssential Mix – undoubtedly the most respected DJ mix series in the world. As for 6 Music, the quality they chuck out never fails to blow my mind, but I’ll not go on about that here - for one I’ll sound like one of those pretentious types who believe they saved the station from closure by ticking an online petition. I mean, I did that, but no one wants to sound like that...
 

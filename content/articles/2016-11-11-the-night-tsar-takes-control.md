@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Amy Lamé reigns supreme
 date: "2016-11-11 18:30:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111829-felix-2295062530_3fc16f3d20_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111829-felix-2295062530_3fc16f3d20_o.jpg"
 draft: true
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The latest line of iPad bags for you.
 date: "2011-02-24 20:03:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242001-nm1010-bagbagba.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242001-nm1010-bagbagba.jpg"
 headline: true
 featured: true
 imported: true

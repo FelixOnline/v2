@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Film ranks the Bond films to decide which is the best
 date: "2012-10-29 18:33:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201210291833-tna08-tcfhe-bond-at-50-box-set.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210291833-tna08-tcfhe-bond-at-50-box-set.jpeg"
 headline: true
 featured: true
 imported: true

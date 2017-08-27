@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Welcome back to the Kingdom of Albion! Fable is back!
 date: "2010-11-04 18:25:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041821-jk708-Fable3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041821-jk708-Fable3.jpg"
 headline: true
 featured: true
 imported: true

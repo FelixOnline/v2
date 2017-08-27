@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With countless rap and R&B projects dropping this year, 2016 has been an incredible year for hip-hop and urban culture. There’s been an unprecedented wave of new music from giants in the modern rap game, like Drake, Kendrick Lamar and Kanye West, to exciting debut albums from the budding stars, such
 date: "2016-12-16 14:57:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161455-felix-chance.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161455-felix-chance.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ The Sun’s Tirade is the debut album from Isaiah Rahsad, Kendrick Lamar’s lab
 ## 8. Young Thug | Slime Season 3
 Young Thug dropped Slime Season 3, the highly anticipated third and final instalment of his Slime Season projects in March. Young Thug is a rapper whose eccentric style divides opinion throughout the hip-hop community and he is one of the pioneers of the ‘mumble rap’ trend that seems to be dominating the so-called new school of rap and hip-hop (and simultaneously infuriating the old school hip-hop purists). I  love his unique delivery and flow, although I admit there are times when it is difficult to tell if he is actually speaking English or just speaking Young Thug. That being said, once you’re used to his special brand of rap, Young Thug provides the perfect hype music and this album doesn’t disappoint.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161456-felix-Slime_Season_3_Cover.jpg" title="" caption="" attr="Atlantic Records" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161456-felix-Slime_Season_3_Cover.jpg" title="" caption="" attr="Atlantic Records" >}}
 
 ## 7.  TWENTY88 | TWENTY88
 Big Sean and Jhené Aiko’s undeniable chemistry shines through on this chilled-out collaborative album, set in the year 2088. The album takes us through the ups and downs of a modern day relationship from both the male and female perspective, with Jhené delivering smooth, sensual vocals that perfectly complement Big Sean’s hard-hitting bars and lyrical flow.
@@ -45,14 +45,14 @@ This has been a very, very big year for Drake. It saw him achieve his first numb
 ## 5. Kanye West | The Life of Pablo
 2016 saw the return of Kanye West in all his glory with his 7th studio album The Life of Pablo, which sees Kanye at his crazy, experimental and creative best. The heavy gospel influence throughout the album is apparent, with the hauntingly beautiful Ultralight Beam a particular favourite. In true Kanye West fashion, there seemed to be endless controversy surrounding the release. From the numerous title changes to the now infamous Taylor Swift line in Famous, the lead up to the release of this album became a spectacle in itself. When Ye described the album as a “living, breathing, changing creative expression”, I didn’t realise he meant that there would be countless changes with the latest addition of the track Saint Pablo in June, four months after the album’s initial release date. Ignoring all the confusion and distractions surrounding the album, it’s safe to say this is one of Kanye’s best bodies of work to date, with shades of ‘the old Kanye’ even coming through at points.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161456-felix-The_life_of_pablo_alternate.jpg" title="" caption="" attr="Def Jam Recordings" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161456-felix-The_life_of_pablo_alternate.jpg" title="" caption="" attr="Def Jam Recordings" >}}
 
 ## 4. ScHoolboy  Q | Blank Face LP
 Main ScHoolboy Q is tHe yin to His TDE label mate Kendrick Lamar’s yang. WHilst botH rappers often paint pictures of life on the tougH streets of Compton, Kendrick tries to put a more positive spin on it, attempting to deliver a more uplifting message. In stark contrast, ScHoolboy’s verses are dark, depicting the Harsh reality of His former life as a member of the Hoover Street Crips gang. THis contrasting dynamic between the two TDE Heavyweights makes listening to tHeir music all the more entHralling and, on ScHoolboy’s fourtH studio album, Blank Face LP, we are met witH a gritty gangster rap project witH sHades of old scHool Wu-Tang Clan influences througHout (ScHoolboy Q claimed tHat Wu-Tang Clan member GHostface KillaH was tHe inspiration beHind tHis album). If you’re a TDE fan, check out tHe Black Hippy remix of That Part.
 ## 3. Travis Scott | Birds in the Trap Sing McKnight
 Travis Scott’s sophomore album, Birds in the Trap Sing McKnight was a pleasant surprise. His 2015 debut album, Rodeo, was enjoyable, but such a strong follow up was unexpected. The stand out feature of Travis’ music has always been his hard trap beats and he delivers yet again on this project, blessing the fans with the perfect music for turning up. I still have no clue what the title “Birds in the Trap Sing McKnight” actually means but, in the immortal words of Travis Scott, ‘it’s lit’!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161456-felix-birds in the trap.jpg" title="" caption="" attr="Grand Hustle Records" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161456-felix-birds in the trap.jpg" title="" caption="" attr="Grand Hustle Records" >}}
 
 ## 2. Troy Lanez | I Told You
 Since the commercial success of his hit single, Say It, with plenty of radio play, Tory Lanez has gone from strength to strength and enjoyed a year of musical success. I Told You is his hard-hitting debut album and gives an autobiographical narrative of his whole life, from selling drugs in gangs to the present day, where he’s trying to break into the hip-hop music scene and become “the biggest artist in the whole world”. If you really want to appreciate this album as Tory Lanez intended, listen to it once through in its entirety with all the skits so you can understand the whole story behind the lyrics. Tory Lanez has rubbed a lot of artists the wrong way with his unshakeable confidence in his own abilities and there’s an underlying beef brewing between himself and Drake as a result of this. Could he possibly come for Drake’s spot as the best rapper in Toronto?

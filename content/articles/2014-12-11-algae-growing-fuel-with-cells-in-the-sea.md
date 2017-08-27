@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nefeli Maria Skoufu-Papoutsaki explains new research into this potential renewable energy source
 date: "2014-12-11 20:29:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112029-cj914-algae.jpg"
 image_caption: "Algae could be used to produce renewable energy without the negative impacts of conventional biofuel"
 headline: true
 featured: true

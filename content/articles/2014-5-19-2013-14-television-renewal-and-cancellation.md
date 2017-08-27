@@ -4,7 +4,7 @@ title: >
 subtitle: >
   May is the month television fans find out whether their favourite shows will be back for another season or not. So here is the rundown of some of 2013-14 season’s main primetime network shows and how well they are faring over in the States.
 date: "2014-05-19 14:05:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191509-jal08-tv_abc.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191509-jal08-tv_abc.png"
 headline: true
 featured: true
 imported: true

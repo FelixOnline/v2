@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds that the bravado of The Motherfucker with the Hat hides subtler themes
 date: "2015-06-20 16:25:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201506201721-ff712-jpeg-8.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506201721-ff712-jpeg-8.jpg"
 image_caption: "Ricardo Chavira and Yul Vázquez in The Motherfucker with the Hat"
 headline: true
 featured: true

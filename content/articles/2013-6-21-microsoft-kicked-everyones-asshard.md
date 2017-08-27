@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Steve Ballmers thoughts reviewing the year according to Max Eggl
 date: "2013-06-21 00:29:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210129-tna08-cat-breading2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210129-tna08-cat-breading2.jpg"
 image_caption: "For all of you unfortunate enough not to know what this is:  This.  Is. Cat.Breading."
 headline: true
 featured: true

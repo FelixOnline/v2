@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Boat Club show their worth at BUCS Regatta
 date: "2011-05-20 02:54:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200353-felix-image001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200353-felix-image001.jpg"
 draft: true
 headline: true
 featured: true

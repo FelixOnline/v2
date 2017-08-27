@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yong Wen Chua is wondering if he could beat Watson at Jeopardy
 date: "2013-02-13 12:38:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131230-tna08-watson_jeopardy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131230-tna08-watson_jeopardy.jpg"
 headline: true
 featured: true
 imported: true
@@ -40,4 +40,4 @@ In the “Chinese Room” experiment, Searle hypothesised that if a computer can
 
 Sentient AI still remains in the realm of Science Fiction, and we are unlikely to see situations like those in the Matrix films come true in the near future. Watson might be able to enable us to cure cancer in a more effective way, but it is not going to be able to think for itself any time soon.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302131238-tna08-johnwatson.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302131238-tna08-johnwatson.jpg" title="" caption="" attr="" >}}

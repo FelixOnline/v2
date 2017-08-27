@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-04-29 10:39:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291139-felix-seaworld.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291139-felix-seaworld.jpg"
 headline: true
 featured: true
 imported: true

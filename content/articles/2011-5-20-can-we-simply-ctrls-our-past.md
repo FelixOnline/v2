@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jake Lea-Wilson explores the challenges that lie behind ‘futureproofing’ our history
 date: "2011-05-20 05:58:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200657-felix-doomsday.jpg"
 headline: true
 featured: true
 imported: true

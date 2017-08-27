@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Foundation for Science opens up the discussion
 date: "2012-10-18 21:17:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210191352-tna08-brain1.jpeg"
 headline: true
 featured: true
 imported: true

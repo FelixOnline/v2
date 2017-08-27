@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Revolution: Russian Art 1917 – 1932 is on at the Royal Academy until 17th April 2017
 date: "2017-02-17 15:13:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171512-felix-Key 20.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171512-felix-Key 20.jpg"
 image_caption: "Bolshevik, Boris Mikailovich Kustodiev, 1920 "
 headline: true
 featured: true
@@ -29,7 +29,7 @@ Rather than artistic merit alone, the selected works illustrate the upheaval and
 
 A great clash of ideas is on display. Rooms of propagandist work, staunchly promoting Bolshevik ideals, contrast sharply with the abstract modernism of the Russian avant-garde. The futuristic, new-age depictions of machinery and industrialization, such as Aleksandr Deyneka’s Textile Workers and Arkady Shaikhet's Komsomol at the Wheel, are juxtaposed against nostalgic images of the birch forests and provincial life in pre-revolution Russia. In the room ‘Fate of the Peasants’, utopian visions of collectivised farming and golden harvests strike a dissonant chord against Kazimir Malevich’s faceless peasants, and the mistrustful eyes of Boris Grigoriev’s Old Dairy Woman.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702171512-felix-Key 85.jpg" title="Peasants, Kazimir Malevich, 1930" caption="Peasants, Kazimir Malevich, 1930" attr="State Russian Museum" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702171512-felix-Key 85.jpg" title="Peasants, Kazimir Malevich, 1930" caption="Peasants, Kazimir Malevich, 1930" attr="State Russian Museum" >}}
 
 ‘Brave New World’ is a large room celebrating the explosion of artistic ideas in the years immediately following 1917. Many artists were initially optimistic about the revolution, viewing it as a chance to develop new styles of art for a modern Russia. Experimental styles and novel ways of looking at art proliferated; among them are the movements of Suprematism and Constructivism. On display are a range of works from some of the most important artists of the period, including Wassily Kandinsky, Lyubov Popova, Marc Chagall, and El Lissitzky. Dziga Vertov’s short montage film Man with A Movie Camera is shown elsewhere in the exhibition, while the Suprematist painter Malevich has a room to himself.
 

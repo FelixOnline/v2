@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam investigates whether you can really trust Facebook
 date: "2010-05-21 12:15:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201005211312-srg03-Facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201005211312-srg03-Facebook.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The crowd greeted Yannis almost like a messiah
 date: "2015-11-20 09:25:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511200925-ygr12-foals2.jpg"
 headline: true
 featured: true
 imported: true

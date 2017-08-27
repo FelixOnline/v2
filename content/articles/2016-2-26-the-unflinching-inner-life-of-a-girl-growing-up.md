@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eimear McBride’s astonishing novel is transformed into an empowering performance
 date: "2016-02-26 12:00:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261200-felix-girl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261200-felix-girl.jpg"
 image_caption: "Aoife Duffin delivers a captivating solo performance in A Girl is A Half-Formed Thing. "
 headline: true
 featured: true

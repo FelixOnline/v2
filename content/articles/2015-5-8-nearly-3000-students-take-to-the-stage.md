@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the Royal Albert Hall graduation ceremony
 date: "2015-05-08 00:07:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201505080107-ps3110-postgradgrad.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505080107-ps3110-postgradgrad.jpg"
 headline: true
 featured: true
 imported: true

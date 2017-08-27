@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Clare Bakewell talks about the 100 Masterclasses in how to wear a jumper by Kevin McCloud
 date: "2012-10-26 02:40:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260340-tna08-kevin-mccloud3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260340-tna08-kevin-mccloud3.jpg"
 headline: true
 featured: true
 imported: true

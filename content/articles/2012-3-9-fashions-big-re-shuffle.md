@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jacobs, Pilati, Sander, Simons and Slimane; Alice Yang brings you the latest amid a designer overhaul
 date: "2012-03-09 00:54:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201203090052-felix-fashion-people.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203090052-felix-fashion-people.jpg"
 image_caption: "First row: Slimane, Pilati, Sander, Simons Second row: Jacobs, Kane, Ackermann, Galliano"
 headline: true
 featured: true

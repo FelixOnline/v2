@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Julie Cunningham & Company's Double Bill was on at the Barbican Centre from 8th – 11th March
 date: "2017-03-17 17:10:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171710-felix-4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171710-felix-4.jpg"
 image_caption: "Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning"
 draft: true
 headline: true

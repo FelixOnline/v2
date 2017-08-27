@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Our beloved characters are still all there; Pine once again nails being the ligh
 
 Because Into Darkness has bigger things on its mind, trying to deliver on the most impressive action scenes it can possibly manage, you do see certain characters becoming more side-lined for the sake of making room and freeing up the screen time. But everyone, ranging from Saldana, John Cho, Pegg, Anton Yelchin, Urban and Eve, is given their chance to stand out, and their own unique personality quirks to play around with.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161921-tna08-chris-pine-captain-kirk-star-trek-into-darkness-4.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161921-tna08-chris-pine-captain-kirk-star-trek-into-darkness-4.jpg" title="" caption="" attr="" >}}
 
 What sets this apart from the original is however, the perfect casting of a solid villian. Britain’s very own Sherlock, Cumberbatch, takes on the role of John Harrison, someone who single-handedly declares war on the good guys. His one-man army is not to be laughed at given both the skills and rage he possesses. He is one capable of causing some serious damage, and Cumberbatch, with his tall frame, cold, still looks and sinister delivery of his dialogue, has no trouble passing as the one person who could possibly destroy all. His character is not all about him wanting to destroy the world for no reason whatsoever, he does have more to add to enrich the plot, with Cumberbatch showing a wider spectrum of personalities that bring out his initially villainous character.
 

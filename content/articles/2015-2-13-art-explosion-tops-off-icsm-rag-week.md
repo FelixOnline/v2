@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reports on a successful five days of fundraising
 date: "2015-02-13 14:52:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
 image_caption: "Sarah Hough performs as Elle from the musical version of Legally Blonde"
 headline: true
 featured: true

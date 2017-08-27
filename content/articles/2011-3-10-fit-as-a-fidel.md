@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We could learn from Cuba’s international health system
 date: "2011-03-10 20:06:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101948-nm1010-cubacuba.jpg"
 headline: true
 featured: true
 imported: true

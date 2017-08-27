@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hollywood star Michael J Fox launches global Parkinson's initiative
 date: "2011-01-20 19:27:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201924-ks607-backtoth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201924-ks607-backtoth.jpg"
 headline: true
 featured: true
 imported: true

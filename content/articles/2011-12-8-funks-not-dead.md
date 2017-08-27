@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven ends his trip around a Punk Planet
 date: "2011-12-08 21:13:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082114-pk1811-bwminutemen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082114-pk1811-bwminutemen.jpg"
 image_caption: "Minute as in small, not as in time"
 headline: true
 featured: true

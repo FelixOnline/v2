@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto walks you through the influences of the weirdest band ever
 date: "2011-06-28 11:29:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281225-felix-chance-meeting-front.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281225-felix-chance-meeting-front.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland looks at what’s on offer around Imperial
 date: "2014-11-24 12:25:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
 image_caption: "Serpentine Gallery Pavilion 2014. Designed by Smiljan Radic."
 headline: true
 featured: true

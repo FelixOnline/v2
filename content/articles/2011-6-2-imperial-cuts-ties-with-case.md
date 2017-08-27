@@ -4,7 +4,7 @@ title: >
 subtitle: >
   £3,000 subscription to Campaign for Science and Engineering better spent on ‘core activities’ says College
 date: "2011-06-02 18:02:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021858-felix-imrankhan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021858-felix-imrankhan.jpg"
 image_caption: "CaSE director Imran Khan, an Imperial alumnus, called the decision “mystifying”"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Medical School may have to move, and all could happen in three years
 date: "2013-01-10 22:50:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102243-tna08-cxouter.jpg"
 headline: true
 featured: true
 imported: true
@@ -49,7 +49,7 @@ Councillor Marcus Ginn, community care leader, said: “We have been warning of 
 
 “Over many months of questioning on this, NHS bureaucrats have failed to address concerns that this will leave thousands of residents dangerously distant from emergency care or to show that lives will not be put at risk by these closures.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301102245-tna08-st-marys-rgb.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301102245-tna08-st-marys-rgb.jpg" title="" caption="" attr="" >}}
 
 “We will be fighting tooth and nail to save Charing Cross – the public are not going to accept this plan quietly, especially when the case for stripping all the major service out of such a well loved and respected centre of excellence is not supported by evidence.
 

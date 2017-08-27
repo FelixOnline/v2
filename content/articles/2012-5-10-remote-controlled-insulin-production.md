@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new use for therapeutic nanoparticles in diabetes treatment
 date: "2012-05-10 20:14:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
 image_caption: "... but only in mice, so far"
 headline: true
 featured: true

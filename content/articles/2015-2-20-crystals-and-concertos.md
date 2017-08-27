@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yingwei Ouyang gives her perspective on her big night with ICSO
 date: "2015-02-20 00:16:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200016-ps3110-screen-shot-2015-02-20-at-00.15.43.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200016-ps3110-screen-shot-2015-02-20-at-00.15.43.png"
 image_caption: "The ICSO musicians"
 headline: true
 featured: true

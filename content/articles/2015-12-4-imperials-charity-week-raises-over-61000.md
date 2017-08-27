@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Over £750,000 was raised internationally
 date: "2015-12-04 15:13:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
 headline: true
 featured: true
 imported: true

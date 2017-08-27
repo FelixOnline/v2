@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We’re taught that facts are all-important. But we risk forgetting the power of our imagination says Luke Turner, as he deciphers John Lennon’s ‘Imagine’
 date: "2011-03-03 20:58:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032049-nm1010-johhhhnn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032049-nm1010-johhhhnn.jpg"
 headline: true
 featured: true
 imported: true

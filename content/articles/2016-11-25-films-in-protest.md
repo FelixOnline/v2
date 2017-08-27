@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Do films have the capacity to influence and further change in our society and worldwide? From films like Cowspiracy to the infamous Triumph of the Will, history answers the question with a resounding, ‘yes’.
 date: "2016-11-25 13:52:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251352-felix-nascita-di-una-nazione-the-birth-of-a-nation-1915-david-wark-griffith-01.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251352-felix-nascita-di-una-nazione-the-birth-of-a-nation-1915-david-wark-griffith-01.jpg"
 headline: true
 featured: true
 imported: true

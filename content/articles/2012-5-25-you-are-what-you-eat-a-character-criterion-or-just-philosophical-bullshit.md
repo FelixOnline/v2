@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Renos Karamanis analyses Imperial’s food habits.
 date: "2012-05-25 18:11:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
 headline: true
 featured: true
 imported: true

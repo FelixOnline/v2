@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:29:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232329-tna08-nfp-careers-fair-plasma.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232329-tna08-nfp-careers-fair-plasma.jpg"
 headline: true
 featured: true
 imported: true

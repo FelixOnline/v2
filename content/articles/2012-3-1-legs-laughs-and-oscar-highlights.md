@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A different set of highlights from Sunday's events
 date: "2012-03-01 22:36:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
 image_caption: "Guess who?"
 headline: true
 featured: true

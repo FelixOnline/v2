@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tackling all those little bugs is the most important step
 date: "2011-03-03 21:16:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032114-ks607-ichackic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032114-ks607-ichackic.jpg"
 headline: true
 featured: true
 imported: true

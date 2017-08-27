@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250127-tna08-lecturer.jpg"
 headline: true
 featured: true
 imported: true

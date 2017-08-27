@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Paolo Strampelli of the Imperial Entrepreneurs charts the history of a company that has struggled to keep apace with the times
 date: "2012-01-26 21:57:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262155-pk1811-screen-shot-2012-01-25-at-08.09.02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262155-pk1811-screen-shot-2012-01-25-at-08.09.02.jpg"
 image_caption: "Could Kodak have a shot at survival?"
 headline: true
 featured: true

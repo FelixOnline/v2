@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Güeros is a masterful film, following the lives of three young Mexican boys during the 1999 student protests
 date: "2015-11-29 16:40:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201511291640-ff712-gueros.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511291640-ff712-gueros.jpg"
 image_caption: "With its black and white cinematography, Güeros oozes charm"
 headline: true
 featured: true

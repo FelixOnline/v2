@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fifteen minute funny bits
 date: "2016-01-29 09:43:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
 image_caption: "Foster’s award funny man Sam Simmons."
 headline: true
 featured: true

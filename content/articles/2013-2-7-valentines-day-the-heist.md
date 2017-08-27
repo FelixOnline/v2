@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster keeps his money under his mattress
 date: "2013-02-07 23:35:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072335-tna08-pdth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072335-tna08-pdth.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ What I love about Payday, is that the games are pseudo-random, and that the diff
 
 There’s a simple levelling system, where you don’t use experience for improving your equipment, but cold, hard cash. Headshots etc. won’t give you more points, but it’ll mean you actually get to live long enough to possibly finish the level. There are three (four if you get the Wolf Pack DLC) different unlock routes – assault, sharpshooter, support (and technician, with the DLC). Any time during a mission, you can change which path you’re on, and when you pick up enough money to increase your reputation level, you get the unlock from that class. The path you travel has no impact on your gameplay, and due to some upgrades being locked until you reach a certain level, it’s impossible to simply expand along one tree – you need to diversify. With this system, until you’re at the highest levels, there’s a good chance your team will all have slightly different unlocks.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302072335-tna08-gold-bars-in-fort-knox.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302072335-tna08-gold-bars-in-fort-knox.jpg" title="" caption="" attr="" >}}
 
 Your enemy in this game is the police, in all it’s shapes and forms. The enemies will dribble in, until there’s an assault, when you’ll be swamped by unlimited enemies until the timer runs out. Just like L4D2 (there’s a lot of inter-weaving of the two universes, I won’t spoil much) there are special cops – some with tazers, riot shields, snipers and the dreaded bulldozer, more affectionately known as ‘that goddamn astronaut guy’, so it’s not always a one-sided slaughter of cops.
 

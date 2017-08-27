@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Spencer Bennett on the airborne rangers...
 date: "2012-12-07 02:57:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201212071244-tna08-football.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212071244-tna08-football.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,4 +33,4 @@ However, as we headed out Mason’s mind must still have been on his fine perfor
 
 On Sunday morning the airborne rangers were woken byshouts of “come in, it’s open!” and the Sun streaming in through the windows of the hostel whilst a heated debate over the age old question of sitting or standing erupted in room 105. There was just time for a stroll along the seafront and a trip to Brighton’s famous pier where plastic horses amused for hours, Dabbagh was successful on the teddy picker and Lambe and Bennett duelled on an air hockey table: it was a cagey affair with neither player really dominating the early stages with the turning point being an extraordinary triple wall bounce goal to which Bennett had no reply. Before we knew it we had left the sea air behind us and returned to London with new Facebook friends, relationships in tatters and some sights we may never be able to forget.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070259-tna08-sponsor-football.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070259-tna08-sponsor-football.jpg" title="" caption="" attr="" >}}

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anxious Romans pack their bags ahead of Raffaele Bendandi's 1915 prediction for an earthquake on 11th May
 date: "2011-05-12 16:35:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121734-felix-colloseum-in-rome.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121734-felix-colloseum-in-rome.jpg"
 image_caption: "The Romans earthquake-proofed this, right?"
 headline: true
 featured: true

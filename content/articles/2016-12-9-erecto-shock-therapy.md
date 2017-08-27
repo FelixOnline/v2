@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lara Bailey explores how brain stimulation can affect our libidos
 date: "2016-12-09 12:05:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091204-aib116-9163839223_a0527f5cc3_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091204-aib116-9163839223_a0527f5cc3_b.jpg"
 headline: true
 featured: true
 imported: true
@@ -24,7 +24,7 @@ highlights:
 
 Transcranial magnetic stimulation (TMS) is a technique currently used in the treatment of migraines and depression. It involves stimulating the part of the brain that is linked to reward and pleasure. Patients undergoing treatment for depression may receive numerous sessions of TMS, but it is unknown as to whether their sex drive is altered as a result.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612091205-aib116-man-117588_1920.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612091205-aib116-man-117588_1920.jpg" title="" caption="" attr="" >}}
 
 A new study directly looking at libido suggests that this may be the case. The area of the brain involved in pleasure was stimulated in 20 people for 20 minutes. This involved strapping a vibrator to either the penis or clitoris of the volunteer, and monitoring the strength of alpha brain waves via electrodes attached to the individual’s head. Alpha waves are generally weaker during sexual arousal. This group was split into two: one received excitatory TMS, and the other inhibitory. In other words, the excitatory group had the pleasure region of their brain stimulated while the other did not.
 

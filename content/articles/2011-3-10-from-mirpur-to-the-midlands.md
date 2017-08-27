@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore and Kahfeel Hussain on how Pakistani immigration to the UK changed not only this country, but parts of Pakistan and Pakistanis themselves
 date: "2011-03-10 19:51:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101949-ks607-mirpurar.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112311-cj914-ucl.jpg"
 image_caption: "Residents protesting outside Campbell House, where many students have withheld rent due to poor living conditions."
 headline: true
 featured: true

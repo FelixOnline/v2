@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
 date: "2013-02-01 01:07:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010107-tna08-microsoft-badass.jpg"
 headline: true
 featured: true
 imported: true
@@ -55,7 +55,7 @@ Microsoft therefore needed someone else to create a new growth market, a market 
 
 Change the world it did, the world went into a frenzy for the product, growing the tablet market by 250% in 2011 and increasing current sales projections to 165.9m this year alone.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302021118-jp1409-tablet-ipad-surface-star-trek.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302021118-jp1409-tablet-ipad-surface-star-trek.jpg" title="" caption="" attr="" >}}
 
 It’s this market demand that kicked Microsoft the most and it’s the one they have reacted to the strongest. But choosing to distinguish themselves from their wealthier rivals, they haven’t gone directly into the “tablet” market and have instead claimed they are creating their own innovative market, the “hybrid” market. Regardless if the two market are the same or different, Microsoft appear 100% sure that it will be the future for computing devices and have attacked all guns blazing.
 

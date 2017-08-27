@@ -4,7 +4,7 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
 image_caption: "A page from the 2013-16 strategy"
 headline: true
 featured: true
@@ -38,7 +38,7 @@ This becomes particularly obvious when comparing the new strategy to the previou
 
 Similarly to build the student community the union would try to “publish an annual ‘Advocacy to Action’ Report” and “develop, publish and deliver a Campus Outreach Plan” by 2016. These are parts from two specific proposed actions from a list of seven.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701272039-felix-Screen Shot 2017-01-26 at 15.33.06.png" title="a page from the 2017-20 strategy. One of the five aims in the strategy and its corresponding objectives. Excluding the values, this page amounts to 20% of the strategy" caption="a page from the 2017-20 strategy. One of the five aims in the strategy and its corresponding objectives. Excluding the values, this page amounts to 20% of the strategy" attr="ICU" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701272039-felix-Screen Shot 2017-01-26 at 15.33.06.png" title="a page from the 2017-20 strategy. One of the five aims in the strategy and its corresponding objectives. Excluding the values, this page amounts to 20% of the strategy" caption="a page from the 2017-20 strategy. One of the five aims in the strategy and its corresponding objectives. Excluding the values, this page amounts to 20% of the strategy" attr="ICU" >}}
 
 The new strategy on the other hand aims to “enhance the enjoyment and talents of our members” (i.e. enhance student experience in 2013 lingo) by “[providing] systems, staff support and funding for volunteers to enable them to maximise the impact of their Roles” and “[being] recognised as leaders for the value that our activities add to students’ personal and professional development”. These are two full objectives from a list of three and quite literally amount to almost a fifth of the strategy.
 

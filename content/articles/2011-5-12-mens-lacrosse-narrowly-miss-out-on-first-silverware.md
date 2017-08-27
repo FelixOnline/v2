@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial bested by Leeds in final
 date: "2011-05-12 18:17:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121916-felix-img_2706.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121916-felix-img_2706.jpg"
 headline: true
 featured: true
 imported: true

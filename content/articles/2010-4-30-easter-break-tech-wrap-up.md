@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All the best tech news you missed during the Easter break
 date: "2010-04-30 10:40:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201004301136-srg03-EasterBr.jpg"
 headline: true
 featured: true
 imported: true

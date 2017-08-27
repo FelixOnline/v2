@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Marie-Laure Hicks on why we need sleep – and why eight hours might be too much
 date: "2012-03-01 21:26:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012125-ams111-sleeping-puppies.jpg"
 image_caption: "Are you getting enough sleep? We're certainly not, but these guys are..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX visits BAO, the hip Taiwanese restaurant in SoHo
 date: "2016-05-27 09:05:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605271105-felix-Exterior 1-1.jpg"
 headline: true
 featured: true
 imported: true

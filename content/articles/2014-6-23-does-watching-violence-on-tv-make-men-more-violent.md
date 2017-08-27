@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New research has shown that men watching more violence on television could result in stunted in brain development, and the inability to control impulsive behaviours, including aggression.
 date: "2014-06-23 14:52:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
 headline: true
 featured: true
 imported: true

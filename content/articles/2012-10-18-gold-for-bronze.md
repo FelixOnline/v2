@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Royal Academy succeeds with an exhibition on bronze sculpture throughout history
 date: "2012-10-18 20:56:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
 image_caption: "Hard body; bad skin"
 headline: true
 featured: true

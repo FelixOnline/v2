@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Travel competition winners Charlie, Mandy and Bobby Brown re-live whatever they can remember of this year’s High Times Cannabis Cup
 date: "2011-12-08 22:14:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082207-cac111-panoramic.jpg"
 headline: true
 featured: true
 imported: true
@@ -46,7 +46,7 @@ Among the humble critters we encountered was Dale, a sixty-something PhD (Doctor
 
 As the bus pulls in to the foggy car park Dale tells us “everybody is programmed to be on a leash, our entire society. You don’t realise what’s important in life until you almost don’t have it, and I’m glad I’ve found it”. With a puff on his pipe and a tip of the hat, he wishes us a good Cup and enters the madness.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082212-cac111-microscope.jpg" title="In spite of it being switched off, the visuals were still incredible... " caption="In spite of it being switched off, the visuals were still incredible... " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082212-cac111-microscope.jpg" title="In spite of it being switched off, the visuals were still incredible... " caption="In spite of it being switched off, the visuals were still incredible... " attr="" >}}
 
 It was now that shit got real. As if a converted, graffitied bus with strobe lights and ashtrays hadn’t hit it home enough, the arrival at the Borchland provided the finish. None of us had any idea of what lay in wait for us through the double doors of this unassuming out-of-town conference centre. Naturally our minds had run wild over the past weeks, but we knew nothing, the whole affair was shrouded in myth and mystery.
 
@@ -56,7 +56,7 @@ Without many other similar events anywhere else in the world, the Cannabis Cup c
 
 Having sampled the strains and products on offer, we eventually plucked up the courage to venture backstage and put the press passes to good use. It was at this point that we had a meet and greet with The Brotherhood of Eternal Love, the infamous group of psychedelic drug enthusiasts and dealers that formed in sunny California in the late 60’s, under a mutual love for LSD and (amongst other things) vegetarianism. After witnessing their outstanding musical performance and poetry recital we were eager to find out more about this curious bunch.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082210-cac111-brotherhood.jpg" title="Knocking shoulders with self-proclaimed LSD experts The Brotherhood of Eternal Love" caption="Knocking shoulders with self-proclaimed LSD experts The Brotherhood of Eternal Love" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082210-cac111-brotherhood.jpg" title="Knocking shoulders with self-proclaimed LSD experts The Brotherhood of Eternal Love" caption="Knocking shoulders with self-proclaimed LSD experts The Brotherhood of Eternal Love" attr="" >}}
 
 One Brotherhood veteran, who wished to remain anonymous, gave us an insight into his early life: attentive Imperialites could learn a thing or two. “We used to surf all day, then spend our weekends crashing other schools’ parties and stealing their girls. And then we discovered psychadelics and, it was like, uh-oh!” Uh-oh indeed: the group rose to notoriety and unfortunately attracted the attention of the authorities, and as such many members were arrested while the rest scattered around the globe.
 
@@ -72,7 +72,7 @@ We awoke on day two refreshed and ready to face a solid day of investigative jou
 
 We took our seats at the front of a hash making class led by the legendary hash professor Mila Jansen, who spent 14 years living in India learning the ways of the locals. In 1995, she came to fame for developing the Pollinator, a device described as “a personal solution for hand turning leaf material to separate the resin from the plant material”, that is effectively only useful in hash-making. Resembling a washing machine on it back, you place dry ice and your ‘leaf material’ into the drum and allow to spin before removing the mixture and shaking out the powdery precipitate. Cue wide-eyed gasps of awe as Mila’s assistant sprinkled light green snow over a glass-top coffee table and biblical scenes as the crowd swarmed to the front to collect a free sample. Speaking to Mila after the class, she shared with us a few croaky anecdotes of her time travelling Asia, perfecting the art of hashish. “I love Afghani hash! I love Afghanis!”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082212-cac111-hash-making.jpg" title="GREEN powder? That I CAN’T snort? Well, that makes a change... " caption="GREEN powder? That I CAN’T snort? Well, that makes a change... " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082212-cac111-hash-making.jpg" title="GREEN powder? That I CAN’T snort? Well, that makes a change... " caption="GREEN powder? That I CAN’T snort? Well, that makes a change... " attr="" >}}
 
 With the Dutch government’s recent aborted attempt to tighten cannabis laws, the future of legislation was a hot topic on the convention floor. Dale was convinced that our generation would see the widespread decriminalization of cannabis, Dan Skye, High Times editor, was hopeful but tempered his optimism. Casually dressed and well spoken, Skye, who initially donated the press prizes to the Felix Travel competition, had a good chat with us about his views. Unsurprisingly, these mostly echoed Imperial’s very own Council Chairman Baroness Manningham-Buller and Professor David Nutt.
 

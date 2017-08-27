@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores the complex morals of photojournalism
 date: "2014-11-14 20:55:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142055-ps3110-cloudrop-29-mar-2014-16-39-34.png.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142055-ps3110-cloudrop-29-mar-2014-16-39-34.png.jpeg"
 headline: true
 featured: true
 imported: true

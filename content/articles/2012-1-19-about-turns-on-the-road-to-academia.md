@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With Nature citing the number of PhDs as “growing like mushrooms”, is the doctorate in need of reform?
 date: "2012-01-19 19:47:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201201191945-ams111-screen-shot-2012-01-18-at-00.14.57.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201191945-ams111-screen-shot-2012-01-18-at-00.14.57.jpg"
 image_caption: "Career routes following the completion of a PhD, as published in the 2010 Royal Society report"
 headline: true
 featured: true

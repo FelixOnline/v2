@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Radcliffe interrogates an artist
 date: "2013-03-07 23:52:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
 headline: true
 featured: true
 imported: true

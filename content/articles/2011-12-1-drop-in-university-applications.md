@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Latest figures reveal further lack of interest in UK university applications
 date: "2011-12-01 21:16:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012110-felix-ucas_logo_rgb300.png"
 headline: true
 featured: true
 imported: true

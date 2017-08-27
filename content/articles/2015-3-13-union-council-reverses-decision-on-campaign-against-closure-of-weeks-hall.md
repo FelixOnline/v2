@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as council is flooded with Weeks residents
 date: "2015-03-13 01:17:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130117-cj914-232_3239.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130117-cj914-232_3239.jpg"
 image_caption: "Council has agreed to ask College to delay the closure of Weeks Hall"
 headline: true
 featured: true

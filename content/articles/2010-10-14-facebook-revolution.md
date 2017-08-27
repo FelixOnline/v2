@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From bedroom to billions – the social revolution in the second installment of our Facebook saga
 date: "2010-10-14 19:44:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142043-ks607-facebook.jpg"
 headline: true
 featured: true
 imported: true

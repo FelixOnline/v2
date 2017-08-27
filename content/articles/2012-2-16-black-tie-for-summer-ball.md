@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162206-sjw209-img_0770-1.jpg"
 image_caption: "Acts will perform on the Queen's Lawn and in the Great Hall"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial come fourth, but weren't too upset by it. Josephine Chiu reports
 date: "2013-05-16 17:50:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161850-tna08-bowling1.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ The British University Tenpin Bowling Association (BUTBA) Cup final against Loug
 
 In the semi-final, we were matched against our Northern dominant rival, Sheffield. Facing six strong Sheffield bowlers who all had 180-pin averages, Imperial bowlers showed remarkable resilience. After an enthralling battle, Imperial team B (Kelvin Wong (c), Michael Lau, and Raymond Yang) were only 6 pins behind the opponents, with scores 505-498, 493-498, and 513-521. Although we lost 1-15 overall, there is no shame in defeat.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161850-tna08-bowling2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161850-tna08-bowling2.jpg" title="" caption="" attr="" >}}
 
 On the flip side, our best Imperial bowler, Hui Erh Tay, has never let us down. Hitting a 617 high series (183-216-218) in the semi-final, she broke her own record in the BUCS Championship taken place last February. Unsurprisingly, this has secured her the titles of ‘Female High Game’ and ‘Female High Series’ in the BUTBA Cup.
 

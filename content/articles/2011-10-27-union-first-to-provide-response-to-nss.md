@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Report unveils move towards better teaching and automated feedback
 date: "2011-10-27 19:38:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272007-felix-img_6764.jpg"
 image_caption: "Imperial College Union aim to combat Imperial’s low ranking for assessment and feedback in the NSS"
 headline: true
 featured: true

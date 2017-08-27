@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chrysostomos Meli looks at how you will be paying for things in the future
 date: "2014-12-04 19:24:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
 image_caption: "YOYO is the electronic payment choice of a lot of Imperial students. Disclaimer: has nothing to do w"
 headline: true
 featured: true

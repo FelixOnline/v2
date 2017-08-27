@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The new Felix App Update is available to download this week. Felix Technology takes a closer look at the latest version.
 date: "2015-01-23 18:04:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231804-jyg11-screen-shot-2015-01-23-at-18.04.14.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231804-jyg11-screen-shot-2015-01-23-at-18.04.14.png"
 headline: true
 featured: true
 imported: true

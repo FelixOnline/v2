@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Power is finally leaving the Union after 16 years of involvement at Imperial College London
 date: "2014-10-24 12:37:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201411021854-ps3110-phil-power.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411021854-ps3110-phil-power.jpg"
 headline: true
 featured: true
 imported: true

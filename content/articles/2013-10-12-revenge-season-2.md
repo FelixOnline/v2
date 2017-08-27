@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Previously on Revenge; Emily Thorne (Emily van Camp) was a kick-ass vengeful heroine who would have scared Count Monte Cristo’s socks off...in season 1. When the show debuted, Emily’s goal was to take down anyone and everyone who played a part in her innocent father’s (James Tupper) unfair...
 date: "2013-10-12 19:22:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122020-jal08-tv-10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122020-jal08-tv-10.jpg"
 headline: true
 featured: true
 imported: true

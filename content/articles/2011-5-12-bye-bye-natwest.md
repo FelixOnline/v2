@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sherfield branch closes its doors for last time
 date: "2011-05-12 16:08:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121705-felix-dsc_0614.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121705-felix-dsc_0614.jpg"
 headline: true
 featured: true
 imported: true

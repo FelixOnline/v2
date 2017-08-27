@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson finds out how much you remember from sex ed class
 date: "2015-06-04 23:39:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050038-cj914-condoms.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050038-cj914-condoms.jpg"
 image_caption: "Stay safe out there, guys and gals."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Game of Thrones author George R. R. Martin reshaped the landscape of modern fantasy literature
 date: "2011-06-28 11:42:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281243-felix-game-of-thrones-s1-george-rr-martin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281243-felix-game-of-thrones-s1-george-rr-martin.jpg"
 headline: true
 featured: true
 imported: true

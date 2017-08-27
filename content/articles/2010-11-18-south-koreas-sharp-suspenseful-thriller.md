@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Housemaid is a rollercoaster ride of suspense and sensuality
 date: "2010-11-18 20:48:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182046-nm1010-housemai.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182046-nm1010-housemai.jpg"
 headline: true
 featured: true
 imported: true

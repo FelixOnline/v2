@@ -4,7 +4,7 @@ title: >
 subtitle: >
   how much is too much?
 date: "2016-11-11 15:44:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
 headline: true
 featured: true
 imported: true
@@ -43,24 +43,24 @@ If you’re experimenting with sporting a hairy muff, here are some hairstyles y
 ## THE BUSH
 Minimal attention required. A good style choice when you have coursework deadlines coming up.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.09.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.09.png" title="" caption="" attr="" >}}
 
 ## THE DORITO
 Good if you want an excuse for that cheesey smell. A surprisingly high-maintenance version of the original.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.15.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.15.png" title="" caption="" attr="" >}}
 
 ## THE LANDING STRIP
 Or the Boyzilian. A solid å if you think that anyone heading down there needs directions.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.21.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111543-felix-Screen Shot 2016-11-11 at 15.42.21.png" title="" caption="" attr="" >}}
 
 ## THE MOUSTACHE
 Best worn during Movember or when on Erasmus in France. Perfect if you fondly call your junk Hercule.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111542-felix-Screen Shot 2016-11-11 at 15.42.29.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111542-felix-Screen Shot 2016-11-11 at 15.42.29.png" title="" caption="" attr="" >}}
 
 ## THE DONALD TRUMP
 Ideal for blondes. You can comb this so that it covers up your carefully constructed bald bits.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111542-felix-Screen Shot 2016-11-11 at 15.42.33.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111542-felix-Screen Shot 2016-11-11 at 15.42.33.png" title="" caption="" attr="" >}}

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oppression in Sri Lanka may lead on to more uprisings
 date: "2011-11-24 22:43:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242243-pk1811-srilankaarmy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242243-pk1811-srilankaarmy.jpg"
 image_caption: "Sri Lankan armed forces are accused of carrying out genocide"
 headline: true
 featured: true

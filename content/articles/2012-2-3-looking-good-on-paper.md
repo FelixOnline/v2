@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Builders Arms plays host to a monthly poetry evening
 date: "2012-02-03 10:27:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201202031030-sjw209-kad.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202031030-sjw209-kad.jpg"
 headline: true
 featured: true
 imported: true

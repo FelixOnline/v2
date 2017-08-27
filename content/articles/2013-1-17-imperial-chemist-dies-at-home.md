@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joachim H. G. Steinke died suddenly last Tuesday
 date: "2013-01-17 23:42:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201301172342-tna08-steinke.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301172342-tna08-steinke.jpg"
 headline: true
 featured: true
 imported: true

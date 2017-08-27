@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam reviews Livescribe’s new infrared superpen
 date: "2011-10-13 23:07:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140000-sjw209-pen_full.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140000-sjw209-pen_full.jpg"
 image_caption: "Who needs friends when you have a pen that talks?"
 headline: true
 featured: true

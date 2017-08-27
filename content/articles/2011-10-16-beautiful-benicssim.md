@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Spanish Rototom Sunsplash impresses over ten days
 date: "2011-10-16 15:08:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
 headline: true
 featured: true
 imported: true

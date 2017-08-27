@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The question I’m asking is – did they make the difference that they promised?
 date: "2011-06-23 20:54:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172023-ks607-new.jpg"
 image_caption: "Next year's Sabb team, will they deliver?"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New research could help prevent addiction
 date: "2011-06-02 18:36:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021936-felix-pete-doherty-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021936-felix-pete-doherty-cmyk.jpg"
 image_caption: "Can’t stand me now? Just wait till I get out of prison "
 headline: true
 featured: true

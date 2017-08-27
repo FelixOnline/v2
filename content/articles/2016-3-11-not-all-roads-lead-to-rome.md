@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The latest from the Coen brothers is solid filmmaking, but lacks a sense of energy
 date: "2016-03-11 11:51:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111150-felix-3231 (1).jpg"
 image_caption: "George Clooney as Baird Whitlock, in the Coen brothers' latest comedy outing, Hail, Caesar!"
 headline: true
 featured: true

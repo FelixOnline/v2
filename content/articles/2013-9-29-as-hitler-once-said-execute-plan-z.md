@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sniper Elite: Nazi Zombie Army review
 date: "2013-09-29 16:10:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291710-tna08-sniperzombie-1.jpg"
 image_caption: "Thankfully that didn’t ruin my shirt!"
 headline: true
 featured: true

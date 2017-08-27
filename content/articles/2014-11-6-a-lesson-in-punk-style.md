@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles gets a fashionable education from Blondie
 date: "2014-11-06 21:24:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
 image_caption: "Debbie Harry of Blondie, looking way cooler than you ever will"
 headline: true
 featured: true

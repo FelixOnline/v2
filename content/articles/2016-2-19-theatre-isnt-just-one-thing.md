@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX asks Gate Theatre’s new director Ben Kidd about directing and his latest work
 date: "2016-02-19 12:15:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191214-felix-benkidd.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191214-felix-benkidd.jpg"
 image_caption: "Ben Kidd, the new kid on The Gate’s block."
 headline: true
 featured: true

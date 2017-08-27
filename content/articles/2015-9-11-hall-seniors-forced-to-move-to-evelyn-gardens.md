@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The fiasco surrounding the reopened halls continues
 date: "2015-09-11 19:09:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201509112009-ygr12-242_4260.jpg"
 image_caption: "Credit: Neville Miles"
 headline: true
 featured: true

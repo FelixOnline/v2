@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Balam Acab – Wander/Wonder (2011)
 date: "2011-11-03 20:41:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032041-pk1811-timthumb.jpg"
 headline: true
 featured: true
 imported: true

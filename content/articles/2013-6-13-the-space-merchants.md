@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a classic of the SF genre
 date: "2013-06-13 22:32:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132332-tna08-space-merchants2.jpg"
 headline: true
 featured: true
 imported: true

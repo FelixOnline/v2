@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rule changes could have consequences for Imperial sports teams
 date: "2012-11-01 22:11:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012211-tna08-rgbbucs.jpg"
 headline: true
 featured: true
 imported: true

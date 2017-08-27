@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Bowers tells of his predictions for fifty years’ time
 date: "2011-11-03 18:09:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
 headline: true
 featured: true
 imported: true

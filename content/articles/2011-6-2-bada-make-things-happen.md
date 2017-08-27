@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Develop with Samsung to make those app ideas a reality
 date: "2011-06-02 18:38:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021937-felix-bada-os.jpg"
 headline: true
 featured: true
 imported: true

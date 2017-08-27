@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mark England on the coolest, baldest, and beardiest man in town
 date: "2012-02-16 21:55:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
 image_caption: "How you doin’?"
 headline: true
 featured: true

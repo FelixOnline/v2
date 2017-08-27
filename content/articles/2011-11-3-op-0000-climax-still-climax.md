@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Seymour Dicks catches up with Operation Midnight Climax’s personal butler ahead of their reapparition at KABLAAM
 date: "2011-11-03 20:53:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
 image_caption: "Operation Midnight Climax    getting BONED at the last Felix Music Night in June"
 headline: true
 featured: true

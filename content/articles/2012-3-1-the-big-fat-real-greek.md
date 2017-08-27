@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012148-ams111-header.jpg"
 image_caption: "A glass of Ouzo and plenty of mezes make the crisis fade away"
 headline: true
 featured: true

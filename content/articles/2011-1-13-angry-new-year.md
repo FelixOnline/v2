@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first...
 date: "2011-01-13 20:52:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010012331-ks607-AngryGee.jpg"
 headline: true
 featured: true
 imported: true

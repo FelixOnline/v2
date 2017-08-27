@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182149-ks607-millbank.jpg"
 image_caption: "Protestors at Millbank Tower"
 headline: true
 featured: true

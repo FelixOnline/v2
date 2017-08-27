@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emmilyn Yeoh tells us the ups and downs of this popular island
 date: "2014-11-06 20:42:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062036-cj914-dsc_0500-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062036-cj914-dsc_0500-copy.jpg"
 image_caption: "The infamous sunset at Oia that has tourists flocking to this island."
 headline: true
 featured: true

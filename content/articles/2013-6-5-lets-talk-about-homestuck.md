@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a truely innovative webcomic
 date: "2013-06-05 11:23:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051223-tna08-homestuck2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051223-tna08-homestuck2.jpg"
 headline: true
 featured: true
 imported: true

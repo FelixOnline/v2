@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Josh Price gives us his thoughts on last weekend’s SimCity beta
 date: "2013-02-01 00:00:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312358-tna08-untitled-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312358-tna08-untitled-2.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ For those curious to know what this is, SimCity is a ‘reboot’ of the series 
 
 But what of new features? It’s been 10 years since the last game, SimCity 4, came out (Societies? Mention it not!), and there are plenty of additions to boot in the new game. Zoning, for example, is now free and only necessary along roads themselves. Thankfully , this means no more “no access” signs springing up, or worrying about filling up those awkward little gaps. One of the biggest changes however is the level of increased customization. Any service, aesthetic, or general ‘functional’ structure you place can now be modified. Is your school over-enrolled? Build more classrooms! Is your wind farm not meeting your power demands? Add more turbines! There are other neat features along this line too. The old radius system for buildings seems to have been done away with mostly, and there’s no worry about taking up grid squares to play. And yes, finally, curved roads; you’re no longer confined to building towns of a similar style to Milton Keynes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301312359-tna08-simcity-8-copy.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301312359-tna08-simcity-8-copy.jpg" title="" caption="" attr="" >}}
 
 One other new feature that is worth mentioning is the increased regional play, sadly absent from the beta. In previous versions of the game, you created your city in a region, but didn’t necessarily need to interact with any others. With the exception of SimCity 2000’s Network Edition, the game was entirely single player. In this version, however, Maxis have added the option of having you play with other people. These can be complete strangers, or just your friends. The level of interactivity between cities seems to be much improved; you can share certain services and the like. One other new feature seems to be “Great Works”, which the beta excitedly promotes as something for mayors to work together on. Special sites are given over in a region, to these, and can consist of things such as a shared solar farm or international airport.
 
@@ -37,7 +37,7 @@ It’s not all nice and rosy however. Depressingly, the game does require the pr
 
 In addition to all this, there were a few features seemingly absent. While the version I played was a beta, there were clear signs of things available in the full version, hidden under a “Not in Beta” tag. Long term fans of the series will be saddened by the absence of certain features. Perhaps most notably, these include subways and farms; I can only hope they aren’t specifically left out to be included as later downloadable content. One other feature that seemed to be annoying was the limited size of the city. Maxis have confirmed that this isn’t restricted to the beta, and is a design and technical choice. They have stated that this will improve regional play, giving no “correct” city design. I was quite a fan of creating as large as possible metropolises in SimCity 4 and I can imagine this will be a common complaint amongst other fans of the original game.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301312359-tna08-simcitystripped.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301312359-tna08-simcitystripped.jpg" title="" caption="" attr="" >}}
 
 Overall though, my experience of the beta was very enjoyable. After playing for an hour it’s nice to see that the attention to detail in graphics is present in the new Glassbox engine, and you are no longer confined to an isometric view. You can play the entire game from a tilt-shift perspective, and if you’ve got a computer with a decent amount of power under the hood, you can expect to be treated to some very nice looking cityscapes. The statistics mode is present, as in the previous game, which allows you to study different aspects of your city in almost minute detail. There are various graphs present which let you look at things, from happiness to local pollution. With the new engine these can be shown directly in your city, providing some strangely satisfying scenarios. For example, try watching the flow of power to your buildings after you’ve built a power plant.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli on why The Mindy Project deserves to be taken seriously
 date: "2014-11-17 18:18:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201411171817-ps3110-the-mindy-project-4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411171817-ps3110-the-mindy-project-4.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial and Oxford team up to tackle white blood cells
 date: "2011-10-07 09:39:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071455-felix-cells.jpg"
 image_caption: "Wanted for murder – have you seen this NK cell?"
 headline: true
 featured: true

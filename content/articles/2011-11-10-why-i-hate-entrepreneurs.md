@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
 image_caption: "“I’m the spoonful of sugar that makes your medicine go down, baby” - Lord Sugar's best chatup line"
 headline: true
 featured: true

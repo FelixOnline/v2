@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Walking Dead marched straight into Jonna Nybäck’s heart
 date: "2012-11-29 22:57:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292257-csw09-the-walking-dead-cast-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292257-csw09-the-walking-dead-cast-photo.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Student Accommodation Awards refuse to choose winner
 date: "2016-10-31 13:35:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
 headline: true
 featured: true
 imported: true

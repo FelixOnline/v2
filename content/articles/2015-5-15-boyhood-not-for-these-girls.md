@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Abena Taylor-Smith reviews Celine Sciamma's "Trilogy of Youth"
 date: "2015-05-15 12:05:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
 image_caption: "Director Celine Sciamma employed street-casting to bring her characters to life"
 headline: true
 featured: true

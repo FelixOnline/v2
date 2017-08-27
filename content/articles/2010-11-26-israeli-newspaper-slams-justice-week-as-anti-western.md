@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011260714-ks607-asimqure.jpg"
 headline: true
 featured: true
 imported: true

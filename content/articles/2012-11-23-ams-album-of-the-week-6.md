@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Björk: bastards
 date: "2012-11-23 00:21:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
 headline: true
 featured: true
 imported: true

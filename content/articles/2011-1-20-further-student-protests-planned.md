@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New wave of student protests cause counter-terrorism police to contact Imperial
 date: "2011-01-20 20:56:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202050-ks607-studentp.jpg"
 headline: true
 featured: true
 imported: true

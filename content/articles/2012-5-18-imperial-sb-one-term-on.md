@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bart Andrews reports on Skateboarding and BMX highlights from the term gone by
 date: "2012-05-18 16:28:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
 image_caption: "Daniel Hyde - Cradle Carve at Victoria Park"
 headline: true
 featured: true

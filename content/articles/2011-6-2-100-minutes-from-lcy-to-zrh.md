@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Richard Keller on a relaxing sojourn in Zurich
 date: "2011-06-02 20:19:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022119-felix-zurich2.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210091214-jp1409-speedtest.png"
 image_caption: "MOAR SPEED. NEVER STREAM AGAIN"
 headline: true
 featured: true
@@ -32,13 +32,13 @@ General Productivity
 
 If you actually want to pass your degree, you best get yourself Microsoft Office: it’s the shit. If not, you can try Open Office, but, in this Tech Editor’s opinion, if you do venture down that path, make sure you get both! Like those before you, Open Office users are likely to be struck by regular frustrations at Imperial’s ingrained use of Microsoft Office. So, for this one, it’s better to be mainstream than hipster, get Office. You know the drill: Word, Excel and Outlook are essential for university life, and when it’s only £65 (I strongly recommend not to even try torrenting it for free) who’s complaining – [www.software4students.co.uk](http://www.software4students.co.uk), for all your Microsoft Office needs.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210091205-jp1409-office-2013.jpg" title="Office 2013 is the shit" caption="Office 2013 is the shit" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210091205-jp1409-office-2013.jpg" title="Office 2013 is the shit" caption="Office 2013 is the shit" attr="" >}}
 
 Online storage
 
 During your time at uni you’ll definitely have occasions when you’ll need to use the cloud and share documents, pictures etc. It could be to work together on problems, or during a team based project. There are four main services available,[ iCloud](https://www.icloud.com/), [SkyDrive](http://skydrive.live.com/), [Google Drive](http://drive.google.com/) and [DropBox](http://www.dropbox.com). Chances are you’ll have at least one of these already, but it’s well worth signing up to another one for additional space and compatibility with others. Apple’s iCloud offers 5GB free space as does Google Drive. DropBox recently up their free offering to 5GB in a move to match, but Microsoft’s SkyDrive is the runaway winner with a huge 25GB of free space (www.skydrive.live.com). All have desktop integration available for download and the ability to share folders and documents, all in their own unique way. Have a test of them all and pick your favourite, they all have their own pros and cons. But, for Apple users, make the most of iCloud’s excellent integration, and, as Windows Phone users will know, SkyDrive automatically stores all camera photos and documents from an Of- fice Phone and has a free browser based Office to edit documents.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210091147-jp1409-online-storage.png" title="Your current choice of online storage - with amazon on the way" caption="Your current choice of online storage - with amazon on the way" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210091147-jp1409-online-storage.png" title="Your current choice of online storage - with amazon on the way" caption="Your current choice of online storage - with amazon on the way" attr="" >}}
 
 Imperial Internet and Mobile
 
@@ -56,7 +56,7 @@ I don’t care about music, I want to look cool
 
 If you like colourful headphones that make you feel massively cool/DENCH and you like walking around with big headphones around your neck when you’re not using them like a complete douchebag to show everyone “look I listen to music” then you need one of the below. The rising standard model for douchebaggery cool are Monsters. Mostly in the form of Dr Dre Beats with the iconic red lowercase “b” these headphones are genuinely kind of cool but are insanely priced. The Purity’s, as endorsed by Nokia, are another set of badass looking Monsters but again you’ll be paying a huge premium for the great style of these. If you’re really badass and have a get rich or die trying attitude (i.e. you’re going to pack in science and become a banker) then the new 50 cent SYNC wireless headphones are for you, and they’ll ‘only’ set you back £300. All these headphones look cool as fuck, but, as any good music boffing will tell you, the value for money on sound quality is pretty woeful. But who cares, people only wear headphones to look cool right? Urbanear headphones, sold in Urban Outfitters are the more hipster option. They look super cool and the headphone cable doesn’t tangle easily (massive win) but still, overpriced for mediocre sound. Skullcandys are the best value for money option in the “I don’t care about music I just want to look cool” section. Skullcandy offers lifetime warranty with their headphones and they’re always pumping with bass, and although expensive they don’t come close to the prices of Monsters or SYNC.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210091204-jp1409-50-cent.jpg" title="50 cent looking DENCH with his overpriced headphones" caption="50 cent looking DENCH with his overpriced headphones" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210091204-jp1409-50-cent.jpg" title="50 cent looking DENCH with his overpriced headphones" caption="50 cent looking DENCH with his overpriced headphones" attr="" >}}
 
 I don’t care about looking cool, I go to Imperial already
 
@@ -64,6 +64,6 @@ If you don’t care about looking cool (because you go to Imperial already) ther
 
 ###  Books vs eBooks
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210091154-jp1409-books-vs-ebooks.png" title="Which do you prefer?" caption="Which do you prefer?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210091154-jp1409-books-vs-ebooks.png" title="Which do you prefer?" caption="Which do you prefer?" attr="" >}}
 
 Do you really need to buy all those books for your course? The obvious answers is yes, you should definitely have the books, and they’ll help you with your course. The honest answer is no: you can probably torrent them, but that’s not cool to do, especially with Science & Engineering stuff. The real question should be if you want to buy them in hardback fresh (or second hand) or do you want them in electronic format? Which brings us to the question of real Books vs eBooks. The ob- vious choice for reading a large bulk of text is a Kindle (or Kobo). The screens are incredible and e- ink reads just like a real book. Plus it’s significantly lighter, smaller, and cheaper. With Amazon hav- ing just dropping the price on the Kindle, and releasing the new Kindle Paperlight, it’s a sound bet. But, they can be a pain to navigate sometimes, so maybe you want to go with iBooks or a tablet, the only problem here being that they’re kind of expensive, unless you use them for lots of other things, they’re harder to read for long periods of time and they’re still not that great at navigation. The final choice is to keep it old school, which is what most people will do. It may be more expensive, but there is something nice about having a big physical book in front of you and actually turning pages, just don’t expect it to be easy to take them to workshops, lectures, or generally carrying these heavy fuckers around.

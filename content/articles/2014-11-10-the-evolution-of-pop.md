@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Amna Samar Askari discusses her thoughts on a changing genre
 date: "2014-11-10 21:52:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
 headline: true
 featured: true
 imported: true

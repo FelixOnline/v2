@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Blogger sued by restaurant for bad review
 date: "2010-11-04 18:22:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041820-ma1307-theresaf.jpg"
 headline: true
 featured: true
 imported: true

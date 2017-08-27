@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
 image_caption: "Shoes, glorious shoes."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Omer Mohamed discusses his intersecting identities
 date: "2017-02-17 14:41:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171441-felix-Screen Shot 2017-02-17 at 14.41.31.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171441-felix-Screen Shot 2017-02-17 at 14.41.31.png"
 headline: true
 featured: true
 imported: true

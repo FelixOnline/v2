@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The DPCS speaks on Freshers' Fair and the challenges of having responsibility for over 300 Clubs, Societies & Projects
 date: "2012-02-16 23:08:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162307-sjw209-monyazard.jpg"
 image_caption: "Deputy President (Clubs & Societies) Monya Zard"
 headline: true
 featured: true

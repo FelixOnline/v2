@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
 image_caption: "Layers seen at the base of Mount Sharp, Curiosity’s ultimate destination."
 headline: true
 featured: true
@@ -44,7 +44,7 @@ The team chose Gale crater. 154 km in diameter, the crater is the remnant of a v
 
 Gale crater was chosen because of its unique structure. From its centre soars Aeolis Mons, or Mount Sharp, a 3 mile-high mountain. Between the mountain and the rims of the crater lie a series of relatively flat plains. One of these, Aeolis Palus, is where Curiosity touched base.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201308200556-jal08-ferrat-galecrater.png" title="View of Gale crater with Mount Sharp at its centre, reconstructed from data by three Mars orbiters" caption="View of Gale crater with Mount Sharp at its centre, reconstructed from data by three Mars orbiters" attr="Credit: NASA/JPL-Caltech/ESA/DLR/FU Berlin/MSSS" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201308200556-jal08-ferrat-galecrater.png" title="View of Gale crater with Mount Sharp at its centre, reconstructed from data by three Mars orbiters" caption="View of Gale crater with Mount Sharp at its centre, reconstructed from data by three Mars orbiters" attr="Credit: NASA/JPL-Caltech/ESA/DLR/FU Berlin/MSSS" >}}
 
 Mt. Sharp is fascinating because it contains the thickest pile of sediments yet identified on Mars. The base of the mountain is of particular interest as it records a very long history of erosion and deposition from the rocks on this towering mountain. Sediments on Mars, as on Earth, accumulate over time from small particles of rock eroded and displaced from the top of mountains by physical or chemical processes linked to climatic conditions. The thick sediments of Mt Sharp therefore represent a direct view into the processes that have occurred on Mars over a huge amount of time.
 
@@ -58,7 +58,7 @@ The rover has driven over one kilometre from its landing site in Aeolis Palus, s
 
 Curiosity immediately identified some exciting rocks. On Earth, rocks that form in water-rich environments such as rivers or lakes have very particular features that are instantly recognisable to geologists. Rivers, for example, can transport relatively big pebbles over large distances. As the rocks are displaced by the flowing water, they collide and little by little, chip off each other’s sharp edges, rounding them off until they acquire their smooth pebble shape. The pebbles eventually slow down and settle in the surrounding sediment, forming a particular type of rock that geologists call a conglomerate.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201308200600-jal08-ferrat-conglomerates-compare.png" title="Left: Rock outcrop on Mars showing the characteristics of a sedimentary conglomerate. Right: A typical conglomerate on Earth" caption="Left: Rock outcrop on Mars showing the characteristics of a sedimentary conglomerate. Right: A typical conglomerate on Earth" attr="Credit: NASA/JPL-Caltech/MSSS and PSI" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201308200600-jal08-ferrat-conglomerates-compare.png" title="Left: Rock outcrop on Mars showing the characteristics of a sedimentary conglomerate. Right: A typical conglomerate on Earth" caption="Left: Rock outcrop on Mars showing the characteristics of a sedimentary conglomerate. Right: A typical conglomerate on Earth" attr="Credit: NASA/JPL-Caltech/MSSS and PSI" >}}
 
 These types of conglomerates are exactly what [Curiosity found](http://www.nasa.gov/mission_pages/msl/news/msl20120927.html) within the first few weeks of its mission. The rocks are striking for their resemblance to our own terrestrial riverbeds. They are the first to show that the water that once flowed here must have been ankle deep, and quite vigorous.
 
@@ -66,7 +66,7 @@ Curiosity then carried out its first drilling operation in an area called Yellow
 
 [The first drill was a striking success](http://www.nasa.gov/mission_pages/msl/multimedia/pia16726.html). As the rover recovered the powder samples, Mars’ soil turned from red to grey. Colour can provide important information in geology, as the colour of a rock is often linked to the chemical state of its constituents, and therefore its environment. Iron, an element very common in all rocks on Earth, changes colour depending on the surrounding environment. A common example of this is iron rusting and changing from grey to red in the presence of oxygen.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201308200605-jal08-ferrat-curiosity-drill-hole.png" title="Curiosity’s first drill hole on 8 February 2013 in a rock named “John Klein”." caption="Curiosity’s first drill hole on 8 February 2013 in a rock named “John Klein”." attr="Credit: NASA/JPL-Caltech/MSSS" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201308200605-jal08-ferrat-curiosity-drill-hole.png" title="Curiosity’s first drill hole on 8 February 2013 in a rock named “John Klein”." caption="Curiosity’s first drill hole on 8 February 2013 in a rock named “John Klein”." attr="Credit: NASA/JPL-Caltech/MSSS" >}}
 
 Curiosity showed just that. The iron in Mars’ rocks went from rusty red to pale grey as the rover dug under the surface. The grey colour represents a form of iron that is important for microbial metabolism; a second clue to a habitable Martian environment. The analyses of these powders also revealed key chemical ingredients important for life, as well as the presence of clay minerals, more indications of a past water-rich environment.
 

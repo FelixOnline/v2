@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
 headline: true
 featured: true
 imported: true

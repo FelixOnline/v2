@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The City life ain’t all it’s cracked up to be, warns Adam Billing
 date: "2013-02-07 23:11:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072311-tna08-ian-hislop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072311-tna08-ian-hislop.jpg"
 headline: true
 featured: true
 imported: true

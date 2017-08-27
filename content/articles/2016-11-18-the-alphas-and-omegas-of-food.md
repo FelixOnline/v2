@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim explains the important differences between omega-3 and omega-6 fatty acids, and why we should be controlling our intake of both.
 date: "2016-11-18 14:48:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
 headline: true
 featured: true
 imported: true

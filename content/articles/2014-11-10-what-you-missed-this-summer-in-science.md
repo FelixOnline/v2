@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer covers the latest research from Imperial and beyond
 date: "2014-11-10 22:48:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102248-ps3110-download.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102248-ps3110-download.jpeg"
 headline: true
 featured: true
 imported: true

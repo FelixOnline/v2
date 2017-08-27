@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Last Exorcism? Probably not.
 date: "2013-06-05 12:18:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
 image_caption: "Purging all of that useless knowledge after exams"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ And yet trying to milk the franchise for as much cash as possible, here’s the 
 
 The first instalment was an excellent use of the handheld-camera technique, but with this follow-up, the style is completely gone and lost, falling back to the old standard way of filming without ever providing something else for the audience to enjoy. The scares are all very generic and a lot of them without much memorable impact. There are a few effective moments, ones that really ought to have been present more consistently throughout.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051318-tna08-the-last-exorcism-part-2-religion-e1362133703778.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051318-tna08-the-last-exorcism-part-2-religion-e1362133703778.jpg" title="" caption="" attr="" >}}
 
 It’s unclear to see just where the film is headed and when it does end up in its big final showdown, (yes, yet another botched exorcism, what else?) you’re in for a big disappointment. As a complete unimaginative rehash minus the stylistic push, it all feels tedious and repetitive, one you wouldn’t feel like enduring. It’s no fun when there’s a complete lack of mystery as to what is happening – as from the previous film we’ve learned all there is to know about this omnipotent evil force.
 

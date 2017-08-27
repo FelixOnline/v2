@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix's resident Sports Editor studies Imperial's sporting past
 date: "2011-11-03 22:12:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202327-sjw209-indy.jpg"
 headline: true
 featured: true
 imported: true

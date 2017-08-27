@@ -4,7 +4,7 @@ title: >
 subtitle: >
   GSK announces huge success in African tests
 date: "2011-11-03 19:54:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
 image_caption: "I’m afraid there were no cute pictures of mosquitoes..."
 headline: true
 featured: true

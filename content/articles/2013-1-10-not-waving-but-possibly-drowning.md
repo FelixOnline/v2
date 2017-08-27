@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "The press release promised a man bursting through walls at full throttle, and pairs of elegant swimmers hanging just on top of the audience’s head"
 date: "2013-01-10 22:38:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102237-csw09-swimming.jpg"
 headline: true
 featured: true
 imported: true

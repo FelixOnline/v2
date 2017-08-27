@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica takes a look at the downfall of Berlusconi
 date: "2011-11-24 22:46:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
 image_caption: "Ladies, please, stop arguing. There’s enough of me to share with you all"
 headline: true
 featured: true

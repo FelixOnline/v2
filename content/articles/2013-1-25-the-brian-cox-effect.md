@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dreamy science professor turning students on... to science
 date: "2013-01-25 01:25:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250125-tna08-briancox.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250125-tna08-briancox.jpg"
 image_caption: "Oh, Brian, touch me with your hadron"
 headline: true
 featured: true

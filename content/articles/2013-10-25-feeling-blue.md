@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles reviews "Blue is the Warmest Colour"
 date: "2013-10-25 00:50:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250151-felix-128743804_blue_416028b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250151-felix-128743804_blue_416028b.jpg"
 headline: true
 featured: true
 imported: true

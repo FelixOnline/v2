@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thomas Lim asks why students don’t care about the election
 date: "2015-05-04 16:14:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041714-ps3110-studentvoting.jpg"
 headline: true
 featured: true
 imported: true

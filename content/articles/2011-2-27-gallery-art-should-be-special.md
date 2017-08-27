@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Modern art frankly isn’t, argues Charles Betts
 date: "2011-02-27 19:22:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271920-ks607-modernar.jpg"
 headline: true
 featured: true
 imported: true

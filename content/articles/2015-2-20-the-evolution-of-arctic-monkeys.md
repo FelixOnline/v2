@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken chronicles the continuing reinvention of one of Britain’s best-loved bands
 date: "2015-02-20 17:42:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201742-ps3110-am.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201742-ps3110-am.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The beginners’ weekend, as reported by Leon Vanstone
 date: "2012-11-22 22:47:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222247-tna08-kites_aberavon_student_kite_event.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222247-tna08-kites_aberavon_student_kite_event.jpg"
 headline: true
 featured: true
 imported: true

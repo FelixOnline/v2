@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson helps you ease your exam woes
 date: "2013-05-01 20:07:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
 headline: true
 featured: true
 imported: true

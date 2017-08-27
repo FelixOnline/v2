@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Meet the freaking 30 candidates.
 date: "2016-03-04 11:28:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041128-felix-mtc.jpg"
 headline: true
 featured: true
 imported: true

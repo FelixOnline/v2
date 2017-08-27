@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kazakhstan’s largest miner battles Canadian rival over property rights in a war-torn and impoverished region
 date: "2010-10-14 19:33:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
 image_caption: "A copper mine in the Congo"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mario Lepore visits the latest exhibition in Saatchiʼs gallery
 date: "2013-10-11 23:57:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201310120058-jal08-artssaatchi4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310120058-jal08-artssaatchi4.jpg"
 image_caption: "Couch for a long time (2009) by Jessica Jackson Hutchins"
 headline: true
 featured: true

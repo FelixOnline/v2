@@ -4,7 +4,7 @@ title: >
 subtitle: >
   12 hours of protesting has simply dissolved "the idea of protesters as lazy hippies"
 date: "2011-12-01 21:33:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012129-pk1811-anonymous.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012129-pk1811-anonymous.jpg"
 image_caption: "Some people just can’t do anything right..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sorin Cioban finds the iPad 2 delivers consistently
 date: "2011-05-06 08:27:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060928-felix-img_0001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060928-felix-img_0001.jpg"
 image_caption: "Musn't... use... as... coaster!"
 headline: true
 featured: true

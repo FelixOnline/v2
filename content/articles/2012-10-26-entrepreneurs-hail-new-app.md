@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Entrepreneurs meet the founders of the Hailo app
 date: "2012-10-26 02:13:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260313-tna08-hailo-livery-cab-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260313-tna08-hailo-livery-cab-copy.jpg"
 headline: true
 featured: true
 imported: true

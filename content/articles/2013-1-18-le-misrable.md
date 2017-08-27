@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A story of tax increases, strong words, national identity and Russian passports. Not up for nominations at the Oscars
 date: "2013-01-18 00:26:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180026-tna08-french-film-star-gerard-depardieu-42c8-diaporama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180026-tna08-french-film-star-gerard-depardieu-42c8-diaporama.jpg"
 headline: true
 featured: true
 imported: true

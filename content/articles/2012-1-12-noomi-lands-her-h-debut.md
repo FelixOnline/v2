@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The original Girl with the Dragon Tattoo's role in the new Sherlock Holmes film could've used some beefing up - nevertheless, the film is still an enjoyable watch
 date: "2012-01-12 22:51:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
 image_caption: "Elementary my dear Watson, you should never start with French"
 headline: true
 featured: true

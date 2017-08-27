@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cuts in services to postgraduates still unclear
 date: "2013-06-20 23:42:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
 image_caption: "Health Centre blame the College for not filling the gap in funding. College say they increased fundi"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charing Cross likely to close. Waiting times questioned
 date: "2012-10-05 15:52:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051651-felix-charing-cross.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051651-felix-charing-cross.jpg"
 image_caption: "Exciting front page pictures are what you can expect all year..."
 headline: true
 featured: true

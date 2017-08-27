@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This was not an enjoyable film
 date: "2017-07-22 19:45:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
 image_caption: "Franz is a film"
 draft: true
 headline: true

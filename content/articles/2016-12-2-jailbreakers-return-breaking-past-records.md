@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Turns out people really want to get away from Imperial
 date: "2016-12-02 13:43:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ In not so close but equally astonishing second place, rip harambe travelled an i
 
 2016’s Jailbreak challenge went a lot smoother this time round. Last year, one of IC RAG’s Jailbreak teams got pulled off a flight to Turkey after terror suspicions (it was all a misunderstanding). Despite the lack of drama this year, there were still surprises. “I spent £36 on 3G sending a Snapchat, which was fun”, says Jones of team rip harambe, who we hope will think twice next time he enables data roaming in Gambia.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021343-felix-Screen Shot 2016-11-27 at 22.59.24.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021343-felix-Screen Shot 2016-11-27 at 22.59.24.jpg" title="" caption="" attr="" >}}
 
 Though Jailbreak is often criticised when donation money is spent on travelling expenses, teams are expected to pay for their journeys back and they usually also acquire sponsorship per mile travelled, so in the end, despite travel costs, the fundraiser yields significant proceeds. RAG chair, Cynfelyn Nancarrow-Lei, said “ [We tried] to create a per-mile sponsorship form prior to the Jailbreak, so that you raise more for Charity after the Jailbreak (when you know how many miles you have travelled) than you do for flights during the event. I really pushed that this year in the presentation I gave and in emails and social media. Unfortunately the winning team didn’t adopt this method. If they did they could be raising a hell of a lot more. Most other teams will however did take our advice.”
 

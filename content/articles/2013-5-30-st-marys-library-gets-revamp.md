@@ -4,7 +4,7 @@ title: >
 subtitle: >
   £3 million renovation is completed
 date: "2013-05-30 12:11:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305301310-tna08-st-mary-2.jpg"
 image_caption: "Dammit there’s ALWAYS a queue for the printer when you need it most"
 headline: true
 featured: true

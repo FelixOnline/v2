@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at Hyperion — a classic of SF
 date: "2012-10-05 11:24:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051223-felix-hyperion5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051223-felix-hyperion5.jpg"
 image_caption: "Some facelifts just don’t work as well as others"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Osama Awara, new tech editor, informs you about 3D space printing!
 date: "2013-10-12 19:38:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
 headline: true
 featured: true
 imported: true

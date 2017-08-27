@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Old Man offers some wise words to new students
 date: "2012-10-18 21:24:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182223-felix-oldmanfeature.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182223-felix-oldmanfeature.jpg"
 headline: true
 featured: true
 imported: true

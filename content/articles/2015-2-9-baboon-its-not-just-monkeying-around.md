@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Calum reviews the latest game from indie developers Relevo
 date: "2015-02-09 15:12:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201502091512-ps3110-screen-shot-2015-02-09-at-15.12.18.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502091512-ps3110-screen-shot-2015-02-09-at-15.12.18.png"
 headline: true
 featured: true
 imported: true

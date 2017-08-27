@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix visits a new home for pancakes from around the world, Where the Pancakes Are, and devours culinary delights such as Dutch Babies, corn fritters, and more.
 date: "2016-12-02 15:20:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021519-felix-IMG_0529.jpg"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ While waiting for the moment of birth, I spotted the owner, Patricia’s stylish
 
 Patricia lives a life surrounded by all sorts of pancakes. The large, steaming Dutch pancakes in the local pancake house during her childhood in Holland. Living off crepes on the streets of Paris as a poor student. The fluffy American pancakes during her eight years in California as a film producer, striving in the then-booming independent film industry of the 90’s. Now her own inventions in her first brick-and-mortar restaurant. All after a gentle nudge of courage, experimentation and her days serving thousands of pancakes at various festivals, which she humorously described as her “military training”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0415.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021519-felix-IMG_0415.jpg" title="" caption="" attr="Christy Lam" >}}
 
 Her strong, determined, gaze from her light blue eyes was softened by a motherly affection as she continued to describe her dreams of creating a nutritious, wholesome dining experience which this ancient, universally loved dish fuses with modern food trends. In this room, pancakes are not reserved for breakfast, but also for lunch, dinner, a full meal or a decadent snack.
 Her menu was not comprised of your usual, superficial, artery-clogging, syrup-soaked stacks, but an honest menu with high-quality, local ingredients, inspiration from different cultures, and most importantly, generous heaps of TLC. Behind it were sprinkles of pancake-related stories, happy memories serving waffles at school fairs and love for her two children.
@@ -46,4 +46,4 @@ My second visit was definitely not the last. My third visit was on a bright Satu
 
 That, was where the pancakes were.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021520-felix-IMG_6093.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021520-felix-IMG_6093.jpg" title="" caption="" attr="Christy Lam" >}}

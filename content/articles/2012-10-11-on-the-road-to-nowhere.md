@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Only two out of five stars for this. It doesn't matter how cool typewriters are
 date: "2012-10-11 21:12:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112212-felix-on-the-road-still.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112212-felix-on-the-road-still.jpeg"
 image_caption: "Photobombing in the background"
 headline: true
 featured: true

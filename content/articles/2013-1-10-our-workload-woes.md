@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matt Proctor compare us to Oxbridge to see who works harder
 date: "2013-01-10 22:37:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102239-tna08-cambridge-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102239-tna08-cambridge-1.jpg"
 headline: true
 featured: true
 imported: true
@@ -53,7 +53,7 @@ Mathematicians at Imperial get a slightly better deal, with the same number of c
 
 Medicine is a similar story to Physics, with Oxbridge medics having many more practical hours than those at Imperial. However, unlike those at Oxbridge, medics here get the chance to meet patients in their first year. Lottie Whittingham, a first year medic at Imperial questions the benefits of this, “I’m not entirely convinced of the value of seeingpatients, other than for motivation.” She is unperturbed however by the unequal practical hours, “I think they’re more suited to a course which frequently leads to research rather than clinical practice… I don’t think it makes you a more competent doctor, they are more just to aid understanding.” Melanie Coates, another medic, disagrees. She explains why she believes patient interaction is important, “It keeps all the science and theory you’re doing in lectures relevant to becoming a doctor.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301102240-tna08-punting-in-cambridge1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301102240-tna08-punting-in-cambridge1.jpg" title="" caption="" attr="" >}}
 
 Biology, a traditionally lab-based subject, suffers the same problems that Physics does: very few lab hours and tutorials. Ryan Cooke, a Biology student, still finds that he has a lot of work to do: “Note-taking is engulfing” but questions whether a degree from Imperial is really worth the high fees when compared to Oxbridge, “I feel cheated out of my £9000… and relieved I don’t have that many hours [as Cambridge] but cheated! A sour breeze rolls over my relief!” Of course, this opens up a whole other debate about whether the high cost is justified, but other factors such as employment prospects have to be considered.
 
@@ -63,7 +63,7 @@ Just to make you feel even worse, if you still think you have a stupendous amoun
 
 James offers an explanation to his seemingly light timetable, “At first glance it may seem that science students have a lot more work than arts students but I think the amount of work and reading that has to go into some essays is sometimes underestimated by science students. It took me five hours to understand a chapter of a book on my reading list.” Right James, right...
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301112127-tna08-tables_2.jpg" title="Hours per week of contact time for first years. Please note there was an error in the table in the paper, however the total hours is still the same. Whoops..." caption="Hours per week of contact time for first years. Please note there was an error in the table in the paper, however the total hours is still the same. Whoops..." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301112127-tna08-tables_2.jpg" title="Hours per week of contact time for first years. Please note there was an error in the table in the paper, however the total hours is still the same. Whoops..." caption="Hours per week of contact time for first years. Please note there was an error in the table in the paper, however the total hours is still the same. Whoops..." attr="" >}}
 
 [Editorial is here.](http://felixonline.co.uk/comment/3076/just-be-honest/)
 

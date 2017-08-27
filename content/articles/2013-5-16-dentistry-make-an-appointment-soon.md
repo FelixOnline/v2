@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi speaks to dark, ambient up-and-comers Dentistry
 date: "2013-05-16 14:43:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161542-js2310-dentistry.jpg"
 headline: true
 featured: true
 imported: true

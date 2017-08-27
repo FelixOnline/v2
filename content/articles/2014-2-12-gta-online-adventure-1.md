@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grand Theft Auto online finally enables you to play Grand Theft Auto how you want.
 date: "2014-02-12 11:34:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402121136-me1711-games_gta.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This is not the first time a psilocybin study is conducted at Imperial
 date: "2016-05-20 09:06:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
 headline: true
 featured: true
 imported: true

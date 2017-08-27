@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Server issues as rootkit investigation continues
 date: "2011-03-01 20:36:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012033-ks607-computin.jpg"
 image_caption: "There have been a string of ICT mishaps in past weeks"
 headline: true
 featured: true

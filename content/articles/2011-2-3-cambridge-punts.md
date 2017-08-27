@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Or why the size of your laser doesn’t determine the quality of your university experience
 date: "2011-02-03 20:21:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032019-ks607-klasjdfs.jpg"
 headline: true
 featured: true
 imported: true

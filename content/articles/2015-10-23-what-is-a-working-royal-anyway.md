@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
 image_caption: "The Duke of York looks at a low-cost incubator at the Pitch@Palace Bootcamp."
 headline: true
 featured: true

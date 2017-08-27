@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ellie Johnstone on this year’s silliest orienteering competition
 date: "2015-03-03 14:47:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
 headline: true
 featured: true
 imported: true

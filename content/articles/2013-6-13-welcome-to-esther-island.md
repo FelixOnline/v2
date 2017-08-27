@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week’s tour guide is Sanchit Sharma. Feel free to ask him any questions
 date: "2013-06-13 22:37:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132339-tna08-de_lighthouse.jpg"
 image_caption: "Oh God no! The UrbEx itch is back! Probably need some tetanus jabs after though...."
 headline: true
 featured: true
@@ -40,7 +40,7 @@ Visually, the game is stunning. The island is mapped out in great detail, but du
  In addition to this, the soundtrack fits perfectly and complements both the visuals and the monologues very well. It is available to stream or buy from the official website, which is a very good idea on the part of the developers – the soundtrack would be worth the cost of a normal album.
  In order to immerse yourself in the game more, I’d recommend playing it with 3D vision not only on, but turned up at least halfway. It really accentuates the feelings created by the game (at least, up until the bridge of your nose starts hurting because nVidia didn’t think about people who wear glasses), although there are points where it is a good idea to turn it off. This is pretty much only if you go underwater, however, so it isn’t a big deal and does little to damage the immersion.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306132339-tna08-paul0123.jpg" title="It’s like wearing the Boots of Blinding Speed" caption="It’s like wearing the Boots of Blinding Speed" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306132339-tna08-paul0123.jpg" title="It’s like wearing the Boots of Blinding Speed" caption="It’s like wearing the Boots of Blinding Speed" attr="" >}}
 
 _“Donnelly’s book had not been taken out from the library since 1974. I decided it would never be missed as I slipped it under my coat and avoided the librarian’s gaze on the way out. If the subject matter is obscure, the writer’s literary style is even more so, it is not the text of a stable or trustworthy reporter. Perhaps it is fitting that my only companion in these last days should be a stolen book written by a dying man.”_
 

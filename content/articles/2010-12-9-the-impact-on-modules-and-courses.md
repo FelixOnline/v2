@@ -4,7 +4,7 @@ title: >
 subtitle: >
   cuts to staff will not affect teaching
 date: "2010-12-09 21:27:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092115-dr910-IanOwens.jpg"
 headline: true
 featured: true
 imported: true

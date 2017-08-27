@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky wonders why consumers are willing to pay so much for so little
 date: "2014-11-20 20:56:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241251-ps3110-cash.png"
 headline: true
 featured: true
 imported: true

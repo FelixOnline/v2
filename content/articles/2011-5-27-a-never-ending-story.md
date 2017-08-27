@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105271451-felix-angel-fight.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ The most divisive element of Evangelion is probably its plot. I have to admit th
 
 Any discussion of Evangelion would be remiss if it did not mention the infamous ending, which I feel strongly about. The last two of the original 26 episode run were so badly received that I originally skipped right over them and went straight to the remade ending in the 1997 film ‘[The End of Evangelion](http://en.wikipedia.org/wiki/The_End_of_Evangelion)’. I decided to finally watch the original and was shocked by how good it was. I can see why it was so poorly received, being fairly understated, using mainly stock footage and taking place entirely in the minds of our protagonists: a massive departure from the rest of the series. It even lead to the coining of the term ‘Gainax Ending’ after the company which created Evangelion to describe shows which finished with a similar tonal shift. While it is clear that Gainax was having trouble funding these episodes I am inclined to believe statements by the show’s creator Anno Hideaki that this was the ending that he really wanted. The experimental style allowed the viewer to literally see what was going on inside Shinji’s head and made the resolution of the problem of his growing self-doubt, arguably the central theme of the show by that time, all the more believable.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201106051623-ma1307-eoe.jpg" title="End of Evangelion Poster" caption="End of Evangelion Poster" attr="Credit: Gainax" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201106051623-ma1307-eoe.jpg" title="End of Evangelion Poster" caption="End of Evangelion Poster" attr="Credit: Gainax" >}}
 
 ‘End of Evangelion’, on the other hand, was certainly more in keeping with the rest of episodes, and indeed succeeded in being even more over the top. It is saying something when one of the least outlandish scenes was of a German teenager ploughing her way through the Japanese army in a giant mecha while laughing manically and shouting, “Mama, I’ve finally found you”. While it was arguably created to make the ending clearer there I do not think that it really does tell the viewer much more. While we do see Human instrumentality being initiated, in what is certainly one of the most impressive scenes in all of Evangelion, we still do not understand any more about it than when Gendo simply said “Today is the day” in the original penultimate episode. Indeed ‘End’ has its own, much shorter, sequence taking place inside the minds of the protagonists which is even weirder than in the original. The main new element that I think ‘End of Evangelion’ brings to the table are the frankly short but touching conclusions to the character arcs of some of the more minor characters, including my favourites: Lieutenant Ibuki and Professor Fuyutsuki.
 

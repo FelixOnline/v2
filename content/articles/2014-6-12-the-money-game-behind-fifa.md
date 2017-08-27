@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From passionate Torcedores to angry protesters, where is FIFA taking us?
 date: "2014-06-12 13:42:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406121442-me1711-brazil.jpg"
 headline: true
 featured: true
 imported: true

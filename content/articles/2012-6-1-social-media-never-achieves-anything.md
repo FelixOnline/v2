@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
 image_caption: "We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments "
 headline: true
 featured: true

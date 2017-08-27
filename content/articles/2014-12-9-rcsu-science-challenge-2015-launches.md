@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Judges announce the questions for the essay and video competitions
 date: "2014-12-09 14:00:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201412091400-ps3110-web-version-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412091400-ps3110-web-version-copy.jpg"
 headline: true
 featured: true
 imported: true

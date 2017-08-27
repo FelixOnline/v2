@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:53:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the run up to elections Union President Paul Beaumont looks at what he has and hasn’t done this year...
 date: "2013-01-17 23:59:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
 image_caption: "Paul's poster from last year"
 headline: true
 featured: true
@@ -46,7 +46,7 @@ Two recruitment sessions have been run so far this year (normally it’d only be
 ## “I want to make the Union more transparent and better communicate the work it does for students.”
 I think the new website (where we publish all the Council’s responses to government policy and views on College proposals) goes someway to helping this. I also revamped the newsletter though am not writing half as many Felix articles as I’d hoped. I guess people would just get bored anyway. Well done if you’ve made it this far. We’ve invested some more resources into the Union’s marketing recently which should hopefully mean that over the coming years this will improve even more.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301172358-tna08-paul-beaumont.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301172358-tna08-paul-beaumont.jpg" title="" caption="" attr="" >}}
 
 I’m not going to bang on about it, because last time people on the online comments thought I ‘had no mandate’ to do this, but one of the things I’mmost proud of this year is working towards securing a future for the Union: both through Charity Registration and through updated and improved agreements with the College.
 

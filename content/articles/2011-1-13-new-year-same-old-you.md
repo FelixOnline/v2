@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I’m not here to give advice about weight-loss. I’m here to tell you to man up!
 date: "2011-01-13 21:14:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132113-ks607-alexnowb.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michelin-starred dining in Fulham
 date: "2011-05-27 13:53:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201105271453-felix-scothc-egg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105271453-felix-scothc-egg.jpg"
 headline: true
 featured: true
 imported: true

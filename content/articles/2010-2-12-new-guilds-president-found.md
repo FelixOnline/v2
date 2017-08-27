@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dan Lundy wins CGCU elections for Presidency
 date: "2010-02-12 16:23:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002121614-ak6309-CGCULogo.jpg"
 headline: true
 featured: true
 imported: true

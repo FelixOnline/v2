@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah on the release of the first annual report
 date: "2015-03-13 01:22:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130121-cj914-animal-testing-1.jpg"
 image_caption: "An Imperial Fringe event was held in honour of the report’s release"
 headline: true
 featured: true

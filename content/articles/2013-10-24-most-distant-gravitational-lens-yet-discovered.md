@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The most distant example of a gravitational lens has been discovered by scientists in Germany.
 date: "2013-10-24 23:51:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250052-felix-lbt_seip.jpg"
 image_caption: "The Large Binocular Telescope, one of the world’s most advanced, saw first light in 2005"
 headline: true
 featured: true

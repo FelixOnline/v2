@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mario Lapore reviews JOHN, a contemporary dance show
 date: "2014-11-14 20:52:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142051-ps3110-for-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142051-ps3110-for-website.jpg"
 headline: true
 featured: true
 imported: true

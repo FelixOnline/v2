@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Discontent with the restricted views offered by India’s tuk-tuks, Chris Richardson takes to the skies to catch a bird’s eye view of India’s Golden Triangle
 date: "2011-11-24 20:15:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
 image_caption: "Kicking back with a chai while the Sky Waltz team get the show on the road"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ And what views they were! It’s not often I get to say “I’m so glad we came
 
 Having been confined to seeing India from tuk-tuks for far too long, the bird’s eye view was welcome and wonderful. The location is perfect for catching a mix of the busting city and the calmer countryside, and against the emerald backdrop the roaming wildlife and glistening garments of village ladies looked stunning. I’m sure colour is what I’ll miss the most about India, and from the sky you can really see it all.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242015-pk1811-262890_10150757532390504_647705503_20236146_3268871_n.jpg" title="Waves and gazes of awe as the balloon soars over rural villages" caption="Waves and gazes of awe as the balloon soars over rural villages" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242015-pk1811-262890_10150757532390504_647705503_20236146_3268871_n.jpg" title="Waves and gazes of awe as the balloon soars over rural villages" caption="Waves and gazes of awe as the balloon soars over rural villages" attr="" >}}
 
 Being the first balloon of the season, we attracted the attention of countless villagers as we passed overhead; when the pilot kindly dipped us closer to the ground hoards of children chased and waved at us with a morning “namaste!” It was also a great experience for us to catch a glimpse of their morning rituals without being overly invasive.
 

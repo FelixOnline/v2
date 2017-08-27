@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In honour of Mary Somerville appearing on the new RBS £10 note, FELIX explores which other scientists have previously been represented, and asks who’s next?
 date: "2016-02-19 11:22:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191121-felix-800px-Thomas_Phillips_-_Mary_Fairfax,_Mrs_William_Somerville,_1780_-_1872._Writer_on_science_-_Google_Art_Project.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191121-felix-800px-Thomas_Phillips_-_Mary_Fairfax,_Mrs_William_Somerville,_1780_-_1872._Writer_on_science_-_Google_Art_Project.jpg"
 image_caption: "Mary Somerville, a scientific badass in astronomy and mathematics, proposed to be the new face of the Scottish £10."
 headline: true
 featured: true

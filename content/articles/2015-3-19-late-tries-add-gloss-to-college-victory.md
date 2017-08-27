@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as College are victorious in the Men's match at the Stoop
 date: "2015-03-19 23:39:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192338-kmw13-tbl_varsity_quick_set_22h37m24s.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192338-kmw13-tbl_varsity_quick_set_22h37m24s.jpg"
 headline: true
 featured: true
 imported: true

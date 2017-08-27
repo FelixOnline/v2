@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This Knightsbridge hotel doesn’t do snooty or pretentious
 date: "2010-10-28 19:35:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201104201750-felix-868678.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104201750-felix-868678.jpeg"
 headline: true
 featured: true
 imported: true

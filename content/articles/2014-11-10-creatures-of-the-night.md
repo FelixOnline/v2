@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman goes on a nightly stroll with Jake Gyllenhaal
 date: "2014-11-10 21:41:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102141-ps3110-nightcrawler-teaser.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102141-ps3110-nightcrawler-teaser.jpg"
 headline: true
 featured: true
 imported: true

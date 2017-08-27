@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kirstin Hay takes on "Blurred Lines".
 date: "2013-10-18 21:43:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182242-jal08-robin-thicke.jpg"
 headline: true
 featured: true
 imported: true

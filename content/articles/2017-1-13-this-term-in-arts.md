@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik gives her tips for a term full of culture
 date: "2017-01-13 14:42:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201701131441-felix-L2017.4_vanMeene-e1478536802365.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131441-felix-L2017.4_vanMeene-e1478536802365.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ Where?  Whitechapel Gallery
 When? 18th Jan-16th April 2017
 How Much? Free
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701131442-felix-Hamlet_1470x690_version_3.jpg" title=" Almeida" caption=" Almeida" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701131442-felix-Hamlet_1470x690_version_3.jpg" title=" Almeida" caption=" Almeida" attr="" >}}
 
 ## Hamlet
 London is rarely without a performance of Hamlet on one its stages. Almeida’s staging features Andrew Scott (of Moriarty fame) in his first performance in the role. Director Robert Icke is known for his startling updates on classic works. His last work at the Almeida was Chekov’s Uncle Vanya whose star, Jessica Findlay  Brown, returns in his Hamlet as Ophelia. Icke’s plays skewer audience perceptions and expectations and challenge them to consider seminal works of literature as starkly modern and relevant commentaries. When he staged 1984 at the Almeida in 2014 in our modern world of constant surveillance a few years ago, a couple of  audience members fainted during the torture scenes, though the stage was dark and nothing was shown. In an interview with The Financial Times earlier last year, he spoke of what compels him to reinvent classics to inject them with such vital and present energy, in Hamlet Icke wants to ask “to sit there in 1599 and watch this play that speaks directly to your anxiety: what does that feel like?”

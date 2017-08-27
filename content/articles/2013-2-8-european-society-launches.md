@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new society launches
 date: "2013-02-08 00:36:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080035-tna08-logo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080035-tna08-logo.jpg"
 headline: true
 featured: true
 imported: true

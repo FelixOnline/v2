@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FelixSport enters 2010, at a quick jog...
 date: "2010-01-14 22:33:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201001142230-rsp07-kwameski.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001142230-rsp07-kwameski.jpg"
 headline: true
 featured: true
 imported: true

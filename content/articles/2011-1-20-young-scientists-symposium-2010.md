@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICSMSU Muslim Medics host another successful evening of academic prowess
 date: "2011-01-20 20:56:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202051-nm1010-youngsci.jpg"
 headline: true
 featured: true
 imported: true

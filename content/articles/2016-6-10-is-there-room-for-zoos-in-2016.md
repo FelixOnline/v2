@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In a post-Harambe world, should we still be paying to see animals in captivity?
 date: "2016-06-10 08:29:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101029-felix-7298442782_124ae1b096_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101029-felix-7298442782_124ae1b096_o.jpg"
 image_caption: "A captive lowland gorilla. There are less than 100,000 left in the wild."
 headline: true
 featured: true

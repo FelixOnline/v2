@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Russell Group uni will be investing the £250 million in student facilities
 date: "2016-02-26 11:26:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
 image_caption: "They have bonds, and arguably a nicer library."
 headline: true
 featured: true

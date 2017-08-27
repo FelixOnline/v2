@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are protons all coot and ickle?
 date: "2013-02-07 23:21:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
 headline: true
 featured: true
 imported: true

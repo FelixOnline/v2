@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Games Designer - Hugh Osborn
 date: "2012-06-14 20:20:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ I appreciate games for their artistic/conceptual value a lot more than I used to
 
 Often the way we deal with them is to dodge around them!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142120-pk1811-title1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142120-pk1811-title1.jpg" title="" caption="" attr="" >}}
 
 E - What are your impressions of the gaming scene, and the indie game scene in particular?
 
@@ -57,7 +57,7 @@ H - Nothing has gone catastrophically wrong so far. Trouble is, I won’t know u
 
 One thing I’ve learned is that you should always pay people. During uni I interned at a bunch of games studios for little or no pay most of the time. Since it happened to me, I thought that I could get away with paying someone nothing for a couple of jobs that needed doing but it ended up being a disaster and it was my fault for a complete lack of professionalism. Still, I wouldn’t be doing what I’m doing if it wasn’t exciting and I wasn’t learning anything.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142120-pk1811-exeuntpipes.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142120-pk1811-exeuntpipes.jpg" title="" caption="" attr="" >}}
 
 E - What other things would you suggest to people who wanted to do a similar kind of thing?
 

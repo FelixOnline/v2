@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Third win in a row sees 1sts go top of their league
 date: "2011-11-17 22:29:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172229-felix-varsity2011-454.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl discovers an incredible pair at a banging price, just £20. Get in!
 date: "2012-11-18 13:07:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211181306-jp1409-1.jpg"
 headline: true
 featured: true
 imported: true

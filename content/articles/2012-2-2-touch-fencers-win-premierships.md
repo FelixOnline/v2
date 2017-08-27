@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
 image_caption: "Singing rowdy songs all together after a match"
 headline: true
 featured: true

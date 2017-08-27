@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caroline Wood fell in love - with a handbag
 date: "2012-02-23 20:36:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232035-ams111-coco-chanel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232035-ams111-coco-chanel.jpg"
 image_caption: "Oh Coco, smoking isn’t cool, it just sort of looks it. Damn"
 headline: true
 featured: true

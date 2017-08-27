@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng examines how Drawn by Light reimagines photography
 date: "2015-02-17 16:37:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
 image_caption: "Leicester Square, 1896, Paul Martin, The Royal Photographic Society Collection."
 headline: true
 featured: true

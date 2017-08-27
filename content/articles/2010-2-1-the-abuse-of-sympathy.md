@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141738-gda07-Gileadsa.jpg"
 headline: true
 featured: true
 imported: true

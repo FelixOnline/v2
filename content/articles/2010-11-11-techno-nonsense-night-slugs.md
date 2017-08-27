@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112122-ks607-ivisboki.jpg"
 image_caption: "Founders L-Vis 1990 and Bok Bok"
 headline: true
 featured: true

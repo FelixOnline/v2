@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope interviews Dr Fuchter, a synthetic and medicinal chemist at ICL
 date: "2013-05-08 16:36:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201305081738-tna08-army.mil-57569-2009-12-01-061217.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305081738-tna08-army.mil-57569-2009-12-01-061217.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ Because they’re not flat how they pack in the solid state is somewhat differen
 
 But also, because helicenes are helical they’re also chiral, and can therefore come in left- and right-handed forms. We were interested in how this chirality could potentially be exploited in organic devices.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305081738-tna08-icimages.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305081738-tna08-icimages.jpg" title="" caption="" attr="" >}}
 
 Putting these features together we wanted to explore the idea of using helicenes as the organic emissive material in OLEDs. It’s an interesting new class of molecule in their own right, but also have the potential to directly generate polarised light.
 
@@ -61,7 +61,7 @@ Academically, we want to further study what is happening, what the helicene is d
 
 Beyond that, OLEDs are one example of plastic electronics. This encompasses a whole range of OLED devices, such as organic transistors, organic solar cells and so on. Do helicenes have applicability with other devices? Do they have any advantage, with their chiral property? Again, we still don’t know just yet.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305081739-tna08-oled_schematic.svg-copy" title="1) Cathode; 2) Organic emissive layer; 3) Radiation emission; 4) Organic conductive layer; 5) Anode. A voltage is applied across the OLED, creating an electric current (an electron flow) that flows from the cathode to the anode. Electrons are given to the emissive layer and removed from the conductive layer. Stripping electrons from the conductive layer creates holes that need filling with more electrons. These holes jump up to the emissive layer to recombine with electons. Upon recombination energy is released as a photon of light. The colour of the emitted light depends upon the material composing the emissive layer." caption="1) Cathode; 2) Organic emissive layer; 3) Radiation emission; 4) Organic conductive layer; 5) Anode. A voltage is applied across the OLED, creating an electric current (an electron flow) that flows from the cathode to the anode. Electrons are given to the emissive layer and removed from the conductive layer. Stripping electrons from the conductive layer creates holes that need filling with more electrons. These holes jump up to the emissive layer to recombine with electons. Upon recombination energy is released as a photon of light. The colour of the emitted light depends upon the material composing the emissive layer." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305081739-tna08-oled_schematic.svg-copy" title="1) Cathode; 2) Organic emissive layer; 3) Radiation emission; 4) Organic conductive layer; 5) Anode. A voltage is applied across the OLED, creating an electric current (an electron flow) that flows from the cathode to the anode. Electrons are given to the emissive layer and removed from the conductive layer. Stripping electrons from the conductive layer creates holes that need filling with more electrons. These holes jump up to the emissive layer to recombine with electons. Upon recombination energy is released as a photon of light. The colour of the emitted light depends upon the material composing the emissive layer." caption="1) Cathode; 2) Organic emissive layer; 3) Radiation emission; 4) Organic conductive layer; 5) Anode. A voltage is applied across the OLED, creating an electric current (an electron flow) that flows from the cathode to the anode. Electrons are given to the emissive layer and removed from the conductive layer. Stripping electrons from the conductive layer creates holes that need filling with more electrons. These holes jump up to the emissive layer to recombine with electons. Upon recombination energy is released as a photon of light. The colour of the emitted light depends upon the material composing the emissive layer." attr="" >}}
 
 LP: Has much research been carried out with helicenes before?
 

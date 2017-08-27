@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Machete in hand, Andrew Purcell sets off to explore our urban jungle...
 date: "2011-03-18 06:56:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201103180652-ks607-urbaneco.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103180652-ks607-urbaneco.jpg"
 headline: true
 featured: true
 imported: true

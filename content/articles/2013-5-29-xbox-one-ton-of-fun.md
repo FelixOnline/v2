@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Apparently the one and only center of your new Multimedia world! It may even catch you masturbating...
 date: "2013-05-29 12:38:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201305291655-tna08-xboxone_rgb_stacked.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305291655-tna08-xboxone_rgb_stacked.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,6 +32,6 @@ The idea that you could get a device that controlled all your different devices,
 
 Now let the Xbox One step into the light. Firstly the name; the Xbox One itself refers to the fact that it will be the only device you will need in your home (except for the Screen, TV-box etc.), and will serve as the hub of all your entertainment needs. Thus it seems that everything will be controlled by this central hub, which certainly does help to reduce the copious amounts of remote controls that lay around. It not only has a HDMI input, but also an output allowing for your current set up to be connected to your new console. Apart from serving as an entertainment hub it can access the internet, run Windows 8 apps, let you watch TV, Skype calls, play blu-ray discs, oh and did I forget to mention, it also happens to play games. Now that seems to be the attitude with which Microsoft approached the Xbox One, despite the 360 being one of the most successful flagships for the hardcore gamer. Eight years ago when the 360 was released, in 2005, the first iPhone was probably a bunch of wires in some Apple technician’s desk and went on to be quite a hit. So why did Microsoft totally change their apparently winning strategy? Smartphones and tablets, that’s why. With the advent of free-to-play games and casual gamers, the money in the market has moved away from the classic niche of the console gamer, where, apart from the big name titles, there are rarely any success stories. Therefore with this strategy of controlling your multimedia as well as offering a quality gaming console, Microsoft is hoping to appeal to those casual as well as hardcore gamers, and thus maximise profits.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305291655-tna08-xbox-one-kinect.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305291655-tna08-xbox-one-kinect.jpg" title="" caption="" attr="" >}}
 
 Now what does this strategy mean for the major competitors of the Xbox One, the Wii U and the PS4. Well Sony seems to have retained the same strategy with the PS4 as the PS3, and in fact Nintendo has tried to go the opposite way with making the Wii U: appealing more to the hardcore gamer than the Wii. So it seems that the Xbox’s strategy is unique in this market. There are two possible consequences of this uniqueness. One, the average console gamer is pissed off at Microsoft for betraying them and selling out, meaning they will probably buy the PS4. Two, if the hardcore gamer doesn’t care what his console does apart from offering the best gaming experience possible, then the Xbox seems just as attractive as its competitors. The big difference is that even if Microsoft loses some of those true gamers, it will likely get more of the not so gaming inclined folks who like their devices to make their lives somewhat easier.

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange finds that the auditory component of Beckett's work far outweighs the visuals
 date: "2015-06-16 18:55:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201506161952-ff712-rsz_203.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506161952-ff712-rsz_203.jpg"
 image_caption: "Pan Pan Theatre, All That Fall"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cross Country take on Batavierenrace and come fourth
 date: "2016-04-29 11:00:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291200-felix-bata3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291200-felix-bata3.jpg"
 headline: true
 featured: true
 imported: true

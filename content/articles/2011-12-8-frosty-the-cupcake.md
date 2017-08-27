@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Warm up the kitchen with some classic Christmas baking
 date: "2011-12-08 21:50:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082150-pk1811-img_7297.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082150-pk1811-img_7297.jpg"
 headline: true
 featured: true
 imported: true

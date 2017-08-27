@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rajvinder Virdee discusses what we might reap from Osborne’s offerings in the Autumn Statement
 date: "2011-12-01 19:49:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201112011949-pk1811-screen-shot-2011-11-30-at-09.31.03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112011949-pk1811-screen-shot-2011-11-30-at-09.31.03.jpg"
 image_caption: "Rural scences depicted in The Harvest (1882) by Camille Pissarro, who also kept an eye on Capitalism"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010103-tna08-payment-for-halls.jpg"
 image_caption: "A screenshot showing a monthly payment"
 headline: true
 featured: true
@@ -33,7 +33,7 @@ An anonymous source, however, told Felix, that they “pay about £290.53 a mont
 
 These figures have, however, been challenged by Paul Noke, Head of College Residential Services, who told Felix that the company who owns the building “currently charges rents of £105.51 per week for rooms elsewhere in the building”. However, Felix has obtained documents showing that the rooms do indeed cost around £290 per month, as stated above.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303021434-tna08-parsonscharge2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303021434-tna08-parsonscharge2.jpg" title="" caption="" attr="" >}}
 
 Noke explained that the higher College rents resulted primarily from the College being “obliged to pay an annual rent for the rooms (including water, electricity, planned maintenance for the building) even though the rooms currently form part of the UG accommodation portfolio [and as such] are used to accommodate Imperial students on 39 week contracts”. He further explained that “5 of the 48 rooms that form part of [the] contract are used to provide Wardening accommodation, [which] needs to be paid for”; that, “ students get hall events/parties [which are] organised by the Wardens and Hall Committee [and] are paid for by the amenities fund, which is charged for within the rent” and that privately renting residents “are also responsible for some of their own minor repairs to their flats, whereas [Imperial] students would not be expected to pay for this”. He concluded that “the £121.82 per week rent that we currently charge is correct once you divide all of the costs over the 39 week licence period” and was also careful to point out that private rooms “are rented on six month rolling tenancies, so a room only become available when a tenancy is relinquished”. This means “an undergraduate student may not be able to secure accommodation there for the whole of the academic year” unless renting from Imperial.
 

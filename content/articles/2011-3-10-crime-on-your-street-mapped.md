@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Police.uk throws up little in the way of surprises
 date: "2011-03-10 19:30:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101922-nm1010-mapmapma.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101922-nm1010-mapmapma.jpg"
 image_caption: "No crime at Imperial, except bike thefts of course..."
 headline: true
 featured: true

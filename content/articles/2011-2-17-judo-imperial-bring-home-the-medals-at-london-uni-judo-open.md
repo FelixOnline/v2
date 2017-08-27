@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Judo club in nine medal haul
 date: "2011-02-17 20:54:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172052-nm1010-judojudo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172052-nm1010-judojudo.jpg"
 headline: true
 featured: true
 imported: true

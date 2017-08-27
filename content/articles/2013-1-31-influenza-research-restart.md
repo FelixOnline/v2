@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the H5N1 moratorium and why caution isn’t bad
 date: "2013-01-31 23:31:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302011233-tna08-h5n1.jpg"
 headline: true
 featured: true
 imported: true

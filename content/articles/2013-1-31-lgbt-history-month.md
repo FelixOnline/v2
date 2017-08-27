@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Russell Hills introduces you to Section 28 and LGBT issues
 date: "2013-01-31 23:16:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
 image_caption: "The theme for LGBT History Month 2013 is Maths, Science and Engineering: keep an eye out for our art"
 headline: true
 featured: true
@@ -39,7 +39,7 @@ There were many aspects of this act that were damaging to the homosexual communi
 
 Many people and groups spoke out against this legislation, and it prompted Sir Ian McKellen to publicly come out on BBC Radio 3 during a discussion of the Act. Regarding Section 28, he says: “The notorious Section 28 was a disaster for children in state schools because it encouraged their teachers to lie about homosexuality”. It was repealed (against much opposition) in 2000 in Scotland and 2003 in the rest of Great Britain.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301312316-tna08-section28.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301312316-tna08-section28.jpg" title="" caption="" attr="" >}}
 
 ## Why do we celebrate LGBT History Month?:
 While LGBT people and couples in the UK enjoy most of the legal freedoms enjoyed by everyone else, many of these were only introduced within the last 10-15 years. These include equal age of consent (2001), transexualism declassified as an illness (2002) and various anti-discrimination laws (1999-2010). However, there are still some areas (such as blood donation) where laws aren’t equal. Laws regarding equal marriage are currently being introduced.
@@ -64,4 +64,4 @@ IQ is Imperial College’s LGBT society.If you wish to come to our events, you c
 
 If you identify as LGBTQ (lesbian, gay, bisexual, transgender, queer or questioning) and are aged 16-25, you are invited to take part in the Youth Chances survey. The project aims to assess the quality of life experienced by LGBTQ youths in the UK by gartering data from 15,000 people. If you wish to take part or get more information, please visit [www.youthchances.org](http://www.youthchances.org).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301312316-tna08-iqlogo.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301312316-tna08-iqlogo.jpg" title="" caption="" attr="" >}}

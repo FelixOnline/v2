@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tom Vek – Leisure Seizure – Island – 2011
 date: "2012-06-15 07:50:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICURFC 3rd XV going uphill against St. George’s
 date: "2013-02-08 00:16:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080016-tna08-ruggy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080016-tna08-ruggy.jpg"
 headline: true
 featured: true
 imported: true

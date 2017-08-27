@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has tips to make helping friends easier
 date: "2015-05-15 12:52:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
 image_caption: "A group of kind committed friends can bring even an old grey grumpy donkey to a smile"
 headline: true
 featured: true

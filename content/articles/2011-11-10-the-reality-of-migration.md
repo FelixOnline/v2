@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New research investigates the environmental links with migration
 date: "2011-11-10 20:58:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102056-pk1811-drought_wetland.jpg"
 image_caption: "Environmental factors such as drought are influencing migration"
 headline: true
 featured: true

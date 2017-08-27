@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rajvinder Virdee on who he thinks is crashing the Euro's party
 date: "2012-02-02 19:52:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201202021951-ams111-happy-birthday-cake.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202021951-ams111-happy-birthday-cake.jpg"
 image_caption: "Here's to another ten years...?"
 headline: true
 featured: true

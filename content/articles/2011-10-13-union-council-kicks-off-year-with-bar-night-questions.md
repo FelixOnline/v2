@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First meeting brings financial questions
 date: "2011-10-13 20:22:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132119-felix-smith.jpg"
 image_caption: "David Smith takes the chair this year"
 headline: true
 featured: true

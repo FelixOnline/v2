@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Want to set up Ghost? Joe shows you how...
 date: "2014-05-02 01:46:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020246-jal08-tech_blogging.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020246-jal08-tech_blogging.png"
 headline: true
 featured: true
 imported: true

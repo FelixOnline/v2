@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michelle Tan explores both the longstanding and the faddy
 date: "2014-11-06 21:08:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062109-snb11-0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062109-snb11-0.jpg"
 image_caption: "The Food Editor's diet of choice has got to be the seafood diet: she sees food and eats it"
 headline: true
 featured: true

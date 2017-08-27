@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the war between developers and consumers continues, Apple continues to dominate the applications market
 date: "2011-10-27 22:19:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
 image_caption: "Sized apples move through an apple packing plant at one of the California Apple Commision’s factorie"
 headline: true
 featured: true

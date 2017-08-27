@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizabeth Windo discusses the good and the bad of the LGBT community
 date: "2017-02-10 13:51:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
 headline: true
 featured: true
 imported: true

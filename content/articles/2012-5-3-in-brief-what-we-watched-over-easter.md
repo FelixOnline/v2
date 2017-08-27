@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A series of mini-reviews
 date: "2012-05-03 18:25:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031926-ams111-21-jump-street-007.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031926-ams111-21-jump-street-007.jpg"
 headline: true
 featured: true
 imported: true

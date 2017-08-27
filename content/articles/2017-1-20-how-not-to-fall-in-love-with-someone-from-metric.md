@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Remember that one night stand in Metric? Time to deal with the fallout.
 date: "2017-01-20 15:58:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.56.51.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.56.51.png"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ So, you’ve arranged to see them again. Don’t cancel plans to see them. You h
 ## 4 | Just say no (to emotional blackmail)
 You’ve successfully booty called them. Do not be convinced to have unsafe sex. It’s just a trap, and they just want to be exclusive with you after they pass on whatever niche strain of HPV they’re carrying. Sexual exclusivity is just a pretence, what they really want is emotional exclusivity and the corresponding emotional blackmail that comes along with it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.57.19.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.57.19.png" title="" caption="" attr="" >}}
 
 ## 5 | There’s no ‘us’ in ‘friends with benefits’
 Make sure you bring up your fear of commitment and your complete inability to form permanent bonds with humans, not just the first time you meet up with them, but every time you meet up with them. This manages their expectations, and stops them falling in love with you. There is a possibility that this will backfire. (Did I mention I’m in love with my therapist?) There is a high proportion of your sex-friends who will just want you more, by virtue of not being able to have you. (But it’s cool, we’re just friends. I don’t mind. Honestly.) Play by ear, and proceed with caution.
@@ -51,7 +51,7 @@ Cuddling is okay, but only as long as it feels good. Don’t put up with Dead Ar
 
 Avoid affectionate nicknames. Don’t by any means call them babe or honey. Do call them dude, man, or pal, regardless of gender. Pet names are the first step to emotional attachment, and after emotional attachment comes codependence, and we all know where that leads. Prison.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701201558-felix-Screen Shot 2017-01-20 at 15.57.04.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701201558-felix-Screen Shot 2017-01-20 at 15.57.04.png" title="" caption="" attr="" >}}
 
 ## 9 | Avoid prolonged eye contact
 As it is commonly known, gazing into someone’s eyes for longer than five minutes (cumulative) means you’ll fall in love with them. It’s like your annual radiation dose, once you’ve reached your max, you need to end it. Immediately. You know you’re in deep shit once you know your fuck buddy’s eye colour. It’s also common knowledge that during prolonged eye contact sessions, you lose control of your mouth, and are liable to blurt out something like, “I really like spending time with you”, or, God forbid, the L word (and we don’t mean lesbian). If you find them about to say something sappy, simply place your finger on their lips. “Shhhhhh...”

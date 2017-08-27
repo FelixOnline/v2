@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Astrid Armgarth gives American Horror Story: Asylum a raving review
 date: "2012-12-07 02:42:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070242-tna08-american-horror-story-asylum-american-horror-story-32431052-1600-1200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070242-tna08-american-horror-story-asylum-american-horror-story-32431052-1600-1200.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ The first season sets off as a family of three moves into a wonderful chateau in
 
 The second season brings on a new theme of horror that takes place in an insane asylum (Briarcliff) in the 1960s. This institution is run by iron fists of a nun (Sister Jude) that carries a past of alcoholism and tragedy. And as they say: bad habits die hard, and people from the ward seem to be dropping like flies. Many of these deaths are attributed to the asylum’s experimental medic Dr. Arden who transforms these poor souls into deformed creatures. I should probably mention that he also used to serve as an SS officer back in the day. By his side is the gullible and loyal Sister Mary Eunice who becomes possessed by the devil half-way through the season. In addition, one of the inmates has been committed on the basis of false murder accusations, while the real ‘bloody face’ killer is still on the loose. This nickname was picked up from his passion for carving off the faces of his victims to wear them as masks (or make pretty lamp-shades).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070242-tna08-american-horror-story-asylum-unveils-eerie-posters.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070242-tna08-american-horror-story-asylum-unveils-eerie-posters.jpg" title="" caption="" attr="" >}}
 
 Yes, the second season does sound drastically wackier than the first (and I did not even mention the aliens). But regardless of its extreme oddities the amazing cast makes it virtually impossible to stop watching this show. Some actors are re-occurring in both seasons due to their phenomenal performances. The fact that they are portraying completely different roles in the two seasons strengthens the proof of their theatrical aptitude.
 

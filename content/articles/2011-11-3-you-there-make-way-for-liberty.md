@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Quand je sens que ma foi dans les forces suprêmes faiblit, je pense toujours au miracle de l’anti-freeze” – by Ninochka Vodanoj
 date: "2011-11-03 21:03:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032103-pk1811-occupy_snow.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032103-pk1811-occupy_snow.jpg"
 image_caption: "Temperatures plummet in Zuccotti park, and a full-time Occupier warms his hands while pondering whic"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Calum Grant interviews science writer Simon Singh.
 date: "2013-10-20 01:30:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201310200229-jal08-simon_singh_at_the_merseyside_skpetics_society.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310200229-jal08-simon_singh_at_the_merseyside_skpetics_society.jpg"
 headline: true
 featured: true
 imported: true

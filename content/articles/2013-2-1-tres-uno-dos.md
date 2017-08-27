@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl reviews the final instalment from Green Day
 date: "2013-02-01 00:50:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010051-tna08-tre-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010051-tna08-tre-cover.jpg"
 headline: true
 featured: true
 imported: true

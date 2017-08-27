@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wooh!
 date: "2017-03-10 14:39:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101438-felix-gospel choir.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101438-felix-gospel choir.JPG"
 headline: true
 featured: true
 imported: true

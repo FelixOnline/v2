@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A step-by-step guide to creating a successful iPhone app
 date: "2011-01-27 19:24:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271919-ks607-robertna.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271919-ks607-robertna.jpg"
 headline: true
 featured: true
 imported: true

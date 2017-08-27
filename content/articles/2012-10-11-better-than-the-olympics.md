@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caroline Wood reports on the newest sports craze to hit campus
 date: "2012-10-11 20:59:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112159-felix-players.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112159-felix-players.jpeg"
 image_caption: "Global celebrity Alan Soltani. Known as the “Tiger Woods of RPS”. Hopefully for the right reasons"
 headline: true
 featured: true

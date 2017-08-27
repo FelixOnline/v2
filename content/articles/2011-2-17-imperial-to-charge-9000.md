@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial becomes first university to officially declare plans to raise fees to maximum level
 date: "2011-02-17 18:44:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031930-ks607-higherfe.jpg"
 headline: true
 featured: true
 imported: true

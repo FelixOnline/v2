@@ -4,7 +4,7 @@ title: >
 subtitle: >
   London: the cultural centre
 date: "2014-11-10 21:20:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102120-ps3110-london-3_2885892b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102120-ps3110-london-3_2885892b.jpg"
 headline: true
 featured: true
 imported: true

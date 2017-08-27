@@ -4,7 +4,7 @@ title: >
 subtitle: >
   You can watch the video here: https://www.youtube.com/watch?v=_XYGHr7zr3M
 date: "2015-03-06 13:56:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061354-ps3110-screen-shot-2015-03-05-at-21.00.56.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061354-ps3110-screen-shot-2015-03-05-at-21.00.56.png"
 headline: true
 featured: true
 imported: true

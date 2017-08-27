@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Guerrilla girls going ape
 date: "2013-06-05 18:22:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051912-tna08-image2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051912-tna08-image2.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,17 +29,17 @@ The artistic world, which is often held up as an egalitarian beacon of hope, is 
 
 This is a question that is familiar to the Guerrilla Girls, a collective of feminist activists who combat sexism in the art world through humour and hard-hitting visuals. Founded in 1985, following the MoMA’s exhibition An International Survey of Recent Painting and Culture, in which only 13 of the 169 artists were women, they have become known for their distinctive visual style.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051914-tna08-venus-de-milo.jpg" title="Could the disparity between the number of male and female nudes be down to the ‘Male Gaze’?" caption="Could the disparity between the number of male and female nudes be down to the ‘Male Gaze’?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051914-tna08-venus-de-milo.jpg" title="Could the disparity between the number of male and female nudes be down to the ‘Male Gaze’?" caption="Could the disparity between the number of male and female nudes be down to the ‘Male Gaze’?" attr="" >}}
 
 Taking on the names of dead female artists and dressing up in gorilla masks, they descend upon art galleries, leaving a trail of evidence of discrimination in their wake. One of their most famous posters is from 1989, and asks the question ‘do women have to be naked to get into the Met?’, prompted by the fact that less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were. In a recent recount they found that – despite more than 20 years of activism, during which museum curators promised to display more art by women and minority artists – the percentage of female artists had actually decreased. But why is this the case? Why are the major museums so reluctant to display works by women artists?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051918-tna08-yoko-ono.jpg" title="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" caption="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051918-tna08-yoko-ono.jpg" title="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" caption="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" attr="" >}}
 
 Could the disparity be down to the ‘Male Gaze’? First described by feminist film theorist Laura Mulvey in 1975, it describes the idea that in film – and indeed, within any visual art form – we are looking from the perspective of a heterosexual male. They are in control of the camera, the ones holding the brush, and therefore it is through their eyes that we see the work.
 
 The case has been made that the female form is more visually appealingand, although it could be argued that this is only due to how entrenched the gaze is in society, perhaps this is why there are so few female artists; lacking ‘the gaze’, they find it more difficult to make work that is appealing to viewers. This could also explain the disproportionate number of female nudes – they are simply more appealing. Just as the camera lingers on a woman’s curves, so too does the artistic canon linger on the nudes of Titian, Manet, and Klimt.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051913-tna08-yayoi-kusama_2011.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051913-tna08-yayoi-kusama_2011.jpg" title="" caption="" attr="" >}}
 
 Such an explanation is simple and concise; unfortunately it is also misguided. There is no shortage of female artists exploring their own form, and yet it is rare that we get to see these portrayals. It can be seen in the work of Nan Goldin, whose puffy bruised face stares out of photos, acting as a documentation of her abuse. It can be seen in the work of Tracey Emin, whose exploration of her rape and sexuality is bold and brave. And it can be seen in the work of Hannah Wilke, whose brutal posthumous collection Intra-Venus documents her slow death from lymphoma. This work is seldom seen in galleries, and is even rarer in art history classes.
 
@@ -49,7 +49,7 @@ These women have taken control of their own bodies, refusing to simply be object
 
 Such an attitude has also been taken against the art forms historically dominated by women. Pottery, needlework, and textiles have traditionally been considered ‘women’s work’; dominated by women, they are lumped together as ‘handicrafts’, a genre completely separate – and far inferior – to the male-dominated ‘fine arts’. The Feminist Art movement of the 1970s tried to address this attitude by elevating the decorative arts to the level of the fine arts, a mission that reached its zenith with Judy Chicago’s 1979 piece The Dinner Party, in which place settings are laid out for 39 great women from history. Handcrafted table runners celebrated these women’s achievements, while the plates were decorated with images of butterflies and flowers, symbolic of vulvas, all in an effort to celebrate the decorative arts.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051915-tna08-michelangelos_david.jpg" title="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" caption="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051915-tna08-michelangelos_david.jpg" title="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" caption="A study in 1989 found that in the Met less than 5% of the artists in the Met’s modern section were women, but 85% of the nudes were" attr="" >}}
 
 Unfortunately, very little has changed, and the hierarchy of the arts continues in the way described by Le Corbusier in 1918: ‘Decorative arts at the bottom, and the human form at the top. Because we are men’.
 
@@ -63,7 +63,7 @@ The very few pre-19th century female artists are often daughters of other famous
 
 For an example closer to home, we need do no more than walk down to Green Park and visit the Royal Academy; founded in 1768 to ‘promote the arts of design in Britain’, it took another century until the first women enrolled, in 1860. Even then, women were barred from life drawing until 1893, and even then the subject had to be partially clothed. It was not until 1936, nearly 200 years after it was founded, that a woman was elected to the Royal Academy. With such constraints placed on their training, it is hardly surprising that we have no female Turner.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051912-tna08-tumblr_mlvj8h2ssh1qz6f9yo1_500.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051912-tna08-tumblr_mlvj8h2ssh1qz6f9yo1_500.jpg" title="" caption="" attr="" >}}
 
 Another subject Nochlin touches upon in her essay is the idea of the ‘golden-nugget theory of genius’; within art history there is a tradition, stretching back centuries, of the ‘genius artist’, plucked from obscurity and somehow destined to make masterpieces. They possessed the ‘golden-nugget’ of genius, and therefore it was inevitable that this genius would rise to the surface, and the world would know them as a great painter, regardless of the circumstances.
 
@@ -71,13 +71,13 @@ Proponents of this theory may point to the Florentine painter Giotto, saying ‘
 
 ‘Kathe Kollwitz’, one of the founding members of the Guerrilla Girls, believes that, while the Male Gaze, and the stereotype of the male genius artist have contributed to discrimination, nothing holds more power in the art world than cold, hard cash. When I ask her about the idea of the Male Gaze, she dismisses the idea, referring instead to ‘the male pocketbook’.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051912-tna08-laurie-anderson2_bp.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051912-tna08-laurie-anderson2_bp.jpg" title="" caption="" attr="" >}}
 
 ‘Most art collectors are wealthy men whose taste influences what artists are exhibited and collected by museums’, she says; “These men donate money and artworks to museums and sit on acquisition committees that help the curators decide what art to collect. Curators don’t really need help figuring this out, but they need trustees’ money to get the art. It doesn’t take a genius to realize that the system is ripe for corruption since collectors can promote acquisitions of work by artists they own, and that in turn makes their private collections more valuable”.
 
 Linda Nochlin has said: “Those who have privileges inevitably hold on to them, and hold tight, no matter how marginal the advantage involved”, and when we look at the art world it is difficult not to see it as ‘Kathe Kollwitz’ does – a ‘playground of the 1%’.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051913-tna08-british-artist-tracey-emin-stands-by-her-work-at-the-white-cube-in-london.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051913-tna08-british-artist-tracey-emin-stands-by-her-work-at-the-white-cube-in-london.jpg" title="" caption="" attr="" >}}
 
 Things may sound bleak, but they are not hopeless. Organisations such as The Guerrilla Girls, and UK Feminista are tirelessly campaigning for major galleries to display more female artists, and ‘Kathe Kollwitz’ singles out the Tate Modern, Stockholm’s Moderna Museet, and the MoMA as examples of museums that are trying to do better. But they cannot do it alone.
 

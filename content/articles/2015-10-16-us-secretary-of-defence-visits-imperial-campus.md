@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161521-ygr12-icimages.jpeg"
 headline: true
 featured: true
 imported: true

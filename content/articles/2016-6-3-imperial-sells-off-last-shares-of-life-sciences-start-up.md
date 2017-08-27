@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial sells off last shares of life sciences start-up
 date: "2016-06-03 08:35:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031034-felix-bio.jpg"
 image_caption: "Let’s commercialise some research! "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A reinvention of a cult classic from the 80s, lovingly crafted by the skilled hands of Avatar’s Lauren Montgomery & Joaquim Dos Santos. How does Netflix’s modernisation of the iconic Voltron franchise hold up?
 date: "2016-11-18 15:07:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181507-felix-VLT_Still_4.0.0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181507-felix-VLT_Still_4.0.0.jpg"
 headline: true
 featured: true
 imported: true

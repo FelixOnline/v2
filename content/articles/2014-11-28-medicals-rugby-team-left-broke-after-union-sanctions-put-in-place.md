@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett investigates the financial state of the team after the punishments received for smashed coach window on tour
 date: "2014-11-28 00:42:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280041-ps3110-rugby-for-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280041-ps3110-rugby-for-web.jpg"
 headline: true
 featured: true
 imported: true

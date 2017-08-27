@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chi_b particle helps researchers better understand the nuclear strong force
 date: "2012-01-12 22:23:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
 image_caption: "The ATLAS detector where the new particle (not pictured) was found"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jason Parmar coos over his new Nokia Lumia 800
 date: "2011-12-08 19:55:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112081952-cac111-nokia.jpg"
 image_caption: "deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November"
 headline: true
 featured: true
@@ -45,7 +45,7 @@ The integration of several separate applications into one phone is one of the ma
 
 Even with messaging it integrates social networking; imagine if text, MSN, Facebook Chat were all in one thread – on this they are. You can be messaging one of your friends using Facebook and, when they go offline, you just tap a button and you can send them the message as a text, it’s all part of the same interface.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112081954-cac111-love.jpg" title="It’s love at first sight for Jason Parmar " caption="It’s love at first sight for Jason Parmar " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112081954-cac111-love.jpg" title="It’s love at first sight for Jason Parmar " caption="It’s love at first sight for Jason Parmar " attr="" >}}
 
 Productivity
 

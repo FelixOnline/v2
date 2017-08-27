@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The object not the people
 date: "2017-03-10 14:43:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ The first thing that comes to mind when you mention pole dancing is pretty obvio
 
 First up on the day was a guest performance by IC’s very own Melissa Lee, starting her routine with some dance moves before proceeding to pull off some otherworldly acrobatics on the pole. The beginners’ category, in my opinion hardly ‘beginner’ at all considering the athleticism in the contestants’ moves, commenced afterwards and was followed by a lunch break. Head judge Lauren Elise kicked off proceedings after the break with a guest performance that had the crowd delighted and myself dumbfounded, at one point in her routine pulling off an immensely challenging move that I can describe as nothing short of incredible.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703101450-felix-17097820_184091762083525_5289155052408866190_o.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703101450-felix-17097820_184091762083525_5289155052408866190_o.jpg" title="" caption="" attr="" >}}
 
 The intermediate category took place after, the athleticism in the contestants’ moves a step up from the beginners’. After that, the next category was preceded by a guest performance as before, this time by Renata “Renee” Sprenger, before moving on to the highlight of the day: the advanced category. Already, I could scarcely imagine how anyone could top the beginners’ fitness and strength, let alone the intermediates’, but the contestants showed me exactly how it’s done. With some truly challenging moves, like doing full splits while hanging upside down, and spinning while suspended upside down and holding onto the pole solely by the strength of their thighs no less, it was then that I mentally confirmed with myself that pole dancing is, in fact, a sport. This was as much a display of fitness, raw power and strength as it was artistic.
 In any case, group performances by UCL and IC followed, before the prize-giving session brought the event to an end. Imperial’s Alina Paduraru, Hayley Leung and Brandon Tsang all took 2nd place in the beginners, intermediate and advanced category respectively (a joint 2nd in Alina’s case), while UCL finished overall champions. Your cue, Memeperial.

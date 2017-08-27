@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241338-felix-fivesixeightlogo.jpg"
 headline: true
 featured: true
 imported: true

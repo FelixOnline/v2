@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new strain of banana shows immunity against black sigatoga disease
 date: "2011-05-26 19:13:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201105262011-felix-banana-split-har-dee-har.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105262011-felix-banana-split-har-dee-har.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Complainant objects to alleged defamation of character
 date: "2011-11-03 19:26:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031924-pk1811-dsc_0738.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031924-pk1811-dsc_0738.jpg"
 image_caption: "IC Radio are back on the airwaves as of this week"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   French female electro-pop artist hits the stage in Lyon
 date: "2011-10-28 10:47:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281137-felix-mf443meb11zmbe14.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281137-felix-mf443meb11zmbe14.jpg"
 headline: true
 featured: true
 imported: true

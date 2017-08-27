@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Music has an exciting competition this month, write a short article for them and you could win 2 tickets to see the Wailers live in concert.
 date: "2013-09-05 09:50:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309051049-jal08-wailers.png"
 image_caption: "#Winning!"
 headline: true
 featured: true

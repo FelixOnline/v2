@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
 image_caption: "Professor Brian Cox hosted last year’s Ultimate Field Trip final"
 headline: true
 featured: true

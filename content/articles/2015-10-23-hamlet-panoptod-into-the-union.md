@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial students enjoy Cumberbatch’s performance without leaving campus
 date: "2015-10-23 11:46:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231246-ygr12-hamlet1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231246-ygr12-hamlet1.jpg"
 image_caption: "Cumberbatch in zoomed-in glorious HD."
 headline: true
 featured: true

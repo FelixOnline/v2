@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim discusses on how our choice of food gones beyond the need of eating for survival
 date: "2017-03-10 13:33:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
 headline: true
 featured: true
 imported: true

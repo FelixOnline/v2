@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Sharpless discusses the latest controversy surrounding the new £5 note
 date: "2016-12-02 14:00:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021400-felix-five-pound-note-1775779_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021400-felix-five-pound-note-1775779_1920.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An anonymous response to the recent comment articles on the virtues of the EU
 date: "2013-03-01 00:55:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010201-tna08-domino.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010201-tna08-domino.jpg"
 headline: true
 featured: true
 imported: true

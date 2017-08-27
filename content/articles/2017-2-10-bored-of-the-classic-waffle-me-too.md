@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christy tries to go out of her comfort zone and goes to a new place with a dress-code that serves the fanciest waffles in town, no matter if they are sweet or not, even if they do not reach up her high expectations.
 date: "2017-02-10 16:21:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101622-felix-IMG_0736.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101622-felix-IMG_0736.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ It was quite a spontaneous decision. I was sitting at the back of the lecture th
 
 That was like winning the jackpot.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101623-felix-0a976079-7d77-42ee-9719-49fc564601fa 2.jpg" title="Get in my mouth" caption="Get in my mouth" attr="Cristy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101623-felix-0a976079-7d77-42ee-9719-49fc564601fa 2.jpg" title="Get in my mouth" caption="Get in my mouth" attr="Cristy Lam" >}}
 
 That morning, we dragged ourselves out of bed bright and early, rubbed our groggy, sleepy eyes in the commuter-packed tube journey to Liverpool Street, and stared up the shiny, glass building of the Heron Tower. We entered the door to the reception of Duck and Waffle and Sushi Samba, and was met by a hostess with an unexpectedly sloppy attitude, who took my name and pointed us to the right – a security guard.
 
@@ -55,4 +55,4 @@ The caramelized banana waffle was a bit of an anti-climax as it didn’t have an
 
 Thirty minutes had barely passed and we were scraping the last crumbs off our plates. Duck and Waffle, despite the slightly unprofessional service, was an eye-opening dining experience and is definitely worth a visit. Food-wise, stick to the duck and waffle – quoting my lovely companion: “The restaurant is called that for a reason.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101627-felix-IMG_2821.jpg" title="OMG puhlease get inside me NOW" caption="OMG puhlease get inside me NOW" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101627-felix-IMG_2821.jpg" title="OMG puhlease get inside me NOW" caption="OMG puhlease get inside me NOW" attr="Christy Lam" >}}

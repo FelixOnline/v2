@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deteriorating eyesight in bonobos shows that we’re not the only ones that may need to wear glasses as we get older
 date: "2016-11-18 14:51:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181450-felix-14433762334_6e651d1bce_k.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181450-felix-14433762334_6e651d1bce_k.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses
 date: "2011-01-27 18:06:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271758-ks607-profiano.jpg"
 image_caption: "Professor Ian Owens announced the teaching review in a meeting with students"
 headline: true
 featured: true

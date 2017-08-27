@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A guide to cinematic experiences during the five-week holiday
 date: "2012-03-08 21:47:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203111450-mc4509-hunger-games.jpg"
 image_caption: "Jennifer Lawrence in The Hunger Games"
 headline: true
 featured: true

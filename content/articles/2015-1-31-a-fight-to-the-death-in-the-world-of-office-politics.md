@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explains how Young Vic’s Bull misses the target in places
 date: "2015-01-31 19:24:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
 image_caption: "Sam Troughton, Adam James and Eleanor Matsuura "
 headline: true
 featured: true

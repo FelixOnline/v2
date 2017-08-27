@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle tells Felix about some of the best action over the holiday
 date: "2014-12-11 23:39:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112339-cj914-_79407119_am2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112339-cj914-_79407119_am2.jpg"
 image_caption: "Andy Murray will be hoping for a strong 2015"
 headline: true
 featured: true

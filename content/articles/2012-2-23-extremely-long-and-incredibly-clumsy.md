@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
 image_caption: "Now listen, that headline up there is in no way sexual. I swear!!!"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252010-nm1010-samsungg.jpg"
 headline: true
 featured: true
 imported: true

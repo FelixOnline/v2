@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The National Portrait Gallery Freudian slips into something more...
 date: "2012-03-15 19:58:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151957-ig711-freud_1952749b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151957-ig711-freud_1952749b.jpg"
 image_caption: "Lucian was on the whole disappointed with the results of his diet regime"
 headline: true
 featured: true

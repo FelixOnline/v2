@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bang for your buck it seems
 date: "2013-03-01 00:39:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
 headline: true
 featured: true
 imported: true

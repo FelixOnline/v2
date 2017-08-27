@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Raincatcher Imperial on the vast importance of water provision
 date: "2012-01-26 22:30:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262227-pk1811-p1050282.png"
 image_caption: "Easy access to water is of huge benefit to developing countries"
 headline: true
 featured: true

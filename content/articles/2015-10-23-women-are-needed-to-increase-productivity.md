@@ -4,7 +4,7 @@ title: >
 subtitle: >
   UN goal to seek greater female presence in science
 date: "2015-10-23 11:35:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
 image_caption: "The UN Assembly Hall, where the magic happens."
 headline: true
 featured: true

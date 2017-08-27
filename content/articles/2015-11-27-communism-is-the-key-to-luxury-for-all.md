@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s time to start thinking about a post-work society
 date: "2015-11-27 14:20:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511271420-ygr12-jetsons.jpg"
 headline: true
 featured: true
 imported: true

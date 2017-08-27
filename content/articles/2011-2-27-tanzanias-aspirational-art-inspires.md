@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The TEKUA Education Centre gathers funding by selling the art of its students
 date: "2011-02-27 19:18:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271916-ks607-tanziana.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271916-ks607-tanziana.jpg"
 headline: true
 featured: true
 imported: true

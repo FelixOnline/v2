@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261152-felix-gogopenguin.jpg"
 image_caption: "The band named themself after a stuffed penguin. "
 headline: true
 featured: true

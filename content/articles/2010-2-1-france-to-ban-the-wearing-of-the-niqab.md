@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James lees tell us how France is to ban the wearing of the niqab
 date: "2010-02-01 17:30:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011729-rsp07-niqabwom.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011729-rsp07-niqabwom.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park awards just two stars to The Face of Love
 date: "2014-12-04 19:45:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041945-cj914-the-face-of-love.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041945-cj914-the-face-of-love.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles heads to Hindustan for the National Theatre’s new play
 date: "2015-01-31 18:49:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
 image_caption: "Nicholas Khan (Mir Khalil), Esh Alladi (Gvernor Khan), Sargon Yelda (Aurangzeb), Simon Nagra (Mullah Farooq), Rudi Dharmalingham (Danishmand) in Dara"
 headline: true
 featured: true

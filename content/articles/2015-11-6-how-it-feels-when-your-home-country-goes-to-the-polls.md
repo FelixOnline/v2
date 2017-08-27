@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511061355-ygr12-turkish-election.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-20 09:08:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
 image_caption: "The study suggests that our ancenstors might have had a better diet than us, but maybe they just never stopped eating."
 headline: true
 featured: true

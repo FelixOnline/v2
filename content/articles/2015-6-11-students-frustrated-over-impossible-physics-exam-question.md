@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
 image_caption: "This has not been the only issue for Physics undergraduate students this term."
 headline: true
 featured: true

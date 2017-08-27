@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Whitehall's Backchat
 date: "2015-02-09 19:37:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201502091937-ps3110-backchat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502091937-ps3110-backchat.jpg"
 headline: true
 featured: true
 imported: true

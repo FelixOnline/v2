@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ For many people, this discrimination isn’t something they’re ashamed of. Don
 
 But of course, it isn’t quite as simple as this. Not everyone slim is the incredibly disciplined health guru hitting the gym every day before carefully preparing their perfectly balanced, kale-based meals, all while getting everything else in their life done in good time. Most fat people simply came out that way in the genetic lottery, some use food as a vice (in the same way someone may use cigarettes, makeup, or video games), and others simply reject the societal pressure to be thin at all costs. Being fat isn’t a conclusive demonstration that you are less efficient or skilled, it is only a demonstration that you are fat.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610101341-felix-Screen Shot 2016-10-10 at 13.40.50.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610101341-felix-Screen Shot 2016-10-10 at 13.40.50.png" title="" caption="" attr="" >}}
 
 But even if we allow this reasoning – that if you’re fat, you’re less capable than someone thin – how does being less competent make someone worthy of abuse? Or if it’s abuse justified by false health concerns, why does being less healthy make someone less deserving of decent treatment and dignity?
 
@@ -50,7 +50,7 @@ When it comes to being fat, the only way that that society will accept that fat 
 
 If you are overweight, you are _clearly_ lacking in any sort of impulse control, and so the only way you’ll ever change is if your self-loathing forces you to. Somehow, a lot of the non-fat population (and some of the fat population too) have taken it upon themselves to _help_ these poor, plump souls by harassing and abusing them constantly. Mistreatment is, afterall, the best motivator. And fat people _can’t_ have feelings anyway.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610101341-felix-Screen Shot 2016-10-10 at 13.41.03.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610101341-felix-Screen Shot 2016-10-10 at 13.41.03.png" title="" caption="" attr="" >}}
 
 Why don’t fat people’s bodies deserve the same respect as slim people’s bodies? It shouldn’t be the case that as soon as you’re carrying an extra few pounds, you no longer have ownership of your body, and it becomes every man and his dog’s right to make comments and suggestions. Why are we forced to apologise and make excuses for our appearance, when it’s so unclear to whom we owe this apology? If I am fat, who am I truly hurting? The only aggrieved parties are the fat-phobics who feel uncomfortable with my very existence, and I’m not sure that I care about that.
 

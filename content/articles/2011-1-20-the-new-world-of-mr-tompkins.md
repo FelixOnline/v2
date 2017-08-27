@@ -4,7 +4,7 @@ title: >
 subtitle: >
   by George Gamow and Russell Stannard
 date: "2011-01-20 19:38:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201938-ks607-bookbook.jpg"
 headline: true
 featured: true
 imported: true

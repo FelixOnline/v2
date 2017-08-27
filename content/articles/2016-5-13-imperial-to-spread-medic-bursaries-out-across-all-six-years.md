@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This comes a year after the survey that said 97% of final year students were in the red
 date: "2016-05-13 08:48:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131048-felix-NHS.jpg"
 headline: true
 featured: true
 imported: true

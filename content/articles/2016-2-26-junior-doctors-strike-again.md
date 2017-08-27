@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261120-felix-IMG_7506.JPG"
 headline: true
 featured: true
 imported: true

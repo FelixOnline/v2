@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A quick guide to travelling around London.
 date: "2013-09-27 23:20:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201309280022-jal08-boris-johnson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309280022-jal08-boris-johnson.jpg"
 image_caption: "Eeny, meeny, miny, moe..."
 headline: true
 featured: true

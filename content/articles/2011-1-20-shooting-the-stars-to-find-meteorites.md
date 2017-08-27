@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New meteorite in Western Australia’s Nullarbor Desert
 date: "2011-01-20 19:20:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201918-ks607-timelaps.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201918-ks607-timelaps.jpg"
 headline: true
 featured: true
 imported: true

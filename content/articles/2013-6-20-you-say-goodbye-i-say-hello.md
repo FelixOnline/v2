@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joe Letts, next year's Felix Editor introduces himself
 date: "2013-06-20 16:12:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201306201711-txl11-joe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306201711-txl11-joe.jpg"
 image_caption: "The new top dawg at Felix HQ"
 headline: true
 featured: true

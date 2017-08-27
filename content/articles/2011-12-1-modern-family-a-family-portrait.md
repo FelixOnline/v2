@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201091740-js2310-gloria2.jpg"
 image_caption: "The well-endowed Sofia Vergara as Gloria"
 headline: true
 featured: true
@@ -37,6 +37,6 @@ Clair (Julie Bowen, Kevin Spacey’s sexy wife in _[Horrible Bosses](http://www.
 
 Throughout the series two characters gain in importance and screen time. I’m talking about Gloria’s breasts. Approved of by arse-men, leg-men, tit-men, women and gay men, they provide voluptuous huge peaks to the scenery. Frequently clad in tight and plunging fabrics, there will always be an occasion to glimpse at the view. Subtlety clearly isn’t the producer’s policy.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201091742-js2310-gloria3-1.jpg" title="Shit... they're like a photo-finish at a Zeppelin race" caption="Shit... they're like a photo-finish at a Zeppelin race" attr="Credit: ABC" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201091742-js2310-gloria3-1.jpg" title="Shit... they're like a photo-finish at a Zeppelin race" caption="Shit... they're like a photo-finish at a Zeppelin race" attr="Credit: ABC" >}}
 
 The genius of this comedy lies most certainly with the script, the actors’ talent at its service but also in the simplicity and the everyday quality of the plot. The show is based on the families of the creators – Steven Levitan and Christopher Lloyd – supplying it with its realism, a beautiful comedy source. Your family may be dysfunctional but nowhere near as much as this one. You will laugh, cry and smile. So sit down with these hilarious and loveable characters and simply enjoy the beauty of modern family life.

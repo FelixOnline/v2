@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The RA launches a surprisingly emotive edition of its trademark summer show
 date: "2017-06-15 15:17:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706151710-im1413-20170608_125006.jpg"
 image_caption: "Assorted works the The Summer Exhibition | Photo: Indira Mallik"
 headline: true
 featured: true

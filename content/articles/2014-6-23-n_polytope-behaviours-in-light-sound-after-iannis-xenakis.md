@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto in conversation with artist Chris Salter and engineer Marije Baalman
 date: "2014-06-23 14:56:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
 headline: true
 featured: true
 imported: true

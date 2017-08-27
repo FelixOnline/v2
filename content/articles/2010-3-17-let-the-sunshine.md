@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caz Knight embraces her inner-hippy and joins the cast of MTSoc's Hair
 date: "2010-03-17 16:05:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201003171554-lh106-Hair1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201003171554-lh106-Hair1.jpg"
 headline: true
 featured: true
 imported: true

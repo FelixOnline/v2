@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Read on to find out more about the Tanzanian scheme
 date: "2012-01-19 21:03:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
 headline: true
 featured: true
 imported: true

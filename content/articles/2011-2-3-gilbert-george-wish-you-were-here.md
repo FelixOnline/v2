@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The postcard display at the White Cube gallery until 19th Feb .
 date: "2011-02-03 19:39:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031935-nm1010-gilbertg.jpg"
 headline: true
 featured: true
 imported: true

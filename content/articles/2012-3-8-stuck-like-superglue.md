@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scientists have developed a promising new method of fixing biological molecules to each other
 date: "2012-03-08 19:20:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201203081918-ams111-streptococcus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203081918-ams111-streptococcus.jpg"
 image_caption: "Inspiring: Streptococcus pyogenes"
 headline: true
 featured: true

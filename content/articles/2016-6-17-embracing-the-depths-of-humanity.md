@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Embrace of the Serpent is a hallucinatory journey into the psyche of the Amazon
 date: "2016-06-17 09:37:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
 image_caption: "Embrace of the Serpent offers up a visual, inellectual, and metaphysical feast."
 headline: true
 featured: true

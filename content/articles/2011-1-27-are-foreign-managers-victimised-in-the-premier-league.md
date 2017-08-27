@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Clash between certain premier league managers
 date: "2011-01-27 20:39:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272031-dr910-riazriaz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272031-dr910-riazriaz.jpg"
 headline: true
 featured: true
 imported: true

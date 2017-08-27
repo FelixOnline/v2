@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Ursula Le Guin’s masterpiece
 date: "2012-11-09 13:20:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091320-tna08-pressphotolathe5.jpg"
 headline: true
 featured: true
 imported: true

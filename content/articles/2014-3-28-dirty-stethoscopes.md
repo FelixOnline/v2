@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A study published this month has displayed the possibility that a doctor’s stethoscope could be a major source of bacterial transmission in clinical practice.
 date: "2014-03-28 10:42:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201403281042-jal08-1573_doctor_stethescope.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403281042-jal08-1573_doctor_stethescope.jpg"
 headline: true
 featured: true
 imported: true

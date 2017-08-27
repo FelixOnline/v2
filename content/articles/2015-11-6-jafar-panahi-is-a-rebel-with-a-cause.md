@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taxi Tehran is a defiant, bold work which runs circles around the censors
 date: "2015-11-06 14:15:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201511061414-ygr12-maxresdefault.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511061414-ygr12-maxresdefault.jpg"
 image_caption: "Jafar Pahani ferries around passengers in his latest work, Taxi Tehran"
 headline: true
 featured: true

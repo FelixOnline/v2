@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Politics Editor Kartikeya Rana takes an in depth look at the effectiveness of representation in world governments.
 date: "2013-09-11 00:47:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309110142-jal08-dangerous-democracy-1.png"
 image_caption: "Is democracy just a pretty illusion?"
 headline: true
 featured: true
@@ -43,7 +43,7 @@ I came across an essay by the CNN reporter Fareed Zakaria that calls such a phen
 
 In fact, even western democracy seems to provide misrepresentation but of a different kind. In countries such as the US and the UK, the political parties rely on funding from a small group of people for their election campaigns (0.05% of the population for the US). A number of these donors tend to have a personal agenda in funding these parties. They can have a strong say in what bills are brought forward in parliament. As a result, rather than the will of the general population being heard, a tiny minority affects the democratic process.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309110145-jal08-dangerous-democracy-2.png" title="They are allowed to avoid tax for starters!" caption="They are allowed to avoid tax for starters!" attr="Credit: The Atlantic" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309110145-jal08-dangerous-democracy-2.png" title="They are allowed to avoid tax for starters!" caption="They are allowed to avoid tax for starters!" attr="Credit: The Atlantic" >}}
 
 Furthermore, there is growing concern about the government gaining access to our personal information. A BBC report stated that the NSA whistleblower, Edward Snowden, leaked information about the US and UK ‘cracking online encryption’. This issue acts as another example of misrepresentation- about how invading our privacy, without our prior consent, might not be what we want. The morality of this issue, however, is for another editorial.
 

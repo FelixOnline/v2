@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the controversy that has taken place over the last week
 date: "2015-06-11 22:23:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112322-cj914-tim-hunt-2.jpg"
 image_caption: "Sir Tim Hunt apparently now recognises that his comments were unacceptable."
 headline: true
 featured: true

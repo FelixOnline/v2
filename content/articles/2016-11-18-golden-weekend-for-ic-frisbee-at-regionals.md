@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Frisbee is taking over felix
 date: "2016-11-18 17:04:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181704-felix-The Winning dD1 team.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181704-felix-The Winning dD1 team.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In September, five students summited three unconquered Himalayan mountains. Here’s their first-hand account
 date: "2010-11-18 21:42:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182138-nm1010-travvell.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182138-nm1010-travvell.jpg"
 headline: true
 featured: true
 imported: true

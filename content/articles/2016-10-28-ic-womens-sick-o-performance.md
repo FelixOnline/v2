@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Women's Ultimate Frisbee makes Imperial proud in Brighton
 date: "2016-10-28 15:46:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201610281744-aib116-SICKO INDOOR TEAM PICTURE.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610281744-aib116-SICKO INDOOR TEAM PICTURE.jpg"
 headline: true
 featured: true
 imported: true

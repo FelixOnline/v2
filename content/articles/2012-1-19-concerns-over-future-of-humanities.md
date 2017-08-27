@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192218-felix-human.jpg"
 image_caption: "The Department of Humanities has spent the last three years in a state of "
 headline: true
 featured: true

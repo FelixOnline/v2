@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Say goodbye to those foreign flings
 date: "2016-10-03 16:00:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610031759-felix-eu create.jpg"
 headline: true
 featured: true
 imported: true

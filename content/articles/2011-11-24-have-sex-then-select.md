@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maya Kaushik on selection after copulation and ‘cryptic female choice’
 date: "2011-11-24 20:33:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242033-pk1811-cornishcross.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242033-pk1811-cornishcross.jpg"
 image_caption: "Chickens had the opportunity to get up to a little fowl play during Green Week"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   More than just an homage to early Spielberg films, J.J. Abram’s 2011 sci-fi adventure film Super 8 explores the relationships between families, and the tricky navigation teenagers must face as they start to leave childhood behind
 date: "2017-05-15 17:24:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201705151924-felix-super_8.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705151924-felix-super_8.jpg"
 image_caption: "J.J. Abram’s love letter to the films of his childhood centres around a group of early-teens making home movies and investigating mysteries"
 headline: true
 featured: true

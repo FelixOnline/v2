@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022102-ac1507-Botown.jpg"
 headline: true
 featured: true
 imported: true

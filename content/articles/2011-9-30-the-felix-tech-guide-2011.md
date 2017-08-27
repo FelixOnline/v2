@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201109301305-felix-314_1404.jpg"
 image_caption: "Freshers' Fair can wait..."
 headline: true
 featured: true

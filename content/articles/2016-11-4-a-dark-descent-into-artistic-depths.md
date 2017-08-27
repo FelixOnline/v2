@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tom Ford returns after a seven-year absence with Nocturnal Animals, a luscious, scintillating thriller that shows off his eye for beauty
 date: "2016-11-04 14:15:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
 headline: true
 featured: true
 imported: true

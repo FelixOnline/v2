@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hammersmith-based research facility opened by Chancellor
 date: "2012-06-01 11:59:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011254-mc4509-08_ictem_buildingmisc_60.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011254-mc4509-08_ictem_buildingmisc_60.jpg"
 image_caption: "The Imperial Centre for Translational and Experimental Medicine is located on Hammersmith Campus"
 headline: true
 featured: true

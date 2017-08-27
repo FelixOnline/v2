@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Temperatures rise at BUCS Sprint Triathlon
 date: "2013-05-16 17:54:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ With the sun beating down, it was easy to get into racing mood. Getting out on t
 
 Screw-Up Of The Day has to go to Mike Kaye who 30min before his race while wheeling his bike to transition, managed to not only blow an inner tube but shred his front tyre completely in the process. The definitive image of a beaten man, with glasses down, he wobbled his bike back to a sympathetic home crowd and disappeared for a stress relief “man run” to ease the pain. As soon as Siân heard about the shocker after her race, she marched straight to the marshals office in all her sweaty glory to see what could be done. God knows how, but she managed to negotiate Mike another time slot in 15 minutes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161854-tna08-464175_10152793640770603_2000518698_o.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161854-tna08-464175_10152793640770603_2000518698_o.jpg" title="" caption="" attr="" >}}
 
 Siân was now back into panic mode. By this point Mike had run a full 10k and wasn’t totally sure where he was. With all hands on deck, the Mike Kaye Support Crew organised necessary transition prep and race numbers, as well as setting up Ed’s bike for him to borrow. Back from the run, Mike practically jogged straight into the pool to start his race. The fun wasn’t over however, as coming out of the pool, he had no idea where the bike was. A daisy chain of Imperial triathletes shouted directions until he found it and was soon on and out of sight with a shining grin on his face. When he crossed the finish line an hour later Mike returned to a hero’s welcome.
 
@@ -42,7 +42,7 @@ The race included a 750m pool swim, 25k bike and a 5k run (actually 5.65K measur
 
 The team performed superbly: BUCS Sprint is the highest calibre event in our calendar, and this year was no exception, with a huge GB team turn out. Top TriIC finishers were Jean-Claude Besse coming 21st overall, beating many GB competitors which is an incredible achievement and Aimee Di Marco finishing 23rd in the women’s category.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161854-tna08-hug.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161854-tna08-hug.jpg" title="" caption="" attr="" >}}
 
 Other notable finishers are Tom Pearson who, despite neverdoing a triathlon before, and never racing on his new bike, clocked the 68th fastest bike time, beating well seasoned triathletes at their own game, and Hendrik Frentrup clocking 98th fastest bike leg.
 

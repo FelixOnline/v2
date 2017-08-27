@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Being a hipster is not a black and white situation
 date: "2012-05-10 20:10:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102110-pk1811-nathanbarley.jpg"
 image_caption: "Well fucking Mexico yeah. That’s a Nathan Barley reference, you’ve probably never heard of it"
 headline: true
 featured: true

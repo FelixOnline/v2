@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Impeccable building work hailed as new entrance doors experience no problems whatsoever
 date: "2012-02-09 23:13:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092312-felix-dsc_6612.jpg"
 image_caption: "A 'stunning coup' for students"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
 image_caption: "Man is pained at sight of giant lemon"
 headline: true
 featured: true

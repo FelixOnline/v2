@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Slow Club - Paradise (2011)
 date: "2011-10-21 11:23:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
 headline: true
 featured: true
 imported: true

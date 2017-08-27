@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Record turnout as Union innovates with live voting stats
 date: "2011-03-17 20:18:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172023-ks607-new.jpg"
 image_caption: "Next year's Sabb team, will they deliver?"
 headline: true
 featured: true

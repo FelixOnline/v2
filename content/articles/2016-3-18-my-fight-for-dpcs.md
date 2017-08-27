@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181137-felix-comfort zone.jpg"
 image_caption: "Go on, try it - you’ll probably like it."
 headline: true
 featured: true

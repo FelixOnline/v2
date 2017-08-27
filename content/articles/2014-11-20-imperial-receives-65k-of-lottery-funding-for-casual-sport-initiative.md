@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reports on Sport Imperial’s new programme, Impetus
 date: "2014-11-20 22:05:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
 image_caption: "If you look carefully, there is actually a person waiting to catch the frisbee."
 headline: true
 featured: true

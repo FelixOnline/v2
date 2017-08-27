@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Finally, a possible explanation for those self-inflicted Facebook/Youtube-laden all-nighters...
 date: "2012-02-16 22:00:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162200-cac111-homer_sleeping2.jpg"
 image_caption: "Sleeping like a log..."
 headline: true
 featured: true

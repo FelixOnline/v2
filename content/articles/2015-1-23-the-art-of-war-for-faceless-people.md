@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
 image_caption: "From left to right: James Franco and Seth Rogen pick a poor time to announce their bromance, someone's getting sacked in the morning at US Central Command and people commemorating the victims of the Charlie Hebdo attacks"
 headline: true
 featured: true

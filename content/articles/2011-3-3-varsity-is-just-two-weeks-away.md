@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Medics and Imperial gear up for their yearly showdown, now at The Stoop
 date: "2011-03-03 20:21:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032018-ks607-varsityv.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032018-ks607-varsityv.jpg"
 image_caption: "Last year's JPR Williams Cup"
 headline: true
 featured: true

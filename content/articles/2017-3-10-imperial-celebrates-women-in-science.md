@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gender equality comes to the forefront
 date: "2017-03-10 13:16:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101316-felix-17212238_10155031808886838_31365007373657929_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101316-felix-17212238_10155031808886838_31365007373657929_o.jpg"
 headline: true
 featured: true
 imported: true

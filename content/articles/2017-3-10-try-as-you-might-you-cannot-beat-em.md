@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Women's rugby that is
 date: "2017-03-10 14:47:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
 headline: true
 featured: true
 imported: true

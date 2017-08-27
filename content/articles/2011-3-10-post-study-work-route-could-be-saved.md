@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Willetts suggests that government is considering reforming, not scrapping, the post-study work route
 date: "2011-03-10 19:35:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101929-ks607-internat.jpg"
 image_caption: "British universities would suffer financially from a drop in international student numbers"
 headline: true
 featured: true

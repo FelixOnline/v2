@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Speeches from the Conservative Party Conference
 date: "2012-10-11 21:14:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112212-csw09-jeremy-hunt-011.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112212-csw09-jeremy-hunt-011.jpg"
 headline: true
 featured: true
 imported: true

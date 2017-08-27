@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The memos released by Wikileaks are part of a wave of information. But what are we going to do with it? By George Wigmore
 date: "2010-12-02 21:18:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022104-dr910-wikifloo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022104-dr910-wikifloo.jpg"
 headline: true
 featured: true
 imported: true

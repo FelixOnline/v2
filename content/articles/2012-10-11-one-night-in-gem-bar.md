@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix sends undercover reporter MC Hämmer on a night out...
 date: "2012-10-11 20:51:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
 image_caption: "A quick panoramic view of the venue"
 headline: true
 featured: true

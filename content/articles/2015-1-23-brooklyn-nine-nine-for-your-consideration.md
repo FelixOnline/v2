@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's a new funny on the block
 date: "2015-01-23 18:40:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231840-jyg11-brooklyn-nine-nine-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231840-jyg11-brooklyn-nine-nine-cmyk.jpg"
 headline: true
 featured: true
 imported: true

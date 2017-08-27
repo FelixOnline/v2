@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Culture editors Indira Mallik and Fred Fyles give their round-up of the last 12 months in terms of culutre. Expect TV escapism, highlighting women in music, and going crazy over Olivia Laing...
 date: "2016-12-16 15:43:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161543-felix-composite.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161543-felix-composite.jpg"
 headline: true
 featured: true
 imported: true

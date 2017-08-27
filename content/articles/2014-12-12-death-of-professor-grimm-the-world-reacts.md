@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412121253-ps3110-20141212_125030.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   DramSoc take on big business
 date: "2012-03-01 22:00:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012200-cac111-img_9836.jpg"
 image_caption: "2 Girls 1 Cup received the usual response"
 headline: true
 featured: true

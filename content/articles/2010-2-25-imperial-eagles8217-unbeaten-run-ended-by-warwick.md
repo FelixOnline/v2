@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Eagles 20 - 22 Warwick University
 date: "2010-02-25 18:49:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251848-mb506-Handball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251848-mb506-Handball.jpg"
 headline: true
 featured: true
 imported: true

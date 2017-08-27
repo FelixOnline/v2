@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Good start for IC fencing
 date: "2016-11-07 13:20:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201611071319-felix-image00.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611071319-felix-image00.jpg"
 headline: true
 featured: true
 imported: true

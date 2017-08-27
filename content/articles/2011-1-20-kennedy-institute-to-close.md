@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Leading rheumatology research centre moves to Oxford University
 date: "2011-01-20 21:30:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202114-ks607-kennedyi.jpg"
 headline: true
 featured: true
 imported: true

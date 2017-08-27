@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gil Scott-Heron gets the blues with Tytus Murphy, on a gloomy Sunday in The Brixton Academy
 date: "2010-11-25 20:58:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252056-nm1010-GillScot.jpg"
 headline: true
 featured: true
 imported: true

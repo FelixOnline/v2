@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230002-tna08-_001-(1).jpg"
 image_caption: "Lizzy Griffith's amazing drawing"
 headline: true
 featured: true

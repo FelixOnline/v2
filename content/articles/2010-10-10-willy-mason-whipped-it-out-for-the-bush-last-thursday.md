@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Easy now. I know all this talk of ‘Willy’ and ‘Bush’ is exciting, but I assure you Mr. Mason was the only Willy getting big love in the Bush... Well, in public at least
 date: "2010-10-10 15:30:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101628-ks607-WillyMas.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101628-ks607-WillyMas.jpg"
 headline: true
 featured: true
 imported: true

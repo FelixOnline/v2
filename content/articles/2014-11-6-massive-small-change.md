@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh & Marcus Bishop on opportunities with EWB
 date: "2014-11-06 20:58:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
 image_caption: "EWB answers the big questions."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Glaciers move more slowly than expected – but they're not slowing down either
 date: "2012-05-10 20:37:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102137-ams111-commonwealth-glacier-face.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102137-ams111-commonwealth-glacier-face.jpg"
 image_caption: "Commonwealth glacier, Taylor Valley, Antarctica, January 1956"
 headline: true
 featured: true

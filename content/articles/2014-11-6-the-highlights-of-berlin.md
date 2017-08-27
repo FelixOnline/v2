@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the German capital
 date: "2014-11-06 20:30:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062030-cj914-img_6887-copy.jpg"
 image_caption: "Enjoying a local Berliner beer with a book during the day"
 headline: true
 featured: true

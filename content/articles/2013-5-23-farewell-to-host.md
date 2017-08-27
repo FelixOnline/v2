@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Magda Czigány, Librarian from 1986-2000, says goodby to HOST.
 date: "2013-05-23 22:17:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232317-tna08-pierre_and_marie_curie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232317-tna08-pierre_and_marie_curie.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Keeping us glued to our screens, and how to monetize it.
 date: "2014-02-19 21:18:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201402192118-me1711-tech_fb.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402192118-me1711-tech_fb.gif"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey details her thrilling and dangerous adventures of playing Pokémon Go while biking through London
 date: "2017-02-24 15:17:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
 headline: true
 featured: true
 imported: true

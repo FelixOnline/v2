@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dress code etiquette is key for formal events. Saskia Verhagen shows us how to make the best first impression
 date: "2011-12-01 20:12:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes us on a tour through the history of the early pioneers of electronic music
 date: "2015-03-25 12:35:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
 image_caption: "Experimental composer Holly Herndon, renowned for her combination of the synthetic and organic"
 headline: true
 featured: true

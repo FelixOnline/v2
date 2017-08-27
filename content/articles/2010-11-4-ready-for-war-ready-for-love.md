@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Diogo Miguel Geraldes falls in love with Warpaint at Scala
 date: "2010-11-04 18:35:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041833-ks607-warpaint.jpg"
 headline: true
 featured: true
 imported: true

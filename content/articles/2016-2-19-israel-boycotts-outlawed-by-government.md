@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Public bodies will no longer be able to opt out of buying products made on the West Bank
 date: "2016-02-19 11:07:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: "Several Imperial academics signed this boycott in 2015. "
 headline: true
 featured: true

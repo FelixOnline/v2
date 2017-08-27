@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICVC sees their mens team becoming BUCS Trophy Champions
 date: "2015-05-04 16:51:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041751-ps3110-img_1015.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041751-ps3110-img_1015.jpg"
 headline: true
 featured: true
 imported: true

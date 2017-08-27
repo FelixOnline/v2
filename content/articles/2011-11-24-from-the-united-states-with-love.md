@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton looks back at the Special Relationship
 date: "2011-11-24 21:28:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
 image_caption: "I hope you don’t mind a bit of London Pride?"
 headline: true
 featured: true

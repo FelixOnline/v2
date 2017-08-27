@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at the information our browsing gives away and how we're not as anonymous as you might think
 date: "2010-03-04 12:33:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201003041217-srg03-Hacker.jpg"
 headline: true
 featured: true
 imported: true

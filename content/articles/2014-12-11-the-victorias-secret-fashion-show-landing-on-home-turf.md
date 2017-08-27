@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112133-cj914-fantasy-red.jpg"
 image_caption: "Alessandra Ambrosio in The Fantasy Bra"
 headline: true
 featured: true

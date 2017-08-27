@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Careers Service gives advice to graduands about the job search after Imperial.
 date: "2013-10-20 02:00:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
 headline: true
 featured: true
 imported: true

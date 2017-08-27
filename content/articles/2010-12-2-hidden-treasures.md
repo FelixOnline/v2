@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The best venues in London for gigging off the beaten track
 date: "2010-12-02 20:56:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022053-ac1507-mmejojos.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022053-ac1507-mmejojos.jpg"
 headline: true
 featured: true
 imported: true

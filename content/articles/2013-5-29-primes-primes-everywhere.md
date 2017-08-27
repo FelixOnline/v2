@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305291828-tna08-stained-glass.jpg"
 image_caption: "A stained glass window of primes. Pretty if nothing else..."
 headline: true
 featured: true

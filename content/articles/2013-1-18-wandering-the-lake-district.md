@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Fellwanderers walk about in the cold and the rain... mad...
 date: "2013-01-18 01:07:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180106-tna08-fell2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180106-tna08-fell2.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ To all those who have been on many Fellwanderers trips and suffered at the hands
 
 Sandwiches made and fully waterproofed, we headed out into the rain surprised by the relative warmth of the morning. The walk started from the hall bearing due east through the Stair Wood and onto the ridge containing Wainwright’s High Tove (515m), Ambroth Fell (479m), High Seat (608m), and Bleaberry Fell (590m).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180107-tna08-fell1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180107-tna08-fell1.jpg" title="" caption="" attr="" >}}
 
 The going was fairly easy without much steep ascent but due to the recent heavy rain we feared spending the whole day walking through deep bogs. Fortunately, and to the intrigue of many, the bogs were mostly frozen giving the strange sensation of walking on something that should be soft but is actually solid. Despite having two large lakes on either side of the ridge (Derwent Water and Thirlmere to the east and west, respectively) good views were few and far between as visibility was severely limited by low cloud cover and mist in the valleys.
 
@@ -49,7 +49,7 @@ Sunday promised a long walk, navigated by Tom, to include ten Wainwrights in the
 
 We then continued along the first stretch of the ridge to bag Hopegill Head (770m) and Whiteside (707m), the latter providing an excellent view of Crummock Water. We then lost a lot height moving along the toe of the ridgeline followed by another steep ascent up to Grasmoor (852m). Unfortunately, at this height we were well and truly within the clouds, again restricting visibility but not dampening spirits. Continuing along this branch of the horseshoe we ascended Crag Hill (837m) and, with the sun low in the sky, Sail (773m).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180107-tna08-fell3.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180107-tna08-fell3.jpg" title="" caption="" attr="" >}}
 
 While coming down from Sail the pathforked — one prong going down into the valley and the other continuing along the ridge. It was beginning to get dark (entre chien et loup we were told the French say) so this was the decision point: head back to the bus or carry on to two more Wainwrights? We agreed we had enough light to safely bag Scar Crags (672m) and Causey Pike (637m) so quickly made tracks. Many of the surrounding villages were illuminated by their street lights which made for a pretty landscape despite the low light levels.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Simpson on television’s best cops, robbers, detectives and con-men
 date: "2011-03-03 20:01:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103031958-nm1010-spookssp.jpg"
 headline: true
 featured: true
 imported: true

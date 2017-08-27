@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Light and death for hospital superbugs.
 date: "2010-11-25 20:06:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252004-nm1010-handwash.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252004-nm1010-handwash.jpg"
 headline: true
 featured: true
 imported: true

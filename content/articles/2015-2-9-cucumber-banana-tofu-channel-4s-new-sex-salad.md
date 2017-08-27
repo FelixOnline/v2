@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Thursday’s LGBT drama bonanza
 date: "2015-02-09 19:36:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201502091936-ps3110-cucumber-f2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502091936-ps3110-cucumber-f2.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICURFC 2nd XV lose their first game due to hangovers, humidity and heat - Toby Spittle &amp; Jovan Nedic report from Kyoto, Japan
 date: "2010-07-01 02:01:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201007010212-jn104-JapanRug.jpg"
 headline: true
 featured: true
 imported: true

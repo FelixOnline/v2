@@ -4,7 +4,7 @@ title: >
 subtitle: >
   When it comes to political ideology, it might be a good idea to be a little open-minded
 date: "2011-11-24 23:13:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
 image_caption: "Some people just can’t do anything right..."
 headline: true
 featured: true

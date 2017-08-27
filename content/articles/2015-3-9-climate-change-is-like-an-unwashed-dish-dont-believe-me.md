@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
 headline: true
 featured: true
 imported: true

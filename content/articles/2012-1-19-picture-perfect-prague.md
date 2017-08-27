@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dushi Arumuganesan sees in the New Year in the buzzing Czech capital
 date: "2012-01-19 20:07:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192002-cac111-p1010146.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192002-cac111-p1010146.png"
 image_caption: "One of a few hidden European lovelock bridges – on Kampa Island"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Fancy a stroll across Charles Bridge? No problem – as long as you don’t mind
 
 At the northern end of Charles Bridge is a stairway leading down to Kampa Island, which is the site of Prague’s contemporary art museum. It is also home to many small pubs and eateries selling authentic Czech food and beer. Whilst spending my first afternoon wandering around the island, I accidentally stumbled upon a ‘lovelock bridge’ – a phenomenon that is fast becoming popular in Europe. For anyone else as fascinated by these universal declarations of love as I am, this one is found very near to the John Lennon wall on Kampa Island – something else worth a visit.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201192006-cac111-p1010295.png" title="The view of Prague from Petrin Hill" caption="The view of Prague from Petrin Hill" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201192006-cac111-p1010295.png" title="The view of Prague from Petrin Hill" caption="The view of Prague from Petrin Hill" attr="" >}}
 
 Prague Castle itself is where I was at the start of the New Year – and I don’t believe there was a better place for it. Firework displays, all beautifully synchronised, could be seen right across the city from Charles Bridge below to Petrin Hill above. The backdrop of the castle lent the night a magical touch, and the atmosphere among the assembled revellers was relaxed and fun. Walking back to our hotel post-festivities led us through the city’s other major gathering points on New Year’s Eve. Old Town Square and Wenceslas Square were evidently the livelier places to see in midnight – even with champagne bottles smashing and fireworks going off mere inches from our faces, we were only catching the tail-end of Prague’s most raucous celebrations.
 

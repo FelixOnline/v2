@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman
 date: "2010-12-09 19:53:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012091950-ac1507-cocktail.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dan Wan investigates how the Union will act in response to the now necessary College cuts
 date: "2010-02-05 15:33:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201002051530-rsp07-beithall.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002051530-rsp07-beithall.jpg"
 headline: true
 featured: true
 imported: true

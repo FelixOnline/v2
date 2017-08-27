@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
 image_caption: "The interpretation of the wavefunction has been static for 85 years"
 headline: true
 featured: true

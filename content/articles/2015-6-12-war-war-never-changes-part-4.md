@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl can't wait to unpack his vault boy and explore Fallout 4
 date: "2015-06-12 12:40:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506121339-cj914-fallout4countdown.png"
 image_caption: "This is the best marketing a game has ever had and in fact ever will have."
 headline: true
 featured: true

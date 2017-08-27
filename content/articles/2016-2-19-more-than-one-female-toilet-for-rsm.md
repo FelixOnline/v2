@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All but one female toilet was removed from the Goldsmith’s Wing by College Estates over the summer but now they’re getting changed back
 date: "2016-02-19 11:08:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191108-felix-DSC_0009.JPG"
 image_caption: "Labels are for cans, not for toilets."
 headline: true
 featured: true

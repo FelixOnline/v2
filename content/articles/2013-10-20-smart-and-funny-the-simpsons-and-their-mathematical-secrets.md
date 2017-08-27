@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Calum Grant explores a nefarious plot to educate cartoon viewers
 date: "2013-10-20 01:25:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201310200225-jal08-81pfazijnpl._sl1500_.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310200225-jal08-81pfazijnpl._sl1500_.jpg"
 image_caption: "The Simpsons and their Mathematical Secrets"
 headline: true
 featured: true

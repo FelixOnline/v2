@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A devastating attack in a shopping mall in Nairobi took place on the 23rd of September. Gunmen killed 67 people, according to government sources , in the Westgate Mall. These militants were said to belong to the extremist group originating from Somalia called Al Shabbab.
 date: "2013-10-04 00:43:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040138-jal08-pol_al-shabaab.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040138-jal08-pol_al-shabaab.jpg"
 image_caption: "They are Al Shabaab, maybe"
 headline: true
 featured: true

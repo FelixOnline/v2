@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn urges you not to freak out about this week’s centrefold
 date: "2016-10-28 14:53:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311256-felix-RR4.jpg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ And it is for these reasons I am so passionate about freeing the nipple – it r
 
 Having said all that, after leaving the shoot I started having doubts. What is the law surrounding this issue? Can it impact my future or my ability to do my job? Will it cause me ridicule and shame? Will people think my boobs are bad or ugly or that I don’t have the right body for public exposure?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311258-felix-Screen Shot 2016-10-28 at 17.58.47.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311258-felix-Screen Shot 2016-10-28 at 17.58.47.png" title="" caption="" attr="" >}}
 
 The fact that I was so vulnerable to such thoughts infuriates me because nipples should not be criminalised, they should not impact my career and they should not be a cause for shame. Yet because I am a woman they are. If I had a penis I wouldn’t think twice about whipping my top off for a centrefold, so why should my vagina cause me to do so? Western society denounces Sharia Law for censoring women’s bodies then continues to do the same.
 

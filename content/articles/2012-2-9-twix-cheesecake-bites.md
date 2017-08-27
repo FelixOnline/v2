@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Heat up the kitchen this Valentine’s Day with this decadent treat!
 date: "2012-02-09 22:31:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092239-pk1811-cimg2023.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092239-pk1811-cimg2023.gif"
 image_caption: "Can’t spell cheesecake without ‘eese’. As in ‘ease’? Yeah? Thought not"
 headline: true
 featured: true

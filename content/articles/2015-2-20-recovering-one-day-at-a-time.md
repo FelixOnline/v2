@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Diba Esbati shares some of her day-to-day coping strategies
 date: "2015-02-20 16:37:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
 headline: true
 featured: true
 imported: true

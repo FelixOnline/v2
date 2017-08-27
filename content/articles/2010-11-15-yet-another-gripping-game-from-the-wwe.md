@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Smackdown Vs. Raw 2011 review
 date: "2010-11-15 18:24:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011261501-ks607-wrestlin.jpg"
 headline: true
 featured: true
 imported: true

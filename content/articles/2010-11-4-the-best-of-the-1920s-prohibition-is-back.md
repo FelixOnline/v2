@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new night aims to bring back the feel of the 'Roaring Twenties'
 date: "2010-11-04 18:36:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
 headline: true
 featured: true
 imported: true

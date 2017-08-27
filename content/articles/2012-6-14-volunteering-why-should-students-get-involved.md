@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With the upcoming launch of the Imperial Hub next week, Caroline Wood discusses volunteering opportunities at university
 date: "2012-06-14 19:58:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201206150818-mc4509-hub.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206150818-mc4509-hub.jpg"
 headline: true
 featured: true
 imported: true
@@ -53,7 +53,7 @@ In October we’ll be welcoming the first set of students paying fees of £9000 
 
 Student activism has been the life-blood of organic change in our society and it’s down to us to make sure this continues. So whilst you’re lazing on a beach this summer, why not take 10 minutes to think about how you can get involved in some kind of socially beneficial activity next year? Let’s send a resounding message to the incoming freshers of 2012 that here at Imperial students are about more than just the science.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142057-ams111-studenthubgraph.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142057-ams111-studenthubgraph.png" title="" caption="" attr="" >}}
 
 History of the Student Hub
 

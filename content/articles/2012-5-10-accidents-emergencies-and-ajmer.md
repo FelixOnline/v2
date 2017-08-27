@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephanie Walton recounts an Indian Easter with some very important people
 date: "2012-05-10 19:09:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
 image_caption: "Fans, cricket, presidents... it’s all go in Ajmer"
 headline: true
 featured: true

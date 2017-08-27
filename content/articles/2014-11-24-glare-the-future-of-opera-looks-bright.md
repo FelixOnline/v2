@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland examines the ROH’s new production
 date: "2014-11-24 12:22:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
 image_caption: "Amar Muchhala as Alex, in Glare"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   HBO’s new show, Game of Thrones, has more epic beards than level 5 of the library
 date: "2011-05-06 13:00:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061357-felix-game-of-thrones-3.jpg"
 headline: true
 featured: true
 imported: true

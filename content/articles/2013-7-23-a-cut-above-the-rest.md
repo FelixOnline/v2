@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The results from Imperial’s iKnife are promising, but require further validation.
 date: "2013-07-23 17:28:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
 image_caption: "The iKnife has the potential to improve surgical precision"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They’re like vultures with high-vis jackets
 date: "2010-12-02 21:46:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022140-dr910-RhyDavis.jpg"
 headline: true
 featured: true
 imported: true

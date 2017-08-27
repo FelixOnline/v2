@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Cautionary Tale of King Phillip II, the ‘Paper King’ of Spain
 date: "2011-10-27 22:29:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272327-felix-portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272327-felix-portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg"
 image_caption: "Phillip II of Spain (1527 – 1598), the ‘Paper King’ of Spain:  an extreme example of  a micromanager"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s the university equivalent of a beauty paegant
 date: "2016-03-04 11:32:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
 image_caption: "The beautiful people. "
 headline: true
 featured: true

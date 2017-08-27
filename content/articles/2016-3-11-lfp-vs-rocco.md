@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No, they’re not football teams – FELIX puts two South Ken eateries to the test
 date: "2016-03-11 12:08:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111208-felix-lovepasta.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111208-felix-lovepasta.jpg"
 image_caption: "Let’s face it, no one ever chose the kid’s size and was happy with it."
 headline: true
 featured: true

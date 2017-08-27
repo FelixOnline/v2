@@ -4,7 +4,7 @@ title: >
 subtitle: >
   3D model created by Dr Mark Sutton of Earth Science and Engineering
 date: "2015-05-29 01:16:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290217-ps3110-screen-shot-2015-05-29-at-02.16.06.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290217-ps3110-screen-shot-2015-05-29-at-02.16.06.png"
 headline: true
 featured: true
 imported: true

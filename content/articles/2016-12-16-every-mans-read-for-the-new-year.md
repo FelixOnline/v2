@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Roth's profoud novel tests our values
 date: "2016-12-16 15:03:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161502-felix-Everyman_dj.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161502-felix-Everyman_dj.jpg"
 headline: true
 featured: true
 imported: true

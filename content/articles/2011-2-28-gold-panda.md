@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jamie Fraser takes a look at the musician who blends sampler-triggered melodies with more club-ready beats
 date: "2011-02-28 21:34:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282131-ks607-goldpand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282131-ks607-goldpand.jpg"
 headline: true
 featured: true
 imported: true

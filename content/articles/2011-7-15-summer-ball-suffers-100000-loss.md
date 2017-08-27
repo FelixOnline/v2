@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201107181209-felix-dsc_0021.jpg"
 image_caption: "This year's Summer Ball "
 headline: true
 featured: true

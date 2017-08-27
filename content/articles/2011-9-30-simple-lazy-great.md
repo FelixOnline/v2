@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An Immature Critic is won over by the biggest comedy of the summer
 date: "2011-09-30 12:40:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201109301341-felix-the-inbetweeners-lr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201109301341-felix-the-inbetweeners-lr.jpg"
 headline: true
 featured: true
 imported: true

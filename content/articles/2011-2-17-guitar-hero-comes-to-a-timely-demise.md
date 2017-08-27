@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Activision kills off the popular music game series
 date: "2011-02-17 20:17:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172010-nm1010-gravestn.jpg"
 headline: true
 featured: true
 imported: true

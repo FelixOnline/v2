@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The RSMU President explains how new Union policy has effectively killed bar nights
 date: "2011-10-28 00:17:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202027-felix-union-bar.jpg"
 image_caption: "Some club chairs want to call time on the new regulations"
 headline: true
 featured: true

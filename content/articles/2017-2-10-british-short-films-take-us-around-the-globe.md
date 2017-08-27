@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The shortlist of BAFTA nominees for Best British Short Film and Animation are daring in their scope, but the quality of some leaves a little to be desired
 date: "2017-02-10 15:21:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
 headline: true
 featured: true
 imported: true

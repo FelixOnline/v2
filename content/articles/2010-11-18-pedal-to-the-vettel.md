@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking back at the 2010 F1 season
 date: "2010-11-18 21:04:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182102-ks607-vettel.jpg"
 headline: true
 featured: true
 imported: true

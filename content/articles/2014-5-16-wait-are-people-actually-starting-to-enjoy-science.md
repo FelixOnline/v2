@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reviews Imperial Festival and the wider public engagement movement
 date: "2014-05-16 01:46:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160249-jal08-imperialfestival_web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160249-jal08-imperialfestival_web.jpg"
 headline: true
 featured: true
 imported: true

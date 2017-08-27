@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New research could lead to new treatments for post traumatic stress
 date: "2011-06-02 18:31:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021932-felix-sadnesscmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021932-felix-sadnesscmyk.jpg"
 image_caption: "Don’t cry, there are drugs to help you forget just how bad that film actually was"
 headline: true
 featured: true

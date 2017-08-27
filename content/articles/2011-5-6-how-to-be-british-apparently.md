@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Is loving the Royal Family a prerequisite for being British?
 date: "2011-05-06 08:39:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060939-felix-royal-wedding-london.jpeg"
 headline: true
 featured: true
 imported: true

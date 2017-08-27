@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thomas Lim visits the newest eatery in College
 date: "2014-10-17 14:44:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171545-kmw13-fusion54.jpg"
 headline: true
 featured: true
 imported: true

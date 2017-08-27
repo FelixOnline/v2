@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Yang discusses why Starcraft has become such a phenomenal success
 date: "2012-05-18 16:01:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
 image_caption: "The audience of the Starcraft: Brood War Proleague finals in Seoul, South Korea, 2006"
 headline: true
 featured: true

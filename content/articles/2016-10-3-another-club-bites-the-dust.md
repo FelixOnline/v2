@@ -4,7 +4,7 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
 headline: true
 featured: true
 imported: true

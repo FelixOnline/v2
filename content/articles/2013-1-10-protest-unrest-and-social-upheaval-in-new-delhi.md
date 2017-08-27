@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tragedy sparks debate over attitudes to women
 date: "2013-01-10 22:20:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102220-csw09-new-delhi-protest.jpg"
 headline: true
 featured: true
 imported: true

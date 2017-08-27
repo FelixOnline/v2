@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the US government steps in to tackle sexual harassment, it’s time to ask, what is it going to take to fix this problem?
 date: "2016-01-29 09:05:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
 image_caption: "Jackie Speier fights to tackle the current sexual harassment issues and the lack of repercussions. "
 headline: true
 featured: true
@@ -31,7 +31,7 @@ However, the proposed changes are not unanimously supported and some argue that 
 
 For those of you who haven’t been keeping up with these cases, which is understandable considering the whole thing is pretty depressing, here is a short synopsis. In a 2005 investigation recently released by congresswoman Speier, Arizona University unveiled that lead astronomer Timothy Slater created a workplace environment that involved lunchtime trips to a strip club, demeaning comments to female co-workers, and open leering at female undergraduates. The condemning report was released on the same day it was reported that a Caltech astronomer, Christian Ott, had harassed and fired two undergraduates from his lab after they filed a complaint against him. The whole situation turned into a massive scandal, partly because just three months earlier, a prominent astronomer from the University of Arizona, Geoff Marcy, was found guilty of sexually harassing female co-workers.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201601290904-felix-Screen Shot 2016-01-27 at 18.12.34.png" title="" caption="" attr="Twitter" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201601290904-felix-Screen Shot 2016-01-27 at 18.12.34.png" title="" caption="" attr="Twitter" >}}
 
 If social media is anything to go by, unfortunately these cases are only part of a wider trend. These high profile examples of sexism and sexual harassment have triggered the formation of a new hashtag, #astroSH, which is being used by scientists to share stories and voice opinions on the reality of being a woman in STEM, with emphasis on Astronomy. Such outcry has prompted institutes like NASA to put out statements reinforcing its commitment to inclusivity. Administrator Charles Bolden stated, “Let me be perfectly clear: NASA does not tolerate sexual harassment, nor does any organization seriously committed to workplace equality, diversity and inclusion.” Strong and encouraging words, but some argue that although scientific institutions wholly condemn sexism, there are no consequences for those who unfairly discriminate against women.
 

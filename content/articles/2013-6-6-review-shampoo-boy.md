@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray explores Peter Rehberg’s dark new collaboration
 date: "2013-06-06 19:47:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
 headline: true
 featured: true
 imported: true

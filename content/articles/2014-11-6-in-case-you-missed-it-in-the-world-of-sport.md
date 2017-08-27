@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on outside the BUCS League
 date: "2014-11-06 19:28:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061928-cj914-js50045375.jpg"
 image_caption: "We won't know until December if Brendan Rodgers' Champions League gamble pays off"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emilie Beauchamp gets Sketchy
 date: "2013-06-20 21:11:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306202353-tna08-greenfairy.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ Anti-art school promoting art for the sake of art and fun, Dr. Sketchy started i
 
 In London since 2007, Dr. Sketchy has now nested at the Royal Vauxhall Tavern, an institution hailed best cabaret venue in 2012 by the London Cabaret Awards (yes there is such a thing!). It is an intimate and well-designed space for performances, allowing the audience to grab a drink and get comfortable before the entertainment starts.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306202352-tna08-celine.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306202352-tna08-celine.jpg" title="" caption="" attr="" >}}
 
 Last Wednesday June 19th, we first had the chance to hear Frankie Von Flirter’s melodious voice enchant us, as she glamorously stripped from her evening gown. It was quite hard to decide whether to just look and listen, or to try to draw the scene… Millie Dollar then stepped in for a go-go dance and some spectacular nipple tassels spinning. Last, Frankie von Flirter came back with a humorous version of Top Gun’s best tracks, which turned into a cheeky duet finale with the two performers. After each act, the artists also pose and allow us to liberate our drawing spirits, which have been loosened by a few drinks. To my surprise, the performers are not only talented, but also professional when modelling for the crowd. Soon the suaveness of the acts resides, the attraction of nakedness subsides and the audience is fully absorbed in furiously scribbling to capture the forms on stage.
 

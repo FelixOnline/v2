@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer talks to Lord Winston about his experience in politics
 date: "2015-03-20 00:46:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201503200047-cj914-robert-winston.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503200047-cj914-robert-winston.jpg"
 image_caption: "Robert Winston was made a Labour peer in 1995 and has been instrumental in getting many key science and healthcare bills through parliament"
 headline: true
 featured: true

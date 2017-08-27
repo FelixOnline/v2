@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How new super resolution imaging technology can help mankind reach for the stars
 date: "2016-06-03 09:17:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
 image_caption: "Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed. "
 headline: true
 featured: true

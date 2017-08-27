@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scientists try and fail squishing bug
 date: "2016-02-19 11:17:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
 image_caption: "Be free little buddy."
 headline: true
 featured: true

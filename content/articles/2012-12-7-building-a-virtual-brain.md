@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A step closer to an artificial human brain? Pavitar Devgon discusses
 date: "2012-12-07 01:39:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070139-tna08-f1.large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070139-tna08-f1.large.jpg"
 headline: true
 featured: true
 imported: true

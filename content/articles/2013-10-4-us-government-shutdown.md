@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Disaster strikes as bipartisan talks break down
 date: "2013-10-04 00:39:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040140-jal08-us_government_shutdown.jpg"
 image_caption: "Wow, who feeds the ducks?"
 headline: true
 featured: true

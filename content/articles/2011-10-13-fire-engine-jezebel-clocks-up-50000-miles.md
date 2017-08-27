@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Faculty mascot reaches significant milestone
 date: "2011-10-13 21:01:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132159-felix-dsc_4859.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132159-felix-dsc_4859.jpg"
 headline: true
 featured: true
 imported: true

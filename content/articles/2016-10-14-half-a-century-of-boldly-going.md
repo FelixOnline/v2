@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It was a utopian dream for the era of space races, civil rights marches, racism, and presidential assasinations. But how does Star Trek hold up today, and what is its cultural legacy?
 date: "2016-10-14 10:30:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610141218-so515-TOS.png"
 image_caption: "In the future no one cares about your awkward grins."
 headline: true
 featured: true

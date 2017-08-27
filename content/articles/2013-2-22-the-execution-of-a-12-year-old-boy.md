@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It is vital that the international community acknowledge the realities of the war in Sri Lanka, argues Visakan Balakumar
 date: "2013-02-22 10:34:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
 headline: true
 featured: true
 imported: true

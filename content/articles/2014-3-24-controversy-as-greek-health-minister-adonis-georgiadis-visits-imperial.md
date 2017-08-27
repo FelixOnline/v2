@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
 headline: true
 featured: true
 imported: true

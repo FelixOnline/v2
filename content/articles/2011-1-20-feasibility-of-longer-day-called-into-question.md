@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202044-ks607-timetabl.jpg"
 headline: true
 featured: true
 imported: true

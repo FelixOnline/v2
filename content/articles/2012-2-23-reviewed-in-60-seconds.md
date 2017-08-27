@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Three excellent albums reviewed in less time than it takes to boil an egg
 date: "2012-02-23 21:12:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232110-pk1811-ziggy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232110-pk1811-ziggy.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ _The Rise and Fall of Ziggy Stardust and the Spiders from Mars _is about the hum
 
 Rating: 4/5
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232111-pk1811-cubist-reggae.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232111-pk1811-cubist-reggae.jpg" title="" caption="" attr="" >}}
 
 Venetian Snares - _Cubist Reggae_
 
@@ -45,7 +45,7 @@ The aural equivalent of realising that the paracetamol you took to help you slee
 
 Rating: 5/5
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232111-pk1811-hollie-cook.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232111-pk1811-hollie-cook.jpg" title="" caption="" attr="" >}}
 
 Hollie Cook - _Hollie Cook_
 

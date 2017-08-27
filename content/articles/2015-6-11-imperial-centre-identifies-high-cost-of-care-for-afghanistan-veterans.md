@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on the findings from the Royal British Centre for Blast Injury Studies
 date: "2015-06-11 22:13:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112313-cj914-blast-centre.jpg"
 image_caption: "Prince Harry opened the Centre for Blast Injury Studies in 2013."
 headline: true
 featured: true

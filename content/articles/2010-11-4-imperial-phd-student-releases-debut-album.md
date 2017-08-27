@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Unsigned Imperial student Todd Kuffner unveils first body of work
 date: "2010-11-04 18:28:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041824-ks607-toddkuff.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041824-ks607-toddkuff.jpg"
 headline: true
 featured: true
 imported: true

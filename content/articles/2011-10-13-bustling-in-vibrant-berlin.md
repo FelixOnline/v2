@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A long weekend of artistic pleasures and historical delights: the perfect European city getaway
 date: "2011-10-13 23:34:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140032-felix-berlin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140032-felix-berlin.jpg"
 image_caption: "Ich bin ein Berliner."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-17 09:34:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171134-felix-titicut_follies.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171134-felix-titicut_follies.jpg"
 image_caption: "Titicut Follies takes an unflinching look at mental health in America. "
 headline: true
 featured: true

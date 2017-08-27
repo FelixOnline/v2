@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Let’s be realistic. Should you take them and are they legal?
 date: "2016-05-20 09:02:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201100-felix-20160518_121524.jpg"
 image_caption: "Their website looks legit, but this is all about to become really illegal. "
 headline: true
 featured: true
@@ -76,4 +76,4 @@ Jennie Watson, the DPW, told FELIX: “No Imperial student should feel they have
 
 Make up your own mind, but if you’ve really not revised, it’s unlikely a Ritalin dose will save you.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605201102-felix-Paxil,_24_June_2010.jpg" title="Look familiar?" caption="Look familiar?" attr="Wikipedia" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605201102-felix-Paxil,_24_June_2010.jpg" title="Look familiar?" caption="Look familiar?" attr="Wikipedia" >}}

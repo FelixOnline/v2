@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As Morrisons begins to stock truffles on its shelves, Sam Furse dives headfirst into the world of supermarkets to find out why
 date: "2011-08-08 13:52:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201108081444-felix-morrisons.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201108081444-felix-morrisons.jpg"
 image_caption: "Truffles and supermarkets – a match made in Morrisons heaven?"
 headline: true
 featured: true

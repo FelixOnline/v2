@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes a glance at the new MIRRORCITY exhibition
 date: "2014-12-18 15:41:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212237-ps3110-rsz_mirrorcity_-_john_steazker_double_shadow_v_cropped.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212237-ps3110-rsz_mirrorcity_-_john_steazker_double_shadow_v_cropped.jpg"
 headline: true
 featured: true
 imported: true

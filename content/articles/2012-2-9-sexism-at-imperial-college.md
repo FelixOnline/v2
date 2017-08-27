@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's a way to go in the fight against discrimination, writes Stephen Smith
 date: "2012-02-09 23:01:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
 image_caption: "The poster for the WSET event"
 headline: true
 featured: true

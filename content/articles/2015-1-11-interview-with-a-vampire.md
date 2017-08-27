@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We sit down to chat with singer-songwriter/actor Michael Malarkey, following his performance in London this week
 date: "2015-01-11 11:55:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212159-ps3110-michael-malarkey-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212159-ps3110-michael-malarkey-3.jpg"
 headline: true
 featured: true
 imported: true

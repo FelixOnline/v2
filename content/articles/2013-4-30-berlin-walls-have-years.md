@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ich bin ein Berliner, says Meredith Thomas
 date: "2013-04-30 14:26:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
 headline: true
 featured: true
 imported: true

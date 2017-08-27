@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope on recent research into the humble honeybee
 date: "2013-11-01 09:43:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010943-felix-science-ccd.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010943-felix-science-ccd.jpg"
 image_caption: "CCD has destroyed over 10 million honeybee hives and caused over US$2million in damage"
 headline: true
 featured: true

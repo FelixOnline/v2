@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ...and our picks for the summer!
 date: "2016-06-17 09:29:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171126-felix-serp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171126-felix-serp.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ The Serpentine Gallery’s Pavilion, a mere stone’s throw from the South Ken c
 
 Mary Heilmann is that rare breed; a female abstract artist. Now in her seventies, she’s recently begun to find the big-time art world fame that eluded her for most of her career. In this retrospective at the Whitechapel Gallery, her first full exhibition in the UK since 2001, Heilmann brings to London the colour, and effortless cool of the American West Coast.  Her work, ranging from paintings, furniture, and ceramics is based on grids, architectural shapes filled with riotous, sunny colour. Each piece is autobiographical in some way, referencing everything and anything from her grandmother’s house in 1940s San Francisco, to surfing, doing acid trips, **The Sex Pistols**, and the mid century New Yorks arts scene.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171127-felix-newtatemodernsouthview.jpg" title="Tate Modern Extension" caption="Tate Modern Extension" attr="Hayes Davidson and Herzog & de Meuron" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171127-felix-newtatemodernsouthview.jpg" title="Tate Modern Extension" caption="Tate Modern Extension" attr="Hayes Davidson and Herzog & de Meuron" >}}
 
 **Shakespeare 400 Events**
 

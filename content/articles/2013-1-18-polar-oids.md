@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lily Le lets the inner biologist out and checks out the Wildlife Photographer of the Year
 date: "2013-01-18 00:41:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180040-tna08-gull-fina.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180040-tna08-gull-fina.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Particular highlights include “Ghost Bears”, an image of two male brown bear
 
 Also enjoyed was “Fly-by Drinking”, a snap of the endangered grey-headed flying fox bat with a cheeky tongue bobbing out as it skims over a body of water for a drink, as well as “Sands of Time”, which displays the intricate beauty and colour of marine invertebrate skeletons worthy of any wrapping paper (which the gift shop disappointingly did not have).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180040-tna08-polar.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180040-tna08-polar.jpg" title="" caption="" attr="" >}}
 
 These were just a few personal favourites amongst numerous other unbelievably striking images. However, fans who regularly attend may also be slightly disappointed by many repetitive themes which seen to crop up each year, and even throughout the exhibition. It does not make them uninteresting or unoriginal pictures, but it does get a bit boring after seeing, for the upteenth time, a stranded or struggling polar bear accompanied by a caption about the melting ice and our environmental responsibilities; the opposite reaction to what the photographs were probably trying to evoke.
 

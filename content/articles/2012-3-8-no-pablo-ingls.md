@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tate Britain examines the relationship between modern British art and Picasso
 date: "2012-03-08 20:33:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082032-ams111-id_152.jpg"
 image_caption: "The Three Dancers (1925)"
 headline: true
 featured: true

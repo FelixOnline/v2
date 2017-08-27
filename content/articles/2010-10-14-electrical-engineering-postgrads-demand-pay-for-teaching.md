@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary
 date: "2010-10-14 19:16:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142013-ks607-peterche.jpg"
 image_caption: "Head of Department, Peter Cheung"
 headline: true
 featured: true

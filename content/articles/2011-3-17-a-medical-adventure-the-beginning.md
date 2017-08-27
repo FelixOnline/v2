@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Furse recounts his long journey from an aching foot to the MRI machine
 date: "2011-03-17 20:34:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
 headline: true
 featured: true
 imported: true

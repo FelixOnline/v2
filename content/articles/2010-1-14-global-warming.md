@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rhys Davies voives his opinions on Global Warming
 date: "2010-01-14 12:51:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141249-rsp07-RhysDavi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141249-rsp07-RhysDavi.jpg"
 headline: true
 featured: true
 imported: true

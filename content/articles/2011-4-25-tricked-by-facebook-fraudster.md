@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
 date: "2011-04-25 17:20:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201104251816-felix-profilepic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104251816-felix-profilepic.jpg"
 image_caption: "The photo used as a profile picture for 'Demi Atkinson'"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Like many, I’d had my fair share of regular conversations with Demi, mostly ab
 
 October came and went but Demi’s mother was too ill to be left alone, so Demi had arranged a deferred place with Imperial. Unfortunately her mother passed away before Christmas, and myself and others gradually became more concerned as Demi’s depression and cocaine use heightened, but spoke to her less and less as we settled into university life.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201104251818-felix-ripmessage.jpg" title="Students posted messages in memory of 'Demi' after she 'died'" caption="Students posted messages in memory of 'Demi' after she 'died'" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201104251818-felix-ripmessage.jpg" title="Students posted messages in memory of 'Demi' after she 'died'" caption="Students posted messages in memory of 'Demi' after she 'died'" attr="" >}}
 
 When her best friend Lara announced the tragic news of her death we were all devastated. Demi had died of sudden unexpected death syndrome due to the unbearable stresses that life had burdened her with. As is custom in this bizarre and often cringe-invoking age, countless messages bombarded Demi’s wall, and amongst the dozens of freshers who knew her, several tears were shed.
 
@@ -43,7 +43,7 @@ But by pure serendipity it was unveiled that Demi didn’t actually exist. Her m
 
 When confronted, Demi’s profile as well as those of her elaborate friendship and family circle vanished into cyberspace. Somebody clearly had a lot of time on their hands, investing hours each evening not only talking to people, but also talking to themselves from the dozens of faux accounts they’d created. One has to wonder what kind of motive someone would have. I mean, Imperial freshers are hardly the most robust or interesting targets in the world. Perhaps someone has a deranged ex-lover looking to keep tabs on them.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201104251820-felix-addasfriend.jpg" title="The fake profile page" caption="The fake profile page" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201104251820-felix-addasfriend.jpg" title="The fake profile page" caption="The fake profile page" attr="" >}}
 
 The whole situation seems like an Aesop’s fable for the Facebook generation: we should certainly be more careful about who we’re trusting online. I’m sure those involved will be a lot more sceptical: a well-established Facebook profile doesn’t make anybody more ‘real’. And as our social interactions diminish and we irreversibly dive further into dependency on such sites, perhaps we should also be asking what kind of responsibility the site owners should be taking.
 

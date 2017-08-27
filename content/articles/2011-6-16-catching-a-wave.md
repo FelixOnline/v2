@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Physicists perform direct measurement of photon wavefunction
 date: "2011-06-16 19:49:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162048-felix-psion005-abstract-digital-art-fractal-quantum_chromodynamics.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162048-felix-psion005-abstract-digital-art-fractal-quantum_chromodynamics.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caroline Wood says: the hottest student debate is coming to London
 date: "2012-10-26 02:07:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260307-tna08-londonclimateforumposter_final5rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260307-tna08-londonclimateforumposter_final5rgb.jpg"
 headline: true
 featured: true
 imported: true

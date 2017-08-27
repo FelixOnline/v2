@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College and Union unveil plans to 'reassure' prospective students following rise in tuition fees
 date: "2011-07-12 15:14:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172006-ks607-img_2989.jpg"
 image_caption: "Financial support will be provided for households earning up to £60,000 "
 headline: true
 featured: true

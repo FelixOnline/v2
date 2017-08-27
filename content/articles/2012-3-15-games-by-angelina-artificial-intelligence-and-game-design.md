@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope takes some time out to chat to Michael Cook, a PhD student designing an A.I. software program, Angelina, that can create games all by itself
 date: "2012-03-15 20:35:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152029-ig711-santa-game-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152029-ig711-santa-game-2.jpg"
 image_caption: "It’s not Crysis 2 quite yet I’ll admit... (An Angelina designed game)"
 headline: true
 featured: true
@@ -42,7 +42,7 @@ L: At the moment Angelina can’t add in graphics or audio on its own. What’s 
 
 In a way I feel that some of the coverage I’ve gotten has been a little cheap; the screenshots make it look very clever, but I did all that art. The good thing is my PhD supervisor, Simon Colton, does lots of work in A.I. generated art, so we’re going to look into ways to get Angelina to be a bit artier in future all by itself.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201203152031-ig711-exclusive,-puzzle-building.jpg" title="An exclusive look at Michael’s next line of Angelina-based research – the building of puzzle games with a series of levels and increasing difficulty" caption="An exclusive look at Michael’s next line of Angelina-based research – the building of puzzle games with a series of levels and increasing difficulty" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201203152031-ig711-exclusive,-puzzle-building.jpg" title="An exclusive look at Michael’s next line of Angelina-based research – the building of puzzle games with a series of levels and increasing difficulty" caption="An exclusive look at Michael’s next line of Angelina-based research – the building of puzzle games with a series of levels and increasing difficulty" attr="" >}}
 
 L: So it’s likely that Angelina will soon be able to add in simple graphics all by itself, but what about higher resolution stuff? For example, do you think Angelina will be able to create a game as visually rich as _Team Fortress 2_?
  M: Yes, eventually. The idea of computational creativity is quite interesting, because researchers like ourselves are struggling with defining a grade of creativity. For instance, writing the Felix article you’re going to write requires a certain level of creativity, but reading it also requires a certain level as well in order to visualise some of the things you’re discussing. Now you could argue that they’re two quite different levels of creativity, one being much higher than the other. Currently, some aspects of Angelina feel creative, but we don’t really consider the system very creative at all.
@@ -60,7 +60,7 @@ Thirdly I hope that’ll lead to really interesting games, and that’s a benefi
 
 Hopefully, as researchers get closer to the public a lot of our research will get released for free, and a lot of our games are released for free. Certainly I hope to release everything about Angelina for free, not just the games but also in time the code behind it as well. That has huge knock-on effects for everyone.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201203152039-ig711-screenshots.jpg" title="Michael has plans to use a new library called APACE to allow Angelina to create point-and-click adventures" caption="Michael has plans to use a new library called APACE to allow Angelina to create point-and-click adventures" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201203152039-ig711-screenshots.jpg" title="Michael has plans to use a new library called APACE to allow Angelina to create point-and-click adventures" caption="Michael has plans to use a new library called APACE to allow Angelina to create point-and-click adventures" attr="" >}}
 
 L: Let’s have a think about the app market for a moment. Do you think that if a designer could press a button and have a game pumped out with no work that the market would be flooded, especially if you plan to release the code for free?
  M: Some people have claimed I’ve been quite naïve for saying that I don’t believe it’ll have that effect on the app market, and I think there is an element of naïvity in there somewhere. It’s impossible to think that these won’t have an effect on people, because in a sense the app market has already experienced these problems before, in that it’s already quite easy to make a basic app. If we make that process even easier we’d certainly see flushes of very simple apps. One of the next projects I’m working on with Angelina is puzzle games, and I’ve already realised that the kind of complexity we could potentially create, those apps are already being sold now for £0.69. It would not be beyond the stretches of imagination to have Angelina do that.
@@ -80,7 +80,7 @@ L: For me certainly, I’ve never been a fan of those mechanical shooters that c
 
 Of course, not all creative or inventive game developers are indie; Valve’s games have a terrific personality, and those things will always be here. You can’t match them with A.I. You can’t replace that human element. Humans have slaved over their work and it shows; Angelina can’t emulate that, and nor would we want her to. That’s another question. There are a lot of things the industry are not interested in.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201203152039-ig711-super-meat-boy.jpg" title="Super Meat Boy — a highlight of human creativity in the gaming industry" caption="Super Meat Boy — a highlight of human creativity in the gaming industry" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201203152039-ig711-super-meat-boy.jpg" title="Super Meat Boy — a highlight of human creativity in the gaming industry" caption="Super Meat Boy — a highlight of human creativity in the gaming industry" attr="" >}}
 
 L: There was a comment made by Mark Nelson, claiming that Angelina should be more transparent, and should allow designers to change what they want. Do you believe what he says?
  M: Mark is a really awesome researcher, and a lot of his papers spurred on the research that I did. I kind of brought that quote on myself. When I talk about Angelina in interviews like this I often talk about it being used in conjunction with designers and things like that. Really, it’s the research around Angelina that will go on to be used. Angelina itself in an autonomous designer, it can’t be used in conjunction with human designers.

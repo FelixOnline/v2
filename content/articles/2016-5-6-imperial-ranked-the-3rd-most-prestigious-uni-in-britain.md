@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Times Higher Education World Reputation Ranking came out this week
 date: "2016-05-06 09:43:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
 image_caption: "Mate do you have a safety pin?"
 headline: true
 featured: true

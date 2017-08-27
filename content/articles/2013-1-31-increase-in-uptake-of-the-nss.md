@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We're going harder... on filling out the NSS
 date: "2013-01-31 22:25:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312223-tna08-this-year.png"
 image_caption: "The graph from this year"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ Those who do not fill out the NSS will start to receive calls soon asking them t
 
 [Doug Hunt, Deputy President (Education)](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/doug-hunt) was asked for comment on the NSS in general and said: “So last year the Union wrote a response to the 2011 NSS results, with clear recommendations to the College on how the education and the student experience at Imperial can be improved. From this a strict policy on how feedback should be given back in 14 days was developed and lecture podcasts were introduced due to this response. This year Paul and I gave an update to this response by awarding medals to the College on their progress. The College received 3 woods, 18 bronzes, 7 silvers and 7 golds. We also gave 3 new recommendations and included the Union’s strategic plan on how we intend to improve your satisfaction over the next year.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301312224-tna08-this-time-2012.png" title="This time last year" caption="This time last year" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301312224-tna08-this-time-2012.png" title="This time last year" caption="This time last year" attr="" >}}
 
 In the 2012 NSS a new question was added, which asked how satisfied final years were with their students’ union. At this part I would like to make clear that the Union is not just a bar, but is also made up of around 330 clubs and societies (highest number for any students’ union) and the 400+ academic reps (both UG and PG).”
 

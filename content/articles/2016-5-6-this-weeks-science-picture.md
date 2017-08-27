@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular picture column
 date: "2016-05-06 09:56:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061055-felix-8584486151_0b2d72876e_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061055-felix-8584486151_0b2d72876e_o.jpg"
 image_caption: "A long exposure shot of a meteor shower from Groningen."
 headline: true
 featured: true

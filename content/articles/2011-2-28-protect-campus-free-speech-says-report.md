@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union welcomes recommendations as helpful and sensitive to complex issues
 date: "2011-02-28 21:13:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282107-ks607-malcolmg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282107-ks607-malcolmg.jpg"
 image_caption: "Malcolm Grant, UCL Provost, chaired the group behind the report"
 headline: true
 featured: true

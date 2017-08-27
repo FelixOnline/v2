@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Government alters visa restrictions to favour researchers
 date: "2011-03-01 20:32:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012028-ks607-imrankha.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012028-ks607-imrankha.jpg"
 image_caption: "Imran Khan, Director of CaSE"
 headline: true
 featured: true

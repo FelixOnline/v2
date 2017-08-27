@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
 image_caption: "Fuck you, dickhead -Ed."
 headline: true
 featured: true

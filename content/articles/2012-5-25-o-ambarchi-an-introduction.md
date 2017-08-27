@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
 image_caption: "Big O. doing what he does best "
 headline: true
 featured: true

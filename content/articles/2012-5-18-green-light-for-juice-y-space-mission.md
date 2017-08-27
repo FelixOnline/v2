@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Billion euro mission to Jupiter to launch in 2022
 date: "2012-05-18 11:20:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
 image_caption: "JUICE will visit Europa (pictured) along with Ganymede and Calisto"
 headline: true
 featured: true

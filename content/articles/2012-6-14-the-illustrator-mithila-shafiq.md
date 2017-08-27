@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Illustrator - Mithila Shafiq
 date: "2012-06-14 20:33:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142129-pk1811-mithi_b_01.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ Still, she refused to give up on her art. Mithi was present at the founding of L
 
 “I think it’s to do with the kind of stuff I was doing, I was doing crystallography, it’s really slow. You just can’t see the end of things. It got me down. I thought that’s it, I’ve had enough, I’m retraining!” Her first plan was to enter science communication. She completed a part time course at Birkbeck, but on graduating discovered a ferociously competitive job market. Finally a friend suggested she take a year out to complete an art foundation. “I think on day three I thought: Why hadn’t I done this before. It completely changed my life.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142132-pk1811-travellers-tales-portfolio2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142132-pk1811-travellers-tales-portfolio2.jpg" title="" caption="" attr="" >}}
 
 She went on to complete a degree in illustration at London Met, then moved with her partner to Bristol with the intention of starting her new career. She claims to have settled in well to her new vocation - so radically different from the research she took part in at Cancer Research UK. “The thing with art is that everything is so subjective. In science it’s black or white. Its far more emotional. But at least I’m not putting anybody’s lives in danger by drawing anything.”
 
@@ -40,4 +40,4 @@ Her plans form the future also focus one bringing more of her technical expertis
 
 Despite her job satisfaction Mithi’s advice for anyone wanting to change career is laced with caution. “I think go for it, but know that it’s just as hard. I found studying illustration sometimes harder than studying biochemistry. The career path is very different. You have to constantly chase work.” However she’s still keen to encourage people to make the step. “If you want to change careers you should go because you love it.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142130-pk1811-boy-portfolio-new.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142130-pk1811-boy-portfolio-new.jpg" title="" caption="" attr="" >}}

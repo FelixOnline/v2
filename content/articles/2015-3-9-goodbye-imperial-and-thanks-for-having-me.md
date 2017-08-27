@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Union and College need to keep working together for the future
 date: "2015-03-09 18:19:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201503091819-ps3110-businesschool.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503091819-ps3110-businesschool.jpg"
 headline: true
 featured: true
 imported: true

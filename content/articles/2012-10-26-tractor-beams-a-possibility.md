@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The real question here is: where are lightsabers?
 date: "2012-10-26 02:32:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260332-tna08-eptracsalv.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the world of Google and Apple, Rudolf Lai asks if there is a future for Microsoft
 date: "2011-02-10 20:50:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102049-ks607-jobsgate.jpg"
 headline: true
 featured: true
 imported: true

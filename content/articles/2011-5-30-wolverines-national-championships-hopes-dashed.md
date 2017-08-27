@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial’s Wolverines unable to qualify for National Championships after suffering heartbreak in Southampton
 date: "2011-05-30 13:11:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201105301410-felix-imperialthrow.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105301410-felix-imperialthrow.jpg"
 headline: true
 featured: true
 imported: true

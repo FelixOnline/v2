@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Esoteric economics are brought down to earth in Adam McKay’s hugely enjoyable film
 date: "2016-01-29 09:25:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
 image_caption: "Christian Bale sweeps up the nominations with his performance as Dr. Michael Burry in The Big Short."
 headline: true
 featured: true

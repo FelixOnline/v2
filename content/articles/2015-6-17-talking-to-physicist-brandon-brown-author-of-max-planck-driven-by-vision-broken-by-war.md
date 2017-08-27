@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
 image_caption: "Brandon Brown, giving his talk "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A cheap and effective way of detecting HIV has been developed by Imperial academics
 date: "2012-11-09 12:45:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
 headline: true
 featured: true
 imported: true

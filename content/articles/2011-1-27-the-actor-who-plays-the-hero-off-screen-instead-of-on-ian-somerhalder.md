@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eye candy – Ian Somerhalder
 date: "2011-01-27 20:06:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272004-nm1010-ianiania.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272004-nm1010-ianiania.jpg"
 headline: true
 featured: true
 imported: true

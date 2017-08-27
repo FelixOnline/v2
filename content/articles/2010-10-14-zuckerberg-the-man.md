@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An examination of the man who created Facebook
 date: "2010-10-14 19:48:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
 image_caption: "The youngest self-made billionaire ever, Mark Zuckerberg still lives in a rented house"
 headline: true
 featured: true

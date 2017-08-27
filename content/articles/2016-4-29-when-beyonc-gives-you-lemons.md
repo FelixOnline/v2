@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We need to talk about Lemonade
 date: "2016-04-29 10:36:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291136-felix-beyonce3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291136-felix-beyonce3.jpg"
 headline: true
 featured: true
 imported: true

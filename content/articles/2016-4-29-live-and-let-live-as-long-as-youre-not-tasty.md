@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX explores the way in which meat-eaters eat, and some misteaks they make in their thinking
 date: "2016-04-29 10:59:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291158-felix-IMG_3764.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291158-felix-IMG_3764.jpg"
 image_caption: "Vegetarians beware."
 headline: true
 featured: true

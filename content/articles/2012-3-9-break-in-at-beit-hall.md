@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
 headline: true
 featured: true
 imported: true

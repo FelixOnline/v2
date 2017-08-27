@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the medical side of the popular clubbing drug
 date: "2014-11-10 21:28:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102128-ps3110-ecstacy-03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102128-ps3110-ecstacy-03.jpg"
 headline: true
 featured: true
 imported: true

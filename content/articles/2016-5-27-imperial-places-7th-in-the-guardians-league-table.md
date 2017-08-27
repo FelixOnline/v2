@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We’re up a place, but behind Loughborough and Durham
 date: "2016-05-27 08:38:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201605271038-felix-20160526_143359.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605271038-felix-20160526_143359.jpg"
 headline: true
 featured: true
 imported: true

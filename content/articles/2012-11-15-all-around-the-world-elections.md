@@ -30,7 +30,7 @@ Jordan
 
 _23 January 2013_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152212-tna08-king-abdullah.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152212-tna08-king-abdullah.jpeg" title="" caption="" attr="" >}}
 
 In reaction to public discontent and pressure for reform, King Abdullah dissolved parliament in October, calling for early elections. The new caretaker cabinet is the fifth cabinet since the Arab Spring started. Jordan has so far avoided protests on the same scale as Libya or Egypt.
 
@@ -40,7 +40,7 @@ Zimbabwe
 
 _March 2013 (tbc)_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152211-tna08-r237203_956389.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152211-tna08-r237203_956389.jpeg" title="" caption="" attr="" >}}
 
 Zimbabwe has an important year coming up: the population will have to vote in a referendum for a new constitution and in the presidential election. Yet, there is one major concern: money. The finance minister has said that the country simply cannot afford to hold the elections, estimating their total cost at 129 USD. President Mugabe has already successfully argued to have three by-elections postponed, saving the state 38m USD. Foreign bodies like the EU and the IMF are being appealed to for funds.
 
@@ -52,7 +52,7 @@ Afghanistan
 
 _5 April 2014_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152212-tna08-hamid_karzai.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152212-tna08-hamid_karzai.jpeg" title="" caption="" attr="" >}}
 
 In 18 months, Afghan voters will elect their first new president since 2001. Hamid Karzai was nominated as leader, and then won two successive elections. The constitution currently in place prevents him from running for a third term.
 

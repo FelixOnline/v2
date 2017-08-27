@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Call to protect staff bar attracts hundreds of members
 date: "2012-01-12 21:40:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122130-felix-holland-club-poster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122130-felix-holland-club-poster.jpg"
 image_caption: "A poster campaign has been organised"
 headline: true
 featured: true

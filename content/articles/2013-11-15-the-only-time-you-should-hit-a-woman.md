@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The President of IC Wing Chun about misplaced chivalry in martial arts.
 date: "2013-11-15 02:23:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201311150244-felix-womanhittingman.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311150244-felix-womanhittingman.png"
 headline: true
 featured: true
 imported: true

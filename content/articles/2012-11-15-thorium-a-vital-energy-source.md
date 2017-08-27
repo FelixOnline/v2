@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alasdair Wynn and Matt O’Neill explore an untapped resource
 date: "2012-11-15 21:08:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
 headline: true
 featured: true
 imported: true

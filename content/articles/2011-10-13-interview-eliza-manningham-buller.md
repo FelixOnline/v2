@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matt Colvin talks to the former MI5 Director General and current College Chairman about her role and the future of Imperial College
 date: "2011-10-13 21:24:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132223-felix-img_0459.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132223-felix-img_0459.jpg"
 image_caption: "Baronness Eliza Manningham-Buller"
 headline: true
 featured: true

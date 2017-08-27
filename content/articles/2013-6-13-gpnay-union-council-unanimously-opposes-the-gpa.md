@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College confirm that they have not yet discussed switching
 date: "2013-06-13 23:07:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140007-tna08-yale-university.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140007-tna08-yale-university.jpg"
 image_caption: "Yale... How grand. Are you overcompensating for something?"
 headline: true
 featured: true

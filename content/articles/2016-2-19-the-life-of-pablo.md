@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kanye West causes tidal waves with his eighth album
 date: "2016-02-19 12:19:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191219-felix-kanye.jpg"
 image_caption: "Shut the fuck up and enjoy the greatness."
 headline: true
 featured: true

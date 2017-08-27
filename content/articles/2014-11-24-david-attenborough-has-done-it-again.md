@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia reviews the new Life Story series
 date: "2014-11-24 20:42:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201411242043-ps3110-life-story-1-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411242043-ps3110-life-story-1-cmyk.jpg"
 headline: true
 featured: true
 imported: true

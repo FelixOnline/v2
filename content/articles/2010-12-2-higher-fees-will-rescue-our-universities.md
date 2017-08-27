@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Every other sector faces wage-freezes, mass redundancies or unemployment
 date: "2010-12-02 21:39:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022131-nm1010-higherfe.jpg"
 headline: true
 featured: true
 imported: true

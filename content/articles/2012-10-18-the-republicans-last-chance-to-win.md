@@ -4,7 +4,7 @@ title: >
 subtitle: >
   US Presidential Elections 2012
 date: "2012-10-18 21:22:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
 headline: true
 featured: true
 imported: true

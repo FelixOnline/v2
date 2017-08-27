@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How did you ever survive without this 'indispensable' knowledge?
 date: "2010-10-01 21:38:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201010012226-ks607-Dexter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010012226-ks607-Dexter.jpg"
 image_caption: "Poor Dexter never made it to Imperial..."
 headline: true
 featured: true

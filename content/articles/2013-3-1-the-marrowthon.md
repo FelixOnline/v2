@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hewa Khalilifar dresses up as a superhero, and so should you...
 date: "2013-03-01 00:34:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010032-tna08-marrow-fun-run.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010032-tna08-marrow-fun-run.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ There are many things in life that we take for granted or are ignorant of if the
 
 The concept of a register was borne in the early 1970s by a woman called Shirley Nolan who was desperate to find a bone marrow donor for her young son, Anthony. Anthony was born with Wiscott Aldrich syndrome, a rare condition that left his life dependent on a bone marrow transplant. At the time, matches were made mainly through relatives as it was only in 1973 that unrelated donors began to be used. However, there was no system in place to locate a donor to match the patient at hand. Anthony’s mother campaigned for the creation of a bone marrow register to do just this; although it was set up in 1974, she lost her eight year old son for lack of a match in 1979. The connectedness inherent in transplant procedures today is the legacy of a young child and his visionary, loving mother. Nine years later a team of students formed the first-ever Marrow Society in the University of Nottingham in response to the loss of a friend to leukaemia.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303010033-tna08-marrow-team.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303010033-tna08-marrow-team.jpg" title="" caption="" attr="" >}}
 
 Cancer is a personal subject. Cancer evokes different thoughts and associations in different people, and so I’m banking on you readers to forgive me for inevitably sharing my own take and experiences with the subject. I was introduced to Anthony Nolan through a scheme of theirs entitled ‘Register and Be a Lifesaver’, or R&Be, for which I attended a training day at the charity headquarters. The scheme was instigated by Adrian Sudbury, a young journalist whose life had been transformed following a leukaemia diagnosis. Throughout the course of his illness he relayed the details of his battles with cancer in an excruciatingly honest way on an online blog, ‘Baldy’s Blog’, which accumulated thousands of readers all over the world. At the training we were shown a clip of Adrian which followed the deterioration of his health over time. We learned how he had loved to play football, how he had dreamed of becoming a big-time journalist, and how his life as he had known it had stopped after he had checked himself into hospital upon feeling incredibly tired one day whilst washing the dishes. Had you been there, you would have noticed the pace of the background music slowing down and the frames losing colour and movement in a build-up to what you are primed to know is a tragic ending. At that point I remember looking over to the speaker who, moments later, exposed himself as Adrian’s father. There was a mutual respect in the room, a room which seemed to purge this man of his deep sorrow and regret for the time he was up there speaking about his footballer-journalist-cancerous son. He was doing everything in his power to educate people about blood cancers and what they could do to help on behalf of his deceased son who had made promotion of public education, particularly teenagers, his dying mission.
 

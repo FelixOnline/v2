@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Union previously campaigned against charge
 date: "2015-02-27 00:38:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
 image_caption: "Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment"
 headline: true
 featured: true

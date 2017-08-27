@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian takes to Malaysian Night 2012
 date: "2012-03-01 21:31:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
 image_caption: "He whipped out his katana...it was super effective"
 headline: true
 featured: true

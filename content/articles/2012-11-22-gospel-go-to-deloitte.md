@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Business and singing collide...
 date: "2012-11-22 22:51:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222251-tna08-ugcy-stage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222251-tna08-ugcy-stage.jpg"
 headline: true
 featured: true
 imported: true

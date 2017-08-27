@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles has an ambivalent experience at Electric Brixton
 date: "2013-10-25 00:30:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250130-felix-mus_london_grammar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250130-felix-mus_london_grammar.jpg"
 image_caption: "London Grammar"
 headline: true
 featured: true

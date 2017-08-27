@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Natalia Petrou introduces you to a beautiful world of sun, sea, beaches, parties... sigh
 date: "2013-05-07 19:32:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201305072032-tna08-greece_1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305072032-tna08-greece_1.png"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ The biggest island in Greece, located in the southern part of the country combin
 
 One of my favourite beaches is “Falasarna”, located in the western part of the island. With the wonderful combination of sun and sea, the beach is also under protection through the EU Natura 2000 project. It is quite a big beach, thus even if it is crowded you won’t feel suffocated, as it usually happens in the summertime. The only drawback would have to be the northern winds, making it sometimes difficult to swim and enjoy the sea. Otherwise it is just the perfect place to go; it is also close to Chania, one of the big cities of the island, which offers many options for sightseeing, Greek cuisine tasting and nightlife.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305072033-tna08-greece2.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305072033-tna08-greece2.png" title="" caption="" attr="" >}}
 
 Kastoria
 
@@ -46,7 +46,7 @@ What makes this city unique and attracts visitors, is the magic atmosphere it co
 
 For the more relaxed visitors, the city offers spectacular cuisine as well and it is famous for the different kinds of pie and the traditional desserts.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305072033-tna08-greece3.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305072033-tna08-greece3.png" title="" caption="" attr="" >}}
 
 Thessaloniki
 
@@ -59,4 +59,4 @@ On the other hand, if you happen to be a bit more adventurous person, you can vi
 The city offers restaurants with great cuisine, which please even the most demanding food-lovers and it is the most famous city for its nightlife opportunities and it’s called “the city that never sleeps”…
  As you can see Greece is a huge country with different sceneries throughout its area, so you can choose what is most appropriate for you. Start packing, Greece awaits you!!!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305072034-tna08-greece-4.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305072034-tna08-greece-4.png" title="" caption="" attr="" >}}

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik guides us through the proposed changes to funding for culture under the Conservative majority
 date: "2015-05-15 12:59:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
 image_caption: "The Barbican Centre, above, one of London's best cultural centres, will be one of the hardest hit, with an ACE cut of 20%"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After many weeks of speculations, leaks, and overwhelming anticipation, Google has finally taken the wraps off their new flagship phone, the Nexus 5.
 date: "2013-11-06 17:22:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201311061722-me1711-tech_n5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311061722-me1711-tech_n5.jpg"
 headline: true
 featured: true
 imported: true

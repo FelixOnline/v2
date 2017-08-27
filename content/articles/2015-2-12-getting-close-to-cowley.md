@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Xuan Chen interviews one of the country’s most influential man about science, energy and how he maintains his hair
 date: "2015-02-12 23:25:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122322-jyg11-19om08cowley.jpg"
 image_caption: "Professor Cowley, potentially the busiest man in the world, pauses to use a blackboard. inset: the fandom is strong with this one"
 headline: true
 featured: true

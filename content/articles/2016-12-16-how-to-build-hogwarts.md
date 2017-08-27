@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It all started as friends in halls. The Christmas tradition started in 2008, and by 2009 we’d first discovered gingerbread together. Since then, it’s escalated, trying to be bigger and better each year. In a true Imperial spirit, we’ve taken a scientific, competitive approach.
 date: "2016-12-16 16:06:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,21 +28,21 @@ We weren’t ambitious. We built a cute little gingerbread house. It only took o
 ## 2010 | The castle
 This took two whole batches of gingerbread. We wanted to top the previous year, and this seemed like the obvious next step. We were so impressed at the time with the four towers, complete with crenelations.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161600-felix-154284_1746567830663_6777772_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161600-felix-154284_1746567830663_6777772_n.jpg" title="" caption="" attr="" >}}
 
 ## 2011 | The bridge
 This used gingercake to create a valley and gingerbread created the suspension bridge spanning the gap. The first creation that required significant architectural planning, although decoration was less exciting.
 ## 2012 | The train
 We had to scale down the production during baking because we hadn’t considered that the size of the oven was a limiting factor. Still, we produced a three-carriage train with a single piece cylindrical body for the engine. Unfortunately, there was a roof collapse in one of the carriages, causing the creation to have a plot line of being invaded by alien mice.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161601-felix-463828_4482940624695_939310785_o.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161601-felix-463828_4482940624695_939310785_o.jpg" title="" caption="" attr="" >}}
 
 ## 2013 | St Basil’s Cathedral (which is not the Kremlin, FYI)
 The first of the truly ambitious biscuit architecture. Consisting of eight towers, each topped with an onion dome, with colours and patterns carefully reproduced to match the original. It weighed 40kg, and it was beautiful. Decorative Easter eggs included an homage to Petr Pavlensky, who nailed his scrotum to Red Square, and a LGBT+ pride mural on the outer walls.
 ## 2015 | La Sagrada Familia (completed design)
 Some said it was stupid to attempt to recreate (to scale) a building that has been under construction for 134 years and isn’t even half built. It was a titan of modular construction, weighing in at around 70kg, with more than 500 individual pieces. Each of the eighteen towers were built to scale, and the main body of the cathedral was complete with stained glass. Unfortunately, we ran out of time to finish the facades, but it was by far the most impressive creation so far.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161601-felix-12356921_10206983939570033_5385522322101037164_o.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161601-felix-12356921_10206983939570033_5385522322101037164_o.jpg" title="" caption="" attr="" >}}
 
 ## 2016 | Hogwarts
 We’d tried scaling up, and we couldn’t keep adding towers, so this was the year of technical baking. The challenge: build all the towers as cylindrical and conical pieces. With several towers of different sizes, halls, courtyards, and even an owlery, we spent weeks ahead of time drawing blueprints and crafting moulds. As an added challenge, we gave the whole thing a base of cake to add landscape, and the decorative attention to detail included a quidditch pitch, a somewhat questionable Dark Mark, and a student who may or may not be escaping from the Giant Squid. This creation weighed in at more than 100kg, and posed new challenges of confectionery distribution, as cake really doesn’t keep as long as gingerbread.
@@ -93,7 +93,7 @@ To make the buttercreams, beat together all of the ingredients and mix until smo
  - 3 tbsp lukewarm water
 ## Some notes on structural baking
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161606-felix-15220251_10209879788484446_8576007368737137621_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161606-felix-15220251_10209879788484446_8576007368737137621_n.jpg" title="" caption="" attr="" >}}
 
 When building things out of gingerbread, some level of care and precision is required. As you scale up the operation, the importance of this increases, and several other factors come into play. As the engineers out there may have identified, these problems include (1) the swelling of the gingerbread during the bake, (2) the strength and weightbearing requirements of the individual pieces, and (3) the choice between flat and curved pieces.
 
@@ -110,4 +110,4 @@ If constructing a building out of flat, rectangular pieces is like first year, b
 
 Bake it low and slow, but watch out that the gingerbread doesn’t stretch too much during the baking. You may need to reshape and touch up the piece when it’s in the oven. Trim where needed, and if any cracks appear, you can patch them with dough within the first eight minutes or so.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161606-felix-15267924_10209879788844455_8818105870735203450_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161606-felix-15267924_10209879788844455_8818105870735203450_n.jpg" title="" caption="" attr="" >}}

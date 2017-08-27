@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
 headline: true
 featured: true
 imported: true

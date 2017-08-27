@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Meredith Thomas ventures into the weird land of the cyborgs at the Wellcome Collection
 date: "2012-10-11 20:28:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
 image_caption: "My caption-writing skills have finally been rendered useless"
 headline: true
 featured: true

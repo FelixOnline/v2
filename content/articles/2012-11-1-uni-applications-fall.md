@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Applications peaked in 2011 and now fall. Warning over shortage of engineers
 date: "2012-11-01 23:20:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012320-tna08-figure-for-the-applications.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012320-tna08-figure-for-the-applications.jpg"
 headline: true
 featured: true
 imported: true

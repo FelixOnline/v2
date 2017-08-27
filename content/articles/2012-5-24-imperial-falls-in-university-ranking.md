@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Controversy over drop from 10th to 13th in latest Guardian tables
 date: "2012-05-24 22:44:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201205242344-mc4509-jpdpe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205242344-mc4509-jpdpe.jpg"
 image_caption: "The ‘value added’ score in the rankings have been criticised by Jason Parmar"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at the re-issue of one of the 90’s greatest albums
 date: "2010-12-02 20:51:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022049-ac1507-Weezer.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Henry Turner-Chambers finds an infectious afternoon's entertainment with Steven Soderbergh's Contagion
 date: "2011-10-27 21:29:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272229-felix-11-ffilm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272229-felix-11-ffilm.jpg"
 image_caption: "Gwynnie wasn’t too pleased with her hubby’s new album: myloawef xylotosoiwlek"
 headline: true
 featured: true

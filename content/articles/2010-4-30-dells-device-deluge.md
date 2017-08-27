@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dell leaks details of five new mobile devices and new information about two already known
 date: "2010-04-30 11:39:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201004301229-srg03-DellThun.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201004301229-srg03-DellThun.jpg"
 headline: true
 featured: true
 imported: true

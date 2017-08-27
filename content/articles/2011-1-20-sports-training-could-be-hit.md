@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The College’s proposals to extend the working day would have several implications in terms of the available time for extra-curricular sporting activity
 date: "2011-01-20 21:01:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202058-ks607-sportssp.jpg"
 headline: true
 featured: true
 imported: true

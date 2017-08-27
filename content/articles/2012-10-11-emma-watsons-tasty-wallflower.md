@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Can Hermione cast off her robes?
 date: "2012-10-11 21:04:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
 image_caption: "Ron and Harry got hotter"
 headline: true
 featured: true

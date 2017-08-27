@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sharing the Cheah family recipe: Quick, tasty and different
 date: "2014-05-16 02:13:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
 headline: true
 featured: true
 imported: true

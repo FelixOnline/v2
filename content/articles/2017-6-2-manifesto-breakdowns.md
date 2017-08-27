@@ -4,7 +4,7 @@ title: >
 subtitle: >
    The policy headlines
 date: "2017-06-02 13:59:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021646-felix-5139407571_176d0729e6_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021646-felix-5139407571_176d0729e6_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ These should be brief guides, and the manifestos themselves should be consulted 
 
 Whatever you do, don’t let felix be your sole source of political information (or any other publication/party website for that matter), you need to be fully informed when you cast your vote (or spoil your ballot) on June 8th.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021604-felix-34617656122_6b90591f67_o.jpg" title="One of them is Theresa May. Not sure which one." caption="One of them is Theresa May. Not sure which one." attr="The White House" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021604-felix-34617656122_6b90591f67_o.jpg" title="One of them is Theresa May. Not sure which one." caption="One of them is Theresa May. Not sure which one." attr="The White House" >}}
 
 ## Conservatives | Theresa May
 The Conservative party started this election campaign with the sole intent to claim a larger majority and strengthen their position when it came to negotiating the future of Britain after Brexit. When the snap election was called by Theresa May back in April it seemed a full-blown conclusion that a large Conservative majority was inevitable, but that lead in the polls (of around 24%) has begun to slide in recent weeks.
@@ -51,7 +51,7 @@ If you’re hoping to see May discuss these policies directly with the other par
 
 **Prediction:** Around enough MPs to form a majority, could go either way though.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021606-felix-26392896430_6732737220_o (1).jpg" title="Does that cheeky smile not send chills down your spine or what?" caption="Does that cheeky smile not send chills down your spine or what?" attr="Garry Knight" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021606-felix-26392896430_6732737220_o (1).jpg" title="Does that cheeky smile not send chills down your spine or what?" caption="Does that cheeky smile not send chills down your spine or what?" attr="Garry Knight" >}}
 
 ## Labour | Jeremy Corbyn
 At the start of the General Election campaign with 24 points between the two major parties in the polls, a massive Conservative landslide on the 8th of June looked all but inevitable. It was meant to be an election about leadership of the “strong and stable” kind, not one fought on policy. But the popularity of Labour’s manifesto and key promises has surprised many. They have offered a manifesto, which while large swathes of the press might label as extreme, is in tune with a large proportion of the population.
@@ -69,7 +69,7 @@ Corbyn and Labour have also found an unlikely ally in the form of the UK Grime s
 
 **Prediction:** Second largest party, possibly enough to form a Lab/Lib/everyone else coalition.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021608-felix-9338361135_08e9a047c6_o.jpg" title="The ultimate leadership test – can Caroline pull of florals?" caption="The ultimate leadership test – can Caroline pull of florals?" attr="Dominic Alves" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021608-felix-9338361135_08e9a047c6_o.jpg" title="The ultimate leadership test – can Caroline pull of florals?" caption="The ultimate leadership test – can Caroline pull of florals?" attr="Dominic Alves" >}}
 
 ## Greens | Caroline Lucas &amp; Jonathan Bartley
 The Green Party are the party that are pushing the most towards a utopian society with their manifesto, championing animal rights, environmentalism, and a united Europe (in the form of the EU).
@@ -91,7 +91,7 @@ Criticism has been drawn over the lack of concrete figures in the manifesto but 
 
 **Prediction:** Likely just the one MP, the flaw of FPTP.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021609-felix-3162526830_6dc5de785c_o.jpg" title="Paul Nuttall #sorrynotsorry" caption="Paul Nuttall #sorrynotsorry" attr="dlancea" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021609-felix-3162526830_6dc5de785c_o.jpg" title="Paul Nuttall #sorrynotsorry" caption="Paul Nuttall #sorrynotsorry" attr="dlancea" >}}
 
 ## UKIP | Paul Nuttall
 UKIP, the United Kingdom Independence Party, to give it its full name, has for the last decade or so been essentially Nigel Farage and friends. He was the leader that led the party to the fulfilment of their primary goal, for the UK to leave the European Union, before (eventually) handing over the reins of the party to Paul Nuttall. The manifesto this time around focusses on making sure the government, whoever that may be, is pressured into a full and swift cutting of ties with Brussels.
@@ -109,7 +109,7 @@ And just when you think we’d had enough of them, UKIP also pledge to hold a pu
 
 **Prediction:** Their vote share will tumble and they will likely have no MPs. Poor Paul.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021610-felix-33976544673_fce9b48f69_o.jpg" title="Sturgeon doing a Johnson" caption="Sturgeon doing a Johnson" attr="Ninian Reid" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021610-felix-33976544673_fce9b48f69_o.jpg" title="Sturgeon doing a Johnson" caption="Sturgeon doing a Johnson" attr="Ninian Reid" >}}
 
 ## SNP | Nicola Sturgeon
 The Scottish National Party (SNP) rose to prominence in 2015 after they swept 56 out of the 59 seats in Scotland, solidifying themselves as the voice of Scotland in Westminster.
@@ -124,7 +124,7 @@ Similar policies to Labour pop up here and there in the manifesto, including a �
 
 **Predicted Seats:** Scotland’s largest party by far, they’ll probably lose a seat or two.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706021611-felix-24725622684_5c9d98990c_o.jpg" title="I wish I knew more about Wood to make a joke" caption="I wish I knew more about Wood to make a joke" attr="Garry Knight" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706021611-felix-24725622684_5c9d98990c_o.jpg" title="I wish I knew more about Wood to make a joke" caption="I wish I knew more about Wood to make a joke" attr="Garry Knight" >}}
 
 ## Plaid Cymru | Leanne Wood
 Again, due to devolution, Plaid isn’t really up against the bulk of the main party policies. The devolved Party manifestos are so removed from the ‘Westminster’ policies that the Llafur Cymru (Welsh Labour) manifesto doesn’t once mention Jeremy Corbyn. Some parts of Welsh life are inevitably governed by Westminster but the Wales-specific policies can make all the difference when casting your vote.

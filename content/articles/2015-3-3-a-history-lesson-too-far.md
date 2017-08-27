@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred reviews the Tate Britain's exhibition on salt prints
 date: "2015-03-03 14:14:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031414-ps3110-screen-shot-2015-03-03-at-14.14.13.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031414-ps3110-screen-shot-2015-03-03-at-14.14.13.png"
 headline: true
 featured: true
 imported: true

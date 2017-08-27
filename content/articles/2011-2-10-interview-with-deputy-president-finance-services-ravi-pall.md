@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "The key is to stay focused on the bigger picture. If you get bogged down in petty issues, you can miss important milestones"
 date: "2011-02-10 20:04:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102002-ks607-ravipall.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102002-ks607-ravipall.jpg"
 headline: true
 featured: true
 imported: true

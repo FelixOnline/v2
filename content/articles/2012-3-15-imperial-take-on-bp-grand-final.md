@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Internship on offer for grand winner
 date: "2012-03-15 21:38:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152138-pk1811-bp-petrol-station-in-king-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152138-pk1811-bp-petrol-station-in-king-001.jpg"
 headline: true
 featured: true
 imported: true

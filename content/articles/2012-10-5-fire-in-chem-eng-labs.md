@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Entire Prince Consort Road closed during night
 date: "2012-10-05 16:00:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051659-felix-fire-story2.jpg"
 image_caption: "The view from the steps of the Royal Albert Hall on Tuesday 2nd October"
 headline: true
 featured: true

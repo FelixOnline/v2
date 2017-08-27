@@ -4,7 +4,7 @@ title: >
 subtitle: >
   49 students out of the required 200 attended the meeting on Monday
 date: "2014-12-03 00:53:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201412030056-ps3110-img_0007.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412030056-ps3110-img_0007.jpg"
 image_caption: "Those in attendance of the meeting"
 headline: true
 featured: true

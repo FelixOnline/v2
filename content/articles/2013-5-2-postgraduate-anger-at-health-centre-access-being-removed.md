@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Health Centre no longer allows postgraduate students to access their services if they don't live in the 20 post codes that they cover
 date: "2013-05-02 13:48:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201305021450-tna08-screen-shot-2013-05-02-at-14.49.58.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305021450-tna08-screen-shot-2013-05-02-at-14.49.58.png"
 image_caption: "The Health Centre website, with the message to students"
 headline: true
 featured: true

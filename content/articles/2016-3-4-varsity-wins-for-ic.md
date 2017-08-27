@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The medics won the Ladies' 1s though
 date: "2016-03-04 11:27:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041125-felix-Screen Shot 2016-03-03 at 15.54.24.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041125-felix-Screen Shot 2016-03-03 at 15.54.24.png"
 headline: true
 featured: true
 imported: true

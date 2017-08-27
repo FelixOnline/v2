@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Callum Ballard & Jamie Gollings were whipped up into a frenzy under the arches
 date: "2010-11-18 20:35:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182034-ks607-tpctpctp.jpg"
 headline: true
 featured: true
 imported: true

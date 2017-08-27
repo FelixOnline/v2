@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The stunningly festive bar and restaurant Spiegel Saloon returns to Hyde Park’s Winter Wonderland
 date: "2011-11-24 21:35:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242134-pk1811-spiegel-saloon-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242134-pk1811-spiegel-saloon-(1).jpg"
 image_caption: "Everyone’s obviously too busy watching the latest John Lewis Christmas advert"
 headline: true
 featured: true

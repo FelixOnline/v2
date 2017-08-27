@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey is really annoyed by the new hand dryers in Blackett and Huxley, and wants you to share your equally colossal problems with her in Comment this year
 date: "2013-09-29 13:55:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291455-tna08-hand-dryer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291455-tna08-hand-dryer.jpg"
 headline: true
 featured: true
 imported: true

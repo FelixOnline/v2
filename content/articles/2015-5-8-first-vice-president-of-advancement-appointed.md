@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson introduces the College’s newest Vice President
 date: "2015-05-08 00:26:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
 headline: true
 featured: true
 imported: true

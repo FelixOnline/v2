@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kazuo Ishiguro applies his unique writing style to the realm of science fiction
 date: "2012-02-23 20:26:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232022-cac111-ishiguro.jpg"
 image_caption: "Kazuo Ishiguro is one of Britain’s most celebrated authors"
 headline: true
 featured: true

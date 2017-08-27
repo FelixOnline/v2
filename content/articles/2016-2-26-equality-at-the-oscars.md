@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261138-felix-1424718000517.cached.jpg"
 image_caption: "As Patricia Arquette pointed out in her Oscar speech, Hollywood is a hostile place for women."
 headline: true
 featured: true
@@ -41,7 +41,7 @@ And if an appeal to equality doesn’t reach you, what about just a appeal to qu
 
 Leonardo DiCaprio will probably take home the Oscar for his portrayal of Hugh Glass, a role that does not reveal any ability to convey complex emotions or nuance; instead, it’s another example of how voters love seeing actors suffer on screen (Hollywood sure is a sadistic industry). But then perhaps he deserves the award, since it’s definitely an absolutely stinking year: Eddie Redmayne layered on so many simpering affectations as Lili Elbe that I’m not sure whether the portrayal is offensive to just the trans community, or women in general; Bryan Cranston similarly conjured up a number of tics in order to play Dalton Trumbo, in a role that could be best described as ‘pained’; and Matt Damon was amusing, but not much else, in humdrum _The Martian_.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201602261139-felix-image.jpg" title="Meryl Streep, clutching her Oscar, and thinking of how she’s so much better than you." caption="Meryl Streep, clutching her Oscar, and thinking of how she’s so much better than you." attr="Dan MacMedan/AP" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201602261139-felix-image.jpg" title="Meryl Streep, clutching her Oscar, and thinking of how she’s so much better than you." caption="Meryl Streep, clutching her Oscar, and thinking of how she’s so much better than you." attr="Dan MacMedan/AP" >}}
 
 But if we turn to the Best Actress nominees, it’s a different story. Jennifer Lawrence, easily the worst of the bunch, still packs in more emotional range than DiCaprio. Saoirse Ronan is equally captivating in her role as Irish shop-girl Eilis, imbuing her with a deep vulnerability that hardens into an inner strength. Charlotte Rampling delivers a performance that would be award-worthy just for what she brings to the ending alone: a shot that will haunt your dreams and linger in your mind. Brie Larson, the likely winner, is a magician on screen, as the traumatised abuse victim of _Room_ who must hold it together for her child. And, of course, Cate Blanchett is completely phenomenal as the complex, controlled Carol Aird, in Todd Haynes’ sumptuous masterpiece _Carol_.
 

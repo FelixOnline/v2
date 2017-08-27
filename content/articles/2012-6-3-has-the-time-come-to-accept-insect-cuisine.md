@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Meat and fish? It may well be all about insects
 date: "2012-06-03 16:10:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
 headline: true
 featured: true
 imported: true

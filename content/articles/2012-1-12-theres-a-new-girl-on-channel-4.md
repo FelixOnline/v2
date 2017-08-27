@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the statistically most depressing day of the year nears, Channel 4 is prepared with a little treat
 date: "2012-01-12 22:57:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122257-cac111-new-girl.jpg"
 image_caption: "This picture is in no way sexual"
 headline: true
 featured: true

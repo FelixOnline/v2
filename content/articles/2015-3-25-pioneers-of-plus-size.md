@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey takes us through some of the most empowering plus-size women in the fashion world, including an interview with Natashia Judge
 date: "2015-03-25 12:02:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251158-ff712-tessmunster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251158-ff712-tessmunster.jpg"
 headline: true
 featured: true
 imported: true

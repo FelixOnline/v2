@@ -4,7 +4,7 @@ title: >
 subtitle: >
   SIFE’s Insight Into Business Program aims to teach kids through hands-on experience writes Michael Xiao
 date: "2012-03-15 19:46:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151946-pk1811-dragons-den.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151946-pk1811-dragons-den.jpg"
 image_caption: "The Felix artist’s impression of the judging panel"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A compelling but contrariwise journey through Botticelli’s artistic influence
 date: "2016-03-11 12:01:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111200-felix-botti.jpg"
 image_caption: "‘Rebirth of Venus’ by David LaChapelle, 2009."
 headline: true
 featured: true

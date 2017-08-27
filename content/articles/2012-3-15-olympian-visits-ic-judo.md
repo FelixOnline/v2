@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gold medallist makes unexpected visit at judo training
 date: "2012-03-15 22:17:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152216-pk1811-judo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152216-pk1811-judo.jpg"
 headline: true
 featured: true
 imported: true

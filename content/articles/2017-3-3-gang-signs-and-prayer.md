@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The pressure was on, and at the tail-end of 2016, Stormzy went AWOL
 date: "2017-03-03 15:24:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The battle lines are set, does Fairtrade actually help anyone? Or is it just a funny cartoon of a person holding a stick or something...
 date: "2013-05-22 14:27:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201305221527-tna08-fairtrade-mark.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305221527-tna08-fairtrade-mark.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Sport learns of the strange goings on at IC Dodgeball...
 date: "2013-01-24 20:38:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242044-mc4509-dodge.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242044-mc4509-dodge.png"
 image_caption: "No medals for Steve"
 headline: true
 featured: true

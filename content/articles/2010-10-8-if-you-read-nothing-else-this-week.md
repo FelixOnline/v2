@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gilead Amit, Deputy Editor, kicks off our new feature with his favourite work of literature: De Profundis
 date: "2010-10-08 06:33:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010080731-ks607-OscarWil.jpg"
 headline: true
 featured: true
 imported: true

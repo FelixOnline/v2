@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
 image_caption: "What a jacket. And what a face."
 headline: true
 featured: true

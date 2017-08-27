@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial's website will be redesigned for the first time since 2007
 date: "2013-02-08 01:16:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080228-tna08-screen-shot-2013-02-08-at-02.27.44.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080228-tna08-screen-shot-2013-02-08-at-02.27.44.png"
 image_caption: "The current website, which was designed in 2007"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles and Kamil McClelland give five overlooked artists that you should know about
 date: "2015-01-31 19:04:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
 image_caption: "Detail from Spiritual Conversations"
 headline: true
 featured: true

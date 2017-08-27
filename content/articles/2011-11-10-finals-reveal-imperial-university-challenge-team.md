@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cross-College team members set their sights on Paxman
 date: "2011-11-10 19:48:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
 headline: true
 featured: true
 imported: true

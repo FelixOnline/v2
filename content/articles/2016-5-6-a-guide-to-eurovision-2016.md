@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It's happening, people.
 date: "2016-05-06 10:09:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061101-felix-globe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061101-felix-globe.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,70 +34,70 @@ After Måns Zelmerlöw’s victory for Sweden in Vienna last year, this year see
 Here are my top ten songs to keep an eye out for, comprised of some of the bookies’ favourites as well as some of my own, in no particular order:
 ## Montenegro
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061101-felix-montenegro2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061101-felix-montenegro2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Highway**
 ‘The Real Thing’
 I loved Montenegro’s song last year despite the odds of it winning being 100/1. This year the odds are 500/1 but again there’s something about it that I can’t get enough of, probably the driving guitar riff of the chorus. ‘The Real Thing’ by **Highway** is a powerful but cheesy, rock-come-dubstep song that probably won’t qualify for the final, but will certainly get the arena going during the semis. Then again, Montenegro beat the odds last year and ended up not only qualifying for the final, but also placing a very respectable 13th. Can Highway do the same this year? (I doubt it.)
 ## Malta
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061102-felix-malta2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061102-felix-malta2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Ira Losco**
 ‘Walk On Water’
 **Ira Losco** represented Malta in 2002, placing a very impressive 2nd in the final. Fourteen years later and she’s back again! She’ll be singing ‘Walk On Water’, a punchy, crowd-pleasing song that’s one of the favourites to win. I’m less convinced, finding it a little forgettable, but it’s sure to place in the top ten. Can Ira beat her 2002 attempt and bring Eurovision 2017 to Valletta? It’s a definite possibility!
 ## Australia
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061103-felix-australia2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061103-felix-australia2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Dami Im**
 ‘Sound Of Silence’
 Before you go rummaging through your GCSE Geography textbooks, I know, Australia isn’t in Europe and no, I haven’t misspelled Austria. Eurovision is massively popular down under and so they were allowed to enter the competition last year as a special guest to mark the 60th anniversary of Eurovision, being told that they could only come back again if they won. They came fifth, but Europe enjoyed having them so much that we welcomed them back as a regular contestant anyway. This year they aren’t messing around, sending **Dami Im** to sing ‘Sound Of Silence’, a powerful anthem that’s almost sure to place in the top five.
 ## Latvia
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061104-felix-latvia2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061104-felix-latvia2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Justs**
 ‘Heartbeat’
 Latvia are sending **Justs** with his song ‘Heartbeat’, a song that I’m not all too enamoured with. Using up all of its potential with a great first verse that wouldn’t sound out of place on a Metronomy album, the song soon turns into a slightly tedious club anthem that somehow both ends abruptly whilst also making three minutes seem like a long time. However it’s shown early potential with fans and it’ll most likely place in the top ten, maybe even the top five.
 ## Russia
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061105-felix-russia2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061105-felix-russia2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Sergey Lazarev**
 ‘You Are The Only One’
 Russia came second last year, much to the dismay of the arena, with ‘anti-booing technology’ having to be employed for the first time in the competition’s history. This year they’re favourite to win, sending **Sergey Lazarev** to sing ‘You Are The Only One’, a song that is pure Eurovision. With its infectiously catchy chorus and driving beat that’ll have everyone at home’s toes tapping, it’s a really solid song.
 ## Cyprus
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061106-felix-cyprus2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061106-felix-cyprus2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Minus One**
 ‘Alter Ego’
 **Minus On**e are representing Cyprus with ‘Alter Ego’, one of the few rock songs this year. Eurovision can be a tough place for rock groups who aren’t dressed up as monsters, but I think ‘Alter Ego’ has enough pop influence to qualify for the final, and I love it! Cyprus has never won the competition before, in fact the best they’ve ever placed is fifth. They don’t look set to beat that this year but a top ten finish for this song would be a success.
 ## France
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061106-felix-france2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061106-felix-france2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Amir**
 ‘J’ai Cherché’
 Being a member of the Big Five, France automatically qualifies for the final, and this year it’s set to finish in the top three. **Amir** will sing ‘J’ai Cherché’, an upbeat, catchy, feel-good song that’ll get the arena going and the viewers voting. Though it’s not in my personal top three, I wouldn’t be sad to see this win. After all, Paris is pretty close to London (somewhere the competition definitely won’t be held next year).
 ## Sweden
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061107-felix-sweden2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061107-felix-sweden2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Frans**
 ‘If I Were Sorry’
 This year’s host nation takes Eurovision seriously. Very seriously. Their selection process, Melodifestivalen, is one of the most watched shows in the Swedish television calendar and is probably the most rigorous selection process in Europe. This year, by some miracle, **Frans** and his song ‘If I Were Sorry’ won and will represent Sweden. By an even bigger miracle, it’s third favourite to win. How what I think is a painfully boring, monotonous, middle-of-the-road song is so popular is a mystery to me. Nonetheless it’ll definitely make the top five, maybe make the top three and could well win.
 ## Bulgaria
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061108-felix-bulgaria2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061108-felix-bulgaria2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Poli Genova**
 ‘If Love Was A Crime’
 Bulgaria first entered Eurovision in 2005, and has only gotten to the final once. They’re returning to the contest for the first time since 2013, sending **Poli Genova** to sing ‘If Love Was a Crime’. A returning artist, Poli represented Bulgaria in 2012, failing to qualify. This year she’s set to do well with this upbeat, powerful anthem. I’d like to see Bulgaria place in the top five, because I love the song.
 ## Estonia
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061108-felix-estonia2.jpg" title="" caption="" attr="Eurovision" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061108-felix-estonia2.jpg" title="" caption="" attr="Eurovision" >}}
 
 **Jüri Pootsmann**
 ‘Play’

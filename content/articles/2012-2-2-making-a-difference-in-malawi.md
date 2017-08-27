@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Loïc Baboulaz makes his mark on the Malawian healthcare system
 date: "2012-02-02 23:19:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
 image_caption: "Joining a Malawian primary school for the day "
 headline: true
 featured: true

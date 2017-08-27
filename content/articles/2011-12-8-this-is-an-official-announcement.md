@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski likes the latest from Charlie Brooker
 date: "2011-12-08 21:14:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082112-cac111-black-mirror-007.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082112-cac111-black-mirror-007.jpg"
 image_caption: "Look at the massive bogie i just mined from my nose!"
 headline: true
 featured: true
@@ -27,7 +27,7 @@ I am a great admirer of Charlie Brooker. He is a master of satire and biting soc
 
 The title _Black Mirror_ is a reference to monitor screens and each of the episodes focuses on the darker side of technology, especially social networking and new media. Brooker says that the inaugural episode, entitled _The National Anthem,_ was inspired by “the kerfuffle over superinjunctions” and how “Gordon Brown was virtually commanded to apologise to Gillian Duffy”. The episode opens with Prime Minister Michael Callow being woken up to be told that the popular Princess Susannah has been kidnapped and will be killed unless he performs... well, let us say ‘certain acts’, with a pig on live television. The public are initially sympathetic to his plight but several incidents involving social media cause the situation to deteriorate before he almost literally has no choice but to acquiesce to the demands.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082113-cac111-brooker.jpg" title="Derision from Charlie Brooker? Whatever next? " caption="Derision from Charlie Brooker? Whatever next? " attr="Credit: BBC Four" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082113-cac111-brooker.jpg" title="Derision from Charlie Brooker? Whatever next? " caption="Derision from Charlie Brooker? Whatever next? " attr="Credit: BBC Four" >}}
 
 The program is certainly very funny, the best part coming near the end when we see a crowd in pub watching a message broadcast by the government on all television channels proclaim: “this is an official announcement – in a few minutes the prime minister will perform an indecent act on your screen”. This is of course followed by the entire group, including old ladies, laughing uproariously. The scene becomes far more amusing, or, if you prefer, far more disturbing, if you are aware of Brooker’s well publicised dislike of David Cameron.
 

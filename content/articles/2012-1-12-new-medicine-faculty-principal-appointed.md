@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Immune response pioneer arrives from Trinity College Dublin
 date: "2012-01-12 22:38:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122236-felix-prof-kelleher.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122236-felix-prof-kelleher.jpg"
 image_caption: "Professor Dermot Kelleher"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Some pure beauty from last year
 date: "2013-02-01 00:48:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010047-tna08-shaz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010047-tna08-shaz.jpg"
 headline: true
 featured: true
 imported: true

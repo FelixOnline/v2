@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Total competition hoard: 4 gold, 2 silver and 8 bronze medals and one massive shiny team championship trophy. Roll on BUCS.
 date: "2011-12-01 21:07:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012107-ams111-judo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012107-ams111-judo.jpg"
 image_caption: "The medal-winning Imperial judokas pose for the camera, with smiles all around. Of course, they coul"
 headline: true
 featured: true

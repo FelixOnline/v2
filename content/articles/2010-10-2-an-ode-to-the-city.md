@@ -4,7 +4,7 @@ title: >
 subtitle: >
   London’s nightlife is constantly evolving. A prescriptive list of clubs would be futile
 date: "2010-10-02 07:17:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010020815-ks607-TowerBri.jpg"
 headline: true
 featured: true
 imported: true

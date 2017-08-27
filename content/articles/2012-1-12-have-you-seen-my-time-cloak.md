@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon explores how this object that currently only exists in the world of sci-fi could soon become reality
 date: "2012-01-12 22:12:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
 image_caption: "Still the best way to escape from truly awful lectures"
 headline: true
 featured: true

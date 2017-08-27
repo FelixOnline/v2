@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are you a victim of the global smartphone dictatorship?
 date: "2013-03-15 01:16:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150110-tna08-thinker_iphone.jpg"
 headline: true
 featured: true
 imported: true

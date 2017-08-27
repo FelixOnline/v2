@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We reveal the recipe for Mexico's most famous cocktail
 date: "2011-10-14 00:04:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140104-sjw209-margaritas.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140104-sjw209-margaritas.jpg"
 image_caption: "The thinking man's Slush Puppie"
 headline: true
 featured: true

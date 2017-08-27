@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Suffering from a lack-spirited fearlessness, controversy and attitude, the withering genre of ‘Rock and Roll’ music is feared to be losing its roots and nearing its end
 date: "2011-01-20 20:32:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202028-nm1010-brmcbrmc.jpg"
 headline: true
 featured: true
 imported: true

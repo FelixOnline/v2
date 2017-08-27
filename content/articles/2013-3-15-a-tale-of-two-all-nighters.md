@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICU Cinema get the Red Bull at the ready
 date: "2013-03-15 02:10:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150210-tna08-458348_420684761283652_291963720822424_1560876_1143192476_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150210-tna08-458348_420684761283652_291963720822424_1560876_1143192476_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ Well maybe magical and mystifying aren’t quite the right words, when you consi
 
 But this is a new term with a new all-nighter. This has been a good term for the cinema, with three films doing particularity well. First we showed the romantic comedy Silver Linings Playbook. I’m sure it was noticeable in many ways, one being that it was a romantic comedy that didn’t make me want to run away and hide at the over repeated clichés, but it also featured Jennifer Lawrence. And it is hard not to love a girl who fell over on the steps whilst trying to collect her Oscar for this film. Next it was Argo. The film that, through careful manipulation of the facts made America look great and everyone else look a bit rubbish. But even knowing that, I was amazed by how much Ben Affleck made me care for characters that I thought were initially unlikable, to the point that I felt relief when the ending that I knew was coming from the start of the film finally arrived. The last film was showed that had the audience running in their droves was Life of Pi. In case you haven’t read the book/ seen the trailer or even the poster, this film asks the question. ‘What would happen if a boy was trapped on a lifeboat with a tiger?’ With stunning visuals and a great score (hello Mr Oscar for both), this film was perhaps my personal favourite of the three. Now you may have noticed, oh observant reader, that these films have something in common. Each one was nominated for the best picture Oscar, and in the case of Argo, even won it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150210-tna08-django-unchained-poster04.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150210-tna08-django-unchained-poster04.jpg" title="" caption="" attr="" >}}
 
 So we took the common denominator of ‘People like Oscar best picture nominees’ and we stuck not one, not even two, but four into the set list for the Spring All-Nighter. Lincoln, Django Unchained, Les Miserable and Zero Dark Thirty. After Lincoln, that Americany, presidenty Spielbergy film you will probably feel like an expert on American history. So what better way to test your new found knowledge with the history exam that is Abraham Lincoln: Vampire Hunter?
 

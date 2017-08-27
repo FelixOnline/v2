@@ -4,7 +4,7 @@ title: >
 subtitle: >
   June Yin Gan covers the resolutions of the controversial council papers, despite three votes cast after deadline
 date: "2015-01-29 23:57:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201501292357-ps3110-edited_council.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501292357-ps3110-edited_council.jpg"
 headline: true
 featured: true
 imported: true

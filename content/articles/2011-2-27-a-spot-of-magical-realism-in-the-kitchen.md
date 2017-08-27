@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Columbian food is something not usually encountered in London
 date: "2011-02-27 19:46:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271945-ks607-fruitsel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271945-ks607-fruitsel.jpg"
 headline: true
 featured: true
 imported: true

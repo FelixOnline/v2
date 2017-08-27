@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pipe connection failure sends water gushing down through Biochemistry building
 date: "2011-02-03 19:37:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031934-ks607-floodflo.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Possible alternative to steroid-based inhaler treatments
 date: "2011-05-26 19:20:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
 headline: true
 featured: true
 imported: true

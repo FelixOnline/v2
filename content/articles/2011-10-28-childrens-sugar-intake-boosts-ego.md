@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski is drawn back into the boardroom
 date: "2011-10-28 13:23:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281416-felix-sugar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281416-felix-sugar.jpg"
 image_caption: "Making up for something?"
 headline: true
 featured: true

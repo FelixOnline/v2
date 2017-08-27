@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Luck isn't on the menu for L.A. Cop "Date Rape"
 date: "2012-02-23 20:11:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232009-pk1811-rampart_i1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232009-pk1811-rampart_i1.jpg"
 image_caption: "Enjoying a nice cup of coffee - a luxury most actors can’t afford on set but...to heck with it"
 headline: true
 featured: true

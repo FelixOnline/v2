@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hannah Edmondson interviews Christopher Yates on the inspiration behind his university-set psychological thriller.
 date: "2013-12-19 20:52:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201312192051-mtm10-bc1.png"
 draft: true
 headline: true
 featured: true

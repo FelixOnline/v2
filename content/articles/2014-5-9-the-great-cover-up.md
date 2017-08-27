@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rhian Jones discusses the depiction of the male nude in Western art
 date: "2014-05-09 02:13:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
 image_caption: "Paul Cézanne, Baigneurs (Bathers), c. 1890"
 headline: true
 featured: true

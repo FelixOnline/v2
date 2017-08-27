@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Darije Custovic reviews Dostoyevsky’s first existentialist novel
 date: "2014-11-24 12:37:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241237-ps3110-darkness-copy-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241237-ps3110-darkness-copy-website.jpg"
 headline: true
 featured: true
 imported: true

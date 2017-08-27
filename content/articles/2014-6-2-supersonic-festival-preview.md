@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi looks ahead at Britain’s best experimental festival
 date: "2014-06-02 12:49:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021349-felix-ex-easter.jpg"
 image_caption: "Ex-Easter Island Head"
 headline: true
 featured: true

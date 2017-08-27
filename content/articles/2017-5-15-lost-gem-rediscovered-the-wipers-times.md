@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Wipers Times is at the Arts Theatre until the 13th May and will tour the UK for the remainder of 2017
 date: "2017-05-15 16:19:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
 image_caption: "'The Wipers Times' Play by Ian Hislop and Nick Newman performed"
 headline: true
 featured: true

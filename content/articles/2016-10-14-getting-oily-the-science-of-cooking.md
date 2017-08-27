@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix’s own nutrition enthusiast, Alexandra Lim, takes us through the DOs and DON’Ts of cooking with oil.
 date: "2016-10-14 11:25:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201610141325-so515-3232207824_02269f3768_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610141325-so515-3232207824_02269f3768_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ So you’re in the kitchen, searing that fatty, gorgeous pink salmon, when your 
 
 The aforementioned oils are definitely not heat-stable, and more recent studies prove coconut or red date oil are much better alternatives to these, as they have a much higher smoke point, releasing less free radicals at lower temperatures, therefore doing less harm. Extra-virgin olive oil actually has a lower smoke point  than your typical light olive oil, so as fancy as the former stuff is, you’re better off saving it for off-heat usage. Drizzle plenty on your salads or dressings instead of swooshing it about in your poor pan.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610141324-so515-oil.png" title="" caption="" attr="Petr Katrochvil, Metalhead64, Oregon State University, Liz West, John Revo Puno" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610141324-so515-oil.png" title="" caption="" attr="Petr Katrochvil, Metalhead64, Oregon State University, Liz West, John Revo Puno" >}}
 
 So what should we do about this oily conundrum? It is well known that antioxidants found in plenty of fruit and vegetables work well to combat these free radicals, however constant exposure to such chemicals negates our efforts.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang bring us the first in a series of monthly interviews with some of the UKs premier industry leaders
 date: "2011-10-07 13:18:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071415-felix-miltonhill.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071415-felix-miltonhill.jpg"
 image_caption: "Milton Hill, the Infineum campus based in Oxfordshire"
 headline: true
 featured: true
@@ -46,7 +46,7 @@ Realising that chemistry is not strong subject for me, Dr Dare-Edwards suggests 
 
 "I happen also to be a member of the technology leadership team, also known as the Global R+D leadership team, which is important in ensuring the way the projects are selected, prioritised, and that the way they are conducted is as effective as possible."
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110071418-felix-man.png" title="Dr Martin Dare-Edwards " caption="Dr Martin Dare-Edwards " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110071418-felix-man.png" title="Dr Martin Dare-Edwards " caption="Dr Martin Dare-Edwards " attr="" >}}
 
 Having graduated with a First Class Honours in Chemistry from the University of Oxford, yet now being in such a managerial role, I wonder if he ever misses the safety glasses and white coats. "I did miss it to start with. One of the main reasons why I took up to do a scientific degree in the first place is that I am a curious person, I want to understand why and beyond that, I wonder if it can be made better than it is currently. If I worked in a finance house, just managing money, I wouldn’t gain the same pleasure as I do now. However I’ve been very fortunate to still gain some of the excitement from discovering things, but I don’t actually have to get my hands dirty so to say. The closest thing I do to practical chemistry is cooking at home."
 

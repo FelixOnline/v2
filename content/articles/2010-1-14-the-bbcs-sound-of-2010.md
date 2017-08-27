@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hugh Crail and Greg Power rant about the BBC's Sound of 2010
 date: "2010-01-14 14:41:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141436-ks607-GoldPand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141436-ks607-GoldPand.jpg"
 headline: true
 featured: true
 imported: true

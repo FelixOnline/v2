@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dylan won the Nobel Prize for Literature last week, the first musician to win. Adam Gellatly writes why Dylan deserves to win, and the impact that the songwriter has had on him.
 date: "2016-10-21 12:24:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201610211419-so515-7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610211419-so515-7.jpg"
 image_caption: "Bob Dylan and Joan Baez, who gave Dylan his first big break"
 draft: true
 headline: true

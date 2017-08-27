@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
 headline: true
 featured: true
 imported: true

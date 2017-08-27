@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As 2011 draws to a close Philip Kent summarises the big events of the year – gaming related, of course
 date: "2011-12-08 21:41:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082131-pk1811-modern-warfare-3-cover-art-revealed.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082131-pk1811-modern-warfare-3-cover-art-revealed.jpg"
 image_caption: "One of the big games from 2011 "
 headline: true
 featured: true
@@ -28,7 +28,7 @@ Hacks, cracks and website attacks
 
 Without a doubt, the biggest thing to hit the gaming world this year would have to be April’s takedown of the [PSN](http://uk.playstation.com/psn/). Gamers were originally left in the dark about the whole situation, with Sony initially only offering the explanation that there was an ‘external intrusion’. It took Sony days to even admit that addressed and payment details may have been stolen – with some reporting malicious use of debit cards.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082133-pk1811-psn_logo_color_trans.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082133-pk1811-psn_logo_color_trans.jpg" title="" caption="" attr="" >}}
 
 Subscribers did get a substantial apology from Sony – as well as identity theft protection for their US users, customers got two free games as well as their memberships extended for free. However, the damage was done; Sony estimated the costs from the break-in to amount to $171m for the 23 days the PSN was down for.
 
@@ -44,7 +44,7 @@ There has been plenty of good news this year though, with lots of major releases
 
 Fans of war games were also not disappointed in 2011, thanks to the release of both [_Modern Warfare 3_](http://www.callofduty.com/mw3) in November and, surprisingly, [_Duke Nukem Forever_](http://www.dukenukem.com/full/uk/#?age_gate). _MW3_ was well received, and also saw the launch of the [_Call of Duty Elite_](http://www.callofduty.com/elite) web service, allowing die-hard fans to keep up to date on every single statistic, improve their game with “deep strategies” and much more.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082131-pk1811-duke-nukem-forever-steamplay.jpg" title="The one time betting on Duke is a less than stellar idea" caption="The one time betting on Duke is a less than stellar idea" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082131-pk1811-duke-nukem-forever-steamplay.jpg" title="The one time betting on Duke is a less than stellar idea" caption="The one time betting on Duke is a less than stellar idea" attr="" >}}
 
 _Duke Nukem_, on the other hand, was a bit of a disaster. It may have taken 14 years to be released (an event which many may still find shocking), though this didn’t lead to quality – Metacritic scores gave it a verdict of being merely average. And the bad news didn’t end there – reviews slammed the game for its immaturity; the _Official Xbox Magazine UK_ even said "isn't so much offensive or misogynistic as just suffering from an adolescent fixation with boobs and crowbarred-in innuendo."
 
@@ -58,7 +58,7 @@ And, of course, no wrap up of the year’s big releases is complete without [_Sk
 
 Consoles on the way
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082132-pk1811-3ds_large.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082132-pk1811-3ds_large.jpg" title="" caption="" attr="" >}}
 
 Bar the Xbox 360 dashboard being revamped a couple of times, Microsoft and Sony have been mute regarding new consoles. Nintendo, on the other hand, kicked off the year with the [3DS](http://www.nintendo.com/3ds/), an improved version of Nintendo’s handheld games console, but with the unusual ability of supporting 3D gaming without the need for bulky glasses. It is, however, not perfect. The 3DS comes in at £120, with games ranging from £30 to a hefty £40, and suffers from a poor, 5-hour battery life.
 

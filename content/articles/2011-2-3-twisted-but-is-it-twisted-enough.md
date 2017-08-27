@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The twisted tales by Roald Dahl
 date: "2011-02-03 19:34:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031932-nm1010-roalddah.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031932-nm1010-roalddah.jpg"
 headline: true
 featured: true
 imported: true

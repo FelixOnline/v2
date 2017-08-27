@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland explores Pikin Slee, Sassen’s exhibition at the ICA
 date: "2015-02-07 19:12:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
 image_caption: "Viviane Sassen, Warrior, 2013. "
 headline: true
 featured: true

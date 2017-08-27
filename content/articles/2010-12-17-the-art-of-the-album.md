@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Celebrating the 30th anniversary of Peter Gabriel’s career as a musician and songwriter
 date: "2010-12-17 11:32:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201012171128-ks607-artsofth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012171128-ks607-artsofth.jpg"
 headline: true
 featured: true
 imported: true

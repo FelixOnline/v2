@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carrying on in his sporting series, Jovan Nedic moves out of the depths of the Thames and into the ring
 date: "2010-04-18 16:50:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201004181801-jn104-RectorsC.jpg"
 headline: true
 featured: true
 imported: true

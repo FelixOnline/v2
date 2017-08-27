@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Moorhouse previews the 2011 Bottle Match
 date: "2011-02-24 20:34:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242029-dr910-bottlema.jpg"
 headline: true
 featured: true
 imported: true

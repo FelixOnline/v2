@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial and St Mary's team up in Greenford
 date: "2011-11-03 22:10:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032209-sjw209-p1010118.jpg"
 image_caption: "We’re not entirely sure what the giant mound of earth is for"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector.
 date: "2013-10-12 19:12:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122012-jal08-film_filth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122012-jal08-film_filth.jpg"
 headline: true
 featured: true
 imported: true

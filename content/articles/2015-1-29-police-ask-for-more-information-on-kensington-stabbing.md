@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stabbing took place last Monday
 date: "2015-01-29 23:40:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201501292340-ps3110-_80520669_kensington.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501292340-ps3110-_80520669_kensington.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dr. Magdalena Bak-Maier responds to students’ queries
 date: "2012-10-11 20:38:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
 headline: true
 featured: true
 imported: true

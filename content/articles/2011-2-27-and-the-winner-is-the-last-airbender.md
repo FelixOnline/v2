@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We all knew it was last year's worst film, but now its got an award to prove it!
 date: "2011-02-27 19:09:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271906-ks607-lastbend.jpg"
 headline: true
 featured: true
 imported: true

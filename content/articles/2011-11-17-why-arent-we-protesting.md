@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matthew Colvin reports on what prevents students from taking to the streets
 date: "2011-11-17 21:12:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172112-pk1811-img_8346.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172112-pk1811-img_8346.jpg"
 image_caption: "Last Wednesday’s protests attracted thousands of students from across the country"
 headline: true
 featured: true

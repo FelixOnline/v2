@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett investigates the plans to build flats on the Silwood site
 date: "2014-11-14 19:53:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142017-ps3110-66355716.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142017-ps3110-66355716.jpg"
 headline: true
 featured: true
 imported: true

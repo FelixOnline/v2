@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As lecture theatres around the country play host to student activists, Ian Wei reports from the UCL occupation
 date: "2010-12-02 21:43:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022141-ks607-ucloccup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022141-ks607-ucloccup.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wheelchair enables disabled athletes to re-right themselves back on their wheels after a crash
 date: "2014-11-14 20:00:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411141959-ps3110-newseventsimages.jpg"
 headline: true
 featured: true
 imported: true

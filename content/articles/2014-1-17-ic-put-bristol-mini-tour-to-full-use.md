@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Man of the mini-tour Matt Cann gives his account
 date: "2014-01-17 04:39:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170438-jal08-football.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170438-jal08-football.png"
 headline: true
 featured: true
 imported: true

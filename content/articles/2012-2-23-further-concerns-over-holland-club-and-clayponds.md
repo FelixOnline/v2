@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Postgraduate panel highlights issues
 date: "2012-02-23 23:11:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232308-felix-clayponds.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232308-felix-clayponds.jpg"
 image_caption: "Clayponds residents have voiced their support for the continuation of the postgraduate accommodation"
 headline: true
 featured: true

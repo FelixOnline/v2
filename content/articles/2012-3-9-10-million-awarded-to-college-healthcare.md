@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Trust receives money to aid new Clinical Research Facility
 date: "2012-03-09 01:05:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
 image_caption: "Hammersmith Hospital"
 headline: true
 featured: true

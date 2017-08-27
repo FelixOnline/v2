@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-13 09:09:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131109-felix-2007_the_king_of_kong_005.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131109-felix-2007_the_king_of_kong_005.jpg"
 image_caption: "“Well maybe they’d like it if I’d lose. Maybe I should try losing sometime.” – Billy Mitchell. "
 headline: true
 featured: true

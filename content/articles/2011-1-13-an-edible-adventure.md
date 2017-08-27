@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Furse rediscovers the pleasures of food
 date: "2011-01-13 19:49:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101131947-ks607-chipsinm.jpg"
 headline: true
 featured: true
 imported: true

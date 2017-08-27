@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The results are announced tonight
 date: "2015-11-20 09:35:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201511201452-cet13-prize.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511201452-cet13-prize.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Malia Bouattia is their first female black Muslim leader
 date: "2016-04-29 10:08:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
 image_caption: "Let’s start our own NUS with blackjack and hookers! "
 headline: true
 featured: true

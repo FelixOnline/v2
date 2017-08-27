@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261204-felix-IMG_3429.jpg"
 image_caption: "Look at that. Don’t you just want it in your mouth?"
 headline: true
 featured: true

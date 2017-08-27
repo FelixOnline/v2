@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray spends Sunday in a church... and enjoys it
 date: "2012-03-15 21:23:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152122-ams111-earth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152122-ams111-earth.jpg"
 image_caption: "Samurai Jack rides an antelope for the Day of the Dead"
 headline: true
 featured: true

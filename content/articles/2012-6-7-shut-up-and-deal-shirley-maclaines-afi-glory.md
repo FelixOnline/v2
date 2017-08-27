@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shirley MacLaine received the American Film Institute's prestigious Life Achievement Award
 date: "2012-06-07 19:48:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072052-ams111-shirley-maclaine.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072052-ams111-shirley-maclaine.gif"
 headline: true
 featured: true
 imported: true

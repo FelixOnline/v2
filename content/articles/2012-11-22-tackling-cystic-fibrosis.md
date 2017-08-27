@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ned Yoxall talks to Dr Jane Davies on new advances in CF treatment
 date: "2012-11-22 23:26:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222326-tna08-cf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222326-tna08-cf.jpg"
 headline: true
 featured: true
 imported: true

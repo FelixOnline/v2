@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Osama Bin Filmed
 date: "2013-01-24 21:33:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211208-felix-fusionmodels.jpg"
 image_caption: "In the face of stricter drinking rules, the Medics had to think of alternative intiations"
 headline: true
 featured: true

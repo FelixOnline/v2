@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charlie Stephens reports on games against RVC and rivals UCL
 date: "2014-11-06 19:52:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
 image_caption: "A good start to the season for the Women's Rugby Team"
 headline: true
 featured: true

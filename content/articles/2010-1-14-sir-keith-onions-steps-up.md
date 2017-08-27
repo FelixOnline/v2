@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial's Sir Keith O'Nions takes the helm following Sir Roy Anderson's departure as Rector
 date: "2010-01-14 17:58:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141749-ak6309-KeithONi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141749-ak6309-KeithONi.jpg"
 headline: true
 featured: true
 imported: true

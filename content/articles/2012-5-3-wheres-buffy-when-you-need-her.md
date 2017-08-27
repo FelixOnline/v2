@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not the usual horror movie
 date: "2012-05-03 18:21:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031921-ams111-the_cabin_in_the_woods.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031921-ams111-the_cabin_in_the_woods.jpg"
 image_caption: "Yep, she's definitely in Team Jacob"
 headline: true
 featured: true

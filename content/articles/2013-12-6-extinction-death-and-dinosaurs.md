@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rosamund Pearce writes for I, Science on resurrecting the extinct
 date: "2013-12-06 04:01:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
 headline: true
 featured: true
 imported: true

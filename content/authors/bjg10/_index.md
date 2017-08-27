@@ -1,7 +1,7 @@
 ---
 id: "bjg10"
 title: Benjamin Good
-image: "http://felixonline.co.uk/img/upload/201104240249-jk708-ben-good.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104240249-jk708-ben-good.jpg"
 twitter: "bengood"
 facebook: "http://www.facebook.com/ben.good"
 website_url: "http://bgoodscience.wordpress.com/"

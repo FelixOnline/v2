@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Assassin's Creed: Brotherhood, Fallout: New Vegas, RAGE and LittleBigPlanet 2 all previewed at this year's Earls Court event
 date: "2010-10-10 15:53:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101648-ks607-EuroGame.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101648-ks607-EuroGame.jpg"
 headline: true
 featured: true
 imported: true

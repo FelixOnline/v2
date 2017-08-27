@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on the intimate relationship between rhythm and sound
 date: "2012-03-15 21:26:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201203160132-felix-normal_sinus_rhythm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203160132-felix-normal_sinus_rhythm.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pool team suffer “absolute shocker” at BUCS 8-ball Championships
 date: "2011-11-03 22:03:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032202-sjw209-pool.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032202-sjw209-pool.jpg"
 image_caption: "They have pool cues, and they’re not happy they lost. Watch out"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-02-07 19:26:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071925-ps3110-lauren-ward-as-meredith-parker-and-rob-compton-as-bat-boy-in-bat-boy.-photo-credit-garry-lake-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071925-ps3110-lauren-ward-as-meredith-parker-and-rob-compton-as-bat-boy-in-bat-boy.-photo-credit-garry-lake-a.jpg"
 image_caption: "Lauren Ward as Meredith Parker and Rob Compton as Bat Boy "
 headline: true
 featured: true

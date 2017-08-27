@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Politics is alive and kicking at Imperial, and so are world leaders from science and engineering backgrounds
 date: "2010-10-07 22:51:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010072349-ks607-AngelaMe.jpg"
 image_caption: "German Chancellor Angela Merkel studied Physics"
 headline: true
 featured: true

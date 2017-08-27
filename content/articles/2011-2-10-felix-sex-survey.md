@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A small, X-rated snapshot of the sexual lives of Imperial students.
 date: "2011-02-10 21:02:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102059-jk708-SexSurve.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laugh out loud* at people who upgraded their phones before uni
 date: "2012-10-05 11:44:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051243-nn1209-tech-race.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051243-nn1209-tech-race.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ It’s reported that 30-40% of all brand new iPhones are arriving to the high pa
 
 Add the standard trolling we’ve come to expect from the other smartphone makers, and it’s not great. Samsung poked fun with a new “the next big thing is already here” video below, which quotes Apple users saying “we’re finally getting everything we should’ve got last year,” and an ex-Apple user holding a space in line for the phone for his elderly parents. Similarly a Google ad for the Motorola RAZR Droid shows Apple maps vs Google maps with the caption #iLost.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210090940-jp1409-ilost.jpg" title="Motorola ad pokes fun at Apple Maps " caption="Motorola ad pokes fun at Apple Maps " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210090940-jp1409-ilost.jpg" title="Motorola ad pokes fun at Apple Maps " caption="Motorola ad pokes fun at Apple Maps " attr="" >}}
 
 The iPhone 5 wasn’t the best, smooth, or even a grand launch we all expect of Apple, but neither was the iPhone 4S; maybe the company is struggling more than we thought without all-round legend Steve Jobs at the helm.
 

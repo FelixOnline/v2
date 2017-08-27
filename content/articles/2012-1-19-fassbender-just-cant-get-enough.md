@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A film full of sex, failure, and relationships; Felix brings you Shame!
 date: "2012-01-19 20:23:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192023-pk1811-shame_3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192023-pk1811-shame_3.jpg"
 image_caption: "Nothing like having a semi-nude lie-in on a day-off (watch where that hand is going, Michael!)..."
 headline: true
 featured: true

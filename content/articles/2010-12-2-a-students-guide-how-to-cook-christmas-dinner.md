@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get together before term ends with yet more wine and a huge bird. By Nadia Paes
 date: "2010-12-02 20:18:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022013-nm1010-christma.jpg"
 headline: true
 featured: true
 imported: true

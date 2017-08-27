@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Letts looks at the future of performance-related pay in the City
 date: "2012-02-09 22:10:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092210-pk1811-hester.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092210-pk1811-hester.jpg"
 image_caption: "Bankers like Hester earn over £2m. Meanwhile, print journalism is dying. Fuck."
 headline: true
 featured: true

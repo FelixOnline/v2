@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Patrick Rothfuss' bestselling fantasy epic
 date: "2012-02-02 20:59:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022054-ams111-kingkiller.jpg"
 image_caption: "Our protagonist Kvothe  – skilled magic user and swordsmaster"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX attends a cocktail launch at Shoryu SoHo
 date: "2016-06-17 09:41:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171141-felix-IMG_4680.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171141-felix-IMG_4680.jpg"
 image_caption: "The four summer-themed cocktails available at Shoryu Soho. "
 headline: true
 featured: true

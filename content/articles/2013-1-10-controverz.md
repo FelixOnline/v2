@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Project should have been LEFT 4 DEAD. Get it?
 date: "2013-01-10 23:24:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102324-tna08-war-z_s04.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102324-tna08-war-z_s04.jpg"
 headline: true
 featured: true
 imported: true

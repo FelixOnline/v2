@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New insights into mysterious black holes
 date: "2012-02-23 20:46:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232043-cac111-black-hole.gif"
 image_caption: "Artist’s impression of a black hole"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at dresses from 1775 onwards
 date: "2014-11-06 20:59:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
 image_caption: "John Galliano wedding gown, worn by Kate Moss "
 headline: true
 featured: true

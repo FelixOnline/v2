@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New season, new ambitions, new kit for IC sports clubs
 date: "2011-10-07 00:57:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201110070156-sjw209-52.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110070156-sjw209-52.jpg"
 image_caption: "All kitted out: Imperial athletes show off the new college threads in front of Ethos"
 headline: true
 featured: true

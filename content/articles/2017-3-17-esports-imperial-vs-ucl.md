@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
 image_caption: "et that APM (actions per minute you noob!) just right"
 headline: true
 featured: true

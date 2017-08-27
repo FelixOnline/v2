@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As if the vampire world was not crowded enough as it is, we get another young-adult literary adaptation that makes the Twilight franchise look appealing.
 date: "2014-06-02 12:58:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021358-felix-vampire-academy-set-report.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021358-felix-vampire-academy-set-report.jpg"
 headline: true
 featured: true
 imported: true

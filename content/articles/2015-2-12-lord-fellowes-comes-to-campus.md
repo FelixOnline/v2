@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The creators of Downton Abby visit Imperial
 date: "2015-02-12 20:44:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
 image_caption: "Lord Fellowes out for a ride on Jezebel"
 headline: true
 featured: true

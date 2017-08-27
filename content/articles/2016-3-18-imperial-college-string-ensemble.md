@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181204-felix-ICSE-Image-2.jpg"
 image_caption: "A very happy ensemble on a very successful trip! "
 headline: true
 featured: true

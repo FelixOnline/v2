@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tsz Ki Chiu is bowled over with their success
 date: "2013-02-28 23:48:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201302282347-tna08-bowling.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302282347-tna08-bowling.jpg"
 headline: true
 featured: true
 imported: true

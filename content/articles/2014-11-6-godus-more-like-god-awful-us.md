@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl doesn’t really feel like an omnipotent, omniscient god
 date: "2014-11-06 20:00:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062000-snb11-godus.jpg"
 image_caption: "Twenty minutes to get belief? God, my worshipers suck"
 headline: true
 featured: true

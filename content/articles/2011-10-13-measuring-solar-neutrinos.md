@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Experiment reveals accuracy of new solar neutrino data
 date: "2011-10-13 21:36:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
 image_caption: "A scintillating view of the BOREXINO neutrino detector in Italy – top lads"
 headline: true
 featured: true

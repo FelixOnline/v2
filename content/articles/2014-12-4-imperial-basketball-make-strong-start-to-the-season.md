@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cedric Colle comments on what has been a very impressive start to the season for all Basketball teams
 date: "2014-12-04 20:33:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042033-cj914-basketball_pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042033-cj914-basketball_pic.jpg"
 headline: true
 featured: true
 imported: true

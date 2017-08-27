@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kin-Hing Lo explores the revolutionary impact of mobile proliferation on our lives
 date: "2011-11-17 21:41:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172140-pk1811-mobile-apps.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172140-pk1811-mobile-apps.jpg"
 image_caption: "Mobile applications have intrinsically changed the way we process information and go about our daily"
 headline: true
 featured: true
@@ -48,7 +48,7 @@ Looking to the developing world, the promise for mobile technology to have a pos
 
 Several short mobile phone calls will allow a farmer or a producer to determine the price he can sell his goods at different markets and to negotiate the best price without spending days making successive trips to different markets.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111172141-pk1811-m-pesa-2-0910.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111172141-pk1811-m-pesa-2-0910.jpg" title="" caption="" attr="" >}}
 
 Mobile banking companies such as M-Pesa allows people to invest money for their future and to pay suppliers without a long journey to the bank whilst also eliminating the risks and costs of transporting physical money. Other apps such as EpiSurveyor help with disease monitoring: they allow physicians to monitor the spread of diseases in real-time without the delay introduced by sending and collating paper forms.
 

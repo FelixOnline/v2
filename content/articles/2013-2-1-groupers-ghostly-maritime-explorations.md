@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray on, predictably, something obscure...
 date: "2013-02-01 00:45:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010043-tna08-tthm_grouperkrank177coverart.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010043-tna08-tthm_grouperkrank177coverart.jpg"
 headline: true
 featured: true
 imported: true

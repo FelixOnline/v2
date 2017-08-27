@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201012121427-ks607-printing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012121427-ks607-printing.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Something to buy or sell? Contact felix@imperial.ac.uk
 date: "2012-07-25 13:32:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201207251432-mc4509-printer-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201207251432-mc4509-printer-2.jpg"
 headline: true
 featured: true
 imported: true

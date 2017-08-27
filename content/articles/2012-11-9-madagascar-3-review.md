@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucy Wiles lets her inner child out as she unashamedly watches Madagascar 3
 date: "2012-11-09 13:30:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091330-tna08-madagascar-3-europe-s-most-wanted12.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091330-tna08-madagascar-3-europe-s-most-wanted12.jpeg"
 headline: true
 featured: true
 imported: true

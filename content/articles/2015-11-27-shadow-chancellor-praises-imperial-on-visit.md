@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John McDonnell was on campus last week
 date: "2015-11-27 11:49:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511271149-ygr12-sc3.jpg"
 headline: true
 featured: true
 imported: true

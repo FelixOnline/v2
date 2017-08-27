@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Four molecular motors come together to make molecular car
 date: "2011-11-17 20:18:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172018-pk1811-nanocarzoom.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172018-pk1811-nanocarzoom.jpg"
 image_caption: "The nanocar in action on a surface of copper... It really is a car. Sort of "
 headline: true
 featured: true

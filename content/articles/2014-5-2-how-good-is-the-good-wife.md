@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Primetime television shows (i.e. the ones that are not on cable channels and therefore lack sex, nudity, violence and swearing) are often unfairly overlooked when it comes to providing an answer for that question “what’s your favourite tv show”?
 date: "2014-05-02 01:55:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020256-jal08-the-good-wife-cast-cbs-636.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020256-jal08-the-good-wife-cast-cbs-636.jpg"
 headline: true
 featured: true
 imported: true

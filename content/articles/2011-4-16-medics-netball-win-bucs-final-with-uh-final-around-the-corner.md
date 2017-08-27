@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Medics Netball girls are already BUCS Champions, can they get the United Hospitals Cup as well?
 date: "2011-04-16 19:34:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201104162030-jn104-netballb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104162030-jn104-netballb.jpg"
 headline: true
 featured: true
 imported: true

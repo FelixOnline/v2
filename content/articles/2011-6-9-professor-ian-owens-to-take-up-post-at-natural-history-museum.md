@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Controversial Head of Life Sciences Department leaving to become Director of Science at Natural History Museum
 date: "2011-06-09 21:01:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
 headline: true
 featured: true
 imported: true

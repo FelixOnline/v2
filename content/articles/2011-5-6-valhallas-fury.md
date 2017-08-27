@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It has its faults but Marvel’s Thor descends from the heavens to wreak havok amongst us mere mortals
 date: "2011-05-06 12:53:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061350-felix-thor02.jpg"
 image_caption: "Odin never regretted trading his eye for wisdom, look at his bitchin’ patch!"
 headline: true
 featured: true

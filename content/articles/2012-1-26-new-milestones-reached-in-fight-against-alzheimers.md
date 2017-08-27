@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent looks at the latest Alzheimer’s research
 date: "2012-01-26 22:41:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
 image_caption: "Binding of proteins to nanobodies causes a change of capacitance"
 headline: true
 featured: true

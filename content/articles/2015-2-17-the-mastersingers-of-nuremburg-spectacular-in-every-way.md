@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange examines whether the ENO can grapple with Wagner’s masterpiece
 date: "2015-02-17 16:34:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
 image_caption: "Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum. "
 headline: true
 featured: true

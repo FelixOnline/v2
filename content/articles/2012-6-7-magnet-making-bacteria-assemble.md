@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A step towards more environmentally friendly electronics is found in nature
 date: "2012-06-07 18:46:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201206071944-pk1811-bact.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206071944-pk1811-bact.png"
 headline: true
 featured: true
 imported: true

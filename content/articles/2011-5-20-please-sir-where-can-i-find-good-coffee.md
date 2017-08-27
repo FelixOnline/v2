@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thomas McFadden isn’t impressed with the caffeine on campus
 date: "2011-05-20 04:26:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200525-felix-kapow-coffee.jpg"
 headline: true
 featured: true
 imported: true

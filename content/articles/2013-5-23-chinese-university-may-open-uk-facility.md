@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Zhejiang University sign agreement with Imperial
 date: "2013-05-23 22:25:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232325-tna08-impnewcampus.jpg"
 image_caption: "Looks like they rejected my pink marble tower with two side structure design. Wonder why..."
 headline: true
 featured: true

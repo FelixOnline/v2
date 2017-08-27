@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exploring London knife crime on stage
 date: "2011-06-02 19:37:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022037-felix-cary-crankson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022037-felix-cary-crankson.jpg"
 headline: true
 featured: true
 imported: true

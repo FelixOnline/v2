@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tensions rise in Columbia as the government signs a free trade agreement with US, UK and Canada.
 date: "2013-09-03 09:45:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309031041-jal08-discontent-in-columbia.png"
 image_caption: "Protest against subsidies"
 headline: true
 featured: true

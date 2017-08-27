@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Walkathon at Imperial's United Arab Emirates-based Diabetes Centre
 date: "2011-12-01 22:07:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012203-felix-abu-dhabi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012203-felix-abu-dhabi.jpg"
 image_caption: "Imperial College London partnered with Mubadala Healthcare to build the centre"
 headline: true
 featured: true

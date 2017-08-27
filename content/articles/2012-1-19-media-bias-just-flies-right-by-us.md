@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim muses on how today's print media seems to have blurred the line between news and commentary - leaving us in a bit of an opinion tug o' war
 date: "2012-01-19 20:41:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192036-cac111-zooey-comment.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192036-cac111-zooey-comment.jpg"
 image_caption: "Zooey Deschanel? Relevant as she’s standing in front of the famously unbiased Fox’s logo "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rodrigo’s music is complex, sophisticated, surprising and subtly jazz-influenced
 date: "2011-06-02 20:05:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022104-felix-n59219057473_2189194_254557.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022104-felix-n59219057473_2189194_254557.jpg"
 headline: true
 featured: true
 imported: true

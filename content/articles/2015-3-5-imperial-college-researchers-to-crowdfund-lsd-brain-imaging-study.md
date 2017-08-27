@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Researchers hope to produce the world's first scans of a human brain on LSD
 date: "2015-03-05 20:07:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
 image_caption: "One of the study's participants prepares for a brain scan"
 headline: true
 featured: true

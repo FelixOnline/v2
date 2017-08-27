@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Imperial Department of Chemistry has won an Athena SWAN Gold Award, making it one of the four departments in the UK to win one. This is the first gold level award for Imperial. The award acknowledges success in the increasing numbers of female students in science...
 date: "2013-10-11 22:57:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201310120926-jal08-womenchemistry.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310120926-jal08-womenchemistry.jpg"
 headline: true
 featured: true
 imported: true

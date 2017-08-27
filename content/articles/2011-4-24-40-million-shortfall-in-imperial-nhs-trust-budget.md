@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mounting financial challenge for Imperial NHS Trust
 date: "2011-04-24 11:04:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
 image_caption: "Professor Stephen Smith"
 headline: true
 featured: true

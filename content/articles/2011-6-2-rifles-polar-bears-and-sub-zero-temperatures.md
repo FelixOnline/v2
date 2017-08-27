@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Kendall reports on preparations for summer expedition to Svalbard
 date: "2011-06-02 20:24:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022126-felix-imgp4200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022126-felix-imgp4200.jpg"
 headline: true
 featured: true
 imported: true
@@ -45,7 +45,7 @@ Our team of six had the first team meeting. Training started shortly afterwards,
 
 At the end of the Autumn term, over New Year’s, we all went to Scotland, camping for a week to practise being cold and hauling sledges. Unfortunately for us it must have been the warmest winter Scotland has had for a while. Temperatures rarely dipped below zero and there was a worrying lack of snow. After hauling the sledges over a high pass above Rannoch Moor, we gave up out attempts at skiing and hauling and decided to set up a base camp and walk from there. This however required us to be close to a pub for the coming New Year celebrations so after a 7km walk along a frozen loch in the dark, the most pathetic petrol fire ever made and a short train journey, we settled down as the only campers in Roy Bridge for the rest of the week.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201106022130-felix-imgp3904.jpg" title="From left: Alex Kendall, Andrew Elliott, Nathaniel Bottrell, Sietse Braakman, and Heather Jones. 6th member Alistair Cott not pictured" caption="From left: Alex Kendall, Andrew Elliott, Nathaniel Bottrell, Sietse Braakman, and Heather Jones. 6th member Alistair Cott not pictured" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201106022130-felix-imgp3904.jpg" title="From left: Alex Kendall, Andrew Elliott, Nathaniel Bottrell, Sietse Braakman, and Heather Jones. 6th member Alistair Cott not pictured" caption="From left: Alex Kendall, Andrew Elliott, Nathaniel Bottrell, Sietse Braakman, and Heather Jones. 6th member Alistair Cott not pictured" attr="" >}}
 
 The episode in Scotland convinced us that skiing wasn’t a good idea and so we are now taking snow shoes and crampons. The rest of the equipment and food list was a mammoth task in itself to purchase and assemble and at the time of writing most of the 400kg of it is sitting in a warehouse in Wandsworth, waiting to be shipped next week. 300kg of that is food, enough for each person to have 4500 calories per day. The food list is extremely important as to have the energy to trek at temperatures averaging -15°C we not only have to eat a lot, but have the morale and desire to eat it. The main meals consist of a carbohydrate with a sauce. Choosing the sauces involved an evening sitting round with about 15 powdered bags of sauce ‘tasting’ them. Most were inedible and were ditched but we have a cosy selection to give us a bit of variety. As well as main meals we have powdered desserts, porridge and raisins for breakfast, and 1000 calories per person per day of snack food.
 

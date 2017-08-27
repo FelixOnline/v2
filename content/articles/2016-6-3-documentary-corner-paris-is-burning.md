@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-03 09:30:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031130-felix-2319.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031130-felix-2319.jpg"
 image_caption: "Oh, the shade of it all! "
 headline: true
 featured: true

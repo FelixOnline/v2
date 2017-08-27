@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chicken korma, cobra beer and Slumdog – made in the UK
 date: "2010-11-18 20:58:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182055-nm1010-indiancu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182055-nm1010-indiancu.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
 image_caption: "People and property were damaged in clashes."
 headline: true
 featured: true

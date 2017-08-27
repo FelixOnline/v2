@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Utsav Radia on Imperial research that could lead to the first vaccine
 date: "2015-03-06 17:07:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
 image_caption: "The Aedes aegypti mosquito: dengue fever causes severe flu-like symptoms, but no vaccine currently exists."
 headline: true
 featured: true

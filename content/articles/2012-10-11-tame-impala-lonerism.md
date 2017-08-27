@@ -4,7 +4,7 @@ title: >
 subtitle: >
   AMS’ album of the week
 date: "2012-10-11 21:29:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112229-felix-lonerism.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112229-felix-lonerism.jpg"
 headline: true
 featured: true
 imported: true

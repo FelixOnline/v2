@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix takes a bite out of Aniston's new film
 date: "2015-02-20 17:02:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201702-ps3110-cake-1-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201702-ps3110-cake-1-cmyk.jpg"
 headline: true
 featured: true
 imported: true

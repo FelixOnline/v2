@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chaplaincy brings you an unmissable evening with His Holiness Radhanath Swami
 date: "2013-03-15 02:33:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150231-tna08-rns-and-obama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150231-tna08-rns-and-obama.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ Drawing from a vast array of experiences and the extensive success of his social
 
 Wondering how your questions will be answered? Well: there will also be a question-and-answer session for the attendees, so bring your best ones. For the tech-savvy (most of you), you can even post questions online at [www.eabw.com](http://www.eabw.com). Don’t worry about food either, we know how hungry students can get: there will be refreshments available on the day.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150231-tna08-radhanath_swami_with_mother_teresa.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150231-tna08-radhanath_swami_with_mother_teresa.jpg" title="" caption="" attr="" >}}
 
 So who is Radhanath Swami? Born Richard Slavin, in Chicago, Radhanath Swami faced a sense of alienation with suburban life and its social injustices as a teenand, as you do, travelled the world looking to find meaning and purpose. Now based in Mumbai, he runs extensive voluntary projects to help better the lives of people from all walks of life.
 

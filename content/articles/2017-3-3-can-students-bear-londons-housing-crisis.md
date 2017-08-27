@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Naulls takes you through recent political developments aiming at tackling the country’s housing crisis while discussing how students are affected and what they can expect.
 date: "2017-03-03 14:19:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
 image_caption: "Khan Sadiq solve the housing crisis?"
 headline: true
 featured: true
@@ -39,7 +39,7 @@ As the nation desperately grapples with the need to chase the increasing levels 
 
 But for students in particular, the private rented sector can present unique challenges and be daunting in its complexity. The astronomical fees that letting agents charge, frankly odious conditions some landlords expect you to live in purely on account of being a student, and trouble of finding a guarantor for your tenancy agreement can all burden people with unnecessary levels of stress as they house-hunt. In London especially, where the costs are so inflated and continue to soar even now, it feels increasingly like we have no control or voice.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703031419-felix-Screen Shot 2017-03-02 at 12.42.07.png" title="The private rental sector has grown substantially over the past decade. Households by tenure, share of the total 1991-2013/14" caption="The private rental sector has grown substantially over the past decade. Households by tenure, share of the total 1991-2013/14" attr="parliament.uk" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703031419-felix-Screen Shot 2017-03-02 at 12.42.07.png" title="The private rental sector has grown substantially over the past decade. Households by tenure, share of the total 1991-2013/14" caption="The private rental sector has grown substantially over the past decade. Households by tenure, share of the total 1991-2013/14" attr="parliament.uk" >}}
 
 Schemes such as Share and Care and Homeshare UK have popped up in recent years – their aim being to match people looking for affordable accommodation with elderly people in need of support and company. Increasing numbers of students are turning to them as a solution to see them through their studies.
 

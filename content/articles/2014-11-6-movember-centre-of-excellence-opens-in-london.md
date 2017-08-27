@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College London, in collaboration with the Institute of Cancer Research and University College London, launched The London Movember Centre of Excellence.
 date: "2014-11-06 22:03:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201411101313-ps3110-newseventsimages.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411101313-ps3110-newseventsimages.jpeg"
 headline: true
 featured: true
 imported: true

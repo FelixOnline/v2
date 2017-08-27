@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Being a member of the LGBTQ+ community shouldn't have to be a big deal, but it is
 date: "2016-06-17 08:54:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171053-felix-Orlando flags.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171053-felix-Orlando flags.jpg"
 image_caption: "The Orlando shooting is a harrowing reminder of the bigotry LGBTQ+ people face. "
 headline: true
 featured: true

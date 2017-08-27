@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action as Imperial stroll to victory
 date: "2013-10-25 01:14:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250215-felix-football-training-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250215-felix-football-training-photo.jpg"
 headline: true
 featured: true
 imported: true

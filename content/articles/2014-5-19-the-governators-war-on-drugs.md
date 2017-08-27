@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The director of End of Watch (an interesting take on police films that didn’t quite succeed) combining with one of two classic 80s action heroes suffering a string of mediocre...
 date: "2014-05-19 14:01:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191501-jal08-sabotage-arnold-schwarzenegger.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191501-jal08-sabotage-arnold-schwarzenegger.jpg"
 headline: true
 featured: true
 imported: true

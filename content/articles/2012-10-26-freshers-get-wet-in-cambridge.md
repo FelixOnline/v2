@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Charleson reports back from Cambridge, which is apparently an okay university or something
 date: "2012-10-26 03:00:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260400-tna08-swimmy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260400-tna08-swimmy.jpg"
 headline: true
 featured: true
 imported: true

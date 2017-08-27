@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
 image_caption: "Oonly four professional service firms perform the majority of audits for companies"
 headline: true
 featured: true

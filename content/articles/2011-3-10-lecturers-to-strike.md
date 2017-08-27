@@ -4,7 +4,7 @@ title: >
 subtitle: >
   National walkout to hit Imperial unless pensions dispute is resolved
 date: "2011-03-10 19:26:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101916-ks607-lectures.jpg"
 headline: true
 featured: true
 imported: true

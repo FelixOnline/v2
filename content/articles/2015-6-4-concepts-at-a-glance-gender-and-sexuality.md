@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Madeline and Vin present a guide to the terminology of sexual and gender identity
 date: "2015-06-04 23:48:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050048-cj914-caitlynjenner2.jpg"
 image_caption: "Caitlyn Jennner, formerly known as Bruce, received much support and media attention when she recently came out as transgender."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman looks back at this week’s news
 date: "2015-06-12 12:42:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201506121341-cj914-spectre.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506121341-cj914-spectre.png"
 image_caption: "Christoph Waltz looks suitable menacing and shadowy as Franz Oberhauser in the teaser for the newest Bond film."
 headline: true
 featured: true

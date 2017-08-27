@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ivan Ho reviews Monster Hunter International – the ultimate antidote to Twilight
 date: "2012-05-18 16:21:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181721-felix-mhi_patches2.jpg"
 image_caption: "Monster Hunter International – looks like a friendly bunch"
 headline: true
 featured: true

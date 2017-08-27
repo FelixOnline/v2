@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jasper Menkus reviews the event
 date: "2014-10-17 15:10:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
 headline: true
 featured: true
 imported: true

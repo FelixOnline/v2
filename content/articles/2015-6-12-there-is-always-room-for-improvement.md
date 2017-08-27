@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
 image_caption: "Imperial is full of happy memories, but looking back there are always ways it could be better."
 headline: true
 featured: true

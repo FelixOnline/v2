@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn discusses our insidious weight loss culture
 date: "2017-02-03 15:56:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
 headline: true
 featured: true
 imported: true

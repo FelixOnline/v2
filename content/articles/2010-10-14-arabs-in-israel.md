@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix interviews MK Haneen Zoabi
 date: "2010-10-14 19:28:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142027-nm1010-kinshasa.jpg"
 headline: true
 featured: true
 imported: true

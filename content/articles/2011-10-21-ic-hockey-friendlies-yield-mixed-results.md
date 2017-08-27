@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two wins, three losses and a draw: pre-season matches offer some insight into the teams ahead of a new season
 date: "2011-10-21 10:08:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
 headline: true
 featured: true
 imported: true

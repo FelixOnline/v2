@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anjeline Joegi looks at the pros and cons to taking the most widely used study drug
 date: "2017-01-20 15:08:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ However, there are several problems to Modafinil. Firstly, it can cause side eff
 
 Finally, although it is reported that Modafinil boosts focus and concentration, the learning is superficial and the newly found knowledge is not processed into long term memory. So although it is a quick fix for an imminent exam, the knowledge cannot be applied and will not be retained in the long term. Students should instead find healthy study techniques to prepare for their exams. During times of extreme stress, distractions like exercise and meditation can improve an individual’s state of mind.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701201506-felix-B19936.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701201506-felix-B19936.jpg" title="" caption="" attr="" >}}
 
 ## Three most famous study drugs
  - **ADHD Medications (eg. Adderall &amp; Ritalin)** **|** Increase levels of dopamine in the brain allowing users to have increased concentration

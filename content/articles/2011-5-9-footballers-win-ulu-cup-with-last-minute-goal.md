@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105091055-felix-cup-final-1.jpg"
 headline: true
 featured: true
 imported: true

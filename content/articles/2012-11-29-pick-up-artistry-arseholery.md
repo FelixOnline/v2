@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men of Imperial – some compulsory reading from Catina Willows
 date: "2012-11-29 23:05:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292305-tna08-pickup_artist.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292305-tna08-pickup_artist.jpg"
 headline: true
 featured: true
 imported: true

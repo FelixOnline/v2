@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson gives you some top tips to make it through any evil encounters you might have this Halloween
 date: "2014-11-10 21:44:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
 headline: true
 featured: true
 imported: true

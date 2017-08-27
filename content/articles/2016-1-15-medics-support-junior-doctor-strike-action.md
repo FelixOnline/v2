@@ -4,7 +4,7 @@ title: >
 subtitle: >
   While Junior Doctors picketed hospitals on Tuesday, students garnered support form the public
 date: "2016-01-15 11:20:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
 image_caption: "Students and junior doctors hand out flyers and stickers outside South Kensington on Tuesday."
 headline: true
 featured: true

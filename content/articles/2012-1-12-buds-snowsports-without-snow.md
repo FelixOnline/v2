@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial takes on the British University Dryslope Championship
 date: "2012-01-12 20:46:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122310-felix-lukess.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122310-felix-lukess.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stock market floatation raises millions for research
 date: "2010-12-09 21:38:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092135-dr910-facultyb.jpg"
 headline: true
 featured: true
 imported: true

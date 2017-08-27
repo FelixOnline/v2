@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Henry Lloyd-Laney reports on the upcoming Namco Bandai Release
 date: "2014-11-10 21:47:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102147-ps3110-lords_of_the_fallen.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102147-ps3110-lords_of_the_fallen.png"
 headline: true
 featured: true
 imported: true

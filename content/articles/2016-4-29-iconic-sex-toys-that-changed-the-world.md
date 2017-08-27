@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291140-felix-lotus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291140-felix-lotus.jpg"
 image_caption: "I wasn’t allowed to include photos of eerily realistic dildos. "
 headline: true
 featured: true
@@ -41,7 +41,7 @@ These don’t always have to be solo escapades either. I’ve used every sex toy
 The world is starting to realise that women love to rub one out as much as men, and whether you’re already acquainted with battery-powered pleasure, or just starting to look around, there’s always going to be something new out there for you to try.
 ## The Magic Wand
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291140-felix-magic wand.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291140-felix-magic wand.jpg" title="" caption="" attr="" >}}
 
 The Hitachi magic wand (although no longer branded as Hitachi) is a mains-powered ‘vibrating massager’ that’s been around since the 1960s, and is responsible for fifty years of sexual liberation of women all over the world. This many years on, it’s still as popular as ever, with many variations available.
 
@@ -52,7 +52,7 @@ Although I’ve had some amazing orgasms with the Magic Wand, and have found mys
 I would recommend it for anyone who finds it difficult to achieve an orgasm consistently, or who wants to get themselves off, hard, in a very short amount of time.
 ## **The bullet vibrator**
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291141-felix-AnnSummersRO80SilverBullet-700x700.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291141-felix-AnnSummersRO80SilverBullet-700x700.jpg" title="" caption="" attr="" >}}
 
 The bullet vibrator has revolutionised discreet masturbation for women all over the world. Coming in many different designs, including some disguised as lipsticks, the bullet is subtle, and can bring quick and silent pleasure. Being so small, the bullet is only really good for clitoral stimulation, but is great if you want to get yourself off quickly. You can easily use it with other toys to customise the experience.
 
@@ -61,7 +61,7 @@ I’ve owned many of these, and they definitely have different vibrational inten
 Honestly, I think that everyone should own one of these, and take the time to discover all the different ways that you can use it.
 ## **The Rampant Rabbit**
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291142-felix-rabbit.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291142-felix-rabbit.jpg" title="" caption="" attr="" >}}
 
 Now available with as many features as you can imagine, the rabbit vibrator was dreamed up in the 1990s, following demand for sex toys that provided simultaneous vaginal and clitoral stimulation.
 
@@ -72,7 +72,7 @@ Although more luxurious versions are available, most rabbit vibrators are made o
 I recommend this for anyone who’s new to using sex toys for vaginal penetration. You can get ones that are a bit smaller for beginners (there’s nothing wrong with being nervous!), and there are so many varieties out there that there’s one to suit everyone.
 ## **The G-spot vibrator**
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291142-felix-g.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291142-felix-g.jpg" title="" caption="" attr="" >}}
 
 The elusive G-spot, located somewhere on the front wall of the vagina, is traditionally ignored during sex and masturbation, probably because it’s awkward to get to, and it might not occur to you to go poking there for specific pleasure. In this era of a vibrator for every occasion, one type that has really made the difference to many women’s orgasms is one that specifically targets the G-spot, precisely stimulating it to give powerful orgasms with or without the need for additional clitoral stimulation.
 
@@ -81,7 +81,7 @@ G-spot stimulation can take some getting used to. With any sex toy that stimulat
 Vibrators and dildos designed to stimulate the G-spot come in many shapes, designed for use with and without a partner. Anyone who has never experienced the arousal and pleasure arising from their G-spot should be encouraged to experiment and seek it out – it’s worth the effort!
 ## **The butt plug**
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291143-felix-Twirly-Trio-Jelly-Arousal-Butt-Plugs---pieces-188299.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291143-felix-Twirly-Trio-Jelly-Arousal-Butt-Plugs---pieces-188299.jpg" title="" caption="" attr="" >}}
 
 Even in this enlightened age, many people are still afraid to talk about anal. While it may not be everyone’s cup of tea, if you use plenty of lube, and take your time, it can be something that both men and women can enjoy.
 

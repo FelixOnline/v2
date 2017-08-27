@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Is paradise all it's cracked up to be?
 date: "2011-10-20 22:11:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111041133-felix-sam-horti-new.jpg"
 headline: true
 featured: true
 imported: true

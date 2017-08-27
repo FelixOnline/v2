@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Also found with life-size mannequin of a young boy
 date: "2015-05-08 00:15:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
 headline: true
 featured: true
 imported: true

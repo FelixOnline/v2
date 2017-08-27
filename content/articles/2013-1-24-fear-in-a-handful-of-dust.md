@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi reviews Hacker Farm’s new album, UHF
 date: "2013-01-24 22:33:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242234-mc4509-hacker-farm---uhf-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242234-mc4509-hacker-farm---uhf-cover.jpg"
 headline: true
 featured: true
 imported: true

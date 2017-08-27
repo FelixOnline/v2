@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206080932-mc4509-gateway_learn.jpg"
 headline: true
 featured: true
 imported: true

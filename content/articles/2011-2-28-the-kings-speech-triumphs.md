@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ed Knock passes his critical eye over the Academy Award Winners
 date: "2011-02-28 20:40:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282036-ks607-colinfir.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282036-ks607-colinfir.jpg"
 headline: true
 featured: true
 imported: true

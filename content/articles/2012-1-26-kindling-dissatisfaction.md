@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam finds the Kindle Store massively unintuitive
 date: "2012-01-26 21:46:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262146-cac111-kindle6.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262146-cac111-kindle6.jpg"
 image_caption: "A novel approach to reading, to say the least"
 headline: true
 featured: true

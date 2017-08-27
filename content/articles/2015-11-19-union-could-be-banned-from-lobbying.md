@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union Council will vote on whether to change its constitution
 date: "2015-11-19 22:25:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192225-ygr12-edited_council.jpg"
 image_caption: "It's as fun as it looks."
 headline: true
 featured: true

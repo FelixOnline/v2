@@ -4,7 +4,7 @@ title: >
 subtitle: >
   £235 per week for a room at Griffon Studios
 date: "2011-01-13 21:47:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132146-ks607-griffons.jpg"
 headline: true
 featured: true
 imported: true

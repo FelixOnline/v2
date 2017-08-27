@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah doesn’t want a spray on condom
 date: "2013-02-14 11:42:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
 headline: true
 featured: true
 imported: true

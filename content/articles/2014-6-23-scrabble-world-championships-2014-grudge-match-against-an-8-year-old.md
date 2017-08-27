@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins.
 date: "2014-06-23 13:05:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201406231407-jal08-1581_features_scrabble_lewis-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406231407-jal08-1581_features_scrabble_lewis-copy.jpg"
 image_caption: "Will playing New Zealand’s Lewis Hawkins, aged 8."
 headline: true
 featured: true

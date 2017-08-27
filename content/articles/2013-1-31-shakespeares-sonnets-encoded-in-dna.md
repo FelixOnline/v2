@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could DNA storage be the future?
 date: "2013-01-31 23:35:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312335-tna08-block8.jpg"
 headline: true
 featured: true
 imported: true

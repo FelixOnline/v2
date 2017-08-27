@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The new Harry Potter film proves controversial.
 date: "2010-11-25 19:52:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201011251948-nm1010-harrypot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011251948-nm1010-harrypot.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett watches as the nine singing troupes take the to stage
 date: "2015-01-29 23:56:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201501292356-ps3110-img_3408.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501292356-ps3110-img_3408.jpg"
 headline: true
 featured: true
 imported: true

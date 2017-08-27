@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Apparently, the best 7-inch tablet you can get
 date: "2013-10-12 19:30:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122030-jal08-tech_nexus-review.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122030-jal08-tech_nexus-review.jpg"
 headline: true
 featured: true
 imported: true

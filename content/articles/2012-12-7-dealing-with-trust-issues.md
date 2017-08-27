@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles on why Alan Bennett may be becoming a national treasure, just don't tell him that...
 date: "2012-12-07 02:31:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070229-tna08-peoplejpeg10.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vivien Tang and Caroline Wood were joint winners of the £20,000 Mayor's award
 date: "2015-03-19 23:49:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192348-cj914-clotho-girls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192348-cj914-clotho-girls.jpg"
 image_caption: "Vivien Tang and Caroline Wood, AKA The Clotho Girls"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They're a force to be reckoned with
 date: "2015-10-30 15:32:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201510301531-ygr12-basebal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510301531-ygr12-basebal.jpg"
 image_caption: "So popular that there's a net to stop their fans rushing them"
 headline: true
 featured: true

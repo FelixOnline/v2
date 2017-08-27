@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Cross Country and Athletics Club take on other London Colleges and come out on top
 date: "2014-11-10 22:01:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Honestly, you couldn't make this stuff up.
 date: "2015-05-11 17:50:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201505111847-jr2514-nige.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505111847-jr2514-nige.jpg"
 image_caption: "The marmite man of modern politics tendered his resignation immediately after failing to win his South Thanet seat"
 headline: true
 featured: true

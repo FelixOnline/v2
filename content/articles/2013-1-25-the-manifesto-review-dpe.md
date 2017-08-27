@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Doug Hunt , Deputy President (Education) wasn’t a mug and voted for Doug. He sees what he has and hasn’t done this year...
 date: "2013-01-25 02:03:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250202-tna08-doug-white-background.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250202-tna08-doug-white-background.jpg"
 image_caption: "Doug Hunt, Deputy President (Education)"
 headline: true
 featured: true
@@ -38,7 +38,7 @@ The one thing I wasn’t expecting though was the large number of long meetings 
 
 My manifesto review is on the right and hopefully you are glad you voted for me and not RON.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250202-tna08-420086_10150596521073797_1408734263_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250202-tna08-420086_10150596521073797_1408734263_n.jpg" title="" caption="" attr="" >}}
 
 ## “Increase SOLE participation rates across the college and make sure the results are acted upon.”
 Autumn SOLE got a 67% overall turnout across the College, which is the highest it’s been in years. Departmental staff across the College are taking SOLE more seriously now, than they did a few years ago and in every department they push you to fill it in.

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week 2,700 students graduated from various postgraduate course in the Royal Albert Hall.
 date: "2014-05-09 01:58:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090258-jal08-news_graduation.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090258-jal08-news_graduation.jpg"
 headline: true
 featured: true
 imported: true

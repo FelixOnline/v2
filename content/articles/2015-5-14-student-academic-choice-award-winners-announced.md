@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah finds out which staff get the student’s vote
 date: "2015-05-14 22:32:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
 image_caption: "Pascal Loåose, left, hosted the evening"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the search for respectful business, respect the community
 date: "2012-02-09 23:07:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092304-felix-mango.jpg"
 image_caption: "If a giant mango can’t get you to ditch the car, then what will?"
 headline: true
 featured: true

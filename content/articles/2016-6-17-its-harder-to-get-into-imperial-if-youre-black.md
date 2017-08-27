@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Huge gap between offers and applicants from black and disadvantaged backgrounds even when they’re predicted the same grades
 date: "2016-06-17 08:50:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
 image_caption: "We're using this picture ironically because all these people are white."
 headline: true
 featured: true
@@ -39,7 +39,7 @@ On the other side, at Imperial, applicants from the most advantaged group were 2
 
 UCAS used something called the POLAR3 classification to define students’ socioeconomic background. This grouping puts students into five equal sized groups from the most to the least advantaged, by how many are involved in higher education, with quintile one being the most disadvantaged and quintile five, the least disadvantaged.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606171049-felix-151019_ugcomm_050.jpg" title="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." caption="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." attr="Thomas Angus" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606171049-felix-151019_ugcomm_050.jpg" title="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." caption="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." attr="Thomas Angus" >}}
 
 Things like references, work experience and quality of personal statements are not taken into account in this data. However, grades and courses are arguably the most reliable when predicting whether a student will get an offer.
 

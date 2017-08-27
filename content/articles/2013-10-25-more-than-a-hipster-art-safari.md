@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland explores one of the world’s leading art fairs
 date: "2013-10-25 00:26:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250125-felix-arts-frieze-web.jpg"
 headline: true
 featured: true
 imported: true

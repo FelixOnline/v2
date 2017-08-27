@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union expected to release Ball finances next week
 date: "2011-06-23 19:08:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232008-felix-dsc_0134.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232008-felix-dsc_0134.jpg"
 image_caption: "This year's Summer Ball"
 headline: true
 featured: true

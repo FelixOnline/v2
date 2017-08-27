@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Critics say teaching will be hit hardest as Life Sciences promise teaching review in January
 date: "2010-12-09 21:12:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092058-dr910-lifescie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092058-dr910-lifescie.jpg"
 headline: true
 featured: true
 imported: true

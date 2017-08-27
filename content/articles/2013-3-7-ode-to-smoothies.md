@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How to get your 5 a day whilst still downing pints
 date: "2013-03-07 21:50:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072146-sjw209-smoothie.jpeg"
 headline: true
 featured: true
 imported: true

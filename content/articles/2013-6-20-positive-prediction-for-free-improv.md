@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Steve Noble and Ikue Mori’s new album
 date: "2013-06-20 22:59:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210000-tna08-noble1.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ In 2013 it’s a little easier to be more optimistic about the state of the art,
 
 Amongst Fataka’s most recent editions is Prediction and Warning, a document of a 2011 meeting between veteran improvisers Ikue Mori and Steve Noble, both at various times members of Bailey’s “Company”, an influential collective of improvisers in the 70s and 80s, but who only played as a duo for the first time in 2010 at Cafe OTO.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210000-tna08-noble2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210000-tna08-noble2.jpg" title="" caption="" attr="" >}}
 
 Mori’s musical life started in the early 80s as a drummer for the influential No Wave band, DNA. After the group split she kept her ties with the New York downtown scene and under the influence of John Zorn started developing her individual voice as a computer music improviser, initially with drum machines and later purely using software such as Pure Data. Since then her collaborators have included Christian Marclay, Elliott Sharp, Zeena Parkins, Catherine Jauniaux and Bill Laswell. Her sound as a laptop improviser is typically percussive, granular, glitchy, and fractured but in its more placid moments draws influence from drone and ambient music.
 

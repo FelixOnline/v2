@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yakuza 0 is out on the Playstation 4
 date: "2017-03-17 17:30:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
 image_caption: "Talk to the racecar, the face ain’t listening"
 headline: true
 featured: true

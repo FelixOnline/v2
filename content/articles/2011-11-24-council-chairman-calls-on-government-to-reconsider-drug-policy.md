@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Baroness Eliza Manningham-Buller questions current status of UK cannabis legalisation
 date: "2011-11-24 22:15:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242212-pk1811-img_0472.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242212-pk1811-img_0472.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ The Council Chairman of Imperial College, [Baroness Eliza Manningham-Buller](htt
 
 Stating her awareness that the issue is a “minefield” and that potential misrepresentation by the media was likely, Eliza acknowledged that drug policy is a “taboo subject for discussion”, while criticising “knee-jerk reaction to any change”. Eliza went on to state that her surprise at the lack of discussion: “Given its effect on us all and the enormous cost of our efforts to limit the problems which drugs cause, I find it extraordinary that it is not at the forefront of national debate.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242213-pk1811-final-courtroom-illustration-150dpi.jpg" title="Could we soon be seeing cannabis being put on trial in a battle for legalisation?" caption="Could we soon be seeing cannabis being put on trial in a battle for legalisation?" attr="Credit: Hamish Muir" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242213-pk1811-final-courtroom-illustration-150dpi.jpg" title="Could we soon be seeing cannabis being put on trial in a battle for legalisation?" caption="Could we soon be seeing cannabis being put on trial in a battle for legalisation?" attr="Credit: Hamish Muir" >}}
 
 Eliza continued with a dismissal of the “same well-worn policy” utilised by the government for the past 50 years, following the aim of a [1961 UN Convention on Narcotic Drugs](http://www.incb.org/incb/convention_1961.html) to create a drug-free world: “We are unlikely to address the harm that is being caused to the world unless we accept, as the US Senate recently did, that much, though not all, of the vast expenditure on the so-called “War on Drugs” has been fruitless.”
 
@@ -38,7 +38,7 @@ Eliza also criticised a response to the speech which labelled the call to review
 
 Prime Minister David Cameron, once member of a Home Affairs Select Committee in May 2002, was once quoted in the [full report](http://www.ccguide.org/hac02summary.php), which examined the Government’s Drugs Policy at the time: “Drugs policy in this country has been failing for decades.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242214-pk1811-04_cameron_r_k.jpg" title="David Cameron claimed in 2002 that drugs policy had been “failing for decades”" caption="David Cameron claimed in 2002 that drugs policy had been “failing for decades”" attr="Credit: Channel 4 News" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242214-pk1811-04_cameron_r_k.jpg" title="David Cameron claimed in 2002 that drugs policy had been “failing for decades”" caption="David Cameron claimed in 2002 that drugs policy had been “failing for decades”" attr="Credit: Channel 4 News" >}}
 
 The report continued: “I hope that our report will encourage fresh thinking and a new approach. We need to get away from entrenched positions and try to reduce the harm that drugs do both to users and society at large.”
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Time to Fear the Walking Dead
 date: "2016-05-27 09:03:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
 image_caption: "Oh hey, an Imperial student after finishing their exam. "
 headline: true
 featured: true

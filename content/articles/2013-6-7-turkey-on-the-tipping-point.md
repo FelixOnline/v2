@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
 image_caption: "Police show no restraint against peaceful demonstrators"
 headline: true
 featured: true
@@ -38,7 +38,7 @@ Many feel Erdoğan’s policies are a step back from the modern secular current 
 
 The peaceful demonstrators in Gezi Park were surprised when in the early morning of Friday 31st May, a convoy of riot police armed with tear gas and pepper spray forcefully dispersed the crowds. These actions attracted more people to the park and soon the campsite grew in solidarity against the heavy-handed government response. The police offensive grew as they began dismantling the campsite, while undercover police set tents ablaze. Tear gas canisters were shot into the public, driving them out into the streets where they were met by an assault of water cannons from armoured police vehicles.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306132359-tna08-turkey-tear-gas-close-1.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306132359-tna08-turkey-tear-gas-close-1.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
 
 While the Turkish mainstream media refused to cover the protests in favour of cooking shows and penguin documentaries, social media channels such as Facebook and Twitter erupted with news from the ground. Tumblr blog [occupygezipics.tumblr.com](http://occupygezipics.tumblr.com) served as a photographic focus on the police brutality that overcame the streets of Istanbul and began to blow across the country. The blog diffused information on remedies against tear gas and provided telephone numbers of doctors and the locations of makeshift infirmaries. It also issued photos of injuries suffered by demonstrators as a result of baton strikes and impacts from tear gas canisters shot at point blank range, which resulted in 10 people losing an eye, and the death of 22-year-old Abdullah Cömert on Monday 3rd June.
 
@@ -56,7 +56,7 @@ Around Taksim Square, police placed jammers preventing internet and 3G network c
 
 Erdoğan denounced the protests at a press conference: “There is a problem now called Twitter and you can find every kind of lie there. Social media is the biggest trouble for society right now.” At least 38 people have been arrested for posting tweets he claimed incited anarchy. He dismissed protesters as extremists and looters or “çapulcu”, a term quickly re-appropriated in ironic defiance against the government’s disinformation campaign aimed at devaluing their efforts. Turkey currently holds the highest number of imprisoned journalists in the world, surpassing China and Iran, so it is no wonder there has been very little rebellion from the media. The game show ‘Word Game’ was pulled off air as host Ihsan Varol askedcontestants to guess words such as ‘gas mask’, ‘violence’ and ‘withdrawal’.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140000-tna08-turkey-slingshot-grandma.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140000-tna08-turkey-slingshot-grandma.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
 
 Despite the retreat of police forces from Taksim, confrontations continued throughout the country, particularly strongly in the capital, Ankara. Gezi Park has become a festive epicentre of the protest movement with thousands gathering there every day. This relaxation was intended to appease the strong foreign press presence in the city: the police offensive grew ever fiercer in other towns and cities where the local media still refused to cover the events. If anything, violence has continued to escalate, as police has begun using rubber bullets whiletear gas launchers are continually used as firearms, shot directly at people. Additionally, different types of tear gas are being used, such that the remedy for one kind of tear gas aggravated the symptoms of another.
 
@@ -64,7 +64,7 @@ By the night of Thursday 6th June, the number of casualties had risen to four, n
 
 While the deputy prime minister Bulent Arinç apologised for the excessive police response against the initial demonstrators, he spared the sentiment towards those who later joined the protests. Erdoğan assured the excessive police reaction would be investigated, though he justified the use of water cannons and tear gas to disperse the crowds. In at least two instances, however, riot police were seen to have covered the identification number on their helmets with stickers.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306132359-tna08-turkey-water-cannon.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306132359-tna08-turkey-water-cannon.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
 
 Returning from a business trip in North Africa, on which he left amidst blazing protests, Erdoğan announced that the planned demolition of Gezi Park would go ahead. Against accusations of his erosion of democracy, he claimed, “for me democracy is all about the ballot box”. President Abdullah Gul disagreed, acknowledging the protester’s freedom to express their views.
 
@@ -72,7 +72,7 @@ On Sunday 9th June, 73 lawyers were arrested while protesting in the Justice Hal
 
 On the morning of Tuesday 11th June, Mayor of Istanbul, Hüseyin Avni Mutlu, wrote on Twitter that police would enter Taksim Square to remove barricades and banners from the area, with no intention of dispersing protesters. However, police began by shooting tear gas into the square and eventually into Gezi Park itself. Clashes intensified throughout the day. The following day, Erdoğan announced that Taksim Square would be cleared of all protesters within 24 hours.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140000-tna08-turkey-protester-against-armoured-police-vehicle.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140000-tna08-turkey-protester-against-armoured-police-vehicle.jpg" title="" caption="" attr="Credit: http://occupygezipics.tumblr.com/" >}}
 
 In an effort to end the protests, Erdoğan said in a press conference that he would be meeting representatives of the Taksim Solidarity group to hear their demands. However, leaders of this group said they had received no such invitation and had instead heard about the meeting from other sources. Later it was revealed those ‘representatives’ would in fact be famous artists,including actress Hülya Avşar, presenter of the television show Turkey’s Got Talent, who supposedly has not been in Gezi Park since the demonstrations begun. The consensus among demonstrators in the park is that those invited to meet the prime minister are not well suited to represent their views.
 

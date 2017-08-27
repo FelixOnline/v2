@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland examines the Royal Court’s new piece of Palestinian theatre
 date: "2015-03-03 14:11:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
 headline: true
 featured: true
 imported: true

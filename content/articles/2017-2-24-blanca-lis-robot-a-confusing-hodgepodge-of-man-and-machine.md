@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Blanca Li's show mixes human dancers with robot androids, but its message seems unclear
 date: "2017-02-24 17:25:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241722-ff712-04.jpg"
 image_caption: "Blanca Li Dance Company, Robot"
 headline: true
 featured: true

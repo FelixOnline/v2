@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe on doom, gloom and the sixth mass-extinction
 date: "2015-01-23 17:57:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231756-jyg11-anthropocene_europe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231756-jyg11-anthropocene_europe.jpg"
 image_caption: "The Anthropocene is defined by mankind's effect on the global environment"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging
 date: "2010-12-02 20:10:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022008-ks607-thesarto.jpg"
 headline: true
 featured: true
 imported: true

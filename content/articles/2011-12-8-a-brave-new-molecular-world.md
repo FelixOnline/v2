@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The president of the RSC takes to the floor for the Friends of Imperial College
 date: "2011-12-08 20:50:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
 image_caption: "Professor David Phillips, president of the Royal Society of Chemistry"
 headline: true
 featured: true

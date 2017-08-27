@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It turns out that time waits for no man, or Fresher
 date: "2011-09-30 10:16:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104240246-jk708-rhys-davies.jpg"
 headline: true
 featured: true
 imported: true

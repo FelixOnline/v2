@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Swim, bike, run, done
 date: "2012-05-18 17:03:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181803-felix-sprinttri-090.jpg"
 headline: true
 featured: true
 imported: true

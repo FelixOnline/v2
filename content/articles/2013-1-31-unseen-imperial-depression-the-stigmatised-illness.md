@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan London on depression
 date: "2013-01-31 23:24:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
 headline: true
 featured: true
 imported: true

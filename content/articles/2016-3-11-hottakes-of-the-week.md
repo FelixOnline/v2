@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Only the hottest of takes
 date: "2016-03-11 11:50:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111149-felix-yeezus.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111149-felix-yeezus.png"
 headline: true
 featured: true
 imported: true

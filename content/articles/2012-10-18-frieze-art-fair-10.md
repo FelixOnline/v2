@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas pontificate on Frieze
 date: "2012-10-18 21:09:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182209-felix-frieze.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182209-felix-frieze.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A stragetic and minimalist first-person shooter where time moves with you
 date: "2016-03-18 11:55:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181154-felix-superhot2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181154-felix-superhot2.jpg"
 image_caption: "Punching polygons."
 headline: true
 featured: true

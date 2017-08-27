@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Clarification sought on reason for closure. Union wants to know how students will be supported through their degrees. Union Council vote to oppose closure wins despite no sabbatical voting for it.
 date: "2013-02-14 21:22:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201302142122-tna08-tsu.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302142122-tna08-tsu.png"
 headline: true
 featured: true
 imported: true

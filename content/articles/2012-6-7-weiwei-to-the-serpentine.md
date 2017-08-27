@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The perfect summer hangout spot is ten minutes from Imperial
 date: "2012-06-07 18:47:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206071946-ams111-arts1.gif"
 image_caption: "I’m like Jamiroquai, going deeper underground"
 headline: true
 featured: true
@@ -27,7 +27,7 @@ Walking up from College, along West Carriage Drive through Hyde Park, it’s eas
 
 This installation by Ai Weiwei and architects Herzog & de Meuron is the twelfth in the series of summer Pavilions on the site outside the Serpentine Gallery. Being underground, this year’s Pavilion is more discrete than previous years, though this does not make it any less impressive. Visitors are initially greeted with a floating round surface covered in rainwater, which perfectly reflects the changing skies above – a parallel to (or blatant copy of – you can be the judge) Anish Kapoor’s mirror sculptures that featured through Kensington Gardens only two years ago. This platform, however, has one up on Kapoor’s mirrors as the water can be drained and the area can be transformed into a dance floor for the Serpentine Gallery’s Park Nights events. Against the backdrop of the traditional Serpentine Gallery building, it really is striking.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206071947-ams111-arts2.gif" title="Escape the rain. Humanity's eternal struggle" caption="Escape the rain. Humanity's eternal struggle" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206071947-ams111-arts2.gif" title="Escape the rain. Humanity's eternal struggle" caption="Escape the rain. Humanity's eternal struggle" attr="" >}}
 
 You can then explore underneath this surface, where you enter into an underground den, cladded with cork. Weiwei and the architects designed the pavilion from an archaeological approach, digging into the ground and finding the remnants of pavilions from the past 12 years. Using these previous foundations and floor plans as their inspiration for the layout, the area is formed by an abstract layering of shapes and levels. Like any good piece of art, it stands alone as an beautiful piece; made only more interesting when you realise the story and journey behind it; and with the wettest April in 100 years, it’s nothing short of a miracle that this structure was finished in time.
 

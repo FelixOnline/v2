@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christopher Hong strongly recommends The Magistrate
 date: "2012-11-23 00:15:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
 headline: true
 featured: true
 imported: true

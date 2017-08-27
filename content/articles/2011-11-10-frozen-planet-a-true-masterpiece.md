@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sir David Attenborough strikes back, showcasing life at the poles
 date: "2011-11-10 21:59:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102158-felix-frozen-planet.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102158-felix-frozen-planet.jpg"
 image_caption: "The culmination of years of filming in barren conditions, married with the inimitable voice of Sir D"
 headline: true
 featured: true

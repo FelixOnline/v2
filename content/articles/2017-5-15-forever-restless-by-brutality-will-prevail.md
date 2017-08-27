@@ -4,7 +4,7 @@ title: >
 subtitle: >
   BWP have really pulled it out of the bag with this sludge influenced hardcore album
 date: "2017-05-15 17:17:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201705151916-felix-a3313749749_10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705151916-felix-a3313749749_10.jpg"
 headline: true
 featured: true
 imported: true

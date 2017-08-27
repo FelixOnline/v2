@@ -1,7 +1,7 @@
 ---
 id: "va208"
 title: Veli Akiner
-image: "http://felixonline.co.uk/img/upload/201102172002-ks607-silhouet.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172002-ks607-silhouet.jpg"
 twitter: "VeliAkiner"
 facebook: ""
 website_url: ""

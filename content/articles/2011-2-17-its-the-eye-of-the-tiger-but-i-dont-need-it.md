@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171950-nm1010-tigertig.jpg"
 headline: true
 featured: true
 imported: true

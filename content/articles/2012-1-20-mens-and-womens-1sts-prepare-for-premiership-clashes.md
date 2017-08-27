@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Weekend win on the cards
 date: "2012-01-20 12:09:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201201201208-felix-img_7960.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201201208-felix-img_7960.jpg"
 image_caption: "Don’t mess with the guy with the sabre"
 headline: true
 featured: true

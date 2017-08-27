@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If the rich get to pay their way into university, I’m emigrating
 date: "2011-05-12 19:17:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
 headline: true
 featured: true
 imported: true

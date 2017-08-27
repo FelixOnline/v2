@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From under-representation in the media, to a society that generally pretends we exist only for the titillation of men, what's a queer gal to do?!? B. R. Coli gives you the low-down on all the culture picks for you and your gal-pals
 date: "2017-02-10 15:35:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ Desiree Akhavan directs and stars in this comedy about an American-Iranian bisex
 
 Available on Netflix
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101536-felix-Butimacheerleader.jpg" title=" Natasha Lyonne and Clea DuVall star in the camp cult classic But I'm a Cheerleader" caption=" Natasha Lyonne and Clea DuVall star in the camp cult classic But I'm a Cheerleader" attr="Lionsgate" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101536-felix-Butimacheerleader.jpg" title=" Natasha Lyonne and Clea DuVall star in the camp cult classic But I'm a Cheerleader" caption=" Natasha Lyonne and Clea DuVall star in the camp cult classic But I'm a Cheerleader" attr="Lionsgate" >}}
 
 **But I'm a Cheerleader**
 
@@ -42,26 +42,26 @@ I watched this film the day after I came out to my family. I managed to unashame
 This film really resonated with me at the time. It might have been the aesthetically pleasing pastels. It might have been the comparison that I subconsciously drew between Natasha Lyonne’s character getting sent to conversion therapy camp and my mum telling me liking girls was a phase that therapy would fix it. Or it might just have been seeing RuPaul playing a “heterosexual”.
 ## Music
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101538-felix-Screen Shot 2017-02-08 at 15.05.53.jpg" title="" caption="" attr="Angel Haze" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101538-felix-Screen Shot 2017-02-08 at 15.05.53.jpg" title="" caption="" attr="Angel Haze" >}}
 
 **Angel Haze**
 
 A very cool agender pansexual rapper/poet that grew up in a cult, Angel Haze’s combination of rap and spoken-word poetry about love will take you through all the forms of heartbreak you’ve ever experienced. Also, they dated Alec Baldwin’s daughter – say no more.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101538-felix-Screen Shot 2017-02-08 at 14.58.12.jpg" title="" caption="" attr="Tegan and Sara" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101538-felix-Screen Shot 2017-02-08 at 14.58.12.jpg" title="" caption="" attr="Tegan and Sara" >}}
 
 **Tegan and Sara**
 
 The gay Canadian twins. You know the ones. They’re playing at the Roundhouse the day before Valentine’s day. Go!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101538-felix-maxresdefault (1).jpg" title="" caption="" attr="vevo" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101538-felix-maxresdefault (1).jpg" title="" caption="" attr="vevo" >}}
 
 **The Internet**
 
 Really good music and better music videos with non-gimmicky queer representation. Syd Tha Kid (the singer) is unashamedly really gay. There was no big publicity stunt when she came out. It went along the lines of “well look at me, of course I’m gay”.
 ## TV
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101540-felix-one-day-at-a-time_us-h_2016.jpg" title="One Day at a Time deals with queer issues in a non-stereotypical way" caption="One Day at a Time deals with queer issues in a non-stereotypical way" attr="Netflix" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101540-felix-one-day-at-a-time_us-h_2016.jpg" title="One Day at a Time deals with queer issues in a non-stereotypical way" caption="One Day at a Time deals with queer issues in a non-stereotypical way" attr="Netflix" >}}
 
 **Gaycation**
 
@@ -74,7 +74,7 @@ Ellen Page wearing oversized shirts
 
 Gaycation is available online at Viceland
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101541-felix-Screen Shot 2017-02-08 at 15.13.39.jpg" title="Ellen Page, queen of all our hearts" caption="Ellen Page, queen of all our hearts" attr="Ellen Page" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101541-felix-Screen Shot 2017-02-08 at 15.13.39.jpg" title="Ellen Page, queen of all our hearts" caption="Ellen Page, queen of all our hearts" attr="Ellen Page" >}}
 
 **Jane the Virgin**
 
@@ -95,7 +95,7 @@ SO QUEER. I’ve had a range of experiences here, all of which have been pretty 
 
 Queer Cabaret is on every Tuesday at the Royal Vauxhall Tavern
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101542-felix-5773423062_01ca03a9f9_o.jpg" title="rawprintclub" caption="rawprintclub" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101542-felix-5773423062_01ca03a9f9_o.jpg" title="rawprintclub" caption="rawprintclub" attr="" >}}
 
 **GRRRL ZINE FAIR**
 

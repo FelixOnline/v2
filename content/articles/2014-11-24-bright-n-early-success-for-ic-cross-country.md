@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Cross Country go running in Brighton
 date: "2014-11-24 20:16:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201411242014-ps3110-pb020235.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411242014-ps3110-pb020235.jpg"
 headline: true
 featured: true
 imported: true

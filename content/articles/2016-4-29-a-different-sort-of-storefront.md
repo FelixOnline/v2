@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Itch.io is paving the way for the post-capitalist indie gaming future
 date: "2016-04-29 10:56:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291155-felix-itch.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291155-felix-itch.jpg"
 image_caption: "The only indie game store where you can go on hot dates with pugs."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The union has more pressing priorities than air conditioning
 date: "2016-06-03 08:41:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031040-felix-20160526_155625 (1).jpg"
 image_caption: "It's not that big of a deal (p.s. please sign our petition)."
 headline: true
 featured: true

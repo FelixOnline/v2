@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey is perpetually disappointed by Sport Imperial’s attitude to women in sport
 date: "2016-11-04 14:34:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
 headline: true
 featured: true
 imported: true

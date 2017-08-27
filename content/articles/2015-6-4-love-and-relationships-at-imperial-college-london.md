@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the stories behind your relationship statuses
 date: "2015-06-04 23:33:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050033-cj914-tower.jpg"
 image_caption: "Did you meet your partner at Imperial?"
 headline: true
 featured: true

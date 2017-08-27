@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This is the bling of three of Afghanistan’s ancient nomad rulers
 date: "2011-03-10 20:13:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102011-nm1010-goldgold.jpg"
 image_caption: "A pair of clasps depicting warriors"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Immortals beat Brighton Tsunami in impressive match
 date: "2014-11-14 21:18:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142118-ps3110-download-(2).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142118-ps3110-download-(2).jpg"
 headline: true
 featured: true
 imported: true

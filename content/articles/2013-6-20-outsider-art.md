@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles examines a new art craze
 date: "2013-06-20 23:13:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210013-tna08-outsiderart.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ It is the role of art as occupational therapy that is explored in the Wellcome C
 
 These works possibly provide a way for the artist to express what they feel about the world around them; with a alphabet system as complicated as Japanese, it can often be difficult for the artists to articulate what they want to say, and working with media gives them an outlet.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210013-tna08-marcel-storr.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210013-tna08-marcel-storr.jpg" title="" caption="" attr="" >}}
 
 However, although many of the artists do have mental health problems, it would be ill-informed – and offensive – to see them as child-like. A large number of the works deal with issues of relationships, both platonic and sexual, such as Masao Obata’s cardboard pictures, which feature the recurring motif of couples, and relate to his lifelong ambition to get married. Others, such as Marie Suzuki, use art to express a far darker side of their personality. Her cramped, claustrophobic images of sexual intimacy have a pulsing undercurrent of fear, and are crammed with groping hands, worms, and vulvic imagery. Sakiko Kono’s woollen dolls strike a happier note, portraying kind staff from the residential facility she has called home for the last 55 years.
 
@@ -42,7 +42,7 @@ Throughout the exhibition there is an underlying theme of repetition; since the 
 
 While this exhibition shows the role that art can have in the lives of the mentally ill, a role that includes self-representation, actualisation, and personal exploration, if we cross the river we can find another group of outsider artists creating very different works, with completely different roles. The Hayward Gallery’s summer exhibition, entitled An Alternative Guide to the Universe, aims to bring together ‘artists and architects, fringe physicists and visionary inventors’, who can offer “bracingly unorthodox perspectives on the world we live in”. these ideals are lofty, but the exhibition falls short, especially when compared to the sublime collection at the Wellcome, and the previously impressive shows the Hayward has put on.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210013-tna08-shoichi-koga.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210013-tna08-shoichi-koga.jpg" title="" caption="" attr="" >}}
 
 Like some of the Japanese artists, several of the works at the Hayward explore ideas of self-representation; Lee Goldie, a homeless woman who took photos of herself in various guises (Katherine Hepburn one day, a dirty tramp the next) at photobooths, and Eugene Von Bruenchenhein, whose meticulously arranged portraits of his wife Marie have a surrealist flair, both put forward the idea that outward appearance directly reflects our personality. Cindy Sherman eat your heart out. However, while these offer a direct look into a personal universe created by the artist, the majority of the viewpoints of the artists are simply too convoluted or ridiculous to be properly engaging.
 

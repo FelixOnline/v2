@@ -4,7 +4,7 @@ title: >
 subtitle: >
   £5000 or more to be paid for repairs to a Coach after Rugby player smashes a window whilst on Tour
 date: "2014-11-06 22:12:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062211-snb11-s2010008-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062211-snb11-s2010008-copy.jpg"
 image_caption: "The window was smashed from the inside, allegedly with an emergency hammer."
 headline: true
 featured: true

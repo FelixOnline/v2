@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fluent on Paper recognizes that poetry is meant to be enjoyed not alone and in silence but as a social act
 date: "2011-12-01 20:20:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012017-ams111-arts1.jpg"
 image_caption: "To those who read Felix for the witty picture captions, I’m sorry"
 headline: true
 featured: true

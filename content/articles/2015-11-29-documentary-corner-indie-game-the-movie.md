@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
 image_caption: "Jonathan Blow, god of indie games"
 headline: true
 featured: true

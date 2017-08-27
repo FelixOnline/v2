@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Roland Sookias chats to Innovation Society President Nigel Kheng about their latest project
 date: "2011-02-03 20:38:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032036-nm1010-iconnecc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032036-nm1010-iconnecc.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s time to try defying gravity
 date: "2016-02-12 11:39:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121137-felix-gravityrush3.jpg"
 image_caption: "Fuck gravity."
 headline: true
 featured: true

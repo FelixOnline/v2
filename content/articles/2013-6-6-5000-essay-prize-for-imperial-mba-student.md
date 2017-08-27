@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mike Follett wins with his essay about social good as well as profitability
 date: "2013-06-06 15:26:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201306061624-tna08-4cf34385d4cf352f.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306061624-tna08-4cf34385d4cf352f.jpg"
 image_caption: "Mike Follett: the Imperial MBA student who won the prize"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Something must be done
 date: "2016-02-26 11:50:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261150-felix-100club.jpg"
 image_caption: "One of the many clubs at risk of shutting down. "
 headline: true
 featured: true

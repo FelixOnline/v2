@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson takes you through the last one hundred and fifty years of projection, film, and sound in the cinema industry
 date: "2015-03-25 11:55:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251152-ff712-zoetrope.png"
 image_caption: "A modern zoetrope, to be veiwed by looking through the slits "
 headline: true
 featured: true

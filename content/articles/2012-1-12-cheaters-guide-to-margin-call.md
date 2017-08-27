@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Film with a fresh approach on the issue of oft-hated investment bankers
 date: "2012-01-12 22:41:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
 image_caption: "Must work to “live long and prosper!”"
 headline: true
 featured: true

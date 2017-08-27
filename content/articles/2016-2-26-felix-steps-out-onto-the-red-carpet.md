@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our picks for the Academy Awards
 date: "2016-02-26 11:48:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261143-felix-Revenan Oscar.jpg"
 image_caption: "Give that bear an Oscar!"
 headline: true
 featured: true
@@ -70,7 +70,7 @@ Bookies have Kate Winslet down as the likely winner, following her performance i
 Will Win: _Kate Winslet (Steve Jobs)_
 Should Win: _Rooney Mara (Carol)_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201602261146-felix-Inside Out Oscar.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201602261146-felix-Inside Out Oscar.jpg" title="" caption="" attr="" >}}
 
 Best Original Screnplay
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jude Law excels in Ivo van Hove's adaptation of Visconti's original film
 date: "2017-04-27 19:00:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201704272058-ff712-21.jpg"
 image_caption: "Barbican/Toneelgroep Amsterdam, Obsession, Halina Reijn, Jude Law and Gijs Scholten van Ascha"
 headline: true
 featured: true

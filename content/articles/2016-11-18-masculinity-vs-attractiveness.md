@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how nature has shaped our taste in men
 date: "2016-11-18 14:52:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181451-felix-man-461195_1280.jpg"
 headline: true
 featured: true
 imported: true

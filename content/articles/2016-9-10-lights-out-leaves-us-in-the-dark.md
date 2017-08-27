@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Sandberg's debut feature relies too much on jump scares, but attempts to tackle heavy topics
 date: "2016-09-10 16:58:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201609101851-ff712-lightsout_sc01.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201609101851-ff712-lightsout_sc01.png"
 image_caption: "Martin, Sophie's son, is one of the casualties pushed away by her sinister companion 'Diana'."
 headline: true
 featured: true
@@ -33,7 +33,7 @@ Our villain’s origin is uncovered when Rebecca chances upon a file containing 
 
 _Lights Out_ tries to present itself as a psychological horror film, a title it barely deserves. There is real harm in the actions of Diana which rules it out from being a pure ‘all in the mind’ thriller, unlike the delusional, self-harming Nina at the centre of Darren Aronovsky’s _Black Swan_. Sandberg’s effort at intertwining mental illness and the haunting of a scary personage propounds the idea that ‘Diana’ is to Sophie as ‘the black dog’ was to Churchill – a fascinating idea that loses a bit of its ingenuity in the final product of first-time director Sandberg. Sophie’s family is torn apart by Diana, who vows to eliminate those closest to Sophie. The clawed silhouette antagonist’s triumphs include making sure Sophie renounces her medication (or ‘vitamins’ as Martin calls them), and driving away her only pillars of support– her children. It is at this point that things begin to sound a lot like the oft swept-under-the-carpet effects of acute, untreated mental illness: breakdown of support networks and isolation of ill individuals. “There is no you without me”, remarks Sophie to her depressive parallel Diana, is a perilous statement if misconstrued and taken to heart; which raises the question to Sandberg on his directorial decision at the end of the film: what message is he sending, if he is trying to send one at all? Perhaps, after all, it is best not to dig too deep.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201609101857-ff712-lightsout_sc02.png" title="In Lights Out, Sandberg attempts to show how severe mental illness can lead to the breakdown of the family unit – with mixed results." caption="In Lights Out, Sandberg attempts to show how severe mental illness can lead to the breakdown of the family unit – with mixed results." attr="YouTube" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201609101857-ff712-lightsout_sc02.png" title="In Lights Out, Sandberg attempts to show how severe mental illness can lead to the breakdown of the family unit – with mixed results." caption="In Lights Out, Sandberg attempts to show how severe mental illness can lead to the breakdown of the family unit – with mixed results." attr="YouTube" >}}
 
 The film is spattered with misjudgments and mistakes on both sides: from Sophie ditching her meds, to the sibling pair leaving their mother to fend off her ‘demon’ alone, only offering help when it is too late, _Lights Out_ brings to the fore a moral dilemma where compromises have to be made either way. Whilst it is easier (and nobler) to claim the moral high ground, convincing oneself that the course of things would have been better handled in one’s own hands is easier said than done – actions often speak louder than words.
 

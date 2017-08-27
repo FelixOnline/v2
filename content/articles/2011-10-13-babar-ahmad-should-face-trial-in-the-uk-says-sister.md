@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Online petition aims to bring matter to Parliament debate
 date: "2011-10-13 21:14:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132213-felix-trial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132213-felix-trial.jpg"
 image_caption: "Amna Ahmad claims that a UK based trial would ‘expose’ details of police treatment"
 headline: true
 featured: true

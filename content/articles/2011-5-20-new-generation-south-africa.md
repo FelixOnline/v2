@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Figures and Fictions gives a platform to contemporary South African photographers
 date: "2011-05-20 05:45:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200645-felix-martin_machapa.1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200645-felix-martin_machapa.1.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-11-11 16:01:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111600-felix-egg-722847_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111600-felix-egg-722847_1280.jpg"
 headline: true
 featured: true
 imported: true

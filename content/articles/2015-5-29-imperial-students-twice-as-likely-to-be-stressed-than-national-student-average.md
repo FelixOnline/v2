@@ -4,7 +4,7 @@ title: >
 subtitle: >
   NUS data shows that Imperial students are more stressed than students at other UK universities on average
 date: "2015-05-29 00:49:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
 headline: true
 featured: true
 imported: true

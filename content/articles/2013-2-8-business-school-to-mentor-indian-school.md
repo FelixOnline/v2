@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nida Mahmud reports
 date: "2013-02-08 01:02:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080057-tna08-imp-business-signing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080057-tna08-imp-business-signing.jpg"
 headline: true
 featured: true
 imported: true

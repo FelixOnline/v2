@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week College researchers began a new study investigating the possible effects mobile phones and other wireless devices may have on the mental development of children.
 date: "2014-05-23 14:24:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201405231524-jal08-1577_news_phone_ellen_mathieson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405231524-jal08-1577_news_phone_ellen_mathieson.jpg"
 headline: true
 featured: true
 imported: true

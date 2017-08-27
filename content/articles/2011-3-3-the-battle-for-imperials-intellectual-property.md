@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Universities are an important source of intellectual property, with only 2% of patents now owned by individuals
 date: "2011-03-03 20:25:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032022-ks607-harrietg.jpg"
 image_caption: "Harriet Gliddon explains her campaign"
 headline: true
 featured: true

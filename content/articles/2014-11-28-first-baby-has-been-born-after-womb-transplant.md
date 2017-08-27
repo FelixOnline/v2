@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vincent is normal and healthy
 date: "2014-11-28 00:59:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280059-ps3110-vincent-womb-transplant-b-012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280059-ps3110-vincent-womb-transplant-b-012.jpg"
 headline: true
 featured: true
 imported: true

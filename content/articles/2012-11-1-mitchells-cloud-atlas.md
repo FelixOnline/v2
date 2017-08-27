@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Devang Metha talks about a fascinating multi-layered novel
 date: "2012-11-01 22:59:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012259-csw09-cloudatlas.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012259-csw09-cloudatlas.jpg"
 headline: true
 featured: true
 imported: true

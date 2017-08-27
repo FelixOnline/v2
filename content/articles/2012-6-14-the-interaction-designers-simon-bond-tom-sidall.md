@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Interaction Designers - Simon Bond & Tom Sidall
 date: "2012-06-14 20:16:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142114-pk1811-physical-pixels-heads-index.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142114-pk1811-physical-pixels-heads-index.jpg"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ It is fascinating to hear him talk about the time spent in mental health institu
 
 The job sounds both physically and mentally gruelling, with the added strain of seeing people misdiagnosed all the time, pumped full of unnecessary drugs. He could have remained in mental health or taken a psychology degree. Instead, Bond overturned his career. He began small, with research in special ed. schools. He ran workshops to find out how the children interacted, trying to understand how “abstract forms” of communication work, whether they be poking one another, tapping the table or humming. These experiences still influence and mould him, even though they appear to be entirely unrelated to an industrial design graduate.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142115-pk1811-touch-me-(2).png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142115-pk1811-touch-me-(2).png" title="" caption="" attr="" >}}
 
 Bond’s co-founder, Tom Siddall, has an equally diverse background. He studied mechanical engineering at university but throughout school had worked in garden centres and for some time in landscape design. He was pushed into working in the commercial sector but eventually applied for the IDE course at the RCA. Siddall, like Bond, applies his varied knowledge to the company’s projects; for example, a show they organised for the _Royal Horticultural Society_ may result in designing a very technological garden.
 
@@ -41,7 +41,7 @@ As co-founders of Physical Pixels, Bond and Siddall appear to have forged a crea
 
 Bond has a list of objectives, aspirations, for Physical Pixels, which he calls the “wish list”. On that list are things like continuing with behind-the-scenes theatrical work; technologically active sets are currently very popular in theatre production and it gives the company a chance to create fascinating environments. Their gardening schemes are also very important to them, as is undertaking special education projects. In the near future moreover, lies a move to South London where they ideally want to start manufacturing their own parts. The relocation is, as everything else appears to be, a fusion between creative (they would move in with design collective _Henzel+Hunt_) and businesslike mindsets.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142115-pk1811-touch-me-not-(1).png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142115-pk1811-touch-me-not-(1).png" title="" caption="" attr="" >}}
 
 Even though they were never exactly at Imperial, they spent a lot of time in the same environment that we move in every day – here Bond mentions that the Imperial College Library is definitely the place to do your all-night studying, even as an RCA student! Siddall, coming from such a technically specialised background, could be compared to any Imperial student who might want to undertake a creative career after finishing a science degree and Bond had little to do with design for the greater part of his working life. Yet they have managed to weld their experiences to create a company they are passionate about and, barring the necessary sacrifices of running a business, they spend their days doing what they want and love.
 

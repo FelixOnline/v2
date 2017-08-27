@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as College secure new Varsity Trophy
 date: "2015-03-19 23:44:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192344-kmw13-tbl_varsity_quick_set_20h38m25s.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192344-kmw13-tbl_varsity_quick_set_20h38m25s.jpg"
 headline: true
 featured: true
 imported: true

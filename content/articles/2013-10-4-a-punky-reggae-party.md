@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter reports on the band keeping Bob Marley’s legacy alive
 date: "2013-10-04 02:05:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040304-jal08-mus-wailers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040304-jal08-mus-wailers.jpg"
 image_caption: "The Wailers, including original member Aston Barrett (front)."
 headline: true
 featured: true

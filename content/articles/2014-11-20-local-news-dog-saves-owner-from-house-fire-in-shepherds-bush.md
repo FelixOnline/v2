@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "Moo" saved the day after a disastrous smoke alarm failure
 date: "2014-11-20 20:22:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211302-ps3110-dog.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211302-ps3110-dog.jpg"
 headline: true
 featured: true
 imported: true

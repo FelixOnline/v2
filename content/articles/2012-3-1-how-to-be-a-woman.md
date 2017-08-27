@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Furse takes a critical look at a highly praised feminist work
 date: "2012-03-01 21:35:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
 image_caption: "Caitlin Moran is an acclaimed broadcaster and columnist at The Times"
 headline: true
 featured: true

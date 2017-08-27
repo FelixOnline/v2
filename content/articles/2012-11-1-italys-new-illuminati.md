@@ -4,7 +4,7 @@ title: >
 subtitle: >
   (Yes, it’s that guy from University Challenge!)
 date: "2012-11-01 22:49:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
 headline: true
 featured: true
 imported: true

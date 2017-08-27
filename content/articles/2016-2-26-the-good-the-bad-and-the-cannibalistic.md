@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bridging the gap between modern Westerns, Bone Tomahawk shines through
 date: "2016-02-26 11:42:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
 image_caption: "Kurt Russell, stealing scenes as the town sheriff, in the bloody, brutal Bone Tomahawk. "
 headline: true
 featured: true

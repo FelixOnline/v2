@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Paul Balaji looks at the Moto 360 which the US firm hopes will turn heads this Christmas
 date: "2014-11-24 12:56:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241256-ps3110-moto360paul-website.jpg"
 image_caption: "The Moto 360 supports Android Wear meaning it's default interface is very customisable"
 headline: true
 featured: true

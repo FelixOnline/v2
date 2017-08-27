@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Women's 2nd XI 14 - 0 St Bart's Womens 2nd XI
 date: "2010-02-25 18:37:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251831-mb506-LadiesHo.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The commercial bomb is dropped on the latest and greatest in contemporary art
 date: "2015-10-23 11:43:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231242-ygr12-117599.ipad.jpeg"
 image_caption: "Urs Fischer's Dr Nope, 2010"
 headline: true
 featured: true

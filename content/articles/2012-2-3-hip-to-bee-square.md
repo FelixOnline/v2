@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Guys play girls and girls play guys in comically dark Japanese kidnapping
 date: "2012-02-03 10:36:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201202031035-sjw209-the-bee-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202031035-sjw209-the-bee-2.jpg"
 image_caption: "Is it a guy? Is it a girl? One way to find out! "
 headline: true
 featured: true

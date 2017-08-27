@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First year Computing student Georg Zänker will be sorely missed
 date: "2015-03-13 01:05:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
 image_caption: "Georg Zänker sadly passed away on Saturday 7th March 2015"
 headline: true
 featured: true

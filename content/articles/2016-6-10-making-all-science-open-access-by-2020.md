@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Should all scientific papers be openly available to anyone?
 date: "2016-06-10 08:24:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101024-felix-2349632397_e2da522f85_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101024-felix-2349632397_e2da522f85_o.jpg"
 image_caption: "Nic McPhee"
 headline: true
 featured: true

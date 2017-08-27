@@ -4,7 +4,7 @@ title: >
 subtitle: >
   More ICT trouble as students and staff lose access to files
 date: "2011-02-28 21:19:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282118-ks607-disconne.jpg"
 headline: true
 featured: true
 imported: true

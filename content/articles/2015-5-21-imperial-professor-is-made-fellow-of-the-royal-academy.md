@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201505221216-cj914-professor-dude.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505221216-cj914-professor-dude.jpg"
 image_caption: "Professor Erol Gelenbe was elected as Fellow of a prestigious Belgian society"
 headline: true
 featured: true

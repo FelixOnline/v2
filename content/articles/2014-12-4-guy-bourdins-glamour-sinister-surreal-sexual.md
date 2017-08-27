@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdanspring_1979guy_bourdin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042001-cj914-charles_jourdanspring_1979guy_bourdin.jpg"
 image_caption: "Charles Jourdan, Spring 1979 - an example of Bourdin's surreal and sexually sinister style"
 headline: true
 featured: true

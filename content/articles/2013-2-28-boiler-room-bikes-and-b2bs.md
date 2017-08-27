@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray gets a taste of the Red Stripe Make Session series
 date: "2013-02-28 23:28:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201302282327-tna08-g035-800x-4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302282327-tna08-g035-800x-4.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ So, the basics: Boiler Room is essentially a promoter who gets incredible line-u
 
 The whole thing is sponsored by the great folks over at Red Stripe – yet another perk, free beer – and for a good few events now they’ve paired up officially with Boiler Room to present Red Stripe Make Sessions. I was first introduced to this concept at the NTS one back in November, where 11 painfully obscure artists were crammed into a 4 hour slot and their sets recorded live onto reel-to-reel tape. The product of the evening was a sweet compilation vinyl; particular highlights include the incredibly bass-heavy Insomniax’s ‘Speakers Blow’ and Graham Dunning’s loop-manipulating experimentalism.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302282328-tna08-g035-800x-91.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302282328-tna08-g035-800x-91.jpg" title="" caption="" attr="" >}}
 
 The real spark for this piece was Red Stripe Make Session 007 on Monday, which Red Stripe kindly let us tag along to. The musical line-up was simple but heavy: xxxy b2b Steve Braiden and Midland b2b Paul Woolford. In a slightly surreal centre stage, 14 Bike Co were brought into the building to hand make some damn fine bespoke bikes with the DJs names painted onto the frames.
 

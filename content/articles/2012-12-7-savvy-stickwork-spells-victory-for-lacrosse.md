@@ -4,7 +4,7 @@ title: >
 subtitle: >
   La cross, isn't that what Joey Barton calls a ball into the box from the wing?
 date: "2012-12-07 03:07:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070307-tna08-010.jpg"
 headline: true
 featured: true
 imported: true

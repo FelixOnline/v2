@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lilly Le examines the intricacies of Laura Marling’s latest effort
 date: "2013-05-28 14:04:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ With each LP, she has become more distant from her early teenage releases. Previ
 
 Her latest one opens with a four-song medley, previewed via a beautiful film full of twirling dancers and romancers Brave Bird Saved. This, combined with three which have been streaming on her Sound Cloud for the past couple of months, make the 16-track album less of a daunting thing. Plus, don’t bother with Interlude.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305281503-tna08-laura_web4.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305281503-tna08-laura_web4.jpg" title="" caption="" attr="" >}}
 
 The remaining eight require two things to be enjoyed. Firstly, being in the right mood. Many people mistakenly believe this would be a depressive one, but I would personally warn against that (it doesn’t help) – more of a state of contemplation and retreat. Secondly, it requires listening several times. This is no bad thing, the best songs are the ones you get to know over time rather than those which jump at you first time and hardly ever again.
 
@@ -42,7 +42,7 @@ What hasn’t changed, however, is her aloof approach to song-writing. It is obv
 
 Rather than the majestic instrumental composition which bathed pervious releases, the parts that jump out are the tender guitar strings which echo the melody of her voice. Try Little Bird and your heart will swell as she sings the name “Rosie”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305281503-tna08-laura-marling.jpg" title="" caption="" attr="" >}}
 
 Instead of her long poetic verses, which bulked up older albums, are short, sharp phrases which send chills down the spine.“I don’t care where you’ve gone beast – I care where you go.” – Take the Night Off
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All waterproofs are waterproof. The million-dollar question is for how long?
 date: "2010-10-07 22:57:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
 image_caption: "Eugh... "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A glimpse into the calorie counting culture promoted by fitness apps
 date: "2016-02-12 11:26:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121126-felix-anor.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121126-felix-anor.jpg"
 image_caption: "All about the numbers – waist measurements and calorie counts. "
 headline: true
 featured: true

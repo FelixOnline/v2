@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber on the festival that rounds off the summer with a bang
 date: "2012-02-16 21:47:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
 image_caption: "Ooo-err!"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eppeic fencing from Imperial
 date: "2013-02-01 00:31:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010031-tna08-sabre-attack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010031-tna08-sabre-attack.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Life affirming, if a bit pretentious.
 date: "2013-04-30 14:59:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012038-tna08-siddhartha-cover-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012038-tna08-siddhartha-cover-2.jpg"
 headline: true
 featured: true
 imported: true

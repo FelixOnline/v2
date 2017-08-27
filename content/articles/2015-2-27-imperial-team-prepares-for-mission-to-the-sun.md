@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial involved in ESA mission to improve our understanding of solar wind
 date: "2015-02-27 00:33:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201502270033-pk1811-untitled.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502270033-pk1811-untitled.png"
 image_caption: "The prototype sensor, held by the project’s lead engineer Helen O’Brien."
 headline: true
 featured: true

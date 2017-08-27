@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This is a Yiango Mavrocostanti cheesecake...
 date: "2013-01-25 01:33:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250133-tna08-cheesecake1.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ Remember the smell of your favourite food your mum used to make for you when you
 
 And of course, food is more enjoyable when it is shared with other people. So when you cook invite your friends too. Is there a better gift you can give to your friends than cooking for them (except maybe some nice French liqueur…)? I don’t think so. Cooking requires effort and that’s why I appreciate people who would cook for others.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake-2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250133-tna08-cheesecake-2.jpg" title="" caption="" attr="" >}}
 
 All of the above are the reasons I was very excited when I received this recipe from Amy Lam, a second year chemical engineering student. She made this amazing cheesecake as a surprise for the birthday of her friend. How great is that? She devoted the time to make it and the results show that all the care and effort she put into it paid off. Needless to say that her friends were more than thrilled.
 

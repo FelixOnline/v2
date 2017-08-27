@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Constitution changes have been approved by Council
 date: "2012-11-01 22:09:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012209-tna08-councilrgb.jpg"
 headline: true
 featured: true
 imported: true

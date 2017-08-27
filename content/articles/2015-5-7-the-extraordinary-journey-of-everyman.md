@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rufus Norris ushers in his tenure at the National Theatre with this updated morality play, featuring a powerhouse performance by Chiwetel Ejiofor
 date: "2015-05-07 09:52:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
 image_caption: "A scene from Everyman - Chiwetel Ejiofor - Everyman"
 headline: true
 featured: true

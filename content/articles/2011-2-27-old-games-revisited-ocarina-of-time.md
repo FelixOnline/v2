@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Many of the Zelda games strived to be like Ocarina of Time and merely couldn’t achieve the same results
 date: "2011-02-27 13:04:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271303-ks607-legendof.jpg"
 headline: true
 featured: true
 imported: true

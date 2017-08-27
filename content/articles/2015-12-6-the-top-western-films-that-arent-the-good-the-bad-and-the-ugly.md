@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Can't sit through three hours of Spaghetti Western? Try these on for size instead...
 date: "2015-12-06 14:35:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
 headline: true
 featured: true
 imported: true

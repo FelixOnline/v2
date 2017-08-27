@@ -4,7 +4,7 @@ title: >
 subtitle: >
   At the heart of Imperial on the weekend, all diagrams were out of mind save the endlessly energetic Diagram of the Heart. They shared their love of ginger-nut biscuits before playing Bestival this summer
 date: "2010-10-10 15:27:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101626-ks607-Diagramo.jpg"
 headline: true
 featured: true
 imported: true

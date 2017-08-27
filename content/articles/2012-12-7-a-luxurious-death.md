@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang discusses whether fast fashion is killing luxury brands
 date: "2012-12-07 01:45:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070148-tna08-fashion-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070148-tna08-fashion-1.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ Once again, I state my case: the definition and success of luxury rests on prest
 
 Whilst of course there is a chance that I may be proven horrendously wrong, but, the way I see it, the trend towards fast fashion may be spelling out the final demise of certain brands. These brands are such that they are inaccessible enough at the moment to be termed ‘luxury’, yet are not quite topping the stable mountains of high fashion.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070149-tna08-fash2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070149-tna08-fash2.jpg" title="" caption="" attr="" >}}
 
 On top of this, there is also the issue of designers themselves. Peter Copping, in taking on 6 lines a year for Nina Ricci, may not be adding too much to his work load, but what about Alexander Wang who at the young age of 28 will now be designing 32 collections a year?
 

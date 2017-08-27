@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Female video game characters today are very different from the ones twenty or so years ago. The steps along the way have been small but have added towards the big picture
 date: "2016-10-31 23:14:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
 headline: true
 featured: true
 imported: true

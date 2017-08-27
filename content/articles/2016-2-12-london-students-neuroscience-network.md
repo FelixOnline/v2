@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An impressive collaboration for the London medical schools neuroscience societies
 date: "2016-02-12 11:59:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121158-felix-brain_dissection.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121158-felix-brain_dissection.jpg"
 image_caption: "Ew... We mean, ooh!"
 headline: true
 featured: true

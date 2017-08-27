@@ -4,7 +4,7 @@ title: >
 subtitle: >
   007 comes to Imperial
 date: "2012-10-26 01:38:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260237-tna08-students-on-roof.jpg"
 headline: true
 featured: true
 imported: true

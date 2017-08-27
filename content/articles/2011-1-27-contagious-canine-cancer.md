@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Study sheds new light on contagious canine cancer mechanism
 date: "2011-01-27 19:04:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271859-ks607-skatedog.jpg"
 headline: true
 featured: true
 imported: true

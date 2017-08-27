@@ -4,7 +4,7 @@ title: >
 subtitle: >
   To travel, or not to travel – amidst travel alerts and predictions of terrorist activities, is submitting to the warnings and fears a safe choice?
 date: "2010-10-14 19:56:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142054-ks607-hijack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142054-ks607-hijack.jpg"
 headline: true
 featured: true
 imported: true

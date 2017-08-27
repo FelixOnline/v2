@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular new science column
 date: "2016-02-19 11:34:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191133-felix-giphy.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191133-felix-giphy.gif"
 headline: true
 featured: true
 imported: true

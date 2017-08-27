@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Getting tested can be a fun day out
 date: "2016-05-13 09:01:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131100-felix-p01l937f.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131100-felix-p01l937f.jpg"
 image_caption: "Don't these look like people you'd want to stick a speculum up your foof?"
 headline: true
 featured: true

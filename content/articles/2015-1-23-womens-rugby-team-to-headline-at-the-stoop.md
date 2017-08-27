@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Their 40-minute match will follow the men's game.
 date: "2015-01-23 00:49:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
 headline: true
 featured: true
 imported: true

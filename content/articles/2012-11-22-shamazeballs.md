@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucia Podhorska thinks it was more of a shambles
 date: "2012-11-22 23:02:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222302-tna08-xfactor.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222302-tna08-xfactor.jpg"
 headline: true
 featured: true
 imported: true

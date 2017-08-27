@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A recap of all the main news stories from 2014
 date: "2014-12-12 13:01:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412121301-ps3110-img_2985.jpg"
 headline: true
 featured: true
 imported: true

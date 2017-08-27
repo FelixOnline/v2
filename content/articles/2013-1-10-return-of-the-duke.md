@@ -4,7 +4,7 @@ title: >
 subtitle: >
   By Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios
 date: "2013-01-10 22:51:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102251-csw09-bowie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102251-csw09-bowie.jpg"
 headline: true
 featured: true
 imported: true

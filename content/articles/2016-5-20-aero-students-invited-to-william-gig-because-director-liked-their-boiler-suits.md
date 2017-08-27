@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They were taking their class picture outside the Royal Albert Hall when they were ‘discovered’
 date: "2016-05-20 08:45:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201043-felix-IMG_1774.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201043-felix-IMG_1774.JPG"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ When the students returned that evening, in their boiler suits, they were allowe
 
 They were interviewed by the director before the gig, which was filmed by will.i.am’s team.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605201044-felix-13235818_1709566712632329_2024053474_n.jpg" title="" caption="" attr="Wojciech Kowalski" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605201044-felix-13235818_1709566712632329_2024053474_n.jpg" title="" caption="" attr="Wojciech Kowalski" >}}
 
 They then saw the show from the arena, right next to the stage. A couple of them even managed to bag a selfie with the man himself.
 
@@ -42,4 +42,4 @@ The free gig was to promote will’s new wearable tech venture, ‘dial’, a sm
 
 The night included cameos from old members of the Black Eyed Peas, Ricky Wilson of the Kaiser Chiefs and Tinie Tempah.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605201044-felix-william_selfie.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605201044-felix-william_selfie.jpg" title="" caption="" attr="" >}}

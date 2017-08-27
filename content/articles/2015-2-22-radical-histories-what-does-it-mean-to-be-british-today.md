@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes in a century of the country’s artistic history at the Hayward Gallery
 date: "2015-02-22 17:42:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201502221740-ps3110-richard-hamilton,-the-state,1993.-©-tate,-london-2014,-dacs-2014a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502221740-ps3110-richard-hamilton,-the-state,1993.-©-tate,-london-2014,-dacs-2014a.jpg"
 image_caption: "Richard Hamilton, The State, 1993"
 headline: true
 featured: true

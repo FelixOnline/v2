@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Film looks back at the past eight decades of cinema, hand-picking the most touching and memorable movies – ideal for a quiet, intimate, romantic night in
 date: "2012-02-16 21:17:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162113-pk1811-qc-14.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162113-pk1811-qc-14.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ If you want to watch a love story where a monarch gives up a throne for love, do
 
 Other worthy nominees: Dark Victory, It Happened One Night, Gone with the Wind
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162113-pk1811-bogart.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162113-pk1811-bogart.jpg" title="" caption="" attr="" >}}
 
 The 1940s: Casablanca
 
@@ -37,7 +37,7 @@ It was an easy one to decide, this. With endlessly quotable dialogue from its ma
 
 Other worthy nominees: Now, Voyager, It’s a Wonderful Life, The Lady Eve, Gilda
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162113-pk1811-936full-an-affair-to-remember-screenshot.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162113-pk1811-936full-an-affair-to-remember-screenshot.jpg" title="" caption="" attr="" >}}
 
 The 1950s: An Affair to Remember
 
@@ -45,7 +45,7 @@ Although not without its cheesy moments, and the misunderstanding that tears thi
 
 Other worthy nominees: Roman Holiday, From Here to Eternity, A Star is Born, The Country Girl, The African Queen, Singin’ in the Rain
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162113-pk1811-539w.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162113-pk1811-539w.jpg" title="" caption="" attr="" >}}
 
 The 1960s: Bonnie and Clyde
 
@@ -53,7 +53,7 @@ The strong word-of-mouth success of this was the prime reason Warren Beatty, the
 
 Other worthy nominees: The Umbrellas of Cherbourg, Splendour in the Grass, West Side Story, Doctor Zhivago, Breakfast at Tiffany’s
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162114-pk1811-love-story.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162114-pk1811-love-story.jpg" title="" caption="" attr="" >}}
 
 The 1970s: Love Story
 
@@ -61,7 +61,7 @@ Love stories and tragic, tear-jerking dramas don’t come much thicker than this
 
 Other worthy nominees: Harold and Maude, Annie Hall, The Way We Were, Coming Home
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162114-pk1811-24117-004-882eac68.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162114-pk1811-24117-004-882eac68.jpg" title="" caption="" attr="" >}}
 
 The 1980s: On Golden Pond
 
@@ -69,7 +69,7 @@ Not all love stories need to be about young, immature, attractive couples discov
 
 Other worthy nominees: Out of Africa, Moonstruck, When Harry Met Sally, Reds
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162115-pk1811-1311064867_1280x720_ghost-movie-wallpaper.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162115-pk1811-1311064867_1280x720_ghost-movie-wallpaper.jpg" title="" caption="" attr="" >}}
 
 The 1990s: Ghost
 
@@ -77,7 +77,7 @@ The late Patrick Swayze was always asked by fans to utter the word “ditto” t
 
 Other worthy nominees: The Bridges of Madison County, Jerry Maguire, One True Thing, Beauty and the Beast, The English Patient
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162117-pk1811-065.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162117-pk1811-065.jpg" title="" caption="" attr="" >}}
 
 The 2000s: Atonement
 

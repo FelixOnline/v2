@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We take an uncensored look at female staff, graduate, and fresher experiences around college
 date: "2016-03-11 11:34:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111132-felix-20160310_140457.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111132-felix-20160310_140457.jpg"
 image_caption: "Squint and let the white faces wash over you. "
 headline: true
 featured: true
@@ -40,7 +40,7 @@ After ‘Misogyny at Varsity’ last year, when a Sport Imperial employee said h
 
 The Angry Grad makes a triumphant return below. Despite initial speculation that the FELIX comment’s outspoken columnist was a man, she ain’t. Angry Grad is a job-having graduate who’s been through the Imperial system, and experienced the medical school with all its foibles.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201603111132-felix-Vaughan-J-M,-GA-JGRS-8149--tojpeg_1425400457317_x2.jpg" title="Janet Vida Watson was the first female graduate from the Geology department and later went on to become Imperial’s third female professor. " caption="Janet Vida Watson was the first female graduate from the Geology department and later went on to become Imperial’s third female professor. " attr="Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201603111132-felix-Vaughan-J-M,-GA-JGRS-8149--tojpeg_1425400457317_x2.jpg" title="Janet Vida Watson was the first female graduate from the Geology department and later went on to become Imperial’s third female professor. " caption="Janet Vida Watson was the first female graduate from the Geology department and later went on to become Imperial’s third female professor. " attr="Imperial College London" >}}
 
 **FELIX**: What kind of attitudes did you encounter from students or teaching staff on the subject of gender?
 
@@ -96,7 +96,7 @@ People don’t like to be criticised, often I am accused of attacking their free
 
 **S**: I was talking to one of my friends about this. In a tutorial she was told by one of her peers to write on the board because “everyone wants to look at the pretty girl”. When we spoke about it, I found that many of our friends saw this as “just a compliment” and not a horribly sexist example of objectification. Another time, I was drinking juice from a straw in a lecture and a comment was made about how it looked like I was fellating the straw. I made a snarky comment in response, but haven’t had an innocent carton since.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201603111134-felix-20160310_143314.jpg" title="Beccy Land was the first female Editor of FELIX. " caption="Beccy Land was the first female Editor of FELIX. " attr="FELIX" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201603111134-felix-20160310_143314.jpg" title="Beccy Land was the first female Editor of FELIX. " caption="Beccy Land was the first female Editor of FELIX. " attr="FELIX" >}}
 
 > **There are more men at Imperial, however, I think that being a man is by no means the default**
 

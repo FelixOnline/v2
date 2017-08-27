@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Australia Day has never been so tasty
 date: "2013-02-13 14:00:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131354-tna08-lamington.jpg"
 headline: true
 featured: true
 imported: true

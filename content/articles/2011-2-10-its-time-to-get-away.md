@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Toss away the Valentine’s Day courtesies, and consider travelling alone
 date: "2011-02-10 19:53:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201102101852-dr910-tajmahal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102101852-dr910-tajmahal.jpg"
 headline: true
 featured: true
 imported: true

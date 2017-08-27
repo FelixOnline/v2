@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The different sought after destinations in Europe
 date: "2011-03-03 19:58:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103031943-nm1010-traveltr.jpg"
 headline: true
 featured: true
 imported: true

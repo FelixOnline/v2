@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A group of MIT researchers recently presented their findings regarding an improved algorithm for Fast Fourier Transforms.
 date: "2012-02-02 19:37:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202030340-ak6309-sfft4.png"
 image_caption: "Fourier Transforms are highly useful for signal processing"
 headline: true
 featured: true

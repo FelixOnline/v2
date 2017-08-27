@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why have so many of Art’s greats been addicted?
 date: "2011-02-27 19:15:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271912-ks607-dondrape.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271912-ks607-dondrape.jpg"
 headline: true
 featured: true
 imported: true

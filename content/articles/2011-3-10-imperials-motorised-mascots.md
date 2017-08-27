@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jenny Wilson's homage to the fleet of vintage vehicles that belong to all of us
 date: "2011-03-10 19:58:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101954-ks607-jezebele.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101954-ks607-jezebele.jpg"
 headline: true
 featured: true
 imported: true

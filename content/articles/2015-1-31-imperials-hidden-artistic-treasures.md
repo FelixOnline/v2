@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng gets a behind the scenes look at 170 Queen’s Gate
 date: "2015-01-31 18:34:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311836-ff712-3fa63a6f3d84t.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311836-ff712-3fa63a6f3d84t.jpg"
 image_caption: "For The Squire, Sir John Everett Millais, 1882"
 headline: true
 featured: true

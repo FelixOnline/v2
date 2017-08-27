@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Right motives, wrong methods – Occupy isn't all some claim it to be
 date: "2012-01-19 23:21:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192321-felix-occupy.jpg"
 headline: true
 featured: true
 imported: true

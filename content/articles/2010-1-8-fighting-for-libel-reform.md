@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In light of Simon Singh returning to Imperial to give a lecture on libel laws that he is personally embroiled in!
 date: "2010-01-08 16:10:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201001081608-rsp07-SimonSin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001081608-rsp07-SimonSin.jpg"
 headline: true
 featured: true
 imported: true

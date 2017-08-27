@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Praveen Gnanasambanthan why sport and politics cannot be separated
 date: "2012-10-05 13:00:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051359-felix-sri-lankan-army.jpeg"
 image_caption: "Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah, "
 headline: true
 featured: true

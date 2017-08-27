@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster asks “Will you be my player 2?”
 date: "2013-02-07 23:37:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
 headline: true
 featured: true
 imported: true

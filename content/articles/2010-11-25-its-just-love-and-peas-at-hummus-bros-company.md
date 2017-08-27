@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Give (chick)peas a chance...
 date: "2010-11-25 20:31:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252028-nm1010-HummusBR.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252028-nm1010-HummusBR.jpg"
 headline: true
 featured: true
 imported: true

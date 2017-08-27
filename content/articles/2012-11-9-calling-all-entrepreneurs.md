@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pranav Tulsian presents the latest business event at Imperial
 date: "2012-11-09 12:53:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091252-tna08-untitled-7.jpg"
 headline: true
 featured: true
 imported: true
@@ -44,7 +44,7 @@ Capitalists (eg. Raj Kapoor, Mayfield Fund), Founders and Chief Officers (e.g. R
 
 On that same day at SVC2Imperial there will also be a CEO & Investor Workshop and Networking Dinner. CEOs from some of the most promising start-ups in our ecosystem, which are in the process of scaling up, are invited to attend a workshop with successful local entrepreneurs and Silicon Valley CEOs and executives, where facilitators will share their experiences and participants can troubleshoot any current issues. It provides a unique opportunity for start-up CEOs to learn from the best in the business. The purpose is to bring together like-minded people in hope of increasing the interaction amongst the entrepreneurship community not only in Imperial College London but in the whole of London.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211091251-tna08-alumrockviewsiliconvalley_w.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211091251-tna08-alumrockviewsiliconvalley_w.jpg" title="" caption="" attr="" >}}
 
 The Saturday will mainly consist of a conference running from 10am till 5pm. The day will be split into three parts: Masterclass, Company Showcase and Keynote Lectures. In the Masterclass, there will be workshops and panel discussions run by successful entrepreneurs, industrialists, authors and
 

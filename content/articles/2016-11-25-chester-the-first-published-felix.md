@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If a cat can do it, you can too
 date: "2016-11-25 13:37:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251337-felix-cat-1826788_1280.jpg"
 headline: true
 featured: true
 imported: true

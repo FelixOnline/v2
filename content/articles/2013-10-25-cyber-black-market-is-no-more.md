@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tech Editor Osama Awara on the Silk Road Marketplace
 date: "2013-10-25 00:59:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250159-felix-tech_silk-road.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250159-felix-tech_silk-road.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   2012 entry will have indication of performance in Horizons courses they take. Exact wording is to be decided. Report card degrees, containing information on extra-curricular activities, may be introduced?
 date: "2012-11-08 23:44:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
 headline: true
 featured: true
 imported: true

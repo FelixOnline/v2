@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The latest Pegg and Frost genre-hopping tribute lacks originality
 date: "2011-02-27 19:05:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271904-ks607-paulpaul.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271904-ks607-paulpaul.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Boris Johnson
 date: "2013-10-25 00:02:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250101-felix-boris-hand.jpg"
 image_caption: "Golly gosh, am I really that blond? Rome, save me!"
 headline: true
 featured: true

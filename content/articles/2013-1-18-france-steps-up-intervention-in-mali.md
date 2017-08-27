@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The French are experiencing a renewed involvement in world affairs
 date: "2013-01-18 00:28:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180028-tna08-mali-flag.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180028-tna08-mali-flag.gif"
 headline: true
 featured: true
 imported: true

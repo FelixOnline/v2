@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the exhibition at London’s Design Museum, discovering a unique shoe brand which prioritizes comfort first
 date: "2015-05-15 12:54:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
 image_caption: "Pelotas shoes aligned at ‘Life on Foot’ at the Design Museum"
 headline: true
 featured: true

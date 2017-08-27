@@ -4,7 +4,7 @@ title: >
 subtitle: >
   [Tabloid Special] Just how well maintained is Fisher Hall?
 date: "2014-06-23 10:36:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201406231138-jal08-1581_news_mould.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406231138-jal08-1581_news_mould.jpg"
 headline: true
 featured: true
 imported: true

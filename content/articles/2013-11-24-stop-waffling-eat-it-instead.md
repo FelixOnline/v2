@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Tsim tasted one and had a chat with the CEO of Wafflemeister! Read further for IC student deal!
 date: "2013-11-24 16:39:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201311271428-jal08-web_waffle-iron-front.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311271428-jal08-web_waffle-iron-front.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indy Leclercq interviews Didier Nohlmans
 date: "2011-10-13 22:59:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132358-ak6309-dsc_3447.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132358-ak6309-dsc_3447.jpg"
 draft: true
 headline: true
 featured: true

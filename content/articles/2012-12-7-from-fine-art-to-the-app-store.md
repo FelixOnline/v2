@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ausrine Kersanskaite discuss a lucky break with YPlan
 date: "2012-12-07 02:04:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070156-tna08-yplan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070156-tna08-yplan.jpg"
 headline: true
 featured: true
 imported: true

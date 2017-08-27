@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Greenland: Another play about global warming, can the National make it exciting?
 date: "2011-02-27 19:32:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271931-ks607-greenlan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271931-ks607-greenlan.jpg"
 headline: true
 featured: true
 imported: true

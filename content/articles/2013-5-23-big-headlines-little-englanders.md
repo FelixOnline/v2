@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
 headline: true
 featured: true
 imported: true

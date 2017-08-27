@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Universities asked to invest up to 30% of fees over £6,000 into fair access schemes
 date: "2011-03-10 19:40:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031930-ks607-higherfe.jpg"
 headline: true
 featured: true
 imported: true

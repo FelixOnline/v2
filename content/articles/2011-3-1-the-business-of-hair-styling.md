@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Afonso Campos talks shop to Drew Foster, one half of the duo behind Foster London
 date: "2011-03-01 20:49:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012047-ks607-hairdres.jpg"
 image_caption: "Drew Foster's business was truly launched when he was forced to sell his flat to the Council"
 headline: true
 featured: true

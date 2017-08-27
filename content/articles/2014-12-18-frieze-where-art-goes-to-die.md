@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland is disgusted by this year's Frieze
 date: "2014-12-18 15:47:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
 headline: true
 featured: true
 imported: true

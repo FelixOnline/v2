@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Will Stocker interviews the American songstress
 date: "2012-06-22 16:45:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201206221745-felix-zola-jesus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206221745-felix-zola-jesus.jpg"
 headline: true
 featured: true
 imported: true

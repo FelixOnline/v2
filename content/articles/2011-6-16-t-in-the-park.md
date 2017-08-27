@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Katherine Portilla takes a look at Scotland’s finest weekend
 date: "2011-06-16 20:49:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162148-felix-sna100711-682_1083141a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162148-felix-sna100711-682_1083141a.jpg"
 headline: true
 featured: true
 imported: true

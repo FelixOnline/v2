@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Beaghton on the Law Society’s intersectional discussion this May
 date: "2015-05-15 12:46:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151346-cj914-funkeambimbola.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151346-cj914-funkeambimbola.jpg"
 image_caption: "Funke Amimbola  leads the legal team that supports Roche’s UK pharmaceutical operations"
 headline: true
 featured: true

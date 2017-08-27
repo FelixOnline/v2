@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
 image_caption: "Even crazed communists can be vegetarians – it’s very inclusive group."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What is the best eggy soldier of them all?
 date: "2011-11-24 21:33:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
 image_caption: "I know you’ve had it with eggscruciating yolks"
 headline: true
 featured: true

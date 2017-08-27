@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Xuan Chen gives his thoughts on Imperial’s newest self defence class
 date: "2015-02-13 15:21:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131521-bwh12-1584-2.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131521-bwh12-1584-2.png"
 image_caption: "An instructor defends himself against an armed attacker in the first class."
 headline: true
 featured: true

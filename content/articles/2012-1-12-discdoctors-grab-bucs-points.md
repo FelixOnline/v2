@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial takes on 15 of the best university ultimate frisbee teams
 date: "2012-01-12 20:36:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122033-cac111-imgp9182.jpg"
 image_caption: "Well, you can tell it’s the indoor nationals"
 headline: true
 featured: true

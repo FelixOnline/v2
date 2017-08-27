@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang embraces her inner rebel as she investigates the quintessential rule-breaking magazine
 date: "2012-02-16 21:42:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162141-ams111-9780847836925.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162141-ams111-9780847836925.jpg"
 image_caption: "Dazed & Confused: Making It Up As We Go Along Written by Jefferson Hack, Edited by Jo-Ann Furniss"
 headline: true
 featured: true

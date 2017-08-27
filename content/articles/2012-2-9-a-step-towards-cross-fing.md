@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC joined forces with the RCA to create art inspired by science; Artifact is happening again this year
 date: "2012-02-09 22:08:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092208-cac111-untitled.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092208-cac111-untitled.png"
 image_caption: "The early plans for the Central Line extension were quick to be shelved"
 headline: true
 featured: true

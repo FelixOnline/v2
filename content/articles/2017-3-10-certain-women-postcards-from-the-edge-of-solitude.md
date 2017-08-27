@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kelly Reichardt fashions a beautifully-intimate portrait of four women, in her sixth feature film, Certain Women, which details our relationships with the natural world, other individuals, and our own loneliness
 date: "2017-03-10 13:37:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
 image_caption: "Michelle Williams excells as one of the women at the heart of Reichardt’s tale"
 headline: true
 featured: true

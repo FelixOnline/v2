@@ -4,7 +4,7 @@ title: >
 subtitle: >
   On December 6th at around midday, at least 55 games were taking place at the SCRABBLE Champions’ Tournament in Prague. 110 players from across the globe had convened in Prague for a tilt at the title of SCRABBLE World Champion and a share of the €25,000 prize pot.
 date: "2014-06-23 13:02:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201406231558-jal08-dsc_9645-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406231558-jal08-dsc_9645-copy.jpg"
 headline: true
 featured: true
 imported: true

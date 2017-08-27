@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Falling through the net as a Masters student
 date: "2012-05-04 00:17:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205040116-felix-vote_ballot_paper.jpg"
 image_caption: "GSA elections were online, mainly because this is what the ballot paper would have looked like. Grim"
 headline: true
 featured: true

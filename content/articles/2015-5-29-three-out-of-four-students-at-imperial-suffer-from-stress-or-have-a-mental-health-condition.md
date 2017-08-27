@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Survey collects results from over one thousand Imperial students about mental wellbeing
 date: "2015-05-29 00:27:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
 headline: true
 featured: true
 imported: true

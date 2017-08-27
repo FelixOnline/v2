@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Barbican's staging of Ivo van Hove's epic Shakespeare adaptation is bold and daring
 date: "2017-03-20 21:36:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703202136-ff712-08.jpg"
 image_caption: "Toneelgroep Amsterdam, Roman Tragedies, Fred Goessen"
 headline: true
 featured: true

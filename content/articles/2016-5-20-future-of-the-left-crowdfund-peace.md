@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Future of the Left have generated a reputation for absurd lyrics
 date: "2016-05-20 09:14:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201110-felix-futureoftheleft.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201110-felix-futureoftheleft.jpg"
 headline: true
 featured: true
 imported: true

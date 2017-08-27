@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After the sentencing of Gary Bolton, the man who had been caught selling fake bomb detectors to governments worldwide, comment editor Eoghan Totten wonders how the world's scientific minds could join to prevent this from occurring again.
 date: "2013-08-28 08:52:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201308280949-jal08-the-ade-651.jpg"
 image_caption: "The ADE 651, the false detector sold by McCormick"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 3 of 3)
 date: "2013-06-20 16:57:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306202351-tna08-rupert2.jpg"
 headline: true
 featured: true
 imported: true
@@ -56,7 +56,7 @@ TA: What were the high points of your year?
 
 RN: The highs were when we have the amazing stories and campaigning stories. We did a story about the Astoria banning some club or society. It was basically banning them because they were all black and they’ve got a ban on black music. So we got them to u-turn on that as well. That was fun. We re-introduced Page 3 [now the centrefold]. Someone had done it like 3 years before us. I liked doing that. Appeared in it twice. Have you done it?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210138-tna08-neatefront1.jpg" title="The front cover when the Rector tried to introduce a dress code" caption="The front cover when the Rector tried to introduce a dress code" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210138-tna08-neatefront1.jpg" title="The front cover when the Rector tried to introduce a dress code" caption="The front cover when the Rector tried to introduce a dress code" attr="" >}}
 
 TA: I’ve done it twice, yeah. So what were the lows?
 
@@ -93,7 +93,7 @@ TA: He told me he tried to annoy people. And a figure in College he didn’t lik
 
 RN: That’s good. I like that attitude. We did that with the sport guy. After we did lots of negative stories about Ethos I went in there to refill the bin. There were no papers in it and the bin wasn’t there. Basically, he had taken the bin for Felix and put it in the cupboard as he didn’t want it. So we did a whole story about press censorship and freedom and all this. And we got all of these people the bureau on censorship to give us quotes about this. About how he shouldn’t have taken away the issue because he didn’t like it. So that was brilliant. We did a whole story about them trying to censor Felix, which they hated. And then did a cartoon of him as a dragon eating Felix. Apparently he got some money from College for damages or something. I don’t know if it’s true, but that’s what I heard. He never complained at the time.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210140-tna08-rneatefront2.jpg" title="Another one of Rupert Neate's favourite front covers" caption="Another one of Rupert Neate's favourite front covers" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210140-tna08-rneatefront2.jpg" title="Another one of Rupert Neate's favourite front covers" caption="Another one of Rupert Neate's favourite front covers" attr="" >}}
 
 TA: Of all the aspects of Felix, which did you enjoy the most?
 

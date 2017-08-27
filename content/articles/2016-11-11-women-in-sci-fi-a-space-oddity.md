@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
 date: "2016-11-11 13:44:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111337-so515-amyadams_arrival.jpg"
 image_caption: "Amy Adams in Arrival"
 headline: true
 featured: true
@@ -32,7 +32,7 @@ The comparisons extend further beyond gender politics – _Gravity_ and _Arrival
 
 A study released earlier this year from the Center for the Study of Women in Television and Film, a unit at San Diego State University, found that women made up only 22% of protagonists in the top-grossing films of 2015, meaning male protagonists outnumbered them by more than 3:1. Furthermore, this represented a _recent historical high_: in 2014, only 12% of protagonists were women, indicating that – despite the widespread calls of gender equality in some sections of the industry – Hollywood lags far behind in terms of representation.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111341-so515-ellen-ripley-e1402152419866.jpeg" title="Sigourney Weaver in Alien" caption="Sigourney Weaver in Alien" attr="Allstar / Cinetext / 20th Century Fox" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111341-so515-ellen-ripley-e1402152419866.jpeg" title="Sigourney Weaver in Alien" caption="Sigourney Weaver in Alien" attr="Allstar / Cinetext / 20th Century Fox" >}}
 
 And thus, the huge success of _Gravity_ (which made close to three quarters of a billion dollars), and the presumed success of _Arrival_, should be more than welcome. But things aren’t really all they seem: to me, both Adams’ and Bullock’s characters mark not a breakout surge for the woman-led sci-fi film, but instead a return to the classical tropes surrounding women in media. Rather than something that should be unquestionably lauded, the portrayal of women in both _Gravity_ and _Arrival_ should be critically scrutinised before we claim it as a feminist victory.
 
@@ -52,7 +52,7 @@ But hasn’t this always been the case in science fiction? Haven’t women alway
 
 As we enter the swinging sixties, things don’t get much better. _Stanley Kubrick’s 2001: A Space Odyssey_, the most important film in the genre, is remarkably free of women characters, and in the science fiction films that do offer key roles for women, they are often cast as mere eye-candy, and little else. Think back to the 1968 camp classic _Barbarella_, which saw Jane Fonda as the title role, proudly holding up the image of the female adventurer who must wear impractically-skimpy outfits – a tradition that continues to this very day. Director Roger Vadim spoke of his reluctance to ‘intellectualise’ the character, and this shows: Barbarella regularly adopts the role of damsel in distress, and when rescued offers to repay the men who come to her aid with athletic sex. For context, this was a film released half a decade after Betty Friedan’s _The Feminine Mystique_.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111344-so515-34c6ac_ca9fac29e5274f60a922e5889910a9c7.jpg" title="Jane Fonda in Barbarella" caption="Jane Fonda in Barbarella" attr="Creative Commons" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111344-so515-34c6ac_ca9fac29e5274f60a922e5889910a9c7.jpg" title="Jane Fonda in Barbarella" caption="Jane Fonda in Barbarella" attr="Creative Commons" >}}
 
 It wasn’t really until the 1970s when women really made their mark on sci-fi. The decade kicked off with _The Andromeda Strain_, which saw Dr. Ruth Leavitt save the world from an extraterrestrial pathogen whilst navigating the male-dominated world of hard-nosed science. We then ended the decade with _Alien_, that classic landmark in both feminist film and the science-fiction canon. With the focus on the alien itself, in all it’s H. R. Giger-designed phallic glory, Sigourney Weaver was able to carve out the role of Ripley, the warrant officer on-board the attacked ship. Not only does the film, with its visuals of grubs popping out of chests, toy very knowingly with the male fear of femininity and pregnancy, but the role of Ripley punched a hole in the traditional portrayal of women in science fiction. Here was a female protagonist who was tough, hard-headed, and didn’t need any man to save her. The script initially had all the characters down as male, but the writers explicitly stated that “the crew is unisex and all parts are interchangeable for men or women”. Weaver embodied the role in a way that didn’t draw attention to her gender, and director Ridley Scott didn’t attempt to play up any maternal instincts – the result was a character that is inherently feminist, an icon of power and independence.
 

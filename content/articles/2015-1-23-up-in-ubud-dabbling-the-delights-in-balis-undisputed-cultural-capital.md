@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson ditches the beaches and heads for the hills
 date: "2015-01-23 19:03:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
 image_caption: "Your luxury retreat in the hills"
 headline: true
 featured: true

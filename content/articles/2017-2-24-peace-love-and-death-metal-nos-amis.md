@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In HBO’s latest documentary film we follow the Eagles of Death Metal as they return to Paris following the attack on the Bataclan.
 date: "2017-02-24 15:12:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
 headline: true
 featured: true
 imported: true

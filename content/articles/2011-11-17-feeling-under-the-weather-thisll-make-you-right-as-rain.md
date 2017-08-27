@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There are joys to be had in the good old weather report
 date: "2011-11-17 21:50:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
 image_caption: "Yes, I do look insufferably smug here"
 headline: true
 featured: true

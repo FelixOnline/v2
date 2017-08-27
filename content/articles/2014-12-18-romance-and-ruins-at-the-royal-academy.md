@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg explores Anslem Kiefer's enduring influence
 date: "2014-12-18 15:34:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
 headline: true
 featured: true
 imported: true

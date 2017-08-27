@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Afonso Campos talks to David Rivel, the founder of PathMotion – a new take on careers websites – about his own path and his opinions on entrepreneurship
 date: "2011-02-28 20:26:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282012-gep07-pathmoti.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282012-gep07-pathmoti.jpg"
 headline: true
 featured: true
 imported: true

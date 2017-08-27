@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial student's band making an ambitious music video
 date: "2013-07-08 11:39:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201307081237-tna08-kentishfire360.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201307081237-tna08-kentishfire360.jpg"
 headline: true
 featured: true
 imported: true

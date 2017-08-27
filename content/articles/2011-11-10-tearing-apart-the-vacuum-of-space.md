@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Extreme Light Infrastructure laser to produce Sun-like intensities
 date: "2011-11-10 21:06:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
 image_caption: "The laser target chamber in the National Ignition Facility in California, US."
 headline: true
 featured: true

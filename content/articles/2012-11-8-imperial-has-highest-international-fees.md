@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aemun Reza and Matt Proctor compare Russell Group International fees
 date: "2012-11-08 23:56:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201211090004-tna08-feedragon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211090004-tna08-feedragon.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ For Band 2 subjects, Imperial charges their international students £25,000 whic
 
 International fees are known to be substantially higher than Home students but this is due to the fact that the government subsidises the fees for Home students.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211090007-tna08-undergraduatelabworkshopbasedfees.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211090007-tna08-undergraduatelabworkshopbasedfees.jpg" title="" caption="" attr="" >}}
 
 European Union (EU) students also count as Home students and pay the same fees. Non-EU students count as International students, even if their country is in Europe but not a part of the EU.
 
@@ -44,13 +44,13 @@ Compared to Oxbridge, the raw fees for Imperial are still higher than both Oxfor
 
 A third year medical student, Minaal Khan said “International fees are ridiculously high as everyone knows, but when applying I don’t think I realisedhow high they really were and I know it will take me over 10 years to make the amount of money I have spent on coming to university! But I don’t regret choosing this field because you can’t put a price on the benefits that are given to me by having this education”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211090004-tna08-drown-in-fees.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211090004-tna08-drown-in-fees.jpg" title="" caption="" attr="" >}}
 
 Another student, who wished to remain anonymous, replied: “There is no doubt that international students should pay more as their places are not subsidized by the government in anyway. However, I do not really see how this comes to £23,500 a year even in comparison to new £9, 000 home fees. In addition, tuition fees keep going up every year by a considerable amount as for me this year ended up being over a £1000 more expensive than the last one. We’ll see what is there to come next year.”
 
 Imperial College London were asked about the fees and the reason for the disparity, and replied with: “When the International Recruitment team visits overseas schools, we are often asked why there is such a difference between Home and Overseas fees. Firstly, it is important to note that UK government still partially funds Home and EU students at universities in England. Although with the new £9000 fees Home and EU students are shouldering more of the financial burden of paying for their teaching than they were previously, they are still not paying the full costs of running the courses.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211090006-tna08-infograpphy.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211090006-tna08-infograpphy.jpg" title="" caption="" attr="" >}}
 
 The reasons behind the disparities between Imperial’s overseas fees and those of our direct competitors are a bit more complex. Although London is a very expensive city, we are aware that London is also home to some of our Russell Group colleagues whose fees differ from ours. The bottom line is that the vast majority of Imperial’s courses are quite expensive to teach given our focus on STEM subjects, whereas other multi-Faculty institutions offer a variety of arts courses which can in effect subsidise the other Faculties. Being at a specialist university has many benefits however including excellent job prospects after graduation. We would hope that students see the value in being part of such an elite technical institution and make the most of their time with us by taking advantage of all the academic and non-academic opportunities Imperial has to offer.”
 

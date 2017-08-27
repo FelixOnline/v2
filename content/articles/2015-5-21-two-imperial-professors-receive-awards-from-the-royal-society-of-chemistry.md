@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201505212114-kmw13-rsc-prof.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505212114-kmw13-rsc-prof.jpeg"
 image_caption: "Professor Kazarian with his team"
 headline: true
 featured: true

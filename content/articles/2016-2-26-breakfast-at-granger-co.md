@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX reviews the healthy(er) Aussie breakfast spot
 date: "2016-02-26 12:04:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261203-felix-banana.JPG"
 image_caption: "Thick, white and deliciously sticky - just what the doctor ordered. "
 headline: true
 featured: true

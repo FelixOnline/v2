@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ned spends so much time running and cycling that he probably doesn't have a degree to come back to... all for charity, so, worth it?
 date: "2012-10-05 13:30:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051431-felix-ed-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051431-felix-ed-picture.jpg"
 headline: true
 featured: true
 imported: true

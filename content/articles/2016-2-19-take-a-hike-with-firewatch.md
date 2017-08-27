@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The brilliant first-person adventure game from the minds behind The Walking Dead
 date: "2016-02-19 12:24:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191224-felix-firewatch.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191224-felix-firewatch.jpg"
 image_caption: "In the wilderness, no one can hear you scream. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Following a somewhat manic debut in Brazil, Priya Garg finds time to unwind and uncovers some of Rio de Janeiro’s hidden treasures.
 date: "2011-02-03 18:43:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031839-nm1010-redeemer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031839-nm1010-redeemer.jpg"
 headline: true
 featured: true
 imported: true

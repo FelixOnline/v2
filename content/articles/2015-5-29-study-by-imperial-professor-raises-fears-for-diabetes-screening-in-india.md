@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports on the research into large-scale screening programmes
 date: "2015-05-29 01:03:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290203-ps3110-diabetes.jpeg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Shakespeare’s language is universal
 date: "2015-05-27 18:03:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505271901-ps3110-03.jpg"
 image_caption: "Yukio Ninagawa, Hamlet, Shinnosuke Mitsushima and Tatsuya Fujiwara "
 headline: true
 featured: true

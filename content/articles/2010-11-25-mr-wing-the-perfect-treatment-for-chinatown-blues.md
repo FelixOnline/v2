@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jamie Williams visits his local Chinese gem in Earl’s Court in hope of an alternative to the West End
 date: "2010-11-25 20:34:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252032-nm1010-winggggg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252032-nm1010-winggggg.jpg"
 headline: true
 featured: true
 imported: true

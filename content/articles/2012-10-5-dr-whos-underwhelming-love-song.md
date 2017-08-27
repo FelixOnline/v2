@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski gives us his opinion on the newest Doctor
 date: "2012-10-05 11:30:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051230-felix-dr-who-river-song.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051230-felix-dr-who-river-song.jpg"
 image_caption: "A match made in heaven?  Apparently not..."
 headline: true
 featured: true

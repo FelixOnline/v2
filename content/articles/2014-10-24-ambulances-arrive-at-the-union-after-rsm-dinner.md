@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two Ambulances were called to Beit Quadrangle last Friday night to collect two students who had been drinking in the Union bars
 date: "2014-10-24 12:52:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201411021900-ps3110-rcm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411021900-ps3110-rcm.jpg"
 headline: true
 featured: true
 imported: true

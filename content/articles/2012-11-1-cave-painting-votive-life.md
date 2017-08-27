@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jeni Pillai sees if this much anticipated release live up to the hype and early promise?
 date: "2012-11-01 23:16:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012316-tna08-cave-painting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012316-tna08-cave-painting.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ It’s when we reach ‘Only Us’ that the appeal of Kane’s drawn vocals star
 
 yeah, I cringed too) and the fact that this is the best bit of the song says it all really. ‘The Gator’ interlude is a nice break in the album and a reminder of how well it all started, and then we move onto the (sorry, it’s got to be said) distinctly average ‘Pair Up’ which feels more like an album-filler than a genuine track. They could do without it to be honest. Similarly, I found ‘Simoleon’ forgettable and the guitar reprise at the end sounds nowhere near as epic as it should have done.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021630-tna08-3-675x450.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021630-tna08-3-675x450.jpeg" title="" caption="" attr="" >}}
 
 But then we’re gifted with ‘Rio’ and it feels like there’s hope yet! This is where his vocals really work, with the best bit being the line “Who would have seen my face, when I was a hollow man?”. Deep stuff. The sheer vulnerability in his voice when he sings “Riooooo” and “I won’t go” and the a capella “So loooong” at the end makes you fall in love with them again. But that feeling’s short-lived, as the ‘Me You Soon’ interlude is a major anti-climax that doesn’t fit as well as the other interlude in the album, followed by ‘Nickel’. Just…disappointment. To close the album we have ‘Forming’– an average song to end an average album which, I hasten to add, is a real pity seeing as Cave Painting is a band with so much potential.
 

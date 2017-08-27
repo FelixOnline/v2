@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nitin Nihalani from Imperial Entrepreneurs’ Society on the power of specialising
 date: "2011-05-26 19:22:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105262020-felix-dog.jpg"
 headline: true
 featured: true
 imported: true

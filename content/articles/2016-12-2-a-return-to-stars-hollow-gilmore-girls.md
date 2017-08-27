@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gilmore Girls is a well-loved multi-generational drama set in a picturesque Connecticut town. Its original run was a cultural touchstone, and its popularity made it an ideal candidate for Netflix’s recent revival spree. How does the revival compare?
 date: "2016-12-02 15:04:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
 headline: true
 featured: true
 imported: true

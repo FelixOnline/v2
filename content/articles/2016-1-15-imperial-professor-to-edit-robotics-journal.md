@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Professor Guang-Zhong Yang is the currently the Director of the Hamlyn Centre for robotics
 date: "2016-01-15 11:22:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
 image_caption: "Professor Yang"
 headline: true
 featured: true

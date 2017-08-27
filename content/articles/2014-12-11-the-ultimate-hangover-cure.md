@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112017-cj914-beer-guy.jpg"
 image_caption: "A new drug could reduce the impact of alcohol on the brain."
 headline: true
 featured: true

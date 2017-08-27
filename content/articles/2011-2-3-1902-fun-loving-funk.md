@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix and funk at the Felix music night on 19.02
 date: "2011-02-03 19:20:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031912-nm1010-19002222.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031912-nm1010-19002222.jpg"
 headline: true
 featured: true
 imported: true

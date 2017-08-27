@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
 image_caption: "Federer vs Djokovic is a final we've all got used to"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students angered at auction by Westminster School for a one-week internship at Imperial College's Institute of Biomedical Engineering, set up without College's approval
 date: "2013-05-14 10:28:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201305141126-pk1811-bessemer_building.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305141126-pk1811-bessemer_building.jpg"
 image_caption: "Biomedical engineering is based in the big pink Bessemer building"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ The fundraising auction, which includes other items, is raising money for use of
 
 There was no indication that bidding on the items is only available to members of Westminster School, and their families, however criticism has been levied at the College for opening its doors to people based on their ability to pay. The [Imperial College Widening Participation statement](http://www3.imperial.ac.uk/outreach/about/wideningparticipation) itself states "The College aims to identify and attract students of the highest academic ability and potential, and would not want financial considerations to deter suitable applicants."
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305162149-tna08-imperial-internship-1.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305162149-tna08-imperial-internship-1.png" title="" caption="" attr="" >}}
 
 Felix spoke to Paul Beaumont, Union President, who informed the paper that "[he has] emailed the College Secretary and Comms team this morning to inform them of it." He continued, "I pointed out to the comms team the coverage this already has in national papers (Westminster specifically, not Imperial) and asked if they can do something to stop Imperial's association with it. I personally think that this goes completely against the idea that students (on an internship or otherwise!) get in on their academic merit, not how much they can afford to pay."
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sarah Gates urges Imperial students to do the unthinkable and have fun over summer...
 date: "2013-07-05 15:09:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-image-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201307081114-tna08-sgp-image-copy.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ As summer has started and the festival season is well underway, the anticipation
 
  "I'm so excited to return this summer and play The Secret Garden Party! Whenever I'm gone for a while I really start to miss the UK! It's amazing to get to play this festival again. It is full of people who are really passionate about music. Thanks for having me!"
 
-{{< figure src="http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-lake-copy.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201307081114-tna08-sgp-lake-copy.jpg" title="" caption="" attr="" >}}
 
 As well as top music there is a host of comedy acts, DJs, a death-defying circus, fire shows, debates and discussions, theatres, aerial displays and much more. Each year the festival follows a theme and this years ‘SUPERSTITION’ theme is as imaginative as ever bringing all kinds of strange and bizarre action camps into the Garden, each one lovingly programmed by fellow gardeners and promising to captivate, charm, hypnotise, enchant and enthrall you.
 

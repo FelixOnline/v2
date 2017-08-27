@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Julian Barratt takes the lead in the Russian classic, Government Inspector
 date: "2011-06-23 21:05:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232205-felix-doon-not-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232205-felix-doon-not-cmyk.jpg"
 headline: true
 featured: true
 imported: true

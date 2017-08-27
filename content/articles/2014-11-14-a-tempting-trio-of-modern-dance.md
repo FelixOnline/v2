@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jiaqi Shi reviews the Ceremony of Innocence/The Age of Anxiety/Aeternum at the Royal Opera House, Covent Garden
 date: "2014-11-14 21:01:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142101-ps3110-7127875081_dfbc91a38a_z.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142101-ps3110-7127875081_dfbc91a38a_z.jpg"
 headline: true
 featured: true
 imported: true

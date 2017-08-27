@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Edward Bals tackles THQ’s latest professional wrestling game, WWE ‘12
 date: "2011-12-01 20:08:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012007-pk1811-wwe-12-review.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012007-pk1811-wwe-12-review.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ The ‘campaign’ within WWE ‘12 is the ‘Road to Wrestlemania’ which puts
 
 Gripes about Road to Wrestlemania aside, the other single player mode, WWE universe, should provide many hours of enjoyment. This mode provides a section of the game without a story, allowing the matches to be shown in a calendar format allowing almost complete customisation and allowing for what the game should be mainly about (the wrestling) to come to the fore. Feuds and alliances will be formed in this mode and should keep you coming back for more.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112012008-pk1811-tba-wwe-12-20110530112102516_640w.jpg" title="I took him, and threw him on the GROUND" caption="I took him, and threw him on the GROUND" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112012008-pk1811-tba-wwe-12-20110530112102516_640w.jpg" title="I took him, and threw him on the GROUND" caption="I took him, and threw him on the GROUND" attr="" >}}
 
 The multiplayer mode is great fun as playing against a human opponent is much more enjoyable than competing against the AI opponents in WWE ‘12. When against the AI the difficulty occasionally spikes with the only reason seemingly being to punish the player for having become better at the game. However, the AI can be easily tweaked using a large range of customisation options. Competing against a human opponent is still the best experience for a match in WWE ‘12, and the almost lag-free online multiplayer makes it even easier to enjoy this.
 

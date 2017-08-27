@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Kingsley is on a mission to help Bangladesh’s rural poor
 date: "2012-12-07 02:34:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070233-tna08-bangladesh.jpg"
 headline: true
 featured: true
 imported: true

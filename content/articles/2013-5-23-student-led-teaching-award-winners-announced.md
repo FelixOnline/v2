@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Staff awarded for contribution to the student experience
 date: "2013-05-23 22:27:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
 image_caption: "DPE Doug Hunt does his best Seth MacFarlane impression"
 headline: true
 featured: true

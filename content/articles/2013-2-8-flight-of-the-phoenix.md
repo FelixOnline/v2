@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Fernando reports on an easy theft of ICSM’s mascot
 date: "2013-02-08 00:34:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080034-tna08-pheonix.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080034-tna08-pheonix.jpg"
 headline: true
 featured: true
 imported: true

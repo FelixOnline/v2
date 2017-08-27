@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The National Gallery highlights the old masters’ influence on Impressionists
 date: "2016-02-26 11:58:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261157-felix-1590.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261157-felix-1590.jpg"
 image_caption: "The Death of Sardanapalus, the reduced 1846 version, by Delacroix "
 headline: true
 featured: true

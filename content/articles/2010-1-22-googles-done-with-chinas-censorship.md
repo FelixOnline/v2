@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Worthington takes a look at the story that has the technology press going crazy over censorship
 date: "2010-01-22 19:04:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001221902-rsp07-technolo.jpg"
 headline: true
 featured: true
 imported: true

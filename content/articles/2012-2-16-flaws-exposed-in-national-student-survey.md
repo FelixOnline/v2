@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202201456-felix-nss.jpg"
 image_caption: "Information gained from the TeachDB database includes name, CID, and year"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   4 Imperial students smash the competitions @ HackKings
 date: "2014-02-28 07:10:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201402280721-jal08-news_livmap.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402280721-jal08-news_livmap.png"
 headline: true
 featured: true
 imported: true

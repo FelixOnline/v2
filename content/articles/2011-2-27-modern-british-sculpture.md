@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The questions it poses are broader beyond even the breadth of the works it displays
 date: "2011-02-27 19:26:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271925-ks607-fishinca.jpg"
 headline: true
 featured: true
 imported: true

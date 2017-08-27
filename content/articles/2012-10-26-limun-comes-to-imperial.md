@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Franca Hoffmann discusses politicians-to-be coming to campus
 date: "2012-10-26 02:02:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
 image_caption: "It probably won't be this empty..."
 headline: true
 featured: true

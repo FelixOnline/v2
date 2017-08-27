@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The club has been placed on hiatus pending investigation
 date: "2015-01-22 19:42:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
 headline: true
 featured: true
 imported: true

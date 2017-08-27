@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng finds this 1920s play as relevant as ever
 date: "2015-02-11 22:23:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502112223-ps3110-03.jpg"
 image_caption: "Théâtre de la Ville – Paris, Six Characters in Search of an Author. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix takes a brief trip to Hong Kong for an artery-clogging breakfast - best scrambled eggs, creamy white bread and gip milk tea
 date: "2017-01-13 14:54:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201701131452-felix-IMG_6954.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131452-felix-IMG_6954.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ To be more specific, this café is a typical Cha-Chaan-Teng – a Hong Kong-styl
 
 Let’s be frank. As a Hong Kong-ese raised by (slightly) health-conscious parents, I’ve ever only entered a Cha-Chaan-Teng three times in 21 years. Why? Because the menu would be shock horror to any nutritionist. Fruit and vegetables do not make an appearance, except for a slice of tomato or a cabbage leaf in a sandwich. The menu here, in the form of laminated sheets of paper tucked underneath the glass table-tops, was no exception. Breakfast: macaroni in soup with artificial ham, toast with peanut butter and condensed milk. No dim sum, by the way. Lunch: spam sandwich, spaghetti with barbeque pork. Afternoon tea: Deep fried French toast (a must-have Hong Kong-ese classic) drenched in golden syrup topped with a big slab of butter, finished off with a good cup of milk tea (extra-strong black tea with evaporated milk, an all-time favourite). No one cares about five-a-day, arteries or heart disease when you can get a filling meal for under 40 HKD (£4).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701131453-felix-IMG_6967.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701131453-felix-IMG_6967.jpg" title="" caption="" attr="Christy Lam" >}}
 
 Plonk.
 
@@ -40,4 +40,4 @@ The black truffle scrambled eggs on toast on a flowery plate was dumped in front
 
 As I headed towards the forever pissed-off-looking lady at the till by the door, my mind came clear of a truth. I needn’t the best sourdough, fancy French butter with a Clarence Court egg; it was the cheap bread, the most horrible service you could ever imagine in a rowdy environment for a taste of the authentic, delicious local breakfast, and reunited my taste buds with my roots.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701131453-felix-IMG_6953.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701131453-felix-IMG_6953.jpg" title="" caption="" attr="Christy Lam" >}}

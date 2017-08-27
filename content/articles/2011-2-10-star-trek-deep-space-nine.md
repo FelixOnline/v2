@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s high time Maciej Matuszewski tackled one of the best known science fiction phenomena out there, Star Trek
 date: "2011-02-10 20:30:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102030-ks607-startrek.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102030-ks607-startrek.jpg"
 headline: true
 featured: true
 imported: true

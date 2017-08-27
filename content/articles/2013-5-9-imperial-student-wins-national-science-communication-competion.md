@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Next stop The X Factor?
 date: "2013-05-09 12:01:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
 image_caption: "Also winner of “fastest phone spinner in the UK”"
 headline: true
 featured: true

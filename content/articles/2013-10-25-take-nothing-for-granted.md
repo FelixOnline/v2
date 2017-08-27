@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “In the world according to Garp, we are all terminal cases. “
 date: "2013-10-25 00:14:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250113-felix-garp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250113-felix-garp.jpg"
 headline: true
 featured: true
 imported: true

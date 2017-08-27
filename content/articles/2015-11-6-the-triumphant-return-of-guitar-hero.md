@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FreeStyleGames’ latest rhythm game is addictive, immersive and refreshingly reactive
 date: "2015-11-06 14:23:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511061423-ygr12-tiny.jpg"
 image_caption: "Only Imperial’s supercomputer, Helen, could render graphics this good. "
 headline: true
 featured: true

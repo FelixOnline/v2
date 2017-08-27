@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What is Fairtrade? And What does being a Fairtrade university mean. Aditya Narayanan and Nicholas Greenwood get you up to speed
 date: "2013-02-22 02:40:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220236-tna08-fair-trade-water-well-sign.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220236-tna08-fair-trade-water-well-sign.jpg"
 headline: true
 featured: true
 imported: true
@@ -45,7 +45,7 @@ So how did Fairtrade become as big as it is now? The first Fairtrade organisatio
 
 Slowly the Fairtrade certification process is moving towards certifying entire companies as Fairtrade rather than focussing on solitary products – something that has been helped by companies such as Cadbury’s and Ben & Jerry’s committing to achieve Fairtrade status. This means that all products made by a Fairtrade company contain 100% Fairtrade materials. In addition, towns and universities (including our very own Imperial College) are also earning the right to call themselves ‘Fairtrade’ by virtue of the suppliers they use. There still remains a way to go in the quest to reduce wealth disparity in the world, but by going Fairtrade we choose to use a fair system making us one step closer to eradicating poverty. – _Aditya Narayanan_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220237-tna08-fairtrade-fortnight.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220237-tna08-fairtrade-fortnight.jpg" title="" caption="" attr="" >}}
 
 We go to a Fairtrade university
 
@@ -53,7 +53,7 @@ Imperial is one of only a few universities in the U.K with its own student led F
 
 Although the status was lost many years ago, this year we have reclaimed it and as a society we are working hard to ensure that we do not lose it again! In the past we have been involved in the steering group, achieving Fairtrade status and a push to get Fairtrade products into the union shops. The imperial catering departmentis especially supportive in our activities providing much of what we need for our events. We are eternally grateful to them for this.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220239-tna08-page-10_no-credit-required-(3).jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220239-tna08-page-10_no-credit-required-(3).jpg" title="" caption="" attr="" >}}
 
 Year on year ICU Fairtrade has had a growing member base and our presence is being felt more strongly as time passes, we hope you too have felt this. Although we aim to spread events across the year, the main focus of our campaign lies in the next 2 weeks, Fairtrade Fortnight, where we make sure that all of you know everything that we are all about.
 
@@ -75,4 +75,4 @@ I hope you are looking forwrd to the next two weeks as much as we are. Please do
 
 Finally, a special thanks to our sponsors who provide us with many of the essentials ingredients for our events: Divine chocolate, Peros, Epona clothing, qi teas, cafe direct and LUSH. –_Nicholas Greenwood_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220238-tna08-fairtrade-fortnight-timetable-1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220238-tna08-fairtrade-fortnight-timetable-1.jpg" title="" caption="" attr="" >}}

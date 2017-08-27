@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on the loss of CGCU’s mascot
 date: "2015-02-13 15:10:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
 image_caption: "Why is he wearing that cloak?!"
 headline: true
 featured: true

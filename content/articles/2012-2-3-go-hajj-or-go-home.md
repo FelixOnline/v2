@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taking a journey to the Heart of Islam
 date: "2012-02-03 10:46:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
 image_caption: "Ahmed Mater’s Magnetism"
 headline: true
 featured: true

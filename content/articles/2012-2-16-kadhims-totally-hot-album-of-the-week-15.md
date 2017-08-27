@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Black Keys - El Camino - Nonesuch Records - 2011
 date: "2012-02-16 21:38:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162138-pk1811-elcamino.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162138-pk1811-elcamino.jpeg"
 headline: true
 featured: true
 imported: true

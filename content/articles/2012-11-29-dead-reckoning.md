@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles always looks on the bright side of death
 date: "2012-11-29 22:04:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292204-tna08-goya_death.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292204-tna08-goya_death.jpg"
 headline: true
 featured: true
 imported: true

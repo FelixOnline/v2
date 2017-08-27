@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040007-jal08-photo(6).jpg"
 image_caption: "This looks quite like the inside of an Imperial engineer’s brain "
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Much of last year’s #AgainstActon campaign focused on the impending closure of
  The College claimed that it would cost around £10 million to refurbish the hall for students, and thus the conversion into a care home was more financially viable. It is well known that Fisher Halls’ current state is less than adequate and could be seen as unsuitable for the elderly and disabled.
  The director of Campus Services, Jane Neary, told Felix in 2011 that the reason for the closure was ‘not that [the hall isn’t] good enough, it’s completely legal [in terms of upkeep]’, adding that ‘we’ve done all the urgent work’.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201310040010-jal08-photo(5).jpg" title="The expiry date is older than the milk in the fridge of Felix Office" caption="The expiry date is older than the milk in the fridge of Felix Office" attr="Credit: Ben Fernando" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201310040010-jal08-photo(5).jpg" title="The expiry date is older than the milk in the fridge of Felix Office" caption="The expiry date is older than the milk in the fridge of Felix Office" attr="Credit: Ben Fernando" >}}
 
 Upon inspection by an Imperial student, it was noted that there was a large area of exposed wiring on one of the stairwells. A large number of electrical components did not appear to have been tested in line with these regulations. The testing certificates indicated that they were due for testing in August 2012, but as of June 2013, the certificates had not been replaced. Some appliances were three years past their due date. The college states that “all college owned appliances are tested annually and all wiring is tested every five years”.
  Asbestos is another concern in Fisher hall. A second year Physicist explains that he is uncomfortable with the asbestos-filled fire doors. “You push them and they bang against the wall and then hit you in the face” he says, explaining that he’s not sure that the asbestos is safe in doors which receive such strong knocks and are damaged in places.
@@ -44,7 +44,7 @@ Upon inspection by an Imperial student, it was noted that there was a large area
  In addition to not adhering to the college’s promises on electrical safety, Fisher Hall currently presents poorly kept environment for students to live in and is a completely different image from the immaculate rooms in Prince’s Gardens that are shown to prospective students on Open Days.
  (As of June 2013)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201310040115-jal08-news_electr_2.jpg" title="Maybe the engineers were too busy volunteering at the Olympics?" caption="Maybe the engineers were too busy volunteering at the Olympics?" attr="Credit: Ben Fernando" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201310040115-jal08-news_electr_2.jpg" title="Maybe the engineers were too busy volunteering at the Olympics?" caption="Maybe the engineers were too busy volunteering at the Olympics?" attr="Credit: Ben Fernando" >}}
 
 ####
  Update from Campus Services

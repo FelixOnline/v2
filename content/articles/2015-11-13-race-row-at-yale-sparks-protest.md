@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rumbling racial tensions over Halloween costumes, censorship, and safe spaces have caused some students to take direct action at the Ivy League school
 date: "2015-11-13 14:17:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
 image_caption: "Students protesting on Monday"
 headline: true
 featured: true

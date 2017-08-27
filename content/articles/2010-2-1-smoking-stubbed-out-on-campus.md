@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alic Rowlands on the propsed campus wide smoking ban.
 date: "2010-02-01 16:43:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011641-rsp07-nosmokin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011641-rsp07-nosmokin.jpg"
 headline: true
 featured: true
 imported: true

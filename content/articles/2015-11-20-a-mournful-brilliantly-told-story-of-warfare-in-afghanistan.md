@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tell Spring Not to Come This Year is a vital, beautiful exploration of a broken country
 date: "2015-11-20 14:13:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511201412-ff712-1874.jpg"
 image_caption: "Scared, tired and alone in the fight. Tell Spring paints an intimately grim picture of the lives of these Afghan soldiers"
 headline: true
 featured: true

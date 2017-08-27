@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dr Isa Abdur Rahman killed while helping British charity at a hospital in Syria. His family and friends have paid tribute to him, and a hospital will be built in his honour.
 date: "2013-05-30 14:42:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201305301542-tna08-dr-isa-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305301542-tna08-dr-isa-(1).jpg"
 image_caption: "Dr Isa Abdur Rahman was killed when a bomb hit the field hospital that he was working at"
 headline: true
 featured: true
@@ -43,7 +43,7 @@ Faddy Sahloul, Chairman of Hand in Hand Syria (HIHS) described Dr Isa as “a sh
 
 HIHS said: “The brave young doctor sacrificed his life to save the lives of others and he will be very sorely missed by the many family, friends and colleagues who knew him.” HIHS is a non–political organisation that was established at the start of the Syrian uprising in 2011. Over the last two years, over 80,000 innocent lives have been lost in the Syrian crisis. HIHS aims to provide medical and humanitarian help to civilians who have been impacted by the conflict in Syria. They have set up secret facilities in locations where it is too dangerous for casualties to use the government hospitals or where the hospitals have been shut down.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305301543-tna08-royalfreehospital.jpg" title="The Royal Free Hospital, where Isa worked before flying to Syria" caption="The Royal Free Hospital, where Isa worked before flying to Syria" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305301543-tna08-royalfreehospital.jpg" title="The Royal Free Hospital, where Isa worked before flying to Syria" caption="The Royal Free Hospital, where Isa worked before flying to Syria" attr="" >}}
 
 Isa was a dear friend to many students at Imperial, and was heavily involved with the Islamic Society (ISoc) during his time at university. His other philanthropic endeavours include heading the Imperial Charity Week team in 2008, a project that enabled Imperial students to raise £22,839.25 for orphans and needy children around the world. In addition, Isa actively organised tutorials and PotMed events for the Muslim Medics society, as well as offering advice and guidance to younger students. He was also a member of the Snooker and Book clubs at Imperial.
 

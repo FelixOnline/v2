@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park Reviews "Adore"
 date: "2013-10-12 19:08:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122007-jal08-film_adore.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122007-jal08-film_adore.jpg"
 headline: true
 featured: true
 imported: true

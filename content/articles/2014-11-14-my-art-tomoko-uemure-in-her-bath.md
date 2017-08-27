@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-14 20:48:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
 headline: true
 featured: true
 imported: true

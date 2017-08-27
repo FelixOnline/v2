@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Nintendo's positive influence on the younger generation
 date: "2013-10-18 21:26:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182224-jal08-mewtwo.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182224-jal08-mewtwo.png"
 image_caption: "Mewtwo"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112030-ks607-diaspora.jpg"
 headline: true
 featured: true
 imported: true

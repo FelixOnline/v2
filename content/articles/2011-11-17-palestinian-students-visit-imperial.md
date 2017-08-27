@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exchange students reveal their thoughts on Palestine's struggle for recognition.
 date: "2011-11-17 20:28:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172026-pk1811-crowd.jpg"
 image_caption: "ICU President Scott Heath and a few Imperial students posing with the students from Palestine."
 headline: true
 featured: true

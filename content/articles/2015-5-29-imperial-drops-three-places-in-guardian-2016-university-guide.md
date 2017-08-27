@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson rounds up the various league tables from the last year
 date: "2015-05-29 01:05:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
 image_caption: "Criteria weighting for the Times Higher Education World University Rankings."
 headline: true
 featured: true

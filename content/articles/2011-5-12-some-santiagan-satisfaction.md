@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
 headline: true
 featured: true
 imported: true

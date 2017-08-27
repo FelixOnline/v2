@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Facebook: bringing you a sudden influx of misused memes
 date: "2012-02-09 22:18:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092217-pk1811-blog-facebook-logo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092217-pk1811-blog-facebook-logo.jpg"
 headline: true
 featured: true
 imported: true

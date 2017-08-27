@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161504-ygr12-potenchal2.jpg"
 headline: true
 featured: true
 imported: true

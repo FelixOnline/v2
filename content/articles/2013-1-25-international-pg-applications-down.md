@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Applications have fallen for the first time in 16 years
 date: "2013-01-25 01:30:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
 image_caption: "Arrivals gate as international students arrive. Oop, satire..."
 headline: true
 featured: true

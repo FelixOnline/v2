@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The upcoming young comedian takes on London’s top comedy venue in style
 date: "2015-10-23 11:38:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231238-ygr12-ahir-shah.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   2013 Emmy Awards: Who were the winners and losers?
 date: "2013-10-06 09:23:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201310061107-jal08-the-emmys.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310061107-jal08-the-emmys.png"
 headline: true
 featured: true
 imported: true

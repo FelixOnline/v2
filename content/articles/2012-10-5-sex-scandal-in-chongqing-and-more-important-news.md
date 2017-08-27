@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Marie-Laure Hicks looks into political gossip from the Far East
 date: "2012-10-05 13:04:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051404-felix-gu-kailai-3.jpg"
 image_caption: "Gu Kailai at her trial"
 headline: true
 featured: true

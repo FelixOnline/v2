@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on a trail revealing the most effective pre-natal monitoring technique
 date: "2015-03-20 00:48:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201503200048-cj914-ultrasound-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503200048-cj914-ultrasound-.jpg"
 image_caption: "Ultrasound photo of a foetus unaffected by fetal growth restriction, a syndrome that affects 8% of all pregnancies"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tate Britian honours Pre-Raphaelite rebels
 date: "2012-10-26 03:05:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260405-tna08-margot-rgb.jpg"
 image_caption: "               Edward Burne Jones, Laus Veneris 1873-8 © Laing Art Gallery"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Female students could get £25,000 off their fees
 date: "2016-06-03 08:36:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031036-felix-bidnez.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031036-felix-bidnez.jpg"
 image_caption: "What does go on in that tube?"
 headline: true
 featured: true

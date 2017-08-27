@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICSM Drama sets the stage alight with a little cross-dressing and a lot of fun
 date: "2012-03-08 20:25:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082024-ams111-somelikeit.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082024-ams111-somelikeit.jpg"
 image_caption: "Birmingham's attempt to match London Fashion Week fell a little short of the mark"
 headline: true
 featured: true

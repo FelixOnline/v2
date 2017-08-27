@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik looks at how cells from the nose could treat spinal injuries
 date: "2014-11-10 21:32:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102132-ps3110-spine-scan.jpg"
 headline: true
 featured: true
 imported: true

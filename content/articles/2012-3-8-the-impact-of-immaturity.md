@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Keir Little discusses why the gaming community needs to buck up its ideas if it ever wants to be taken seriously
 date: "2012-03-08 22:20:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082219-ams111-soul-calibur-iv-screenshot-ivy-big-boobs-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082219-ams111-soul-calibur-iv-screenshot-ivy-big-boobs-1.jpg"
 image_caption: "Explain to me why someone would wear armour vulnerable to a pair of blunt scissors"
 headline: true
 featured: true

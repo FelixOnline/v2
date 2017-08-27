@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto finds a passage to 1930s Paris down Battersea High Street
 date: "2012-06-03 15:53:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201206031653-felix-quecumbar-big.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206031653-felix-quecumbar-big.jpg"
 image_caption: "Bohemian levels are currently through the roof"
 headline: true
 featured: true

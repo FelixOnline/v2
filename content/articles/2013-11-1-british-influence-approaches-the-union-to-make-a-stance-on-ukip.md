@@ -4,7 +4,7 @@ title: >
 subtitle: >
   External organisation seeks to influence student votes
 date: "2013-11-01 09:07:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010907-felix-eu-flag.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010907-felix-eu-flag.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
 image_caption: "Fine I’ll wear black tie, but I draw the line at monochrome"
 headline: true
 featured: true

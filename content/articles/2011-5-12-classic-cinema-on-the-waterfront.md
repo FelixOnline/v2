@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A turning point for American cinema
 date: "2011-05-12 18:52:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121952-felix-waterfront.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121952-felix-waterfront.jpg"
 headline: true
 featured: true
 imported: true

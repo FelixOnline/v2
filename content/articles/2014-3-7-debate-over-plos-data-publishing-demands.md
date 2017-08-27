@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publicati
 date: "2014-03-07 04:50:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201403070450-jal08-7447202.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403070450-jal08-7447202.png"
 headline: true
 featured: true
 imported: true

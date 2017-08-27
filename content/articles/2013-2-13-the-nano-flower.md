@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Savell looks at the final Greg Mandell novel
 date: "2013-02-13 14:38:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131438-tna08-nanoflower.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,6 +34,6 @@ I must admit, I’m still a little on the fence, but Hamilton’s writing remain
 
 Despite several things that, with hindsight, look a little less than realistic, the Greg Mandel series is still compelling and an excellent read and, as it hits its twentieth birthday, it’s still doing extremely well. The covers you may have seen opposite these articles are the 2011 incarnation of the series, where Greg got a bit of a facelift and, in an homage to the trilogies of 70s sci-fi, put together, they form one extended image of Hamilton’s world progressing from ruins through to a skyscraper clad metropolis reaching to the sky. A fitting visual for a world that grew up as I once did while reading it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302131438-tna08-picocon.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302131438-tna08-picocon.jpg" title="" caption="" attr="" >}}
 
 _Peter F. Hamilton will be at Imperial College on Saturday. February 16 as one of the Guests of Honour at Picocon 30. For more information, and to register your attendance, visit icsf.org.uk/picocon_

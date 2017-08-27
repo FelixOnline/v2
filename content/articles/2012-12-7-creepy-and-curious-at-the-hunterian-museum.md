@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Arianna Sorba looks around some creepy exhibits
 date: "2012-12-07 01:42:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070140-tna08-foundling,-dickens-and-hunterian-museums-028.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070140-tna08-foundling,-dickens-and-hunterian-museums-028.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Meanwhile animals of all shapes and sizes are sliced up and preserved in formald
 
 Even more fascinating are the famous ‘Evelyn Tables’, which, dating from around 1640, are thought to be the oldest anatomical preparations in Europe. On four wooden boards, the ridiculously complex and intricate patterns of nerves, veins and arteries that run through the human body have somehow been dissected, dyed and glued down with complete biological accuracy, using techniques that modern surgeons still aren’t sure of.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070141-tna08-evelyn-tables-arteries.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070141-tna08-evelyn-tables-arteries.jpg" title="" caption="" attr="" >}}
 
 The museum also houses a small collection of unusual paintings from the 19th century, with subjects as diverse as Siamese twins and dwarf soldiers, representing British scientists’ and artists’ innate curiosity with the most remarkable and, at the time, most inexplicable of human ailments. Meanwhile upstairs, a terrifyingly detailed exhibition on different surgery techniques is captivating and disgusting in equal measures, with enough strange looking surgical instruments on display to make the stomach churn. The interactive parts, especially, are not for the faint-hearted, but are a must-see for anyone who’s ever wanted to have a quick go at keyhole surgery!
 

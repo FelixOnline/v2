@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores the relationship between power and image at the British Museum
 date: "2015-02-07 19:08:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071908-ps3110-7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071908-ps3110-7.jpg"
 image_caption: "The Plumb-pudding in Danger, 1805, James Gillray "
 headline: true
 featured: true

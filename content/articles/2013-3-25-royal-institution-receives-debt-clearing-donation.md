@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anonymous donation announced at special general meeting could save historic Albermarle Street premises
 date: "2013-03-25 18:08:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303261816-pk1811-royal_institution.jpg"
 image_caption: "The Royal Institution's home is located near Green Park"
 headline: true
 featured: true

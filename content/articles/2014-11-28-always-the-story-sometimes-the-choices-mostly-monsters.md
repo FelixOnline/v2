@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma reviews a humble bundle purchase he actually plays
 date: "2014-11-28 01:08:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280108-ps3110-asm.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280108-ps3110-asm.png"
 headline: true
 featured: true
 imported: true

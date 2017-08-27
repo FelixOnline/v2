@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Rebel is the punctuation mark to 19th and early 20th century philosophy
 date: "2016-11-25 14:21:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251420-felix-Camus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251420-felix-Camus.jpg"
 headline: true
 featured: true
 imported: true

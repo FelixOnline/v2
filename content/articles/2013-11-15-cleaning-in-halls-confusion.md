@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Freshers suffer after Campus Services changes halls’ cleaning contract
 date: "2013-11-15 02:15:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311150242-felix-hallsbin.png"
 image_caption: "Someone needs to visit the kitchen bins..."
 headline: true
 featured: true

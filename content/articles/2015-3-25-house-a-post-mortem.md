@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken offers a final retrospective on this long-running medical drama
 date: "2015-03-25 12:09:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251207-ff712-3840x2400.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251207-ff712-3840x2400.jpg"
 image_caption: "Hugh Laurie, who stars as the title star in the long-running series House, which bowed out at the end of its eighth series in 2012. "
 headline: true
 featured: true

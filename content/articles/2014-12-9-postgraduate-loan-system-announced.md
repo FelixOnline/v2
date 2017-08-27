@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412091345-ps3110-george-osborne.jpg"
 headline: true
 featured: true
 imported: true

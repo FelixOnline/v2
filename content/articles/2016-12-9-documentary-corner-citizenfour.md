@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Collier reviews a film that will send chills down your spine
 date: "2016-12-09 15:50:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
 headline: true
 featured: true
 imported: true

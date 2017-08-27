@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Professor Grimm passed away in September of this year
 date: "2014-11-28 00:36:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
 headline: true
 featured: true
 imported: true

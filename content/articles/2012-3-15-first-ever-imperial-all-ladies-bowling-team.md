@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Brand new team strikes gold in latest competition
 date: "2012-03-15 22:19:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152219-pk1811-bowl.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
 date: "2013-01-18 00:21:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
 headline: true
 featured: true
 imported: true

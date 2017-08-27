@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gunning for a game? Have a look at these Crafty reviews which will be the Portal to your fantasy world!
 date: "2013-09-29 16:04:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
 image_caption: "Graphics are sooooooo realistic"
 headline: true
 featured: true
@@ -46,7 +46,7 @@ _Platform: PC, Mac, Xbox 360, iOS and Android_
 
 ###  CounterStrike Source/Global Offensive
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291706-tna08-cs-global-offensive-logo-medium1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291706-tna08-cs-global-offensive-logo-medium1.jpg" title="" caption="" attr="" >}}
 
 It is hard to believe that this game started out as a mod of half life. It was so successful as a mod, that it made it into its own game. This is pretty much the big daddy of all modern FPSs and really should not be missed out if you are a fan of that genre. With Valve’s Source engine, these two versions are really top notch games that can perform at comfortable levels for most PCs.
 
@@ -64,7 +64,7 @@ _Platform: PC and Mac_
 
 ###  Mount and Blade: Warband
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291706-tna08-mount_and_blade_warband-63.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291706-tna08-mount_and_blade_warband-63.jpg" title="" caption="" attr="" >}}
 
 Of all the games I have talked about, this one here is my favourite and possibly the one that most people won’t know, which is quite a shame. Made by the turkish studio TaleWorlds, this indie game perfectly captures that adventure feeling. Basically you are an adventurer dumped in the medieval lands of Calradia, and you can do what you like. Want to go and marry one of the local beauties? Go ahead. Want to become a slaver? Do that! Want to become a king and rule the entire continent? You can! This flexibility means that you can pour hours upon hours within this game. Furthermore the modding community is extremely vibrant in this game, allowing for just general updates to the gameplay, to complete Star Wars rewrites, and the best thing about all these mods are for free. Therefore for the price of one game, you can get all the wonders the internet has done to this game.
 
@@ -78,7 +78,7 @@ _Platform: PC and Mac_
 
 ###  Game: Portal 2
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291708-tna08-portal2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291708-tna08-portal2.jpg" title="" caption="" attr="" >}}
 
 About two years ago, this game was the thing. Everyone who called themselves a gamer had this game. It was the sequel to the highly acclaimed Portal, which was so original it was a breath of fresh air in the game industry, and did not fail to live up to its predecessors hype, becoming immensely successful. Even though now this game is slightly older, it has lost none of its magic touch.
 

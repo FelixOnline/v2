@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Paul Beaumont takes a look at a typical Friday night down at the Apollo
 date: "2011-11-24 22:32:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
 image_caption: "Greg clocked up his sixth failed marriage proposal this year"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With ukelele workshops, a pop-up planetarium and The Go! Team in attendance, Stephen Smith can’t wait for this year’s astro-themed Deer Shed festival
 date: "2011-06-28 11:08:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281206-felix-i_am_kloot_1118542a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281206-felix-i_am_kloot_1118542a.jpg"
 image_caption: "Apparently these guys are Kloot..."
 headline: true
 featured: true

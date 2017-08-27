@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Rugby take on everyone in the hip-hop world of Eastbourne
 date: "2013-01-24 20:52:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
 image_caption: "Rugby didn’t give us any pictures so we dug this up from Facebook"
 headline: true
 featured: true

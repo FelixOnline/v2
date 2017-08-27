@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Watching A Good Day to Die Hard is not a good day says Lucy Wiles
 date: "2013-02-22 01:28:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
 headline: true
 featured: true
 imported: true

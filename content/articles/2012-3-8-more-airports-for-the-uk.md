@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Is the sky the limit, or will it never take off? Plane crazy or runway success?
 date: "2012-03-08 20:52:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
 image_caption: "Promo shots for the latest Grand Theft Auto game were met with a lukewarm critical response"
 headline: true
 featured: true

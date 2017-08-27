@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cambridge University commences initiative to digitise original scientific papers
 date: "2011-12-24 22:48:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112242250-ak6309-cambridge.jpg"
 image_caption: "Newton's handwritten annotated notes, amongst others, are to be put online"
 headline: true
 featured: true

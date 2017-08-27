@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bees introduced to Imperial’s ‘Secret Garden’
 date: "2011-06-09 21:29:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092229-felix-img_5380.jpg"
 headline: true
 featured: true
 imported: true

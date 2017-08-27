@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We took to social media and asked you for some of the funniest sex stories you felt like sharing with us. These are the best of the bunch. If you have any stories that you think deserve to be featured in the paper, send them to us at milfelix@ic.ac.uk
 date: "2016-11-04 15:48:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041546-felix-Screen Shot 2016-11-04 at 15.45.25.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041546-felix-Screen Shot 2016-11-04 at 15.45.25.png"
 headline: true
 featured: true
 imported: true

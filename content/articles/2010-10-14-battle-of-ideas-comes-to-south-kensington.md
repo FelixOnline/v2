@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gilead Amit interviews Claire Fox, Director of the Institute of Ideas, ahead of its weekend of debates at the Royal College of Art
 date: "2010-10-14 19:13:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142008-ks607-clairefo.jpg"
 image_caption: "Claire Fox says there's a climate of distrust in the UK"
 headline: true
 featured: true

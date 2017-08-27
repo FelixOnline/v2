@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik sees protests as the only way to exact change
 date: "2017-01-27 16:22:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271640-felix-Screen Shot 2017-01-27 at 16.26.36.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271640-felix-Screen Shot 2017-01-27 at 16.26.36.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   BUAV also claims Imperial is “misleading the public” over post operative care. Philippa Skett reports
 date: "2015-05-21 23:02:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
 headline: true
 featured: true
 imported: true

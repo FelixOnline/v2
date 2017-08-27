@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Fashion Designer - Emma Amoafo
 date: "2012-06-14 20:44:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142143-pk1811-dsc01824.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142143-pk1811-dsc01824.png"
 headline: true
 featured: true
 imported: true
@@ -44,7 +44,7 @@ When they ask you stuff, like “do you live in a hut?”,
 
 “Do you have enough to eat?”, they’re not being rude, that’s just what they’re told in this country. At the same time, you can’t act as if there isn’t poverty. I feel like Friday Born represents two sides of the coin. I’m showing you that there’s art coming out of Africa, there is talent, but at the same time, there is a lot of improvement to be made.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142144-pk1811-394348_162043557236484_162020443905462_283941_1349922095_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142144-pk1811-394348_162043557236484_162020443905462_283941_1349922095_n.jpg" title="" caption="" attr="" >}}
 
 M – If you had one message you wanted to get across about Ghana, what would it be?
 
@@ -62,7 +62,7 @@ M - Do you have any advice for anyone trying to do something like this alongside
 
 E - Just do it! The worst you can do is say you don’t have time, because you waste time anyway. Everyone is on Facebook and Twitter. If you really want to do something, you will find time for it. I think there are harder times and easier times. Right now is obviously a hard time with exams, otherwise, it’s just time management. I honestly think that, in life, you can do most things if you just plan well.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142144-pk1811-419768_184296645011175_1363695464_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142144-pk1811-419768_184296645011175_1363695464_n.jpg" title="" caption="" attr="" >}}
 
 M – Where do you see this going?
 

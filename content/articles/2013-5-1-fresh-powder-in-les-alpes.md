@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzy Griffiths heads for the slopes
 date: "2013-05-01 10:21:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012037-tna08-skiing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012037-tna08-skiing.jpg"
 headline: true
 featured: true
 imported: true

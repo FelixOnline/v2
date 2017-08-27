@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah gives a brief case study on Paragon, in the wake of the new North Acton halls
 date: "2013-02-22 00:15:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220015-tna08-paragon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220015-tna08-paragon.jpg"
 image_caption: "Paragon halls, through a fish eye camera"
 headline: true
 featured: true

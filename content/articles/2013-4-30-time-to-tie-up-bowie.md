@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jemma Pilcher visits the shrine of a pop deity
 date: "2013-04-30 14:32:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012042-tna08-bowie_photo_collage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012042-tna08-bowie_photo_collage.jpg"
 headline: true
 featured: true
 imported: true

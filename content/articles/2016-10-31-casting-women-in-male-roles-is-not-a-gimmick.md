@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In a time when all-female casts are still seen as a gimmick Jack Steadman discusses the importance of bending and breaking original texts and taking gender off the list of casting specifications
 date: "2016-10-31 16:20:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201610311618-felix-15829773349_c985934aca_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311618-felix-15829773349_c985934aca_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ Julius Caesar was a theatrical revelation when it landed, but it’s hard to esc
 
 Take Hamlet. The Crown Prince of Denmark is quite possibly the goal in theatre for any young, aspiring actor. But that hasn’t stopped Hamlet being played by women – as early as 1777, Sarah Siddons was playing the prince in Manchester, while in the same year as Lloyd’s Henry IV, Maxine Peake appeared as Hamlet in a production at the Royal Exchange, in Manchester yet again. It can and does happen but it’s not exactly a daily occurrence. Peake was the first female Hamlet in thirty-five years. That being said, the current crop of shows in London theatres does seem to suggest that things might finally be on the mend. As The Tempest plays in the Donmar’s new King’s Cross theatre, over the river in Waterloo the Old Vic is staging King Lear with veteran actress Glenda Jackson in the title role. Billed as Jackson’s return to the stage (after a good few decades away serving as an MP), the production goes up against a more traditional one by the Royal Shakespeare Company, with Anthony Sher in the same role. Neither production reduces the other – if anything, the prospect of seeing two titans of the field try their hand at the role should have Shakespeare-loving audiences salivating.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311619-felix-5848778634_1626568972_o.jpg" title="" caption="" attr="Joel Honeywell" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311619-felix-5848778634_1626568972_o.jpg" title="" caption="" attr="Joel Honeywell" >}}
 
 Further east along the river, over at Shakespeare’s Globe, things have ventured even further from the traditional – and, admittedly, away from the subject of women playing men (and instead into the realm of just redefining the texts around the women). Under new artistic director Emma Rice, the theatre has taken a bold new approach to the texts, unafraid to try unconventional approaches where previously they followed a more softly authentic approach (particularly under Mark Rylance). This has thus far culminated in Imogen – a production of Cymbeline that shifts the focus onto King Cymbeline’s daughter, Imogen (who actually has more lines than the king in the original text, since you didn’t ask), and renames the whole thing more appropriately in the process. And if the Globe, the very home of Shakespeare in London and (along with the RSC) the authority on Shakespearean productions, can pull off something like that, then why can’t everyone else? When will we see the likes of Ophelia? Actually, that’s a bit of a trick question: we already have seen it in the case of Ophelia, in a production by Katie Mitchell at the Royal Court earlier this year, but I digress.
 

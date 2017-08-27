@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A faster way to fill up on the horizon
 date: "2012-05-18 11:13:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181213-felix-hydrogen-car.jpg"
 image_caption: "Hydrogen car being filled up"
 headline: true
 featured: true

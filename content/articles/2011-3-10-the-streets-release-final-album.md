@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Computers and Blues is a hell of an album to bow out on
 date: "2011-03-10 20:28:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102026-ks607-thestree.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102026-ks607-thestree.jpg"
 headline: true
 featured: true
 imported: true

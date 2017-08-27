@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emma Wills on Demetri Martin's new book of drawings
 date: "2013-10-20 01:33:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
 headline: true
 featured: true
 imported: true

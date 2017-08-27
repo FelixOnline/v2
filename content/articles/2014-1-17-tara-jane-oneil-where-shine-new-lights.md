@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tara Jane O’Neil is a multi-talented musician based out of Portland, Oregon. At the age of 19 she was already playing bass for art punk band Rodan.
 date: "2014-01-17 03:53:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170353-jal08-music_tjo.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512021705-mff113-online-copy.jpg"
 image_caption: "Clive Brada/ Guildhall School 2015"
 headline: true
 featured: true

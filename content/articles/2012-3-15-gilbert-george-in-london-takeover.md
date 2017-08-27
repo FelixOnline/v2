@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If you like something a little different...
 date: "2012-03-15 20:01:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152000-ig711-hell-by-gilbert--george-001-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152000-ig711-hell-by-gilbert--george-001-1.jpg"
 headline: true
 featured: true
 imported: true

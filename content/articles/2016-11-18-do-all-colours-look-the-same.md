@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Qasim Mahmood examines the science behind seeing colours, and why experiencing them may be visually different for everyone
 date: "2016-11-18 14:53:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181452-felix-abstract-19141_1920.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ This leads to an interesting and rather scary idea: the fact that different peop
 
 Let’s say I met a man who was born blind. He would have never experienced seeing any colour, so I decide to teach him about colours, starting with light. I start from the fundamentals, such as its basic properties like wavelength, frequency and speed, and work my way to the more complex, such as quantum mechanics. I could teach him every single equation to do with light. I could teach him the optical and opto-electronic properties of every single material; that is, how light interacts with materials. I could teach him every single descriptive word assigned to every colour, and have him memorise the exact range of wavelengths for each colour. I could even teach him every biological process involved in how our eyes and brains process light, and how an image or colour is formed in the mind.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181453-felix-colorful-1325265_1280.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181453-felix-colorful-1325265_1280.png" title="" caption="" attr="" >}}
 
 But he would never be able to actually see or experience any colour. I could tell him that red was a hot, passionate and angry colour. I could say blue was cold, that green was the colour of grass and blue the colour of the sky. None of this would matter. He would never experience seeing any sort of colour, no matter how I described it. No colour would ever appear in his mind no matter what I said or how I explained them to him. These private, indescribable, raw feelings or experiences have been termed ‘qualia’ by philosophers, and we seem to be utterly incapable of expressing or explaining them. This could be because our languages are unable to produce these qualia in other people’s minds; and given time and advances in language and technology, we could be able to accurately describe a raw feeling and have another person experience that same feeling.
 

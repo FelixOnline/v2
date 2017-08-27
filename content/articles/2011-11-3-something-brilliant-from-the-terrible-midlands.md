@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Jeffrey on the fruits of UK hardcore
 date: "2011-11-03 20:56:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032056-pk1811-ui.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032056-pk1811-ui.jpg"
 image_caption: "Black & white bearer"
 headline: true
 featured: true

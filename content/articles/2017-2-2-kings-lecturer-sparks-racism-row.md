@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Racist pseudoscientific tweets cause KCLSU complaint
 date: "2017-02-02 23:30:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ Since the tweets were published KCL's intersectional feminist society have asked
 
 “Academics must understand that they are utterly responsible to [sic] whatever they post on their social media channels just as they are for the words they say in a classroom, and such reckless tweeting, clearly made by this lecturer is a prime example that some may be unaware, or indeed neglect their duties of responsibility when expressing one’s views.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.11.38.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.11.38.png" title="" caption="" attr="" >}}
 
 “[We] would appreciate that ALL lecturers understood that whatever their comments, they will be held responsible for their remarks given their position of authority and trust.
 
@@ -53,7 +53,7 @@ Besides the questions these recent tweets raise about the scientific credibility
 
 His activity is sprinkled with many uncited graphs and figures. But due to their concealment in a flurry of unrelated material ranging from BBC News posts to Nirvana video clips, and posts from reputable scientific sources such as Nature and Springer, it is hard to pick out the pseudoscience that would otherwise damage his scientific authority.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.49.44.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.49.44.png" title="" caption="" attr="" >}}
 
 Perkins has over a thousand followers on twitter, with many of his tweets being liked and shared hundreds if not thousands of times. His tweet defending Trump’s Muslim Ban has been shared 1300 times and liked almost 2000 times.
 

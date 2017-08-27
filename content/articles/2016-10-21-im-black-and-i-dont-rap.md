@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chimdi Igwe discusses the use of the infamous n-word in rap and how the expansion of the genre beyond the Black community doesn't give you a free pass to use it.
 date: "2016-10-21 10:06:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
 image_caption: "The late, great Tupac Shakur"
 headline: true
 featured: true
@@ -53,7 +53,7 @@ When I finally began to warm to the themes and sounds of hip-hop, this proved to
 
 Some might (and have argued to me) that the diversification of hip-hop and rap means that the word has taken on a new meaning, no longer black-centred – just the other day a non-black friend of mine was tagged in a Facebook post with this caption:
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610211154-so515-Screen Shot 2016-10-19 at 11.21.38.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610211154-so515-Screen Shot 2016-10-19 at 11.21.38.png" title="" caption="" attr="" >}}
 
 Here is what I’m saying – music is so infused into our day-to-day life, we have to consider the fact that it can very easily go from our playlist to our lexicon; and not everyone is fine with the way this word is used.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students stand for departmental and sabbatical positions
 date: "2012-02-16 22:51:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
 headline: true
 featured: true
 imported: true

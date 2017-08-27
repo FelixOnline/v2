@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union lobby EEE department to ensure that PhD students get fair deal
 date: "2010-11-11 22:09:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112207-ks607-EEEEEEE.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112207-ks607-EEEEEEE.jpg"
 headline: true
 featured: true
 imported: true

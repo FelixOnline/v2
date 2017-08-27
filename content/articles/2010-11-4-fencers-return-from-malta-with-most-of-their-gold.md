@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Summer tour to Malta sees a haul of medals
 date: "2010-11-04 18:47:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041845-ks607-maltamal.jpg"
 headline: true
 featured: true
 imported: true

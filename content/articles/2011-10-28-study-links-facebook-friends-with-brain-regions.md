@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grey matter linked with number of friends on the social network
 date: "2011-10-28 00:16:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280115-felix-facebook2_1299511c_1699534c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280115-felix-facebook2_1299511c_1699534c.jpg"
 headline: true
 featured: true
 imported: true

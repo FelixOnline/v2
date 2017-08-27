@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope delves into the world of schizophrenia and iPhone apps
 date: "2013-06-13 22:50:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132350-tna08-idichotic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132350-tna08-idichotic.jpg"
 image_caption: "Members of the Bergen fMRI group. Dr Kristiina Kompus (Second from left), Josef Bless (Middle)"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A round up of all the important stories. Now you can look all knowledgeable to all the fitties you meet.
 date: "2013-09-29 14:13:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291512-tna08-syrianflag.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291512-tna08-syrianflag.jpg"
 image_caption: "The Syrian crisis is raging on"
 headline: true
 featured: true
@@ -50,7 +50,7 @@ US should not take part in air strikes in Syria. Assad already has enough time t
 
 ###  The second important story – Egypt after the Arab Spring:
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291513-tna08-tahrirsquare.jpg" title="Tahrir Square" caption="Tahrir Square" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291513-tna08-tahrirsquare.jpg" title="Tahrir Square" caption="Tahrir Square" attr="" >}}
 
 A very rosy picture was painted about the path towards which Egypt was headed after the Arab Spring. However, people are becoming more and more pessimistic about the future of the country.
  Months after Hosni Mubarak was ousted from Egypt, democratic elections were held. The Freedom and Justice party, the political wing of the Muslim Brotherhood, came to power with Mohammad Morsi as their leader. A new constitution was drafted which the West has not been in support of, as it gave The Freedom and Justice party immense power.

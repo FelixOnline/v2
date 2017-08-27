@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Red Elmadi hands us the news
 date: "2013-02-08 00:23:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080023-tna08-imperialeagles-ukuni2013.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080023-tna08-imperialeagles-ukuni2013.jpg"
 headline: true
 featured: true
 imported: true

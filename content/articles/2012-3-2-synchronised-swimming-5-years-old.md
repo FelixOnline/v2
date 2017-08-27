@@ -20,7 +20,7 @@ highlights:
  - photos
 ---
 
-{{< figure src="http://felixonline.co.uk/img/upload/201203021729-ial08-img_1897.jpg" title="Incredibly Cool. Obviously that’s what IC really stands for" caption="Incredibly Cool. Obviously that’s what IC really stands for" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201203021729-ial08-img_1897.jpg" title="Incredibly Cool. Obviously that’s what IC really stands for" caption="Incredibly Cool. Obviously that’s what IC really stands for" attr="" >}}
 
 [Credit: IC Synchronised Swimming](http://)
 

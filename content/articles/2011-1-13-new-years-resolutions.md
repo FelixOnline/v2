@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg...
 date: "2011-01-13 20:02:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201101131958-ks607-obamaoba.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101131958-ks607-obamaoba.jpg"
 headline: true
 featured: true
 imported: true

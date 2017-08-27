@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cybersecurity firm found university that will open centre at White City was recruitment hotbed
 date: "2016-03-04 11:19:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
 image_caption: "What's in the box?"
 headline: true
 featured: true

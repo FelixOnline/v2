@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The latest antics from Priya Garg, who tosses away her inhibitions and embraces the manic culture of Argentina’s booming capital
 date: "2011-02-10 20:02:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201102101956-dr910-musician.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102101956-dr910-musician.jpg"
 headline: true
 featured: true
 imported: true

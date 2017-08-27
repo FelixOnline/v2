@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ananya Das interviews Sháá Wasmund, the author of Stop Talking, Start Doing: A Kick in the Pants in Six Parts
 date: "2013-05-29 14:34:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305291616-tna08-shaa_wasmund.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ AD: A lot of well educated young graduates are finding it increasingly difficult
 
 SW: Have they thought about starting their ownbusiness? These days you can set up a website and start a business from your front room, all you need is an internet connection. There’s a brilliant support network out their for young entrepreneurs now too, the web provides so much advice and offers more ways to get in touch with people than ever before. So you could argue it’s easier to access customers and find yourself a mentor. There seems to be so much doom and gloom about the recession, but I think young people should take a step back and try to look at this as a wonderful opportunity.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305291616-tna08-book_new.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305291616-tna08-book_new.jpg" title="" caption="" attr="" >}}
 
 AD: Some graduates are deciding to set up their own businesses. Are there any top tips you could give for expanding small businesses?
 

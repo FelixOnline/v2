@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the new gene-editing technique that gives HIV resistance
 date: "2014-03-07 04:48:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
 image_caption: "HIV, coloured yellow, attacking a T cell"
 headline: true
 featured: true

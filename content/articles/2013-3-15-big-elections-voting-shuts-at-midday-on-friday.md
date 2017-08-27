@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Going Big, or Going Home for the candidates, as it's the last chance to gain votes.
 date: "2013-03-15 00:30:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150030-tna08-rtv-logo-styled-square.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150030-tna08-rtv-logo-styled-square.gif"
 headline: true
 featured: true
 imported: true

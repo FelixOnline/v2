@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An adaptation of the Erdman classic amuses and underwhelms in equal measure
 date: "2016-05-06 10:16:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
 image_caption: "The cast of The Suicide all fighting for Sam’s attention."
 headline: true
 featured: true

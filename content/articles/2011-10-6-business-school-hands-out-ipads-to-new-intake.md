@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New scheme aims to harness latest technology
 date: "2011-10-06 22:55:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071533-felix-ipad1.jpg"
 image_caption: "Strategic Marketing students receiving their new iPads"
 headline: true
 featured: true

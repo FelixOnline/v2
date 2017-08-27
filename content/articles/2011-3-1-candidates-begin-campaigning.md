@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sabbatical elections get under way
 date: "2011-03-01 20:46:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012043-ks607-election.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012043-ks607-election.jpg"
 image_caption: "Candidates listen carefully to the rules"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton shares him impressions from the first meeting of The Sunday Assembly, London’s new ‘atheist church’
 date: "2013-01-10 22:54:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102254-tna08-sany00693_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102254-tna08-sany00693_2.jpg"
 headline: true
 featured: true
 imported: true

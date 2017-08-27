@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thousands to refuse work related to publisher over profit-making tactics
 date: "2012-02-03 00:14:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202030006-sjw209-img_9118.jpg"
 image_caption: "Academics have voiced their disapproval with Elsevier’s methods"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky asks how our economy affects the individual
 date: "2014-12-04 18:33:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
 image_caption: "Unemployment perpetuates unemployment."
 headline: true
 featured: true

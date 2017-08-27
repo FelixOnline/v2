@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wedding days: they’re everyone’s opportunity to live out their fairy tale. And, of course, the best way to feel like a princess is to look like a princess – cue the ever-fascinating obsession of the wedding dress.
 date: "2014-06-06 02:47:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201406060347-jal08-arts-embroidered_silk_satin_wedding_dress_designed_by_norman_hartnell_1933_given_and_worn_by_margaret_duchess_of_argyll_cillustrated_london_news_ltd-mary_evans_jpg_610x610_q85.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406060347-jal08-arts-embroidered_silk_satin_wedding_dress_designed_by_norman_hartnell_1933_given_and_worn_by_margaret_duchess_of_argyll_cillustrated_london_news_ltd-mary_evans_jpg_610x610_q85.jpg"
 headline: true
 featured: true
 imported: true

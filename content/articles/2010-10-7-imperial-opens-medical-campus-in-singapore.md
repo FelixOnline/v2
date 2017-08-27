@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College is set to open its first teaching institution abroad
 date: "2010-10-07 22:25:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201010072323-ks607-Singapor.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010072323-ks607-Singapor.jpg"
 image_caption: "The collaboration with Nanyang Technological University will be Singapore's third medical school"
 headline: true
 featured: true

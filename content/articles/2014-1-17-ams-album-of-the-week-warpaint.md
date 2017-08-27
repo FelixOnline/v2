@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Warpoint by Warpoint
 date: "2014-01-17 03:55:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170355-jal08-music_warpaint_warpaint_album_cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170355-jal08-music_warpaint_warpaint_album_cover.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alternative tablets have nothing on Apple's latest offering
 date: "2011-03-17 21:19:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172118-ks607-facetime.jpg"
 headline: true
 featured: true
 imported: true

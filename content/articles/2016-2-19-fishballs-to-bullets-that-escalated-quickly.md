@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hong Kong is going through a tumultuous period of civil unrest, but what were the real reasons behind the latest outbreaks of violence?
 date: "2016-02-19 11:11:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
 image_caption: "The 2014 Hong Kong protests. "
 headline: true
 featured: true

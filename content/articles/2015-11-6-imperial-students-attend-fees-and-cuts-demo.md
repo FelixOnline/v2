@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They joined 10,000 others protesting against cuts to maintenance grants
 date: "2015-11-06 13:32:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201511061332-ygr12-tiny.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511061332-ygr12-tiny.jpg"
 image_caption: "Should protests be this fun?"
 headline: true
 featured: true

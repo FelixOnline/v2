@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ...but when I do, they're about food – specifically the destruction of the BBC's recipe archive
 date: "2016-05-20 08:57:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201057-felix-Ainsley Harriot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201057-felix-Ainsley Harriot.jpg"
 image_caption: "Protect Ainsley Harriot content at all costs."
 headline: true
 featured: true

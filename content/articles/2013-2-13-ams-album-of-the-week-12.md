@@ -4,7 +4,7 @@ title: >
 subtitle: >
   My Bloody Valentine: m b v
 date: "2013-02-13 13:00:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131300-tna08-my-bloody-valentine-mbv-608x605_1359883348_crop_560x547.286184210526.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131300-tna08-my-bloody-valentine-mbv-608x605_1359883348_crop_560x547.286184210526.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christy Kelly takes a look at 700 years of Finance
 date: "2014-05-23 13:50:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201405231451-jal08-lenin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405231451-jal08-lenin.jpg"
 headline: true
 featured: true
 imported: true

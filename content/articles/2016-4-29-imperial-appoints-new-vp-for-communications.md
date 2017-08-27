@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ex-journalist, Luke Blair, will be in charge of the college’s PR machine
 date: "2016-04-29 10:06:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
 image_caption: "Fictional head of communications, Malcolm Tucker."
 headline: true
 featured: true

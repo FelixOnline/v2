@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As term begins, we sift through Imperial's science headlines to bring you the latest news
 date: "2011-09-30 11:02:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201109301204-felix-statin-medicines.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201109301204-felix-statin-medicines.jpg"
 image_caption: "Unexpected results have shown that statins may reduce the risk of death by infection"
 headline: true
 featured: true

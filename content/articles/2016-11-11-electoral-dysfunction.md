@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Steve Bohnel reflects on the results of Wednesday’s election
 date: "2016-11-11 13:56:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ But that ultimately doesn’t matter. Our system decided he will be the next lea
 
 Clinton’s loss must be one of the most mentally devastating moments in her life. Many polls showed she was the favourite to win, and some even suggested she would do so comfortably. But did the recent news about her email scandal cost her? The FBI letter that was released was short, and answered few to none of my questions about the new developments.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.35.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.35.png" title="" caption="" attr="" >}}
 
 Multiple reports indicate that the Clinton Foundation has been suspicious with how it hands out money to charities. Clinton also has given speeches for Goldman Sachs and other corporations for hundreds of thousands of dollars. Even if we didn’t see the transcripts, how much is she influenced by big business? It’s a fair question to debate.
 
@@ -58,4 +58,4 @@ At the end of the day, I do believe this country will continue to be united, eve
 
 I just wish that so many politicians and voters wouldn’t treat the future of our country like it’s a fucking game.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111511-felix-Screen Shot 2016-11-11 at 14.12.00.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111511-felix-Screen Shot 2016-11-11 at 14.12.00.png" title="" caption="" attr="" >}}

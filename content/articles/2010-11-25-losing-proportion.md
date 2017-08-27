@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Today’s strident, aggressive atheists want to fit under the umbrella of ‘secular humanism’ – but do they deserve to?
 date: "2010-11-25 21:35:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252132-nm1010-GileadAm.jpg"
 headline: true
 featured: true
 imported: true

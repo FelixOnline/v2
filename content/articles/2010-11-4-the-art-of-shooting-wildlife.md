@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another year at the Veolia photography competition, and the entries are wilder and more captivating than ever
 date: "2010-11-04 18:11:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041810-ks607-wildlife.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041810-ks607-wildlife.jpg"
 image_caption: "'A marvel of ants'"
 headline: true
 featured: true

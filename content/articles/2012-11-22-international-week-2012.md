@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A round up of the action from all the international societies
 date: "2012-11-22 22:55:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222254-tna08-qt-view.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ A big thank you to all of the OSC Executive committee who made it possible toget
 
 Cyprus Hospitality Night
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222254-tna08-people.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222254-tna08-people.jpg" title="" caption="" attr="" >}}
 
 “As part of the first International Week at Imperial, the Imperial College Cypriot Society organized a special event for everyone at Imperial to get to know more about Cyprus, its hospitable people and also the amazing Cypriot cuisine, defined by a splendid mixture of Mediterranean and Middle-Eastern food. Theevent, named ‘Cyprus Hospitality Night’ was an excellent opportunity for people to taste the local starters of “pitta” bread with “taramosalata”(made from smoked cods roe), “houmous” and “lountza” (delicious smoked and marinated loin of pork). Of course, the famous Cypriot cheese, “halloumi”, couldn’t be missed from the event and it was actually served grilled which made it even tastier! Moreover, attendees had the chance to try some of the island’s finest traditional deserts such as ‘Cyprus delights’ or Cypriot “loukoumia”, “soutzioukos” (made of grape must, nuts and flour) and the semolina variety of “halvas”. The event turned out to be very successful and all the food and deserts were consumed very quickly, leaving everybody amazed by the Cypriot flavours! Finally, everyone left satisfied by the friendliness of Cypriot people and enjoyed the Cypriot hospitality. “ – Ioannis Kourouklides, Cypriot society. (See Food, page 44)
 
@@ -51,7 +51,7 @@ The event lasted for two hours, during the lunch break that is, and was enjoyed 
 
 The OSC World cup
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222254-tna08-iraqiteam.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222254-tna08-iraqiteam.png" title="" caption="" attr="" >}}
 
 “Saturday the 17th November saw the 4th Annual OSC World Cup tournament take place at Imperial College with over 100 players representing 16 countries, fighting it out to get their name on the famous OSC World cup and create a legacy at the College.
 

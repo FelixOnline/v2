@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Guo Heng Chin guides us through the nuts and bolts of a good story
 date: "2011-06-02 20:10:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022110-felix-valentin_paul_writing1800x1337.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022110-felix-valentin_paul_writing1800x1337.jpg"
 image_caption: "Valentin Paul being an absolute boss, we wouldn’t expect any less"
 headline: true
 featured: true

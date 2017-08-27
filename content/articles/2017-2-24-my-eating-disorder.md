@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Conchi Hermida Sánchez shares her relationship with food, the starving and the binge-eating, and hopes for a brighter healthier future
 date: "2017-02-24 13:48:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
 headline: true
 featured: true
 imported: true

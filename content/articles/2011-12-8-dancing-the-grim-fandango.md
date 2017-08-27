@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Horti takes a look back at one of gaming’s unique classics, Grim Fandango
 date: "2011-12-08 21:25:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082125-pk1811-grim-fandango1.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ So what do you actually do in this game? Well, I would define _Grim Fandango_ as
 
 This process requires thought, patience, and trial and error in equal portions. There may be times where you have 10 items in your inventory and not a clue about how any of them can help you do what you want. There is no hint system, so you may feel a little lost at some points. But as you persevere, the answer will normally reveal itself. The puzzles in one area all link together, so solving one will lead onto another, and eventually onto the advancement of the storyline (marked by a cut scene). The puzzles, in tune with the rest of the game, can be very weird and wonderful and require some imagination to solve, with only one or two that seem counter-intuitive, which is impressive for a puzzle game of this size. In general they feel both clever and natural, and are difficult enough for you to get a sense of achievement when you solve one.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082125-pk1811-tumblr_l6r0pgu0ux1qzaw5fo1_500.jpg" title="You could say he’s DEAD classy (I’m here all night folks)" caption="You could say he’s DEAD classy (I’m here all night folks)" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082125-pk1811-tumblr_l6r0pgu0ux1qzaw5fo1_500.jpg" title="You could say he’s DEAD classy (I’m here all night folks)" caption="You could say he’s DEAD classy (I’m here all night folks)" attr="" >}}
 
 The game was designed by Tim Schaffer (of _Psychonauts_ and the _Monkey Island_ series), which means you expect something a bit special, and you are not disappointed. _Grim Fandango_ deserves the numerous awards it has for its artistic design. The game plays out with characters moving around static backgrounds, which change as you move Manny to the edge of the scene. The levels are very detailed and highly varied, and although you will return to some of the locations that you visit early in the game, you are never bored of the environment you are in.
 

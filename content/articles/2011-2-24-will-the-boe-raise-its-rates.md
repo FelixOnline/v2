@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fears about central bank inflationism have now come to the UK. Will it cause the Bank of England to change course?
 date: "2011-02-24 19:48:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241946-nm1010-boeboebo.jpg"
 headline: true
 featured: true
 imported: true

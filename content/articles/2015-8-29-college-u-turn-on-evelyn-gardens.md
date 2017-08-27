@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two of the five Evelyn Gardens halls will house Imperial students this year
 date: "2015-08-29 16:33:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201508291730-ygr12-evelyn-gardens.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201508291730-ygr12-evelyn-gardens.jpg"
 headline: true
 featured: true
 imported: true

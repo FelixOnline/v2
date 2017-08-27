@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new threat emerges in the battle against malaria
 date: "2010-10-28 19:22:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282015-ks607-mosquito.jpg"
 headline: true
 featured: true
 imported: true

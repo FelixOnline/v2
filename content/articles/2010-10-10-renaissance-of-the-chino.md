@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The erstwhile rather bland staple of everyday menswear is currently enjoying a welcome return to James Dean cool
 date: "2010-10-10 15:41:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101640-ks607-JamesDea.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101640-ks607-JamesDea.jpg"
 headline: true
 featured: true
 imported: true

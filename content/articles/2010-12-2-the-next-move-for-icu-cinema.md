@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Revitalized cinema prepare for 'All-Nighter'
 date: "2010-12-02 20:22:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022018-ks607-socialne.jpg"
 headline: true
 featured: true
 imported: true

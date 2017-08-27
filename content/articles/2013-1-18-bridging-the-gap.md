@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bridge builder is definitely so uncool it's cool
 date: "2013-01-18 00:46:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180046-tna08-the-bridge-project.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180046-tna08-the-bridge-project.jpg"
 headline: true
 featured: true
 imported: true

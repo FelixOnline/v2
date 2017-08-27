@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial's finest report on their annual tour
 date: "2010-10-14 19:41:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142036-ks607-sports.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142036-ks607-sports.jpg"
 image_caption: "Spot the ball..."
 headline: true
 featured: true

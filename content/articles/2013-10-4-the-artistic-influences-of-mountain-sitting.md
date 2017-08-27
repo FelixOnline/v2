@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the latest from Imperial’s art gallery
 date: "2013-10-04 01:57:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
 image_caption: "A painting of a lumpen knot of thumbed clay maps out the awkward spread of entwined figures, alludin"
 headline: true
 featured: true

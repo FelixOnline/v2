@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Athena Swan Silver Award for Imperial
 date: "2013-05-02 13:39:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201305021438-tna08-291_9200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305021438-tna08-291_9200.jpg"
 headline: true
 featured: true
 imported: true

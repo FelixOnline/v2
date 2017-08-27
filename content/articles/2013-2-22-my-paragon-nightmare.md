@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A first-year shares their experience of living in halls over six miles from the South Ken campus
 date: "2013-02-22 01:57:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220157-tna08-brentford.jpg"
 headline: true
 featured: true
 imported: true

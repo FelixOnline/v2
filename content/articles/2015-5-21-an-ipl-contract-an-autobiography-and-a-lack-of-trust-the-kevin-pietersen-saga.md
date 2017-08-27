@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle voices his frustrations at the England Cricket Board
 date: "2015-05-21 20:25:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
 image_caption: "Pietersen walks off after his 355*"
 headline: true
 featured: true

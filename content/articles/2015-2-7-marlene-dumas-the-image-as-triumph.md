@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is amazed by this painter’s long-awaited retrospective
 date: "2015-02-07 19:10:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
 image_caption: "The Widow, Marlene Dumas"
 headline: true
 featured: true

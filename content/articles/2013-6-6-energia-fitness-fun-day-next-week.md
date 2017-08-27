@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Free classes on Wednesday 19 June for all students
 date: "2013-06-06 12:57:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201306061401-tna08-energia-fitness-fun-day---a3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306061401-tna08-energia-fitness-fun-day---a3.jpg"
 headline: true
 featured: true
 imported: true

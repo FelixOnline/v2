@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102214-csw09-13-061011.jpg"
 image_caption: "Steve Jobs died following complications relating to a pancreatic neuroendocrine tumour. Apple have s"
 headline: true
 featured: true

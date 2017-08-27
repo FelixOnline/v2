@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072049-pk1811-money.png"
 image_caption: "Disappointingly, they transfer the money into your account, and don’t just give a massive pile"
 headline: true
 featured: true

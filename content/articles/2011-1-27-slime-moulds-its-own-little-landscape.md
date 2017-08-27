@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new study shows that some amoeba exhibit a primitive form of agriculture
 date: "2011-01-27 18:57:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271855-ks607-slimestu.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A conference for students
 date: "2013-03-07 23:57:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072357-tna08-hi_h0p6m_25175815_h0p6mh0r.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072357-tna08-hi_h0p6m_25175815_h0p6mh0r.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michelle Tan looks at some teas from further, er, afield
 date: "2014-12-04 19:12:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051143-felix-rag.jpg"
 image_caption: "The cover of the offending leaflet"
 headline: true
 featured: true

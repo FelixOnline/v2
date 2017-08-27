@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A week after Manchester City won their second title in three seasons Kunal Wagle, Jonny Pratt and Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:28:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191441-jal08-sport_pitch_teams.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191441-jal08-sport_pitch_teams.png"
 image_caption: "The top and top flop players of the season"
 headline: true
 featured: true

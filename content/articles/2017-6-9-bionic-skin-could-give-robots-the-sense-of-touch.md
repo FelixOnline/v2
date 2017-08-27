@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how robots are becoming increasingly humanoid, and how refining 3D printing is creating endless opportunities for new innovative technology
 date: "2017-06-09 15:03:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
 headline: true
 featured: true
 imported: true

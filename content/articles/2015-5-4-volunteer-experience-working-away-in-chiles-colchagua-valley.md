@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Because sometimes what Chris Richardson needs is a holiday from his holiday
 date: "2015-05-04 16:35:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041735-ps3110-gapyah.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041735-ps3110-gapyah.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Fourth Plinth shortlist is on at the National Gallery until 26th March
 date: "2017-02-03 16:58:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031658-felix-16077864941_3658b9cf66_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031658-felix-16077864941_3658b9cf66_o.jpg"
 headline: true
 featured: true
 imported: true

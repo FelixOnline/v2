@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Despite a strong performance from the central cast, Black Mass is little more than a competent crime drama
 date: "2015-12-06 14:14:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201512061414-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512061414-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 draft: true
 headline: true
 featured: true

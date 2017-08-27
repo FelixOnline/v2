@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah sees what some first years made of the Horizons courses
 date: "2013-05-23 21:49:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232250-tna08-3008198393.jpg"
 image_caption: "Imperial students turning into artsy types?"
 headline: true
 featured: true
@@ -33,7 +33,7 @@ That’s what Imperial Horizons has been doing this year, and it’s been surpri
 
 The first thing to address is the name. The pun department weren’t exactly on overdrive when they fished it out. We get it. Expanding our horizons. Har har. Anyway, more importantly, what did people think of the courses?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305232249-tna08-906566_10201161943475707_562991505_o.jpg" title="Shiladitya Ghosh" caption="Shiladitya Ghosh" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305232249-tna08-906566_10201161943475707_562991505_o.jpg" title="Shiladitya Ghosh" caption="Shiladitya Ghosh" attr="" >}}
 
 SOLE feedback shows that 80% of people think that the structure and delivery of the teaching was either good or very good. This is a fact that the Horizons team say they are particularly proud of. In fact, nobody said that the teaching was very poor and only 2% considered it to be poor. The majority actually rated it as very good. At Imperial, where almost everyone is a scathing critic of teaching, this is certainly impressive.
 
@@ -41,7 +41,7 @@ The content is a similar story. Again, very good and good dominated the bar char
 
 Lloyd Fung, who took the Energy and Climate Change course, said that he took the option as he was “very interested in related technology”. He said that it did not get in the way of his other studies and that he would like to do a follow up course, if possible. His favourite part of the course was that different perspectives were given on an issue. He said it gave him a “wider perspective” as opposed to “looking [at] it as a scientist or engineer”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305232249-tna08-photo-1.jpg" title="Arijit Gupta" caption="Arijit Gupta" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305232249-tna08-photo-1.jpg" title="Arijit Gupta" caption="Arijit Gupta" attr="" >}}
 
 Shiladitya Ghosh did his Engineers Without Borders Global Challenges course as he “was really keen to learn about the holistic implementation of engineering design in the real world out there”. He enjoyed the course but would want a new challenge and to try something different next year, possibly Mandarin or German. Shiladitya admitted that the work got in the way of some other submissions at the end of spring, but said: “I have lived to tell the tale… at the end day, it’s due to such stress that I felt I really got something out of the course as well.”
 

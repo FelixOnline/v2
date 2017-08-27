@@ -27,7 +27,7 @@ highlights:
 
 ## Alt-J: An Awesome Wave
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071421-tna08-alt-j.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071421-tna08-alt-j.jpg" title="" caption="" attr="" >}}
 
 OK, I’m hardly thinking outside the box here. ∆ (or Alt-J to those of you who aren’t massive pricks) have already won the Mercury Prize for An Awesome Wave and the album’s seen massive critical acclaim from all over. As such, it seems a bit of a cop out for me to call it my ‘album of the year’. It’s certainly losing me valuable hipster points, but I seriously can’t think of anything I’ve enjoyed more this year. 2012 has not been a great year for innovation, and as such, this is the closest I’ve got to getting excited about anything.
 
@@ -36,7 +36,7 @@ That all sounds a bit harsh, and I suppose I’m being a bit unfair. This is a r
 _Stuart Masson_
 ## Purity Ring: Shrines
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071426-tna08-purity-ring-shrines-cover-1346868884.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071426-tna08-purity-ring-shrines-cover-1346868884.jpg" title="" caption="" attr="" >}}
 
 This decade brought internet “microgenres” of songs shared by friends on tumblr, covered in gaudy aesthetics as important as the sound itself, never meant for public consumption. Some were picked up by critics, given names that the artists rejected, gained some legitimacy. Witch-house, with its cult imagery and haunted, pitch-shifted vocals was the most prominent of these, coming into the public eye over 2011.
 
@@ -51,7 +51,7 @@ The lyrics play on the sound - a jarring mix of romance and sheer body horror, f
 _Keir Little_
 ## Portico Quartet: Portico Quartet
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071426-tna08-portico_quartet_self-titled_cover_art_hi-res.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071426-tna08-portico_quartet_self-titled_cover_art_hi-res.jpg" title="" caption="" attr="" >}}
 
 When many genres are thrown against one another, getting the right balance such that the beast will actually get off the ground is difficult enough, but to create an entirely new space, where each constituent idea is represented in just the right amount, verges on accidental – or magical.
 
@@ -64,7 +64,7 @@ Electronic music meeting jazz isn’t exactly new. Portico Quartet, however, hav
 _Robin Thomas_
 ## Lower Dens: Nootropics
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071428-tna08-nootropics_web.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071428-tna08-nootropics_web.jpg" title="" caption="" attr="" >}}
 
 It seems to me that very few people seem to be talking about Lower Dens at all. Surprising considering they toured with Beach House and Deerhunter following the release of their debut Twin Hand Movement, and that the follow-up Nootropics can sit securely as my album of the year.
 
@@ -75,14 +75,14 @@ As I mentioned, Nootropics has a theme, of progress and uncertainty. But it’s 
 _Padraic Calpin_
 ## Killer Mike: R.A.P Music
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071427-tna08-r-a-p-music-cover1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071427-tna08-r-a-p-music-cover1.jpg" title="" caption="" attr="" >}}
 
 “Hardcore G shit, homie, I don’t play around” are the words that mark the beginning of R.A.P. Music and there isn’t a momentin the next 45 minutes that don’t live up to this intensity. The greatest strength of this album is this energy that runs through it. The record was created almost entirely by Mike and producer El-P, with only a few guest appearances, and this is exactly how it feels. It oozes this passion of two guys making music they love for people who love music, a huge love letter to the last three decades of hip hop, while simultaneously providing the genre with another great, forward looking album. Music that celebrates the past like this would usually run dangerously close to being cheesy but it’s howgenuine Mike is that makes this work. “I’ve never really had a religious experience, in a religious place / Closest I’ve ever come to seeing or feeling God is listening to rap music” claims Mike on the title track. And when records are being made like this, it’s not hard to see why. A record with such vitality is well worth a listen if you have the even the slightest interest in hip hop.
 
 _Adam Ravenscroft_
 ## Grimes: Visions
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212071428-tna08-grimes-visions.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212071428-tna08-grimes-visions.jpg" title="" caption="" attr="" >}}
 
 When talking about Claire Boucher, a.k.a. Grimes, it is difficult to make her not seem like some kind of hipster parody createdby VICE magazine; a 24 year-old Canadian native who sports a variety of hair colours, released her first album Geidi Primes on cassette tape, and went without food or sleep for three weeks while creating her latest album Visions – a beguiling mix of dreamy synth-pop mixed with infectious beats and an incredibly high vocal range. So far, so kooky.
 

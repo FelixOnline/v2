@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Omar Amjad and Henry Garner tell you of the ancient victory
 date: "2012-11-29 23:17:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292318-tna08-football.jpg"
 headline: true
 featured: true
 imported: true
@@ -48,4 +48,4 @@ Garner was voted man of the match but everyone grafted well and showed good char
 
 Conclusions: Henry has shown (experimentally) that he both saves and scores penalties, both in vivo and ex vivo. Despite a strong body of literature suggestingotherwise (Euro ’96), Marius Wedermeyer does not.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211301155-tna08-footy-sponsors.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211301155-tna08-footy-sponsors.jpg" title="" caption="" attr="" >}}

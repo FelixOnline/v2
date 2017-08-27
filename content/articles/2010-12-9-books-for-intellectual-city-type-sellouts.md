@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A review of some classic and pertinent finance titles
 date: "2010-12-09 19:32:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012091930-ac1507-books.jpg"
 headline: true
 featured: true
 imported: true

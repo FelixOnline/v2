@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Game of Thrones doesn’t deserve all the hate, argues Cecily Johnson
 date: "2015-05-21 22:56:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505212355-cj914-game-of-thrones.jpg"
 image_caption: "This is not the first time Game of Thrones has been criticised for the way it features rape and sexual violence."
 headline: true
 featured: true

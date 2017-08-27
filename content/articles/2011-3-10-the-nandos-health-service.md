@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore shows us how chicken is not just a finger lickin’ good sensation
 date: "2011-03-10 20:46:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102040-ks607-nandoscr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102040-ks607-nandoscr.jpg"
 headline: true
 featured: true
 imported: true

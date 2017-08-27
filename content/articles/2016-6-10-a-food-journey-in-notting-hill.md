@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX explores the secret eats in this charming neighbourhood
 date: "2016-06-10 08:37:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101036-felix-Snaps 1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101036-felix-Snaps 1.jpg"
 image_caption: "The most photogenic sandwich ever from Snaps + Rye"
 headline: true
 featured: true

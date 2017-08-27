@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Gast believed to have worried about proximity to buildings
 date: "2016-02-26 11:27:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261127-felix-bungee.jpg"
 image_caption: "Each to their own. "
 headline: true
 featured: true

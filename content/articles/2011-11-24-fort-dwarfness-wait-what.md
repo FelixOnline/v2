@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dwarf Fortress: challenging, captivating, and almost completely unheard of. Keir Little sheds some light on this hidden gem
 date: "2011-11-24 20:59:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242057-felix-shootcommon_1063_main.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242057-felix-shootcommon_1063_main.png"
 image_caption: "You get used to it, though. I don’t even see the code. All I see is blonde, brunette, redhead..."
 headline: true
 featured: true
@@ -42,7 +42,7 @@ Having been in alpha release for over five years now, the game has built up a di
 
 The game is the brainchild of two people: brothers Tarn and Zach Adams, more commonly known as ToadyOne and ThreeToe. Toady has a PhD in maths from Stanford, but currently works full-time programming _Dwarf Fortress_, living off savings and donations from grateful players. He has no current plans to charge for the game, and with its almost complete lack of graphics and notorious interface problems, it’ll never gain the mainstream attention or revenue attained by more user-friendly indie games.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242058-felix-4bxrf.jpg" title="Admit it – you’ve always wanted to look this badass" caption="Admit it – you’ve always wanted to look this badass" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242058-felix-4bxrf.jpg" title="Admit it – you’ve always wanted to look this badass" caption="Admit it – you’ve always wanted to look this badass" attr="" >}}
 
 Part of the reason for its difficulty is that the game, fully titled ‘_Slaves to Armok: God of Blood, Chapter II: Dwarf Fortress_’, shares many similarities with its predecessor, the original _Slaves to Armok_. Known as “roguelikes,” it and others like it were a genre of dungeon-crawling RPGs famed for having permanent character deaths, and a myrid of things which could kill or harm your character.
 

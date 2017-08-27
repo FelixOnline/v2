@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Delay comes amidst ongoing protest against BBC campus redevelopment
 date: "2012-06-08 08:26:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201206080926-mc4509-news1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206080926-mc4509-news1.jpg"
 image_caption: "The earliest possible meeting of the planning committee is 10 July"
 headline: true
 featured: true

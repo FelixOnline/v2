@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
 image_caption: "Fuel up on plutonium, ‘cos we’re heading into the future! "
 headline: true
 featured: true
@@ -51,7 +51,7 @@ Similarly the tongue-in-cheek appraisal of an early Cooking Mama game looks a li
 
 In a world where jobs are given based on skill-set points from completed Skillset Schemes, where even dating matches are made using a comparison of compatibility of Personal Interest points, where any car can be turned to Sim-mode and replicate the bucking and judders of real racing from the comfort of one’s garage, it is hard to imagine a time when scores and levels, friend-challenges and international Cooking Mama tournaments were not part of the background hum of life.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032102-sjw209-masseffect2_equalizer_dlc.jpg" title="It was this picture or one relating to the DelayGasm condom. You’re welcome." caption="It was this picture or one relating to the DelayGasm condom. You’re welcome." attr="Credit: Mass Effect (Bioware)" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032102-sjw209-masseffect2_equalizer_dlc.jpg" title="It was this picture or one relating to the DelayGasm condom. You’re welcome." caption="It was this picture or one relating to the DelayGasm condom. You’re welcome." attr="Credit: Mass Effect (Bioware)" >}}
 
 In fact, it was reading through the old issues that first made us realise that a little something may have been lost along the way. We are not saying that we here at Felix don’t like the ability to go outside with our iVisors and learn about the difference between nimbus and cumulus clouds before competing with our friends at differentiating them, or wear the visors in select National Parks where we can experience our own Nintendo-designed Zelda adventures to find hulking beasts born from apple’s magnificent glasses. Nor are we even arguing against the more left-field devices such as the DelayGasm digital condom which trains unfortunate men to, well, you know (see our anonymously written import review last week).
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why Benicassim should be the top of your list for 2012
 date: "2012-05-03 18:50:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031950-ams111-festival-day.jpg"
 image_caption: "Sweaty, sun-singed and fired up on sangria: maybe you should reconsider those summer internship plan"
 headline: true
 featured: true

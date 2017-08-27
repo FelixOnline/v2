@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Camille Grellet talks to Felix about the reaction of her home country during the attacks
 date: "2015-01-16 12:57:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161257-ps3110-eiffel-tower-240173.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161257-ps3110-eiffel-tower-240173.jpg"
 headline: true
 featured: true
 imported: true

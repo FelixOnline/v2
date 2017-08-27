@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Umar Nasser talks about the controversy over "that" film over summer
 date: "2012-10-05 12:57:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051848-felix-amsa-advert-final.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051848-felix-amsa-advert-final.jpg"
 headline: true
 featured: true
 imported: true

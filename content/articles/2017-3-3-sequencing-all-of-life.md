@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach discusses plans to create a full genetic map of all life on Earth
 date: "2017-03-03 15:11:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031511-felix-32419406030_725150e375_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031511-felix-32419406030_725150e375_o.jpg"
 image_caption: "Sequence ALL the life!"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on ICTV’s exciting new show
 date: "2015-02-20 00:04:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
 headline: true
 featured: true
 imported: true

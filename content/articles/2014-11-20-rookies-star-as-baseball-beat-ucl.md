@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Baseball team comes from behind twice to snatch double header
 date: "2014-11-20 21:37:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
 headline: true
 featured: true
 imported: true

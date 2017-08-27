@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mario Testino pays homage to British icon Kate Moss in limited edition book
 date: "2010-10-10 15:43:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101642-ks607-KateMoss.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101642-ks607-KateMoss.jpg"
 headline: true
 featured: true
 imported: true

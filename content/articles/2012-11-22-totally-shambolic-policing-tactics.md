@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The right to protest is being violated by those whose job it is to defend it
 date: "2012-11-22 23:58:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222358-tna08-2012-11-21-12.55.55.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222358-tna08-2012-11-21-12.55.55.jpg"
 image_caption: "Photo by Benjamin Lester"
 headline: true
 featured: true

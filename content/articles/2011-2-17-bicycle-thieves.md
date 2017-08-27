@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vittorio De Sica's 1948 masterpiece is a beautifully crafted portrayal of suffering and poverty in post war Rome
 date: "2011-02-17 19:23:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171909-nm1010-bicyclye.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171909-nm1010-bicyclye.jpg"
 headline: true
 featured: true
 imported: true

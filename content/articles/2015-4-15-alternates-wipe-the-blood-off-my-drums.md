@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken reviews Whiplash
 date: "2015-04-15 22:43:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201504152334-jr2514-whiplashimage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201504152334-jr2514-whiplashimage.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jorrit Schafer bridges the gaps between game and sport...
 date: "2013-05-01 12:15:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012033-tna08-bridge-copy.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012033-tna08-bridge-copy.png"
 headline: true
 featured: true
 imported: true

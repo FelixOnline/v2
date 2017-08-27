@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven discusses Uzeda
 date: "2011-10-16 15:11:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161611-felix-uzeda.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161611-felix-uzeda.jpg"
 headline: true
 featured: true
 imported: true

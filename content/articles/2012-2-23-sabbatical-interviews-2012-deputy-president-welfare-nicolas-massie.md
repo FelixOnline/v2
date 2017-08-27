@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This year's DPW discusses elation and frustration
 date: "2012-02-23 23:23:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232322-felix-nicolasmassie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232322-felix-nicolasmassie.jpg"
 image_caption: "Deputy President (Welfare) Nicolas Massie"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Royal School of Mines win the 109th Bottle Match
 date: "2011-02-27 19:52:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271951-ks607-bottlema.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271951-ks607-bottlema.jpg"
 headline: true
 featured: true
 imported: true

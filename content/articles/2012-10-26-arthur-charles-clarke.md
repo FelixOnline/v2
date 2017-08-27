@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about one of his favourite authors
 date: "2012-10-26 02:44:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260344-tna08-clarke1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260344-tna08-clarke1.jpg"
 headline: true
 featured: true
 imported: true

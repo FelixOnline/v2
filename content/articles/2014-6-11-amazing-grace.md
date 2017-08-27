@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Destroyed critically, but is it really so bad?
 date: "2014-06-11 22:00:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201406112259-me1711-grace-of-monaco-nicole-kidman-ftr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406112259-me1711-grace-of-monaco-nicole-kidman-ftr.jpg"
 headline: true
 featured: true
 imported: true

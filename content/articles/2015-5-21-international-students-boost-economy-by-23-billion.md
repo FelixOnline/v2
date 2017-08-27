@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as report recommends migration targets be reclassified
 date: "2015-05-21 20:08:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
 image_caption: "London First argues that international students should be given visitor status"
 headline: true
 featured: true

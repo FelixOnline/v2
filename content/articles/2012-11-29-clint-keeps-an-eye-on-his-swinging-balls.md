@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Starring: Clint Eastwood, Amy Adams, Justin Timberlake
 date: "2012-11-29 23:03:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292302-csw09-trouble-with-the-curve.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292302-csw09-trouble-with-the-curve.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caz Knight eagerly attends the intriguing summer installation at South Bank's Hayward Gallery, but is left disappointed
 date: "2010-09-01 15:59:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201009011654-ks607-Heart.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201009011654-ks607-Heart.jpg"
 headline: true
 featured: true
 imported: true

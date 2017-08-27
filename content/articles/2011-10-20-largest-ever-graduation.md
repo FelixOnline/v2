@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Staff awarded for their efforts as students receive their degrees
 date: "2011-10-20 19:19:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202017-felix-img_6530.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202017-felix-img_6530.jpg"
 image_caption: "Graduates gather outside the Royal Albert Hall"
 headline: true
 featured: true

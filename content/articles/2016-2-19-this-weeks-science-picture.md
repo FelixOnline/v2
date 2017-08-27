@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ooh, gravitational waves!
 date: "2016-02-19 11:20:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
 image_caption: "Colours signify the degree of perturbation of the spacetime fabric (the gravitational waves)"
 headline: true
 featured: true

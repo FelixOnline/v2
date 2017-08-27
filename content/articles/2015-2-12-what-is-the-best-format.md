@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The ICC has been searching for the perfect World Cup format for years
 date: "2015-02-12 22:52:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122252-jyg11-1992.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122252-jyg11-1992.jpg"
 image_caption: "The 1992 World Cup has often been viewed as the fairest"
 headline: true
 featured: true

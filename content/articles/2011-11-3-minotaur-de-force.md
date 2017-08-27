@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Old Vic Tunnels makes for a modern day take of the mythical labyrinth – complete with bistro
 date: "2011-11-03 22:04:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032204-felix-mino3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032204-felix-mino3.jpg"
 image_caption: "Few people know he was actually half-man-half-bull-half-butcher"
 headline: true
 featured: true

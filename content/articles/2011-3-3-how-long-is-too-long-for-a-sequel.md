@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jade Hoffman names and shames some of the worst, long-awaited sequels
 date: "2011-03-03 20:10:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032007-nm1010-sequelse.jpg"
 headline: true
 featured: true
 imported: true

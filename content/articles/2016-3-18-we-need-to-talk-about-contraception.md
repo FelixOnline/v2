@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Safe sex should be something to shout about
 date: "2016-03-18 11:46:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181144-felix-CondomOlympics.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181144-felix-CondomOlympics.jpg"
 headline: true
 featured: true
 imported: true
@@ -55,7 +55,7 @@ The pill. A tiny, revolutionary, sugar-coated (literally) ball of pure lady horm
 
 I’d recommend this to any womb-bearer who wants a fuss free way to stay baby-free, or anyone who’s about to go travelling and doesn’t want to get their period at a Full Moon Party. You might have heard horror stories – anything from changes of mood to getting a bit chubby, but your first dalliance into hormonal contraception is much like when Harry Potter first arrived at the wand shop on Diagon Alley. Some aren’t going to suit, and may well fuck shit up, but you can keep trying different brands (there are hundreds) until you find one that makes beautiful Patronuses.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201603181145-felix-pill.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201603181145-felix-pill.jpg" title="" caption="" attr="" >}}
 
 **The IUS**
 

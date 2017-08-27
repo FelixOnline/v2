@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An introduction to the world of Sharia-compliant finance
 date: "2010-12-09 19:29:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012091925-ac1507-minarets.jpg"
 headline: true
 featured: true
 imported: true

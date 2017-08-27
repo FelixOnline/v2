@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The global bee decline is endangering more than just our multi-million honey industry. With bees being the predominant and certainly the most economically significant pollinator, we literally can’t afford to lose them. Bee enthusiast Sarah Barfield Marks talks bees and what you can do to help them.
 date: "2017-02-17 15:09:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Over the past few years, discussion of the rapid decline of bee populations has 
 
 Bees lead complex lives that carefully balance our ecosystem. Only bees make honey, so how exactly is this uniquely delicious food created? Honeybees travel from one plant to another to sip nectar which goes into their honey tummy (different from their food stomach). In the process, they pick up pollen on their legs and body from each plant. As they move, they transfer pollen between male and female plants of the same species to pollinate them. Once their honey stomach is full, they fly back to the hive and pass the nectar to worker bees. Worker bees chew the nectar while excreting special enzymes until the nectar becomes honey. Honey is then placed in wax cells and fanned by bees using their wings until it is ready to be capped with wax for storage. Honey is the bees’ winter food source when it is too cold to forage. The rest of the year, bees are critically important to pollination.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702171507-felix-Screen Shot 2017-02-17 at 15.07.00.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702171507-felix-Screen Shot 2017-02-17 at 15.07.00.png" title="" caption="" attr="" >}}
 
 Beyond their centrality to many plant life cycles, bees have an important role in the food chain. Worldwide, one third of food crops from blueberries to sweet potatoes are in some way bee-dependent. Not all are completely reliant on bees, but the effect of bees can be seen in most. Many flowers, such as pears, produce larger and more homogeneous fruits when often visited and properly pollinated by bees. Can humans truly hope to develop such a perfect pollination process to replace the one that bees have evolved over millions of years? Successful pollination is so important that farmers in places like America are now forced to hire trucks filled with beehives to pollinate their crops. An article by Slate cited that renting a hive can cost up to $180 per season during peak almond production. Pollinating almonds each season in California with supplemental hives costs the state around $180 million (over one million extra needed from outside the state)!
 

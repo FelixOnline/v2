@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rocks at the surface of the Moon bear the signs of water from deep below, scientists have discovered. Marion Ferrat takes a closer look at where this water comes from and how scientists can detect it.
 date: "2013-09-19 12:23:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
 image_caption: "A picture of Crater Bullialdus taken during the Apollo 16 mission"
 headline: true
 featured: true

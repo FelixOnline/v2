@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A lacklustre second novel in the trilogy
 date: "2011-06-16 20:46:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162145-felix-6a00e54f0e675e88340133f4050907970b-320wi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162145-felix-6a00e54f0e675e88340133f4050907970b-320wi.jpg"
 headline: true
 featured: true
 imported: true

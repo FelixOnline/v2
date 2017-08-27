@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We’ve officially launched the sex survey 2015!
 date: "2015-02-02 13:24:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
 headline: true
 featured: true
 imported: true

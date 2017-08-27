@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at one of Britain's most important directors
 date: "2011-01-20 19:53:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201951-ks607-dannyboy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201951-ks607-dannyboy.jpg"
 headline: true
 featured: true
 imported: true

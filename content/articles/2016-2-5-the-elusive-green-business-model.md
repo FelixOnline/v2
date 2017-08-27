@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why is it taking so long for businesses to adopt greener strategies?
 date: "2016-02-05 12:08:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051208-felix-Adobe_HQ.jpg"
 image_caption: "The Adobe headquarters in San Jose, California. "
 headline: true
 featured: true

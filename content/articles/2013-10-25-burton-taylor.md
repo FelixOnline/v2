@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews "Burton & Taylor"
 date: "2013-10-25 00:54:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250154-felix-tv_drama_signs_off_on_bbc4_with_1_17m_watching_burton_and_taylor_biopic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250154-felix-tv_drama_signs_off_on_bbc4_with_1_17m_watching_burton_and_taylor_biopic.jpg"
 image_caption: "Burton & Taylor"
 headline: true
 featured: true

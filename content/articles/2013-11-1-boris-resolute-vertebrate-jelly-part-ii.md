@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311011054-felix-boris.jpg"
 image_caption: "Boris Johnson not at Imperial"
 headline: true
 featured: true

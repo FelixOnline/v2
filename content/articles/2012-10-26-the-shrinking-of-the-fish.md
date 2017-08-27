@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are fish getting smaller?
 date: "2012-10-26 02:26:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260327-tna08-1389783_52303175.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260327-tna08-1389783_52303175.jpg"
 headline: true
 featured: true
 imported: true

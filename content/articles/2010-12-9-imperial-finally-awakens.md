@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances
 date: "2010-12-09 21:45:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092141-dr910-imperial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092141-dr910-imperial.jpg"
 image_caption: "Students gather to make their views on the restructure clear"
 headline: true
 featured: true

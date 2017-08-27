@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vithulan Patkunan reviews Donna Tartt’s latest masterpiece
 date: "2014-01-17 03:50:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170350-jal08-goldfinch.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170350-jal08-goldfinch.jpg"
 headline: true
 featured: true
 imported: true

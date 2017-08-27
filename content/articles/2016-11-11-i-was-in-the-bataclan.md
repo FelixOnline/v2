@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ollie Kemsley talks about the day of the Paris attack last November, and his experiences in the year following
 date: "2016-11-11 13:18:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111258-ajp15-bataclan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111258-ajp15-bataclan.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's hypocrisy hidden inside us all, but try to keep it in check
 date: "2015-10-23 11:51:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231249-cj914-rainforest.jpg"
 image_caption: "Put down the monkey..."
 headline: true
 featured: true

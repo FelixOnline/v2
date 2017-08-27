@@ -4,7 +4,7 @@ title: >
 subtitle: >
   DNA Origami techniques reveal advances in medical technology
 date: "2012-03-01 21:10:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012106-ams111-dna-nano-robot.jpg"
 image_caption: "Is it just me or do these look like hammocks?"
 headline: true
 featured: true

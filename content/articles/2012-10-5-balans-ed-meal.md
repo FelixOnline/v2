@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophia Goldberg samples a three course meal at Balans and reports back...
 date: "2012-10-05 13:14:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
 headline: true
 featured: true
 imported: true

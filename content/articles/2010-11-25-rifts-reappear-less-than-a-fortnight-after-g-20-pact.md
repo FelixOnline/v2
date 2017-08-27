@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rifts reappear less than a fortnight after G-20 pact
 date: "2010-11-25 20:26:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252025-nm1010-seoulsum.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252025-nm1010-seoulsum.jpg"
 headline: true
 featured: true
 imported: true

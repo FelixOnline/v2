@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the capital of Belgium
 date: "2015-02-03 14:11:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031412-ps3110-screen-shot-2015-02-03-at-14.11.44.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031412-ps3110-screen-shot-2015-02-03-at-14.11.44.png"
 headline: true
 featured: true
 imported: true

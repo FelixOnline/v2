@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Martin Parr brings together pictures of Britain as seen through the outsider's lens
 date: "2016-03-30 15:50:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
 image_caption: "An old man blows bubbles in London, 1953."
 headline: true
 featured: true

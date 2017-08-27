@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the silver lining that is coming to a crotch near you
 date: "2014-01-31 17:16:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401311718-jal08-silver-3.jpg"
 image_caption: "The contents of your pants could one day look like this "
 headline: true
 featured: true

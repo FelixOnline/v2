@@ -4,7 +4,7 @@ title: >
 subtitle: >
   BARBICAN
 date: "2011-06-09 18:22:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106091921-felix-barbican.jpg"
 headline: true
 featured: true
 imported: true

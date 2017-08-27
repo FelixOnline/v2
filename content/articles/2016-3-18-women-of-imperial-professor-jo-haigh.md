@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX talks to the first female Head of Physics at Imperial
 date: "2016-03-18 11:54:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
 image_caption: "Professor Joanna Haigh."
 headline: true
 featured: true

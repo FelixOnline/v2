@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The ‘Great Recession’ is over. To quote the Times: ‘It’s official’. This verdict, coming as it does from ‘one of the country’s leading economic bodies,’ is very impressive no doubt.
 date: "2014-05-16 01:50:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160251-jal08-osbourne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160251-jal08-osbourne.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Poorly timed and expensive refurbishment may just have made it all pretty for the next owner
 date: "2013-01-25 01:51:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250150-tna08-royal-institute007_full.jpg"
 image_caption: " I think I heard a tenner from the gentleman at the back of the room"
 headline: true
 featured: true

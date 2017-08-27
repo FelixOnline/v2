@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Political, witty and earnest, Riz MC and Heems are the transatlantic duo lending disenfranchised South-Asian kids a voice
 date: "2017-06-15 17:13:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201706151859-im1413-Swet-Shop-Boys-Studio-at-Webster-Hall17.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706151859-im1413-Swet-Shop-Boys-Studio-at-Webster-Hall17.jpg"
 image_caption: "Swet Shop Boys at The Studio at Webster Hall in 2016 | Photo: Sachyn Mital for brooklynvegan.com"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead
 date: "2011-06-02 20:34:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022133-felix-p1000151.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022133-felix-p1000151.jpg"
 image_caption: "Imperial women’s co-captain, Priya Patel sharing the runner’s up trophy with Hampstead’s captain"
 headline: true
 featured: true

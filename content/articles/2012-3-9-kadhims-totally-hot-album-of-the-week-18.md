@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Quantic & Alice Russell with the Combo Barbaro – Look Around The Corner – Tru Thoughts – 2012
 date: "2012-03-09 13:00:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
 headline: true
 featured: true
 imported: true

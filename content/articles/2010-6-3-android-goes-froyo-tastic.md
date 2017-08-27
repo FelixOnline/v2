@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam shows you why Froyo is Android&8217;s coming of age
 date: "2010-06-03 15:16:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201006031614-srg03-Android2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201006031614-srg03-Android2.jpg"
 headline: true
 featured: true
 imported: true

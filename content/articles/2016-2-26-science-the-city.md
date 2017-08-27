@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-02-26 11:35:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
 image_caption: "Our science and engineering mix is wrong – there’s too much specialisation and not enough generalists. "
 headline: true
 featured: true

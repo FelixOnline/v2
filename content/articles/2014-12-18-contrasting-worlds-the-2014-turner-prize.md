@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland assesses the contrived controversy of this year's prize
 date: "2014-12-18 15:40:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
 headline: true
 featured: true
 imported: true

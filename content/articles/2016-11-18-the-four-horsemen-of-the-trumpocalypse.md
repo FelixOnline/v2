@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Avirup Banerjee points the finger of blame for the Trump presidency
 date: "2016-11-18 14:40:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.38.51.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.38.51.png"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ Hillary Clinton was correct; Trump’s supporters do fill up the basket of  the 
 Even with this ugly history of the Republican party, Trump’s rise is still unprecedented. The last four Republican candidates – Romney, McCain, Bush and Bob Dole – are paragons of virtue compared to this lunatic. Trump has emboldened the hidden racist vote and normalised it like nothing before, not even condemning the KKK. But this was also the country that twice elected an African American with the middle name Hussain. So, whilst the moral bankruptcy of the Republican party was in clear sight, the failure of the Democratic party must too be examined.
 In the end, Trump won the electoral college through his strength in the industrial ‘rust belt’ of Ohio, Pennsylvania, Michigan and Wisconsin, the latter three  of which hadn’t gone to the Republicans since 1988. In these states, real (inflation adjusted) median wage has stagnated since 1980, and only this year were there any signs of improvements. This was in large part due to the trickledown economics of Ronald Reagan. Ironically however, it was presidents Bill Clinton and Barack Obama who pushed through significant right-wing legislation that the Republicans never could, by neutralising the political left. In the process, they also alienated the Democratic base.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.10.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.10.png" title="" caption="" attr="" >}}
 
 t was Bill Clinton’s  legislation that deregulated Wall Street by repealing the Glass Steagall Act, which protected depositors’ money from investment banks. When George H. W. Bush failed to get NAFTA through Congress, it was Bill Clinton who subdued the unions and crippled the manufacturing industry. It was Clinton’s crime bill that brought the era of mass incarceration of minorities, resulting in the fall of African American voter turnout because of the lingering resentment. It was the Clinton welfare bill that cut benefits for the poor and thus, for the first time in a generation, white working class voters rejected the Democrats. It is Barack Obama who has deported more Latinos than any other president, so was it surprising that Trump won as many Latinos as Romney did?
 
@@ -44,7 +44,7 @@ Even with the faults of the Democratic Party, both Barack Obama and Bill Clinton
 
 One thing that is certain is that the media need to own this outcome. This is their Frankenstein’s monster, and perhaps the problem was their discomfort with the idea of a strong female leader.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.24.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.24.png" title="" caption="" attr="" >}}
 
 The corporatist news media hasrepeated 24/7 the avalanche of lies directed at her for the last 30 years. Hillary Clinton was right when she said there was a vast right wing conspiracy against her, with the media serving as an echo chamber for everything from bogus scandals, such as the nonsense about her emails, to blaming her and even calling her an “enabler” of her husband’s infidelity in the 1990s. The icing on the cake was the crazy Trump conspiracy of Hillary Clinton murdering her close friend, Vince Foster, who had tragically committed suicide (which was confirmed by three federal investigations).
 
@@ -52,7 +52,7 @@ In the 1950s it took the courage of journalist Edward R. Murrow and the respecte
 
 However, the scariest contributor to the result is the fact that Russia has been able to do what the Soviet Union had never even come close to doing – placing a puppet in the White House. Russia just won the Cold War 27 years after the fall of the Berlin Wall. Vladimir Putin had two accomplices in his pursuit of destroying American democracy: Julian Assange and the FBI.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.35.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.35.png" title="" caption="" attr="" >}}
 
 Assange’s WikiLeaks which hacked the private emails of only the Democrats, only leaked private messages from within the Clinton campaign to the willing media. Lastly, the FBI Director James Comey, breaking with all precedent, violated the Hatch Act and used the machinery of the FBI to interfere with this election. The reopening of the politically charged email investigation only ten days before election day swung the pendulum in Trump’s favour. Trump has already promised to jail his opponents, including Clinton, and destroy the independence of the judiciary, so it seems that Trump won’t have to create his own Gestapo, but merely inherit an FBI overflowing with extreme alt-right agents.
 
@@ -62,4 +62,4 @@ America is a great country, and the odorous slime of Mr Trump might stain it for
 Now as Liberals, we must stand with our brothers and sisters of America, who are in the front lines of this war. In closing, I would like to thank Hillary Clinton and Tim Kaine for running a campaign with honour, and especially to Mrs Clinton for her many years of service for America and the rest of the world. Whilst the glass ceiling may not have been shattered today, consolation may be found in the popular vote, which she won by a margin of more than 200,000.
 In the words of Martin Luther King Jr, “I’ve been to the mountaintop, and I want you to know tonight, that we as a people will get to the Promised Land”. Therefore in that spirit, nothing can stop an idea whose time has come, for America will have a female president sooner than we all might think.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.44.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.44.png" title="" caption="" attr="" >}}

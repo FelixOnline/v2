@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Petition to protect popular cultural and social venue attracts support
 date: "2012-05-18 06:04:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
 image_caption: "Ognisko Polskie is situated opposite the main entrance of Imperial College"
 headline: true
 featured: true

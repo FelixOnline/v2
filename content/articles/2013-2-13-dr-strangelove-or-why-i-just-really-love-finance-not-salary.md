@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray provides a retort to last week’s article about banking
 date: "2013-02-13 18:55:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
 headline: true
 featured: true
 imported: true

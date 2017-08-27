@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Olympus Has Fallen review
 date: "2013-04-30 10:40:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012043-tna08-olympus-has-fallen09.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012043-tna08-olympus-has-fallen09.jpg"
 headline: true
 featured: true
 imported: true

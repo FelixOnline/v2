@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They are back and as good as ever!
 date: "2012-02-23 20:28:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232027-pk1811-muppetsmovie.jpg"
 image_caption: "Clearly you’re never too old to love The Muppets – he’s 32 and she’s 37"
 headline: true
 featured: true

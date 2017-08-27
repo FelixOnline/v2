@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed gives the coverage on Varsity Games’ action packed, interuniversity DOTA tournament
 date: "2016-12-02 15:18:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021517-felix-15311635_10101025341055706_383010412_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021517-felix-15311635_10101025341055706_383010412_o.jpg"
 headline: true
 featured: true
 imported: true

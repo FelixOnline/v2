@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Katy Bettany is not impressed with this long and boring end to the saga
 date: "2012-11-23 00:38:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
 headline: true
 featured: true
 imported: true

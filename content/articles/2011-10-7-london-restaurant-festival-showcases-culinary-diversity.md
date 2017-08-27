@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taking a look at some of the most exciting events of this two-week event
 date: "2011-10-07 13:08:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071408-felix-popinthesky.jpg"
 image_caption: "I thought he was taking me to the Union"
 headline: true
 featured: true

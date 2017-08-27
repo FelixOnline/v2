@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Claudia Mihai discusses the recent anti-corruption protests in Romania
 date: "2017-02-10 13:53:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
 headline: true
 featured: true
 imported: true

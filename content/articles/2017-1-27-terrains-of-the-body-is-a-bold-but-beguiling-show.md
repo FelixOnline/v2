@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Terrains of the Body is on at the Whitechapel Gallery until 16th April 2017 Free entry
 date: "2017-01-27 17:01:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
 image_caption: "Hellen van Meene, Untitled (79), (2000)"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142317-cj914-unknown.jpeg"
 image_caption: "An Imperial medic caught a picture of the incident"
 headline: true
 featured: true

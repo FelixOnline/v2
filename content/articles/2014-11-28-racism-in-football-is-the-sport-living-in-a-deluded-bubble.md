@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl asks the question we are all considering at the moment.
 date: "2014-11-28 01:05:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280105-kmw13-wigan-athletic.jpg"
 headline: true
 featured: true
 imported: true

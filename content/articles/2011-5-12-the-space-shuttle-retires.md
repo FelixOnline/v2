@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Waving goodbye to the Space Shuttle and saying hello to the private sector
 date: "2011-05-12 19:42:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
 image_caption: "Space Shuttle Challenger, June 22 1983"
 headline: true
 featured: true

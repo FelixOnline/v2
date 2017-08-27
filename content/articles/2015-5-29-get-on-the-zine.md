@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grace Rahman asks: glorified sleeve notes or art in their own right?
 date: "2015-05-29 12:11:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
 image_caption: "Summer Camp's zine cover"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland speaks to Maja Kecman, a specialist in medical design at the HELIX Centre
 date: "2014-12-18 15:44:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212233-ps3110-helix-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212233-ps3110-helix-1.jpg"
 headline: true
 featured: true
 imported: true

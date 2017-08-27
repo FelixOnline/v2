@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Can fashion be a force for liberation? Fred Fyles investigates
 date: "2014-11-06 21:30:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
 image_caption: "Vivienne Westwood, the Grand-Dame of controversial clothing, is one of the women featured. "
 headline: true
 featured: true

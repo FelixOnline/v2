@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Muppets Most Wanted’s opening song, “We’re Doing a Sequel” successfully nails almost every criticism that could be thrown at it from a “ugh, the sequel’s not as good as the original” point of view which makes reviewing it slightly difficult.
 date: "2014-05-02 01:12:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020212-jal08-muppets_2849681b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020212-jal08-muppets_2849681b.jpg"
 headline: true
 featured: true
 imported: true

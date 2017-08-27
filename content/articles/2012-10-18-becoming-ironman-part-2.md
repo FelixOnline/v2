@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ned Yoxall does Ironman for charity: part 2
 date: "2012-10-18 21:03:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210191350-tna08-0235_28584.jpg"
 headline: true
 featured: true
 imported: true

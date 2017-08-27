@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stem cell research receives another vital boost. Fiona Hartley reports
 date: "2012-10-11 20:51:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112151-csw09-mice-populationsmall.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112151-csw09-mice-populationsmall.jpg"
 headline: true
 featured: true
 imported: true

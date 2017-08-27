@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
 image_caption: "What a difference a day makes. Miliband, Clegg and Farage all resign as Cameron wins a 12 seat majority"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Undercover investigation on standard of animal care at Imperial Researchers alleged to not understand terms and abuse animals Allegations to be investigated by Imperial Letter calling for independent inquiry delivered to Home Office
 date: "2013-05-02 14:16:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201305021508-tna08-buav.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305021508-tna08-buav.jpg"
 image_caption: "A photo from the BUAV investigation"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Imperial is not the first university that has been investigated by the BUAV, in 
 
 Regardless of the allegations of neglect and abuse of the animals under their care, the video footage does raise questions concerning how College approaches the training of new researchers experimenting on animals and how active College’s animal welfare officers are in spotting and reporting dangers to animal safety. This media coverage has also increased student awareness, many of whom may not have realised that animal testing occurs in College or what it entails. A glance at College social media pages also demonstrates the fury of some of the public who have fully supported the BUAV campaign against Imperial and sport anti-animal testing banners.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305031249-tna08-image-1-w640h480.jpg" title="" caption="" attr="Credit: (C) BUAV" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305031249-tna08-image-1-w640h480.jpg" title="" caption="" attr="Credit: (C) BUAV" >}}
 
 Imperial has released an official response to the allegations: “...Only a small percentage of medical and biological research involves the use of animals. That part remains vital, however, to further the development of treatments or cures for medical conditions that blight or destroy the lives of humans – and animals. Imperial College’s policy on the use of animals in research is that animals may only be used in research programmes where their use is shown to be essential. Scientists and staff at Imperial work hard to ensure that animals are kept and cared for using the highest standards of husbandry, thereby causing least pain or distress.” College has also commissioned an independent investigation into the allegations chaired by Professor Steve Brown, Director of the MRC Mammalian Genetics Unit, Harwell which describes itself as “An international centre for mouse genetics”. The BUAV have claimed that the MRC fund research at Imperial and that this could affect the independence of the review. Professor Brown is an advocate for the use of mice in medical research and sees mouse as a way of discovering the connection between genetics and disease in humans, with whom mice have 99% of DNA in common. Imperial has also alerted the Home Office to the BUAV allegations and has contacted all College staff with personal or project licences and reminded them of Imperial’s policies on animal welfare in laboratories.
 

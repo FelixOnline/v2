@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
 image_caption: "Valentin Klotz, View of grave on the Mass after a siege, 1675. "
 headline: true
 featured: true

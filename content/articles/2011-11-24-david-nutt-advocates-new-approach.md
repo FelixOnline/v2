@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another academic weighs in on the legalisation argument
 date: "2011-11-24 22:22:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242222-pk1811-prof_nutt_010.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242222-pk1811-prof_nutt_010.jpg"
 image_caption: "Professor David Nutt"
 headline: true
 featured: true

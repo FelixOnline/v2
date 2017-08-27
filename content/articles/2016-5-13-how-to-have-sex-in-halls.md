@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We’re all jealous of our friends who don't have roommates
 date: "2016-05-13 09:00:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
 headline: true
 featured: true
 imported: true

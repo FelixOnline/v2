@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Trauma and Science come together to make new art
 date: "2011-12-08 21:05:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082105-pk1811-luke.jpg"
 image_caption: "Luke Jerram, T4 Bascteriophage, Glass"
 headline: true
 featured: true

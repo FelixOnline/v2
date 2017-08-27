@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lesson 5: The Fall of Troy
 date: "2012-02-09 22:16:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
 headline: true
 featured: true
 imported: true

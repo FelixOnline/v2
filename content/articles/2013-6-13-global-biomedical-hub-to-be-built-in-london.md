@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Collaboration between the big dawgs in London
 date: "2013-06-13 23:10:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140009-tna08-paulnurse.jpg"
 image_caption: "Sir Paul Nurse, director of the Francis Crick institute"
 headline: true
 featured: true

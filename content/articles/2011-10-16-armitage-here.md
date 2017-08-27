@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As Watteau Duets comes to Imperial, Meredith Thomas speaks to its choreographer, original punk ballerina Karole Armitage
 date: "2011-10-16 14:42:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161540-felix-080210-karolehal.jpg"
 image_caption: "Karole Armitage – so active that we couldn't find a photo of her without motion blur"
 headline: true
 featured: true

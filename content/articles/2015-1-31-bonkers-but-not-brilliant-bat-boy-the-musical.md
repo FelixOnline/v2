@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-01-31 19:16:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
 image_caption: "Rob Compton as Bat Boy and Georgina Hagen as Shelley "
 headline: true
 featured: true

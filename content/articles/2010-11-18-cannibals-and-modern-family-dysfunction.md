@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We Are What We Are doubles as shock horror and social satire
 date: "2010-11-18 20:53:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182051-nm1010-wearewha.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182051-nm1010-wearewha.jpg"
 headline: true
 featured: true
 imported: true

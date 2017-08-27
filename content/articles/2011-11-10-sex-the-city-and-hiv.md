@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maya Kaushik discusses the Master’s project that forced her to look at her hometown of Bangalore in a completely different way
 date: "2011-11-10 20:49:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
 image_caption: "Lal Bagh, amongst others, gives Bangalore its nice nickname, but it also has a more sinister side..."
 headline: true
 featured: true

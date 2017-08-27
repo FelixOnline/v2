@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson overviews this backpacker's Mecca
 date: "2011-03-03 06:27:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030622-ks607-fullmoon.jpg"
 headline: true
 featured: true
 imported: true

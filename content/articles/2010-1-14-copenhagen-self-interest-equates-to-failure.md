@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Fry - Copenhagen & Self interest equates to Failure
 date: "2010-01-14 16:00:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141558-rsp07-obamacha.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141558-rsp07-obamacha.jpg"
 headline: true
 featured: true
 imported: true

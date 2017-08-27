@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Ingram tells us his thoughts of Microsoft’s latest OS
 date: "2012-10-26 02:22:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260322-tna08-windows-8-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260322-tna08-windows-8-rgb.jpg"
 headline: true
 featured: true
 imported: true

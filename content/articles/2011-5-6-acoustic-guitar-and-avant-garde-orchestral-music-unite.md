@@ -4,7 +4,7 @@ title: >
 subtitle: >
   José González teams up with orchestral collective The Göteborg String Theory to great success
 date: "2011-05-06 11:05:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
 headline: true
 featured: true
 imported: true

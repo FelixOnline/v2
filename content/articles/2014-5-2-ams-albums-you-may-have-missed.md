@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews some of this year’s highlights that we didn’t cover at the time (sorry)
 date: "2014-05-02 01:28:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020227-jal08-stvincentalbumcover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020227-jal08-stvincentalbumcover.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-03-11 11:42:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111142-felix-12018709_10156556234415394_842175580_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111142-felix-12018709_10156556234415394_842175580_o.jpg"
 image_caption: "Claudia Schulz holding her Graduate Teaching Assistant Award in the Department of Computing."
 headline: true
 featured: true

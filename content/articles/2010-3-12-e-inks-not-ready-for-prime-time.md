@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If SciFi authors are to be believed, books are eventually going to be phased out in favour of eBooks, but are eReaders ready for prime time?
 date: "2010-03-12 16:54:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201003121649-srg03-eBookrea.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201003121649-srg03-eBookrea.jpg"
 headline: true
 featured: true
 imported: true

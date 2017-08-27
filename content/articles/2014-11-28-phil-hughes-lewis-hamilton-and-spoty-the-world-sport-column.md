@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle takes you through the sport you may have missed this week
 date: "2014-11-28 01:08:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280108-kmw13-199111.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280108-kmw13-199111.jpg"
 headline: true
 featured: true
 imported: true

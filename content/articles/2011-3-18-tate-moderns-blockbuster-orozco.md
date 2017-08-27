@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rocío Molina Atienza asks whether this high-class freak show is more than the art of drawing crowds
 date: "2011-03-18 08:39:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201103180838-ks607-blackkit.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103180838-ks607-blackkit.jpg"
 image_caption: "Black Kites (1997)"
 headline: true
 featured: true

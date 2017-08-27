@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A photography book chronicling Hepburn’s ascent to fame from 1953-1966 by her friend and renowned Hollywood photojournalist Bob Willoughby
 date: "2010-11-18 20:07:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182005-nm1010-phoneyyy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182005-nm1010-phoneyyy.jpg"
 headline: true
 featured: true
 imported: true

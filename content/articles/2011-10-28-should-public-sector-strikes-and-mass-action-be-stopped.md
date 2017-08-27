@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In this IC Debating Society head-to-head, James Clough and Ed Middleton argue over the implications of mass public sector protest
 date: "2011-10-28 00:44:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140127-sjw209-james-osama.jpg"
 headline: true
 featured: true
 imported: true
@@ -47,7 +47,7 @@ When they strike they hurt the public sector as a whole. They hurt the taxpayer.
 
 No - Ed Middleton
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
 
 It is important to make the distinction between whether public sector workers are making the right decision to strike at a certain time and whether they should be able to strike. Clearly no right-minded individual would advocate unnecessary or unreasonable striking, but I will aim to show you why it is important that striking is an option for those in the public sector.
 

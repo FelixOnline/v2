@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I was born in Kenya. I lived there until I was 10 years old. I learned to swear at someone in Kiswahili and Kikuyu. One of my fondest Kenyan memories is my first ever live cricket match at the Gymkhana Stadium in Nairobi. It was the 2003 World Cup and Sri Lanka were in town...
 date: "2013-11-08 03:46:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201311080921-felix-screen-shot-2013-11-08-at-09.21.15.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311080921-felix-screen-shot-2013-11-08-at-09.21.15.png"
 headline: true
 featured: true
 imported: true

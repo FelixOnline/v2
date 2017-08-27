@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A personal account on the more neglected side effects of the disease: Irritable Bowel Syndrome
 date: "2016-02-26 12:02:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261202-felix-_DSC0326.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261202-felix-_DSC0326.jpeg"
 image_caption: "We all know it’s unhealthy, but IBS is a lesser known consequence of anorexia."
 headline: true
 featured: true

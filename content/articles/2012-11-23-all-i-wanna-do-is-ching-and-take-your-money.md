@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We should pay for our own education – and our parents should have paid for theirs
 date: "2012-11-23 00:01:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
 image_caption: "Photo by Benjamin Lester"
 headline: true
 featured: true

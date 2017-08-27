@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A very personal account of the impact of this terrible disease
 date: "2011-06-09 21:34:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092234-felix-neur.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092234-felix-neur.jpg"
 image_caption: "Alzheimer’s causes neurons like these to become tangled by proteins, killing them"
 headline: true
 featured: true

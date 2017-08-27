@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jennifer Eden condemns the West’s lack of attention to post-war effects.
 date: "2016-10-07 18:02:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ Jump forward 26 years to the 2nd of August 2016, and the headline ‘RAF attacks
 
 What’s most unsettling about this headline is the eerie feeling of nostalgia it stirs; it’s a reminder of a time when we seemed so sure that nothing could be worse than Saddam Hussein, and to remove him would be to end all our problems. But although now we may be faced with a new and more resilient threat, there’s certainly a sense that not much has changed in 26 long years.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610101246-felix-Screen Shot 2016-10-10 at 12.43.28.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610101246-felix-Screen Shot 2016-10-10 at 12.43.28.png" title="" caption="" attr="" >}}
 
 For a significant proportion of this time the US, and by default the world, had one political dynasty as overseer – the Bush’s. George H. W. Bush (the 41st US president) was in power from 1989-1993 and his son George W. Bush (the 43rd US president) held power from 2001- 2009. One family in charge of the most powerful country in the world, instrumental in the meltdown of relations with Iraq which started with the defence of Kuwait in 1991. Some would go on to say that George W. Bush’s later invasion of Iraq in 2003 was putting right the ‘unfinished business’ from the last Bush administration. This came after there was evidence from the UN to suggest there had been an attempt, by Iraqi intelligence, to explode a car bomb on the streets of Kuwait. The target? George W. H. Bush. The assassination attempt would have undoubtedly influenced George W. Bush’s decision to invade in 2003; it would be a kind of revenge on the regime that tried to kill his father.
 
@@ -44,7 +44,7 @@ Without authorities who knew the people of Iraq, chaos quickly enveloped the cou
 
 Now they have no country left to dictate, they’re trying to create a new one with an even more ruthless regime than the one before it. And while the strategies and fabric of the Islamic State army may be different to that of the Baathists – now they use lone attacks as a form of warfare and have fighters from all over the world – so many things have remained the same. Mainly the people of Iraq and now Syria are still defined by unthinkable suffering, and anti-Western ideologies have only been amplified.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610101247-felix-Screen Shot 2016-10-10 at 12.43.41.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610101247-felix-Screen Shot 2016-10-10 at 12.43.41.png" title="" caption="" attr="" >}}
 
 In George W. Bush’s now infamous speech putting forward the case for the invasion of Iraq, he reads “By our courage, we will give hope to others. And by our actions, we will secure the peace and lead the world to a better day”.
 

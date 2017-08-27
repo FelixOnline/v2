@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fostering social change through technology
 date: "2013-11-13 22:49:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311132249-me1711-tech_crtl.jpg"
 headline: true
 featured: true
 imported: true

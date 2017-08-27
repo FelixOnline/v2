@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102018-pk1811-252_5283.jpg"
 image_caption: "Wilson House"
 headline: true
 featured: true

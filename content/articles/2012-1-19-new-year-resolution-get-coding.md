@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Cook suggests something new for us all to try this 2012 - fret not, coding's actually easier to pick up than you think!
 date: "2012-01-19 20:16:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
 image_caption: "A representation of how you look to others when you are a knowledgable computing lecturer"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews Inherent Vice
 date: "2015-02-03 15:02:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031502-ps3110-inherent-vice-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031502-ps3110-inherent-vice-cmyk.jpg"
 headline: true
 featured: true
 imported: true

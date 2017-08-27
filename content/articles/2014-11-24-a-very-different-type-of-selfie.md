@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles checks out photographs down at the National Portrait Gallery
 date: "2014-11-24 12:24:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
 image_caption: "Konrad Lars Hastings Titlow, by David Titlow"
 headline: true
 featured: true

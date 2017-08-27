@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports after online trolls voted over 2,000 times within the space of 2 hours
 date: "2015-06-19 13:19:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
 headline: true
 featured: true
 imported: true

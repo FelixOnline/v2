@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett gives us an exciting history lesson about the Higgs boson and how its existence was finally confirmed last year
 date: "2013-10-18 20:57:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182157-jal08-impression-of-higgs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182157-jal08-impression-of-higgs.jpg"
 image_caption: "Impression of Higgs Boson"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vogue 100: A Century of Style is a celebration of history and what made it beautiful
 date: "2016-02-19 12:11:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
 image_caption: "Anne Gunning in Jaipur by Norman Parkinson, 1956."
 headline: true
 featured: true

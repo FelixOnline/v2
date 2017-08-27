@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks back at Mervyn Peake’s gothic masterpiece
 date: "2012-05-10 19:46:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102045-ams111-titus-groan-large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102045-ams111-titus-groan-large.jpg"
 image_caption: "Peake’s haunting illustrations are a major asset of the series"
 headline: true
 featured: true

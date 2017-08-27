@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In a shocking defeat for UEL, Imperial’s 2nd XV return triumphant with a 65-0
 date: "2015-11-13 15:06:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131502-cet13-fb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131502-cet13-fb.jpg"
 image_caption: "The team had a victory so great, it was almost embarrassing"
 headline: true
 featured: true

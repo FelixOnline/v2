@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Medical Student Suha Bachir discovers how to balance a successful academic career with teaching, and even editing!
 date: "2011-04-07 21:06:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201104072208-ks607-pr-siegelman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104072208-ks607-pr-siegelman.jpg"
 image_caption: "Professor Siegelman in his office at Johns Hopkins "
 headline: true
 featured: true

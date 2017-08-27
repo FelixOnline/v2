@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
 image_caption: "An artist’s impression of the new bar, and you have a chance to help decide its name."
 headline: true
 featured: true

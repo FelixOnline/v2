@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Beioley reviews the London Climate Forum
 date: "2012-11-29 21:57:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
 image_caption: "Photo by Sonali Campion"
 headline: true
 featured: true
@@ -40,7 +40,7 @@ The world is warming, we’re responsible, 6 degrees C is looking increasingly l
 
 The Trillion Fund was next on the agenda, with Michael Stein, Founder and Director taking the stage, with exuberance and clear passion. Crowd-funding is his game and he knows what he’s doing when it comes to money in the renewable sphere. He set the scene with a succinct analysis of the recent Arab Spring motion: “Has anybody made the connection with climate change and the Arab Spring? I have – it’s the first climate revolution” was his punchline piece, detailing how burnt-out Russian crops leading to rising food prices had more than likely been the trigger for the pouring over of a boiling pot of repression in the Middle East.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211292201-tna08-ebrahim-.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211292201-tna08-ebrahim-.jpg" title="" caption="" attr="" >}}
 
 Michael sees the value in our online connected world, and has begun utilising it to kickstart renewable projects worldwide, with the investing public not only receiving sizable, and more importantly reliable, returns (10-15% was oft-quoted) but having the knowledge they had directly helped build a wind turbine or solar farm somewhere it is needed; think ‘Kickstarter’ but with a renewable twist.
 
@@ -56,7 +56,7 @@ Sunday was a day where futurists and ‘blue-sky’ thinkers could relish in the
 
 The morning keynote set the scene, as James Cameron (not that one), Founder and non-executive Chairman of Climate Change Capital, member of GE’s ecomagination board, advisor to government and so much more opened with some powerfully simple notions. Sustainability is only going to work if it is beautiful – “nobody ever feels punished standing in a green and energy-efficient building”. His follow up point – green looks good the majority of the time, even if you subscribe to the belief that wind turbines are ugly, and we feel good being around them. It’s an undeniable truth, and not something just reserved for the techy geeks.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211292159-tna08-winny.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211292159-tna08-winny.jpg" title="" caption="" attr="" >}}
 
 Innovation, infrastructure and information were his three key in-need-of-improvement areas, all of them arising from his work within the UK, but undoubtedly applicable many times over elsewhere. Our infrastructure sucks, there’s no two ways of saying it, but if we smarten it up in the endless ways we could, we could become a leader in green energy worldwide, almost overnight.
 
@@ -68,7 +68,7 @@ Anne Lise Kjaer went on to describe our disconnection with improving our quality
 
 As the final day drew to a close, Jeremy Leggett, Professor Nigel Brandon and Dr Ling Ge tackled the future of energy mixes and the technology we could see directing us on a cleaner path, such as space-age battery storage, Solar Century PV projects and hydrogen deployment, as well as the broader cost and social complications associated.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211292200-tna08-food-talk-lcf.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211292200-tna08-food-talk-lcf.jpg" title="" caption="" attr="" >}}
 
 “You can ask any engineer to design you a low-carbon energy system and they could do it today without issue; it’s just the cost which stops us” was Nigel’s message to us all, and one that strikes at the very heart of the problem. However, it wasn’t left at that, and as any good climate panel should it was argued fervently by Jeremy that it is the social and political willingness which is truly acting as the final nail. We need more guts, more action and more aggressive approaches if we are to bulldoze down the barriers in our way.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rooms will be for returning undergraduates only
 date: "2016-03-11 11:18:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
 headline: true
 featured: true
 imported: true

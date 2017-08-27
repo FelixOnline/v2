@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray is not talking about Bullet For My Valentine
 date: "2013-02-01 00:52:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010052-tna08-img_0186.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010052-tna08-img_0186.jpg"
 headline: true
 featured: true
 imported: true

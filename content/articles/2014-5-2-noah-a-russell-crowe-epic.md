@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The sweeping, captioned opening of Darren Aronofsky’s Noah is reminiscent of its cinematic heritage, the Biblical epics of years past, all elegantly flowing cursive script and delicately composed shots, until it promptly swoops down to the dark brutality of humanity.
 date: "2014-05-02 01:17:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020217-jal08-140327-140327-ark-in-noah-movie-1507_ef0081593211917681d3878b39722bb8.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020217-jal08-140327-140327-ark-in-noah-movie-1507_ef0081593211917681d3878b39722bb8.jpg"
 headline: true
 featured: true
 imported: true

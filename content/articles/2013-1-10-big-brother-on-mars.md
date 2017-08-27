@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Reality TV fan? Edward Bals on the potential Mars One TV show
 date: "2013-01-10 22:13:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102212-csw09-mars_one.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102212-csw09-mars_one.jpg"
 image_caption: "The major issue faced is how people will be evicted from the show"
 headline: true
 featured: true

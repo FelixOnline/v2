@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kicking back on a luxury rice boat in the heart of Kerala
 date: "2012-05-25 18:15:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201205251915-mc4509-boat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251915-mc4509-boat.jpg"
 image_caption: "Nope, this boat doesn’t come equipped with its own T-Pain (real name Faheem Rasheed Najm)"
 headline: true
 featured: true

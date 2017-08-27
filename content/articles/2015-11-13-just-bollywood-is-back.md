@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ten teams are ready to fight to become the 2015 Champion
 date: "2015-11-13 14:48:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131447-ygr12-bollywood.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Be persuasive. Be brave. Be arrested (if necessary)” says Jeremy Grantham
 date: "2012-12-07 00:01:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070001-tna08-grantham-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070001-tna08-grantham-picture.jpg"
 headline: true
 featured: true
 imported: true

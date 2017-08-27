@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-20 15:08:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
 headline: true
 featured: true
 imported: true

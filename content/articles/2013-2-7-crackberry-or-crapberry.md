@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl looks at the fortunes of a different fruity company
 date: "2013-02-07 23:47:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
 headline: true
 featured: true
 imported: true

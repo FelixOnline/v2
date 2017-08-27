@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Five teams through to BP's Ultimate Field Trip Challenge
 date: "2010-02-07 03:27:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002070321-ak6309-Ultimate.jpg"
 headline: true
 featured: true
 imported: true

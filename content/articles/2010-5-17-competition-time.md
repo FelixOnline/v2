@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Win 2x tickets to see Yeasayer &amp; Silver Columns playing on the 19th May (venue to be announced)
 date: "2010-05-17 17:17:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201005171813-felix-yeasayer.jpg"
 headline: true
 featured: true
 imported: true

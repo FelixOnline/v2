@@ -4,7 +4,7 @@ title: >
 subtitle: >
   President says teaching review should be dealing with effects of restructure
 date: "2011-02-24 19:46:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271758-ks607-profiano.jpg"
 image_caption: "Professor Ian Owens announced the teaching review in a meeting with students"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope stops the bad puns and talks Eurogamer ‘11
 date: "2011-10-07 12:19:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ The Kinect and its kids
 
 OK, I admit, you were very unlikely to miss the stalls featuring a [Kinect](http://www.youtube.com/watch?v=KMQmnp6GTJ8) – you just had to look for those people jumping about as if their skin was crawling with flesh-eating fire ants. [Just Dance 3](http://www.youtube.com/watch?v=QRnMHfaIsHg) (Ubisoft), [Dance Central 2](http://www.youtube.com/watch?v=wQv-OEjh1So) (Harmonix Music Systems) and the infuriatingly addictive [Fruit Ninja](http://www.youtube.com/watch?v=UzsmDfKzk7M) (Halfbrick Studios) were just a few of the games offering people the chance to embarrass themselves in public. At £70+ though the Kinect is still a rather expensive party piece (that was the cheapest price I could find it for online, pre-owned). In my humble opinion it’s not worth the money unless you’ve got a group of friends who you can invite round regularly to mess about with. Bitter misanthropes such as myself would do well to invest their dosh elsewhere.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110071319-felix-kinect-003.jpg" title="The Kinect – all it's cracked up to be? " caption="The Kinect – all it's cracked up to be? " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110071319-felix-kinect-003.jpg" title="The Kinect – all it's cracked up to be? " caption="The Kinect – all it's cracked up to be? " attr="" >}}
 
 Tekken Hybrid
 

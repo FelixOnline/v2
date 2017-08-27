@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets
 date: "2011-10-27 22:40:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272335-felix-rim-holds-developers-conference-blackberry-devcon2010-15.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272335-felix-rim-holds-developers-conference-blackberry-devcon2010-15.jpg"
 image_caption: "Mike Lazaridis, founder and co-CEO of RIM, the creators and manufacturers of the BlackBerry"
 headline: true
 featured: true

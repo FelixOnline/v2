@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As Imperial's University Challenge team look to secure a place in the semis, Jia-Ou Song talks to the boys.
 date: "2010-02-12 01:52:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201002120149-rsp07-universt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002120149-rsp07-universt.jpg"
 headline: true
 featured: true
 imported: true

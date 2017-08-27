@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students considering withholding rent
 date: "2017-02-17 14:27:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171425-felix-16780613_1266504760130830_432648682_n.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171425-felix-16780613_1266504760130830_432648682_n.png"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ But these are just extreme examples in a string of persisting issues. The plight
 
 “Over time it has become clear that the problems which at first were minor have now become a part of our daily lives and are increasingly more dangerous. In the past week alone the washing machines flooded, the internet was down for three days and I have been served gone off food. Aside from these temporary annoyances, there are many long term issues which repeatedly get patched up only to go wrong again further down the line, but this time ten times worse. Sinks and showers do not drain properly the consequences of which at first were floods, then mould growing on the walls (which is not the best when you are asthmatic), and finally the leaking water filled all the lights in the bathrooms and stopped them from working. It was lucky no one got electrocuted”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702171427-felix-Screen Shot 2017-02-17 at 14.27.01.png" title="Left ,mould in bathroom; Right ,Floodmark" caption="Left ,mould in bathroom; Right ,Floodmark" attr="Mark Pollock" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702171427-felix-Screen Shot 2017-02-17 at 14.27.01.png" title="Left ,mould in bathroom; Right ,Floodmark" caption="Left ,mould in bathroom; Right ,Floodmark" attr="Mark Pollock" >}}
 
 The poor living conditions have led to the creation of a Facebook page dedicated to memes trying to make light of the situation. Some students however are considering serious action involving withholding rent like their counterparts have been doing at UCL.
 

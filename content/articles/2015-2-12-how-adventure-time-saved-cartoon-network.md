@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tom Rivlin reviews the highlights of an absolutely crazy cartoon
 date: "2015-02-12 23:19:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
 headline: true
 featured: true
 imported: true

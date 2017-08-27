@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rocío Molina on the tough process that it takes to produce great art
 date: "2013-02-13 16:43:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131643-tna08-la-foto.jpg"
 headline: true
 featured: true
 imported: true
@@ -47,4 +47,4 @@ If you as curious about the end of this story as me, the show opens next week Th
 
 _Opening party on Febuary 19th 8pm, Blythe Gallery, Sherfield Level 5._
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302131639-tna08-artsfest-feb-ents-13-.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302131639-tna08-artsfest-feb-ents-13-.jpg" title="" caption="" attr="" >}}

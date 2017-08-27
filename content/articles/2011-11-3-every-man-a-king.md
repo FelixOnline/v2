@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “How can you defend a country where 5% of the people control 95% of the wealth?” postulates Comrade Juggernutx
 date: "2011-11-03 21:11:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032110-pk1811-anonymous1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032110-pk1811-anonymous1.jpg"
 image_caption: "This guy has obviously been silenced by a 1 dollar bill. Quite a bit cheap, really."
 headline: true
 featured: true
@@ -40,7 +40,7 @@ Comrades, we have been cheated! Still nowadays, every worker in this country pay
 Thus, why shouldn’t the bankers in London, who are but leeches that build their wealth simply by moving money around, be taxed more? Why shouldn’t the bankers, who caused the global financial meltdown in 2008, rescued by taxpayer money, and paying out huge bonus, be taxed more?
  Furthermore, when health care industries make a mistake, they apologise! When engineering industry causes trouble, they apologise! When construction industry causes an accident, they apologize! Then, how come the financial industry, which caused the global financial meltdown and, thus, many of our sufferings, do not even apologise for their reckless behaviour?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032111-pk1811-anonymous2.jpg" title="A random comrade with a Guy Fawkes mask (ironically, Guy Fawkes was a Catholic reactionary), occupying a City Hall somewhere" caption="A random comrade with a Guy Fawkes mask (ironically, Guy Fawkes was a Catholic reactionary), occupying a City Hall somewhere" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032111-pk1811-anonymous2.jpg" title="A random comrade with a Guy Fawkes mask (ironically, Guy Fawkes was a Catholic reactionary), occupying a City Hall somewhere" caption="A random comrade with a Guy Fawkes mask (ironically, Guy Fawkes was a Catholic reactionary), occupying a City Hall somewhere" attr="" >}}
 
 And instead, they ask for help from the central bank, for the government to bail them out, for the taxpayers who they despise to pay for their own stupidity. They claimed that if we didn’t help them, the Great Depression would happen again; those words came from the same ones not so long ago claimed economic cycles had disappeared! And us, poor idiots, just agreed to help them. And so we have to face huge inflation as a consequence of our help, and while our money becomes less worthy as time passed by, they still maintain their bonuses and outrageous earnings as if nothing had happened!
 

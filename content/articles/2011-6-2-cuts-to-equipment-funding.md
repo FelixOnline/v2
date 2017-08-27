@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Funding for equipment costing between £10,000 and £121,000 will see a 50% cut
 date: "2011-06-02 18:14:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021911-felix-apprenticeship-10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021911-felix-apprenticeship-10.jpg"
 headline: true
 featured: true
 imported: true

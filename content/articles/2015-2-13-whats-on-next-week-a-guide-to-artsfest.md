@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A short guide to the events taking place next week.
 date: "2015-02-13 14:41:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
 image_caption: "IC Big Band will play from Queen's Tower on Monday"
 headline: true
 featured: true

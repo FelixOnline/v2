@@ -4,7 +4,7 @@ title: >
 subtitle: >
   January saw Imperial Cricket take on a variety of university teams
 date: "2012-02-16 23:38:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162333-sjw209-cricket.jpg"
 image_caption: "The ladies in front of the pavillion end... Howzat!"
 headline: true
 featured: true

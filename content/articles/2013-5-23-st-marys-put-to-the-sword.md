@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICUCC continue on their successful season
 date: "2013-05-23 21:33:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232234-tna08-942774_527955110594822_767625679_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232234-tna08-942774_527955110594822_767625679_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,14 +28,14 @@ In a near-repeat performance of his previous match as captain, stand-in skipper 
 
 Looking absolutely “village” sporting a sun-hat and basketball sneakers along with a standard revision-paunch, he proceeded to systematically dismantle the opposition’s bowling attack, taking a particular liking to a certain legspinner who hence finished with 1 for 61 off his 10 overs. Ironically, that one wicket was that of Siddharth himself, who had made his way to 49 off 42 balls without realising how close he was to a half-century. He hence attempted to heave a flighted delivery, only to pop it up straight in the air for a straightforward catch, breaking the hearts of his teammates and inducing a rare smile from the opposition. Some ordinary batting followed before Juhin finally fell after his long vigil.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305232235-tna08-946347_527954670594866_1130295325_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305232235-tna08-946347_527954670594866_1130295325_n.jpg" title="" caption="" attr="" >}}
 
 Shezad Ahmed played a handy knock down the order with most of the tail for company. He batted with the classic elegance of a left-hander, firm in defence against good balls but very severe on those in the hitting zone, with most of such deliveries being promptly dispatched over cow corner. A few heart-in-mouth moments occurred, particularly with Shezad and Darshan “Zombie” Patel being dropped off successive deliveries. Finally, with the perfect forward defence of Simon Mitchell holding up one end, Shezad struck a few lusty blows to finish not out on 39. Imperial posted a daunting 207 for 9, which we felt was more than enough to defend with our bowling attack.
 
 The second innings was anchored by one of the opposition’s opening batsmen, who finished with a hard-fought 57. After his whirlwind knock down the order, Shezad took the first wicket following a good accurate spell of bowling, and he was ably supported by Simon from the other end, who toiled hard on an unhelpful track. The balance was shifting ever so slightly towards our opposition, but the introduction of spin changed that completely. Makhan Gill helped himself to a wicket, before Siddharth capped off a Man-of-the-match peformance with 4 for 29 off 8 overs. The captain Vignesh took the responsibility of bowling to the two set batsmen from the other end and dismissed both the set opener for 57 as well as a middle-order stalwart for 32, finishing with figures of 4 for 23 off 8.5 overs. Barring a couple of misfields and some tough chances put down by Siddharth, the fielding display was generally imperious, and ultimately it was a long spell of quick, quiet overs which delieverd the victory for ICUCC as St.Mary’s crumbled to 149 all out.
 ## Impeccable Imperial 2’s
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305232234-tna08-431954_527954947261505_1740031547_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305232234-tna08-431954_527954947261505_1740031547_n.jpg" title="" caption="" attr="" >}}
 
 On a fine English summer’s day –with temperatures soaring to 10 degrees, 11 of the bravest and fiercest Imperial cricketers stepped onto the sacred Harlington turf we call home to battle UCL, led by the one and only Will Baker. With heavy cloud cover and strong winds, UCL were put into bat.
  We were looking to improve on our start against them last year – 7 runs 0 balls bowled. It didn’t prove to be too difficult. The tone of the game was set in the third over when Viggy Venkateswaran castled their only batsman with a loopy full toss. From then on Umar Minhas kept pegging away at the tail – picking up the only decent wickets – while the spinners kept beating the batsmen with their flight – difficult to judge after the second bounce – the special wicket taking ball in Viggy Venkataraman’s arsenal. Ganesh Kumar was steaming in the whole way through – with some good overs and then showing us all how a catch should really be taken!

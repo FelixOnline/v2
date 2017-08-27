@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mohammad Mirza finds a fat slice of Brooklyn in Shepherds Bush
 date: "2013-02-01 00:49:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
 headline: true
 featured: true
 imported: true

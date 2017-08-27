@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Windwaker HD is a welcome addition to the Wii U
 date: "2013-10-16 14:11:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201310161511-me1711-games_wiwa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310161511-me1711-games_wiwa.jpg"
 headline: true
 featured: true
 imported: true

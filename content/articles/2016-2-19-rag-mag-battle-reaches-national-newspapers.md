@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Daily Mail and Evening Standard both publish news stories on the banned magazine's 'sexism'
 date: "2016-02-19 11:07:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
 headline: true
 featured: true
 imported: true

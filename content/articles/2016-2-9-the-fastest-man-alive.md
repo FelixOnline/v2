@@ -4,7 +4,7 @@ title: >
 subtitle: >
   One of the finest comic book adaptations on the small screen
 date: "2016-02-09 13:25:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602091324-sa8713-the-flash.jpg"
 draft: true
 headline: true
 featured: true

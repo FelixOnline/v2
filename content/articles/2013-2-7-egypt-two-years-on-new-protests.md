@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Padraic Calpin looks at the parallels in this Egyptian government and the last
 date: "2013-02-07 23:15:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
 headline: true
 featured: true
 imported: true

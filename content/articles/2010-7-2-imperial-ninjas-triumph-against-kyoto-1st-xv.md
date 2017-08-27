@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Espedrille and Peregrin report on the ICURFC 1st XV win against Kyoto University
 date: "2010-07-02 11:17:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201007021209-jn104-Kyoto1st.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201007021209-jn104-Kyoto1st.jpg"
 headline: true
 featured: true
 imported: true

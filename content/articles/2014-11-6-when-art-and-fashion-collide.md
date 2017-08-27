@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An Exploration of the History of the Relationship Between Fine Art, Fashion, and Commerce by Fred Fyles
 date: "2014-11-06 21:34:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062132-snb11-ysl-warhol.gif"
 image_caption: "Yves Saint Laurent - Andy Warhol. 1974"
 headline: true
 featured: true

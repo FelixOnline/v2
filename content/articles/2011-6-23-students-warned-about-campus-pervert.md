@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Student photographed in Central Library bathrooms
 date: "2011-06-23 18:55:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232044-felix-img_4918.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232044-felix-img_4918.jpg"
 image_caption: "2nd floor ladies toilets"
 headline: true
 featured: true

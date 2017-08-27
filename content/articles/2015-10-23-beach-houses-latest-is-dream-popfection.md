@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX takes a look at their second offering of the year
 date: "2015-10-23 11:51:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231251-ygr12-beachhouse.jpg"
 image_caption: "Dolls aren’t only for girls - fuck gender stereotypes"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Passionate and cool: not just another film about boxing...
 date: "2011-02-10 20:48:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102045-dr910-thefight.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102045-dr910-thefight.jpg"
 headline: true
 featured: true
 imported: true

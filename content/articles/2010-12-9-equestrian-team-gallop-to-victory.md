@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial see off rivals Oxford, the LSE and Brunel
 date: "2010-12-09 20:10:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092008-ac1507-equestri.jpg"
 headline: true
 featured: true
 imported: true

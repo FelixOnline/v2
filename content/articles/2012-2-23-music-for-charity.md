@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Raincatcher Imperial hosts a night at Metric in the name of charity
 date: "2012-02-23 21:42:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
 image_caption: "Raincatcher Imperial took over Metric last year as well"
 headline: true
 featured: true

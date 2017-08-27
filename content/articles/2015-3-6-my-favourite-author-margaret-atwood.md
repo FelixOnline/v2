@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes us through the work of his favourite writer
 date: "2015-03-06 13:10:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
 image_caption: "Canadian author Margaret Atwood"
 headline: true
 featured: true

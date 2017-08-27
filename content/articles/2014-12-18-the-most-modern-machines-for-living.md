@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles checks out the Constructing Worlds at the Barbican Centre
 date: "2014-12-18 15:31:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212222-ps3110-rsz_24_simon_norfolk_former_soviet-era_palace_of_culture_kabul_2001-02_courtesy_simon_norfolk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212222-ps3110-rsz_24_simon_norfolk_former_soviet-era_palace_of_culture_kabul_2001-02_courtesy_simon_norfolk.jpg"
 headline: true
 featured: true
 imported: true

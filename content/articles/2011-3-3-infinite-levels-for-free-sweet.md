@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Cook talks procedural generation, and how it makes level creation easy
 date: "2011-03-03 06:19:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030618-ks607-day4make.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shaul Rosten explains why Donald Trump’s candidacy isn’t much of a surprise after all
 date: "2016-10-28 14:59:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ Lots of people, over lots of conversations, have their own answer for this. Bruc
 
 The Republican Party traditionally stands on the Conservative Right of American politics, espousing policies such as free markets, deregulation and traditional Christian values, against the Democrats, who believe in liberalist policies of mixed economies, civil liberties, and social justice. These divisions, and the arguments on both sides, are important ones, and it is the political wrestling of nations between a range of approaches that results in countries taking steps forward, using a diverse collection of ideas and methods.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311320-felix-Screen Shot 2016-10-31 at 13.20.18.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311320-felix-Screen Shot 2016-10-31 at 13.20.18.png" title="" caption="" attr="" >}}
 
 >  This election is the inevitable outcome of years of what I would term ‘Republican Low-Road-ism’
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Student loses £70 to a man near campus
 date: "2012-10-11 20:20:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
 image_caption: "DAMMIT MICKEY"
 headline: true
 featured: true

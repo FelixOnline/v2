@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Step into the world of Japan with MUJI
 date: "2012-03-15 20:13:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152006-ig711-l1010502.jpg"
 image_caption: "The cost-cutting decision to construct open toilets in one corner of the exhbition was not widely we"
 headline: true
 featured: true

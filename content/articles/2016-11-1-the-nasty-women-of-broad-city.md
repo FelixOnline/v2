@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They're not likable, they're not strong and independent, they're real
 date: "2016-11-01 00:02:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
 headline: true
 featured: true
 imported: true

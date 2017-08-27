@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A real clash of the titans as Imperial journey to Oxford
 date: "2011-11-24 23:40:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242340-felix-dscf2180.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242340-felix-dscf2180.jpg"
 headline: true
 featured: true
 imported: true

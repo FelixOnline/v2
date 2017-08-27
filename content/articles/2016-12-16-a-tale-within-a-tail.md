@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ipsita Herlekar reveals the secrets of a well preserved dinosaur fossil
 date: "2016-12-16 14:39:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
 headline: true
 featured: true
 imported: true

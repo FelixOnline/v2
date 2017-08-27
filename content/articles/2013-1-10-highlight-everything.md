@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caroline Wood on The Good, The Bad and The Ugly of studying
 date: "2013-01-10 22:32:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102225-tna08-highlight-in-books.jpg"
 headline: true
 featured: true
 imported: true

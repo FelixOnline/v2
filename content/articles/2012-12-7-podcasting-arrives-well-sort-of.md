@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Some have it, some don't
 date: "2012-12-07 00:53:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070051-tna08-deepka-podcast.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070051-tna08-deepka-podcast.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ The Panopto lecture recording suite is being implemented over a three year plan 
 
 Video podcasts can help students consolidate their learning, particularly students whose first language is not English or those who find note taking difficult. The scheme should ideally be available to all students, both undergraduates as well as taught postgraduates; especially as this academic year the number of incoming postgraduates exceeded undergraduates.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070055-tna08-podcast-lizzy.jpg" title="" caption="" attr="Credit: Lizzy Griffiths" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070055-tna08-podcast-lizzy.jpg" title="" caption="" attr="Credit: Lizzy Griffiths" >}}
 
 The College is behind international competitors such as MIT in the delivery of video lectures. Other UK institutions such as Cambridge, UCL, Manchester and Oxford have podcasts and video lectures to aid in learning. Manchester is one of the Universities that was shortlisted for the Times Higher Education Awards 2012 for the Outstanding ICT Initiative of the Year award. Furthermore, Manchester is also running workshops to educate participants about the best practice in the use of lecture capture in teaching and learning.
 
@@ -41,7 +41,7 @@ Felix caught up with the Chemistry Department to learn about the use of technolo
 
 Doug Hunt, Deputy President (Education) said: “Other Russell Group Universities are offering audiovisual lecture podcasts to their students and to stop Imperial students being dissatisfied, we should be installing it across our lecture theatres as quick as possible, while putting enough resources behind training academics to use it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070052-tna08-podcast-screenshot.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070052-tna08-podcast-screenshot.jpg" title="" caption="" attr="" >}}
 
 It needs to be rapidly rolled out to prevent some students in certain departments and years who are not receiving it, becoming disgruntled andthe College needs to handle its implementation, the best it can by effectively communicating with all students on this issue.”
 

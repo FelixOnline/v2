@@ -4,7 +4,7 @@ title: >
 subtitle: >
   3 out of 5, by Daniel Beatrup
 date: "2010-12-09 20:23:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092021-ma1307-Thedrums.jpg"
 headline: true
 featured: true
 imported: true

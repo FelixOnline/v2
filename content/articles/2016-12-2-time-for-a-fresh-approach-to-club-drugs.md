@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The success of the #saveourculture campaign has led to the reopening of fabric, but has an opportunity been missed to rationalise the approach to drug-related harm in clubs?
 date: "2016-12-02 14:48:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021448-felix-1231440162_87964caa18_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021448-felix-1231440162_87964caa18_o.jpg"
 headline: true
 featured: true
 imported: true

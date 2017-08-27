@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dogs during exam season proves huge hit with engineers
 date: "2016-06-10 08:12:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101012-felix-pups.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101012-felix-pups.jpg"
 headline: true
 featured: true
 imported: true

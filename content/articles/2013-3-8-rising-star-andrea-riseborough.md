@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Welcome to the Punch
 date: "2013-03-08 00:02:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
 headline: true
 featured: true
 imported: true

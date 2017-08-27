@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sex and Puppets will be at the Brainchild and Shambala Festival, summer 2017. National tour announced later.
 date: "2017-05-19 15:07:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
 image_caption: "Acts in Sex and Puppets"
 headline: true
 featured: true

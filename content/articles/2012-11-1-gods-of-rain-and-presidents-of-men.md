@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sandy has ravaged the Eastern coast of America, caused $20billion worth of damage and left millions of Americans without power. Alexander Soloviev discusses its impact on the presidential campaigns and next Tuesday’s vote.
 date: "2012-11-01 22:42:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012242-csw09-hurricane-sandy.jpg"
 image_caption: "A visual metaphor for Mit Romney's campaign"
 headline: true
 featured: true

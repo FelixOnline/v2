@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles witnesses the destruction
 date: "2013-10-25 00:17:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250117-felix-artartunderattack.jpg"
 image_caption: "Chair (1969) by Allen Jones was attacked with paint stripper in 1986 by feminist campaigners. It is "
 headline: true
 featured: true

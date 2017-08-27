@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim questions whether eating burnt food poses a risk to health, and how these could be avoided
 date: "2016-12-09 12:08:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ The perennial question. You notice that slightly-too-blackened edge of your frie
 
 Foods cooked at high temperatures for too long end up harbouring a molecule called ‘acrylamide’. Although it is known to be a toxin, the link between consuming it in food and developing cancer is less clear. Acrylamide itself is formed in a reaction between the naturally occurring amino acid asparagine, and carbohydrates. It does not matter whether or not the food is organic, but there is a definite correlation between high temperatures and acrylamide formation. That aside, a review in 2015 showed that “dietary acrylamide” is not related to the risk of the most common cancers; but a modest association with kidney, endometrial and ovarian cancers in people who had never smoked, couldn’t be ruled out. Interestingly, recent studies have proven that acrylamide formation is associated more with carbohydrates rather than protein-rich foods, such as pasta, bread or potatoes, that are fried, baked or roasted at temperatures above 120 degrees Celsius.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612091208-aib116-meat-1817316_1920.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612091208-aib116-meat-1817316_1920.jpg" title="" caption="" attr="" >}}
 
 Hold on just a second, though. Although acrylamide is more likely to occur in these foods, it has also been shown that meat tends to harbour other more dangerous compounds. These generally fall into two classes: PAHs (polycyclic aromatic hydrocarbons) and HCAs (heterocyclic amines). Studies have shown there could indeed be a link between frying or barbecuing meat and a higher risk of cancer, because these cooking techniques increase the formation of PAHs and HCAs.
 

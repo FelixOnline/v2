@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Impress, intimidate, then lose your friends (and get some better ones), by being a total git about The Arts (capitalised, don’t you know?)
 date: "2010-10-01 21:17:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
 image_caption: "Get some opinions, and stick to them no matter what!"
 headline: true
 featured: true

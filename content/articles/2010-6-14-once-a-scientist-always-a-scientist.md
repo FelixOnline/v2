@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After studying Physics for 4 years and completing a PhD in Neuroscience, Valeria Del Prete (a.k.a Double Thumb) quit academia to pursue her dream of making music
 date: "2010-06-14 10:35:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201006141131-ks607-DoubleTh.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201006141131-ks607-DoubleTh.jpg"
 headline: true
 featured: true
 imported: true

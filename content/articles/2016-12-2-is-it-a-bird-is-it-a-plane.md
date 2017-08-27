@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yeah, it’s a plane
 date: "2016-12-02 16:45:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021644-felix-1.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021644-felix-1.JPG"
 headline: true
 featured: true
 imported: true
@@ -38,4 +38,4 @@ At Parham, any strong northerly wind will be deflected up the hills, providing r
 
 Gliding is definitely not for impatient or comfort seeking types, rather we’re all motivated and recognise the pleasures helping out on the airfield as well as flying. Above all, the sport is a continuous learning process and a lot of fun. The trip was a huge success, with both returning members of the club making progress in their training and new members discovering the thrills of gliding. We’d like to give our huge thanks to Tom and Guy for towing and instructing, and to the Southdown gliding club for their hospitality.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021645-felix-6.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021645-felix-6.jpg" title="" caption="" attr="" >}}

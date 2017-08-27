@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey explores the beauty in fashion for the plus-size woman, and the politics behind it
 date: "2015-03-25 12:06:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251206-ff712-tessmunster2.jpg"
 image_caption: "Tess Munster, one of the world's leading plus-size models"
 headline: true
 featured: true

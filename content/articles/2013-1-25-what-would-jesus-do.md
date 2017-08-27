@@ -4,7 +4,7 @@ title: >
 subtitle: >
   For nonbelievers to properly engage wth Christians, they must learn about the life of Jesus, says Tom Ravalde
 date: "2013-01-25 01:42:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250142-tna08-jesus-christ.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250142-tna08-jesus-christ.jpg"
 headline: true
 featured: true
 imported: true

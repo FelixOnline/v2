@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Language may just have more of an effect on how you behave than you originally thought
 date: "2011-10-28 00:09:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
 image_caption: "Ancient Greeks called the sea “black” because they had no word for blue"
 headline: true
 featured: true

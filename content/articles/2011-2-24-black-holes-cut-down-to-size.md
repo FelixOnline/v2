@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shrinking black holes have come down to 1/10th of their previous size
 date: "2011-02-24 20:12:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242011-nm1010-blackbla.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242011-nm1010-blackbla.jpg"
 headline: true
 featured: true
 imported: true

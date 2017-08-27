@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster ponders the alpha of the next-gen pack
 date: "2013-02-28 17:48:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201302281741-txl11-dualshock-4-controller-800x600.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302281741-txl11-dualshock-4-controller-800x600.jpg"
 image_caption: "Maybe not the final thing, but it sure does look nice."
 headline: true
 featured: true

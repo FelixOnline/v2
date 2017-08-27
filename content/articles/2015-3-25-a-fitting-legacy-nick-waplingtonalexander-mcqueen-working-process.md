@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the Tate Britain’s new photography exhibition, showcasing McQueen’s final collection
 date: "2015-03-25 13:34:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251332-ff712-waplington_2.jpg"
 image_caption: "Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process "
 headline: true
 featured: true

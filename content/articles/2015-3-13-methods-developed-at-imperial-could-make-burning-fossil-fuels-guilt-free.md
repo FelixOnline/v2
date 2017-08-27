@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe on converting waste carbon dioxide into useful materials
 date: "2015-03-13 00:39:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
 image_caption: "Ferrybridge Powerstation, UK, where the experiments took place"
 headline: true
 featured: true

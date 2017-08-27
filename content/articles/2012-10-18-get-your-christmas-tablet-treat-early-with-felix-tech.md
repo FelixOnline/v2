@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl compares four of the latest student friendly tablets to buy before the Christmas rush: pre-order before Halloween!
 date: "2012-10-18 20:59:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210191349-mc4509-final-ipad.jpg"
 image_caption: "We apologise to any Apple fanboys who just ejaculated all over their keyboard "
 headline: true
 featured: true
@@ -48,7 +48,7 @@ your search for the perfect app. The question is, with Apple’s constant fragme
 Now to the price. If you’re thinking, I want it, how much do I have to spend? I’ll tell you that the price bandied around on the internet is quite intriguing! For different memory sizes (8GB, 16GB and 32GB) the web states a price in the range of £180 to £250! That’s right guys you could own an iPad for less than 200 quid! Now, if you are already mentally running to the Apple store in Regent Street, I have one last caveat: the release date! Sadly, we do not know the exact release date, as it seems production problems are haunting Apple’s production of the Mini, but with a new Apple conference titled “we have a little more to show you” on 23rd October, we’re pretty sure it’s then.
 ## Kindle Fire HD
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210211508-jp1409-final-kindle-fire.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210211508-jp1409-final-kindle-fire.jpg" title="" caption="" attr="" >}}
 
 The original Kindle convinced everyone that ebooks were a winner, the Kindle Fire convinced everyone low-budget tablets could work. The question is now, does the Kindle Fire HD have enough to convince you to buy it? Well that is up to you, but here I’ll give you the juicy details to help you make your choice!
 
@@ -67,7 +67,7 @@ expected. It’s in the app department where Amazon fails to be strong. Since th
 All in all, the Amazon Kindle does cater to all other needs and at its cost of £159 for the 16GB and £199 for the 32GB (with sponsored screen savers!) it’s quite a good deal, and if you have an Amazon prime membership you get to download ebooks for free. That’s a steal!
 ## Microsoft Surface RT
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210211509-jp1409-surface-2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210211509-jp1409-surface-2.jpg" title="" caption="" attr="" >}}
 
 When Microsoft first showed off its tablet in 2000 it was an absolute... fail. However, now, after Apple defined the tablet market, the Redmond-based company is trying another time to crack this growing market and this time it seems it may be a success! The “Surface” comes in two different flavours; their main difference being the OS they run. Sadly here we only discuss the Windows RT version, although there will be a Windows 8 pro article later on, so don’t worry!
 
@@ -86,7 +86,7 @@ which for most students is a bonus! Two cons that I do have to mention, is, firs
 The Surface seems to be a great tablet, and it surely will make some kind of impact into the tablet market. Hopefully we will be seeing cheaper iterations of the Surface in the future, but, honestly, for what you are getting it is a bit cheeky wanting it to be less than 400 pounds.
 ## Google Nexus 7
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210211510-jp1409-final-nexus.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210211510-jp1409-final-nexus.jpg" title="" caption="" attr="" >}}
 
 The Nexus 7 was hoped to be the Android answer to the iPad in the low-budget tablet market and from the reviews it really does seem that way. The tablet, made by Asus and Google, is the most successful Android to date
 

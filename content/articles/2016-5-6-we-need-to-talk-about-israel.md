@@ -4,7 +4,7 @@ title: >
 subtitle: >
   You can criticise Israel without being anti-semitic
 date: "2016-05-06 09:50:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061049-felix-peace1.jpg"
 headline: true
 featured: true
 imported: true

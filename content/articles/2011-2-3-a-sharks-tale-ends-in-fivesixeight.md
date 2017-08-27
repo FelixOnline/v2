@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kate Turner wants to start a fish fight with you
 date: "2011-02-03 19:01:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031858-nm1010-sharrrrk.jpg"
 headline: true
 featured: true
 imported: true

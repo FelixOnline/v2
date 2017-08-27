@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dan Wan with the latest on the CGCU VPFS
 date: "2010-02-01 16:34:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011632-rsp07-rikkinor.jpg"
 headline: true
 featured: true
 imported: true

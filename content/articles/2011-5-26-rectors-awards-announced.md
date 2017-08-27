@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Academics affected by Life Sciences restructure among those recognised for teaching excellence
 date: "2011-05-26 18:32:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105261933-felix-dr_jane_saffell.jpg"
 image_caption: "Dr Jane Saffell: 'Outstanding Innovation in Teaching'"
 headline: true
 featured: true

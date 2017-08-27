@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about his favourite classic literature
 date: "2012-11-22 23:07:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222304-tna08-faraon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222304-tna08-faraon.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ Ann Veronica
 
 _H.G. Wells_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222304-tna08-ann-veronica.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222304-tna08-ann-veronica.jpg" title="" caption="" attr="" >}}
 
 One of Wells’ less known novels this is, on the face of it, a love story between the rebellious Ann Veronica and her university lecturer, Capes. While the romance plot is in itself engaging the main attraction of the novel is the compelling picture it paints of the difficulties of life as a woman in the early twentieth century – with a focus on the suffragette and suffragist movements.
 
@@ -40,7 +40,7 @@ Dracula
 
 _Bram Stoker_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222305-tna08-dracula.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222305-tna08-dracula.jpg" title="" caption="" attr="" >}}
 
 Probably the most famous vampire novel ever, Dracula requires no introduction or synopsis. On one level a simple and satisfying story of the fight between good and evil, it is also a masterful exploration of temptation and primal desires. The story is told in the form of diary entries, newspaper articles and letters – giving the book a unique feel and presenting the action from many different points of view.
 
@@ -48,7 +48,7 @@ Sherlock Holmes
 
 _Arthur Conan Doyle_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222305-tna08-holmes.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222305-tna08-holmes.jpg" title="" caption="" attr="" >}}
 
 Doyle’s 56 short stories and 4 novels may not be of the highest literary quality but the accounts of Holmes’ cases always provide a fun read.
 
@@ -56,7 +56,7 @@ Crime and Punishment
 
 _Fyodor Dostoyevsky_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222305-tna08-crime-and-punishment.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222305-tna08-crime-and-punishment.jpg" title="" caption="" attr="" >}}
 
 While at some times it may be fairly slow Crime and Punishment remains a powerful exploration of guilt and redemption. It does require some effort to get into but it is, ultimately, a very rewarding read.
 
@@ -64,7 +64,7 @@ Huckleberry Finn
 
 _Mark Twain_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222306-tna08-huck-finn.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222306-tna08-huck-finn.jpg" title="" caption="" attr="" >}}
 
 Often called “the great American novel” the book is surprisingly engaging and readable. Following the eponymous character as he escapes from home it paints a striking picture of the southern United States.
 
@@ -72,7 +72,7 @@ Great Expectations
 
 _Charles Dickens_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222307-tna08-great-expectations.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222307-tna08-great-expectations.jpg" title="" caption="" attr="" >}}
 
 An archetypical Dickens novel following the rise and decline of the fortunes of young Philip Pirrip, usually referred to simply as Pip. Both a brilliant character piece as well as an insightful exploration of life in early nineteenth century Britain.
 
@@ -80,7 +80,7 @@ Quo Vadis
 
 _Henryk Sienkiewicz_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222306-tna08-quo-vadis.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222306-tna08-quo-vadis.jpg" title="" caption="" attr="" >}}
 
 The most famous novel written by Sienkiewicz. Following the struggles of Christians in the early Roman empire, many translations are available and it was made into a major Hollywood film in the 50s.
 
@@ -88,7 +88,7 @@ Faraon
 
 _Bolesław Prus_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222306-tna08-faraon.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222306-tna08-faraon.jpg" title="" caption="" attr="" >}}
 
 Probably the most obscure novel on this list, but also, I believe, the best. Prus has long been one of my favourite authors – Joseph Conrad quite accurately described him as being “better than Dickens”.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Already secured a city internship for summer ‘13? Or perhaps you’re looking to work in the third sector? Caroline Wood compares the two
 date: "2013-01-18 00:14:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180015-tna08-0911_bg_hero_09c_01_hs_081_03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180015-tna08-0911_bg_hero_09c_01_hs_081_03.jpg"
 image_caption: "Coffee machine... intern, coffee, get it? get it?"
 headline: true
 featured: true
@@ -103,7 +103,7 @@ Would you like to work at the organisation full time? Why / Why not?
 The people area great and the work is varied and can be interesting. Consulting work is highly dependent on your team, location and project and this gamble would be one of the things that would deter me from going back.
 ## Charity
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180010-tna08-charity-for-features.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180010-tna08-charity-for-features.jpg" title="" caption="" attr="" >}}
 
 3rd year Biologist
 

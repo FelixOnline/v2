@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could the Bank of England be pressing forward with more Quantitative Easing?
 date: "2011-10-20 22:42:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202337-felix-qe2_02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202337-felix-qe2_02.jpg"
 image_caption: "QE2 – Could we be seeing the return of Quantitative Easing?"
 headline: true
 featured: true

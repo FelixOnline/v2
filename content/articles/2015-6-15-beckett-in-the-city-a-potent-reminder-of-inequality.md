@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506151230-ff712-09.jpg"
 image_caption: "Company SJ, Act Without Words II, Bryan Burroughs,"
 headline: true
 featured: true

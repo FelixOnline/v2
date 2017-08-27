@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah reports on controversy on High Street Kensington
 date: "2014-11-14 20:06:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142006-ps3110-30odeon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142006-ps3110-30odeon.jpg"
 headline: true
 featured: true
 imported: true

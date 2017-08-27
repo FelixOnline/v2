@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Did you come to uni pretty au fait with the world of ‘Sex, Drugs and Rock N’ Roll’ or was your life a bit more ‘Sex, Drugs and the Physiochemical Interface Inbetween’? We all know the Government’s abstinence only approach works about as well as the American Government’s sex-ed programme. So let’s ta
 date: "2016-10-14 10:02:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ The first tribe is composed of members that are somewhat knowledgeable about dru
 
 I arrived firmly in the ‘I’ll end up peeling my fingers because they are bananas’ tribe, having an unhelpful understanding of drugs from years of state education which essentially boiled down to classroom campfire horror stories backed up with terrifying government infomercials otherwise known as Whitehall-sponsored horror movies.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.58.52.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.58.52.png" title="" caption="" attr="" >}}
 
 _I had arrived at Imperial alone eight years ago, with half a bad beard and an equally ridiculous flop of hair. I didn’t want my mother organising my room, sorting away the towels, packing the cupboards. I arrived with one backpack. I had no sheets, so I slept under a towel the first week._
 
@@ -38,7 +38,7 @@ _This was around the time I first met the Mathematician._
 
 _Up to this point in life I had drunk four Smirnoff ices and eight half-pints of cider. I had never held a cigarette or taken more than the prescribed dose of paracetamol. Now that I’m arriving again at Imperial I have switched tribes, and for the better._
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.59.10.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.59.10.png" title="" caption="" attr="" >}}
 
 The last great bastion of the mantra “Sex, Drugs and Rock N’ Roll” is starting to collapse. Drug use still strikes fear in our imaginations where the other two over time have slipped into the backwaters and hardly register as a taboo topic anymore. The difference in less than a decade is marked, not only in my own perception of drug use but in youth culture as a whole. The fear has been replaced to some extent with normality; everyone has someone in their social circle who has experienced drug use, but are we any more educated to the dangers?
 _The Mathematician was my source. A long distance runner, his body slight and taught. I knew he often took drugs. We had discussed trying it together for some weeks. I presented the idea mostly to appear cool. How ridiculous._
@@ -66,7 +66,7 @@ _Now I will be honest and say it wasn’t a completely pleasant experience. It w
 
 _I had read that you are supposed to be freed from yourself, uncoupled from your body, all that is yourself. I felt was very much still there, in control. The truth was I was not in control: I had not researched the drug, I didn’t know the source, I didn’t know the Mathematician well, I didn’t know how to get help if I had needed it._
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.59.39.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610141200-felix-Screen Shot 2016-10-14 at 11.59.39.png" title="" caption="" attr="" >}}
 
 Switch tribes (if you haven’t already), that’s my advice. Become one of the knowledgeable. This does not necessarily mean I think you should get high or take some illicit drugs. The only way to introduce clarity and reason is to escape this fear and to educate yourself.
 

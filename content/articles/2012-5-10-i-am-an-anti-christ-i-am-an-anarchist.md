@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Plabon Saha tells of his encounter with Johnny Rotten
 date: "2012-05-10 20:22:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
 image_caption: "The world indeed moves in mysterious ways"
 headline: true
 featured: true

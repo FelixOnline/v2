@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As a student newspaper, is it our role to offend our readership?
 date: "2015-01-16 13:29:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161329-ps3110-charlie-hebdo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161329-ps3110-charlie-hebdo.jpg"
 headline: true
 featured: true
 imported: true

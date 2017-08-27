@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs explain the impact of branding
 date: "2012-01-19 19:57:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201191957-ams111-cola.jpg"
 image_caption: "Two of the most recognisable brands in the world have been warring over the soft drinks market"
 headline: true
 featured: true

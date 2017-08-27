@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah lists some reasons why spending your holiday in London is awesome
 date: "2015-06-09 15:52:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506091649-ync111-p1100238.jpg"
 headline: true
 featured: true
 imported: true

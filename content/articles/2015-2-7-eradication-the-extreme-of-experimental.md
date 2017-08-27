@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg delves into on-stage psychosis at the BAC
 date: "2015-02-07 19:17:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071917-ps3110-4_eradication_richard-davenport.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071917-ps3110-4_eradication_richard-davenport.jpg"
 image_caption: "The Eradication of Schizophrenia in Western Lapland. "
 headline: true
 featured: true

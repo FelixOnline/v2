@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s more than 100 years since Cézanne, one of the great French post-impressionist painters died, so how much more is there to say? Find out at the Courtauld Gallery
 date: "2010-11-04 18:05:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041804-ks607-cezanne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041804-ks607-cezanne.jpg"
 image_caption: "'Man with a pipe'"
 headline: true
 featured: true

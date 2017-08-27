@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The UK’s premier dance festival, Creamfields, is a true clubber’s paradise says Sean Harbison
 date: "2011-05-26 19:49:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201105262048-felix-thechemicalbrothers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105262048-felix-thechemicalbrothers.jpg"
 headline: true
 featured: true
 imported: true

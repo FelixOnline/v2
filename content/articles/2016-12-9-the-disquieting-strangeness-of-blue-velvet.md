@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Lynch’s Blue Velvet, being reissued for the 30th anniversary this month, introduced the world to the themes that would run through the director’s work for the next three decades. A stunning world of glamour and grime, Blue Velvet is a masterpiece.
 date: "2016-12-09 15:51:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
 headline: true
 featured: true
 imported: true

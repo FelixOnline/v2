@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hasaan Choudry discovers that the President has lost his mojo
 date: "2012-11-01 23:13:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012313-tna08-obama-jay-z.jpg"
 headline: true
 featured: true
 imported: true
@@ -47,7 +47,7 @@ and Research on Civic Learning and Engagement (CIRCLE) showed the voter turnout 
 
 However, as Obama’s term progressed the tide turned and voices of dissent appeared amongst the hip-hop crowd. Jay-Z and Obama have had an enduring relationship that has even been described as a “bromance” with Jay-Z declaring he has Obama on speed dial. Nevertheless, Jay-Z admits that some of the criticism directed towards Obama is “fair” acknowledging that “numbers don’t lie” when asked about unemployment during a Watch The Throne promotional interview with GQ. His fellow Inauguration VIP, Sean “Diddy” Combs told The Source earlier this year that “I love the President like most of us. I just want the President to do better”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211012313-tna08-120505_obama_605.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211012313-tna08-120505_obama_605.jpg" title="" caption="" attr="" >}}
 
 Perhaps the most critical attacks on Obama came from Chicago based rapper Lupe Fiasco. In an interview with CBS in 2008, Lupe Fiasco called Obama “the biggest terrorist” in the United States of America, who went on to further state that the terrorism in foreign states is directly related to Obama’s foreign policy. Furthermore, Lupe Fiasco’s single “Words I Never Said” expands upon his criticism by
 

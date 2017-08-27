@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The author, historian, and schoolmaster, Sir Anthony Seldon, spoke to Imperial on the subject of mental health
 date: "2016-02-05 12:51:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051250-felix-stress.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051250-felix-stress.jpg"
 image_caption: "Stress balls are only part of the solution."
 headline: true
 featured: true

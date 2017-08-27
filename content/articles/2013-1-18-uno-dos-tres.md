@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl reviews the first of a trilogy of new Green Day albums
 date: "2013-01-18 00:50:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180050-tna08--uno-album-cover-artwork-green-day-31143271-1050-1050.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180050-tna08--uno-album-cover-artwork-green-day-31143271-1050-1050.jpg"
 headline: true
 featured: true
 imported: true

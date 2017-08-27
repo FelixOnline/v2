@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Men's 1st XI 1 - 0 RUMS 1st XI
 date: "2010-02-25 18:52:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251850-mb506-ICUAFC.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251850-mb506-ICUAFC.jpg"
 headline: true
 featured: true
 imported: true

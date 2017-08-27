@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ryan Browne and six others help out in the Tohoku region in Japan
 date: "2012-11-22 23:01:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ On arrival in Rikuzentakata, we toured the city with a local guide. Our first im
 
 The following days, we visited primary schools to talk to the children there, as well as cleaning the school windows, and holding English activities for the children affected by the disaster. It was amazing to see the children so full of life and spirit despite their hardship. We worked at Hirota Harbour on the coastline for two days, helping the scallop fishermen there with cleaning activities. The scallop industry in Rikuzentakata used to be renowned, but following the disaster, their business had been severely affected, through loss of equipment, and also a fear in the people to eat scallops from the surrounding waters. We hoped that our visit may boost the profile of the fishermen again, and our activities there were filmed by the NHK.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222301-tna08-jap-volunteer-1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222301-tna08-jap-volunteer-1.jpg" title="" caption="" attr="" >}}
 
 On our last day in Rikuzentakata, we travelled to temporary housing sites for people who had lost their homes, to set up an English style café. The people who live in these homes suffered not just the loss of their possessions and family members, but a complete upheaval of their community. The temporary housing took months to be built, and has cramped living conditions and poor insulation for the winter. We wanted to bring together the people who live there and offer them enjoyment outside of their daily routine.
 

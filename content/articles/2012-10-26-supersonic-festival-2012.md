@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi on Supersonic’s 10th year
 date: "2012-10-26 03:14:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260413-tna08-supersonic-festival.jpg"
 headline: true
 featured: true
 imported: true

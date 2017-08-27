@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Helen Pennington with a meaty (groan!) review
 date: "2013-10-12 19:57:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122056-jal08-food_green_door.jpg"
 headline: true
 featured: true
 imported: true

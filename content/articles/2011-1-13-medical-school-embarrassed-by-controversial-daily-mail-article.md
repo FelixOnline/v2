@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132135-ks607-dailymai.jpg"
 headline: true
 featured: true
 imported: true

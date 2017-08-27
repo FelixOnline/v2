@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Entrepreneurs investigates whether there is a future in Groupon
 date: "2011-11-17 20:58:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172058-pk1811-groupon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172058-pk1811-groupon.jpg"
 image_caption: "Groupon must take on Google and Facebook if it is to triumph"
 headline: true
 featured: true

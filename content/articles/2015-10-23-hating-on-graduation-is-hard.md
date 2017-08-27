@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Graduation only disappoints by being difficult to find its flaws
 date: "2015-10-23 11:43:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231243-cj914-graduation.jpg"
 image_caption: "Angry Grad (not pictured) looked peng."
 headline: true
 featured: true

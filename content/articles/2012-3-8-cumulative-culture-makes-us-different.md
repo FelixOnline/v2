@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Traits humans share – teaching, communication, imitation, helping others – may be the cause of our ability for cumulative culture
 date: "2012-03-08 20:16:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082012-ams111-string_theory_by_haltenny.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082012-ams111-string_theory_by_haltenny.jpg"
 image_caption: "Superstring theory – a product of "
 headline: true
 featured: true

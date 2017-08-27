@@ -4,7 +4,7 @@ title: >
 subtitle: >
   40 years of comic book trippyness
 date: "2013-03-07 23:50:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072350-tna08-roylic006.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072350-tna08-roylic006.jpg"
 headline: true
 featured: true
 imported: true

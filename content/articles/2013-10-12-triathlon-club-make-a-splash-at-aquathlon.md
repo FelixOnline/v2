@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Ellis documents TriClub’s trials on land, buses, and water in an epic battle against their competitors
 date: "2013-10-12 20:20:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122120-jal08-spot_aquathlon.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122120-jal08-spot_aquathlon.png"
 headline: true
 featured: true
 imported: true

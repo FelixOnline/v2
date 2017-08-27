@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Although nerve-racking at times, the team were able to pull out a win
 date: "2016-11-14 14:19:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
 headline: true
 featured: true
 imported: true

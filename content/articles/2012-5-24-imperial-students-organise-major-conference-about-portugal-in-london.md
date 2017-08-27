@@ -4,7 +4,7 @@ title: >
 subtitle: >
   LUSO 2012 to go ahead as speakers are confirmed
 date: "2012-05-24 23:04:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
 image_caption: "The LUSO 2012 organising committee"
 headline: true
 featured: true

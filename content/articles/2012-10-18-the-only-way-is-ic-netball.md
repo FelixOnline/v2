@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Poppy Pinnock: IC vs. Essex
 date: "2012-10-18 21:08:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210191356-tna08-photo.jpg"
 headline: true
 featured: true
 imported: true

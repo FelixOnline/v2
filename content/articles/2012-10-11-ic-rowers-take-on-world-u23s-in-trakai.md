@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Smith on the road to Trakai...
 date: "2012-10-11 21:28:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112226-csw09-u23rowing1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112226-csw09-u23rowing1.jpg"
 image_caption: "Rowing"
 headline: true
 featured: true

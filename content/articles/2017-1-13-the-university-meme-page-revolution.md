@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How Memebridge reignited the university meme scene
 date: "2017-01-13 15:03:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ What started as a simple meme page in Cambridge (Memebridge) has quickly explode
 
 This rivalry was the catalyst for the growth of the university meme scene. Soon after Memebridge was created a group of Oxford students started their own page, Oxmeme. The long-term success of memes has always come down to the way in which they are reused and replicated. So naturally it wasn’t long before Oxmeme decided to steal Memebridge’s memes, a deadly sin in the online community. The war had begun.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701131503-felix-Screen Shot 2017-01-13 at 15.03.30.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701131503-felix-Screen Shot 2017-01-13 at 15.03.30.png" title="" caption="" attr="" >}}
 
 As if one page wasn’t enough, a second page was born from the English-speaking world’s oldest university: The Memeing Spires of Oxford. As more and more rival pages appeared, the variety of Memebridge’s memes grew. Durhameme proved the perfect target with their attempt at introducing “Doxbridge” to the national lexicon, resulting in a number of humiliating ‘roasts.’ Thousands were liking and tagging their friends in the varsity meme wars but nothing had prepared them for what would come next.
 

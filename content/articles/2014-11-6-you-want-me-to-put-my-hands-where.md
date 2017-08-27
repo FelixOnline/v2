@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alisha Wong tries out the newest circus class to hit Imperial
 date: "2014-11-06 21:15:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062113-cj914-class-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062113-cj914-class-pic.jpg"
 image_caption: "Diego coaching a new student through a straddle."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Niall Jeffrey gets arguing with everyone in sight at the World Universities Debating Championships
 date: "2013-01-10 22:03:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102204-tna08-imperial-debating.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102204-tna08-imperial-debating.jpg"
 headline: true
 featured: true
 imported: true
@@ -38,7 +38,7 @@ For next year’s competition in Chennai (India) the Debating Society will again
 
 Debating Society President, James Clough, who along with Ed Middleton made up the other half of the Imperial team at the WUDC, had never debated before he came to university.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301102205-tna08-imperial-debating2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301102205-tna08-imperial-debating2.jpg" title="" caption="" attr="" >}}
 
 “We are looking forward to new people competing in debating for a chance to represent Imperial in next year’s WUDC competition and at other competitions closer to home,” he said.
  “I think I can safely say that all of us had an excellent week in Berlin and are already looking forward to next year”

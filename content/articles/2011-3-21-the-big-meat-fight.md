@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aki Matsushima compares the giants of the meat world
 date: "2011-03-21 10:49:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201103211037-ks607-burgerbu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103211037-ks607-burgerbu.jpg"
 headline: true
 featured: true
 imported: true

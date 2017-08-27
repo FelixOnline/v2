@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men’s Fencing : Imperial 1st 135 - 74 Bath 1st
 date: "2011-03-03 21:27:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032124-nm1010-menmenme.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032124-nm1010-menmenme.jpg"
 headline: true
 featured: true
 imported: true

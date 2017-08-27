@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Microsoft has selected the Business School for support
 date: "2010-02-28 16:07:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002281603-ak6309-Microsof.jpg"
 headline: true
 featured: true
 imported: true

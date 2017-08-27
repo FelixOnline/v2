@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An essential classic for any music lover, says Clare Cheng
 date: "2011-12-01 20:53:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012052-pk1811-musecover.jpg"
 image_caption: "The best forking album by the best forking band to ever set foot on forking Earth"
 headline: true
 featured: true
@@ -47,7 +47,7 @@ The album begins with ‘New Born’ – the gentle building of the piano, the l
 
 However, do not be deceived; this is not all they do. The album takes off on a journey, pushing up the heart rate one minute, but then mellowing it down the next. Each song has such feeling and emotion woven into it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112012053-pk1811-muse-reading-2011-fg1.jpg" title="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" caption="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112012053-pk1811-muse-reading-2011-fg1.jpg" title="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" caption="Thousands of fans forking out at the monolothic cutlery at Reading and Leeds Festival" attr="" >}}
 
 When I listen to the album I am taken on a rollercoaster ride of different emotions. ‘Bliss’ fills me with such warmth, it makes me smile; ‘Space Dementia’ and ‘Plug In Baby’ bring up deep feelings – sadness, passion, joy. These songs make me want to sing my heart out. They are able to spell out my emotions when I have no words to explain them.
 

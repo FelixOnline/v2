@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ski Trip spots Super Cow shredding up the slopes!
 date: "2011-01-20 20:50:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202047-nm1010-skiiiiii.jpg"
 headline: true
 featured: true
 imported: true

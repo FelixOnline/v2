@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Raymond Thawani walks you through a day in the life
 date: "2015-01-23 19:19:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231919-jyg11-fullsizerender.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231919-jyg11-fullsizerender.jpg"
 image_caption: "The Imperial College Floorball team is one of the United Kingdom's best Floorball teams and regularly place in the top three in competitions around the country"
 headline: true
 featured: true

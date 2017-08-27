@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma on why ‘Free’ is more than you expect
 date: "2011-11-17 21:38:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
 headline: true
 featured: true
 imported: true

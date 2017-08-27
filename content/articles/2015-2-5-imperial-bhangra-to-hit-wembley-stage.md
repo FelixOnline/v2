@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Troupes from all over the country will be dancing for the title of best student bhangra team
 date: "2015-02-05 23:37:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
 headline: true
 featured: true
 imported: true

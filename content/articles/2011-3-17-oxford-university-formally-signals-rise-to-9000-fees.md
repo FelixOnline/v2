@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oxford follows Cambridge and Imperial and announces rise in fees
 date: "2011-03-17 20:59:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
 image_caption: "Oxford's Bodleian Library"
 headline: true
 featured: true

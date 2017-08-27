@@ -4,7 +4,7 @@ title: >
 subtitle: >
   But the men have to wait another year to regain the Sharpley Cup
 date: "2011-02-27 19:54:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271953-ks607-rsmwomen.jpg"
 headline: true
 featured: true
 imported: true

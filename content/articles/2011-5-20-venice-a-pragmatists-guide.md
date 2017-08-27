@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Venice has its charms, but more often than not the fact that I was a tourist was shoved in my face at every corner I turned
 date: "2011-05-20 04:24:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200523-felix-use-canal.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Debating Israel and Palestine
 date: "2010-11-25 21:24:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252119-nm1010-palestin.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aditya Narayanan starts a mosh pit in Kentish Town
 date: "2012-05-03 17:52:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031852-ams111-dandy_warhols.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031852-ams111-dandy_warhols.jpg"
 image_caption: "They most certainly look dandy"
 headline: true
 featured: true

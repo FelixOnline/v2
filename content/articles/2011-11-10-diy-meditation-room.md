@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou embarks on a spirituo-materialistic journey
 date: "2011-11-10 22:21:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102214-pk1811-img_7103.jpg"
 image_caption: "One thing I would say – make it brighter"
 headline: true
 featured: true
@@ -36,7 +36,7 @@ Exactly what you end up getting depends on your personal preference, as well as 
 
 We selected four large throws (£7 each) to cover the walls and ceiling. Using drawing pins, we affixed three of them to the walls and hung one across the ceiling – just below the ceiling lamp, thereby softening the light coming into the room.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111102220-pk1811-img_7108.jpg" title="This room demands several crates of Fanta" caption="This room demands several crates of Fanta" attr="Credit: Navid Nabijou" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111102220-pk1811-img_7108.jpg" title="This room demands several crates of Fanta" caption="This room demands several crates of Fanta" attr="Credit: Navid Nabijou" >}}
 
 We then covered the floor with a thin carpet (£6), and placed a simply patterned cushion (£4) in the centre of the room.
 

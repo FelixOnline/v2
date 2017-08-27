@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The opening of the Union’s new club Metric goes off with a bang
 date: "2010-11-26 07:24:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201011260951-ks607-metricla.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011260951-ks607-metricla.jpg"
 headline: true
 featured: true
 imported: true

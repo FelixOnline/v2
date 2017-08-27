@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506242307-ync111-untitled-2.jpg"
 headline: true
 featured: true
 imported: true

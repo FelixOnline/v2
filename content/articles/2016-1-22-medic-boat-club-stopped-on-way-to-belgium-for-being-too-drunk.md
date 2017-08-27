@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The annual trip to Leuven ended abruptly at Dover when students were sent home
 date: "2016-01-22 12:42:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201601221237-felix-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601221237-felix-web.jpg"
 image_caption: "An artist's impression "
 headline: true
 featured: true
@@ -37,7 +37,7 @@ The students tried to board the 4:50am ferry from Dover to Calais but were “dr
 
 In an email, sent as the students were heading back to London having been turned away, the club’s captain told members that “[P&amp;O] were willing for us to be allowed on after a 2-3 hour wait. Unfortunately, the coach drivers were unwilling to co-operate, hence are currently driving us back to London”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201601221241-felix-Screen Shot 2016-01-21 at 20.46.05.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201601221241-felix-Screen Shot 2016-01-21 at 20.46.05.jpg" title="" caption="" attr="" >}}
 
 The trip from Hammersmith to Dover had not been without issue. The coach company’s depot manager was first contacted by the driver at 3:30am over the students’ behaviour. The coach left Hammersmith as scheduled at a quarter past midnight on Saturday. The coach company alleges that some students caused damage at Maidstone service station, which P&amp;O ferries confirmed. The boat club denies that there were any complaints made during the planned stop in Maidstone.
 

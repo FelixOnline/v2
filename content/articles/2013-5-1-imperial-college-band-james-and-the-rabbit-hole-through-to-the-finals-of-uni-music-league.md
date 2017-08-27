@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another league table that we dominate at.
 date: "2013-05-01 14:27:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012039-tna08-james.png"
 headline: true
 featured: true
 imported: true

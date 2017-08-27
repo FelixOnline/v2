@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Jeffery's tale of love, music and the Thames
 date: "2011-11-10 21:10:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
 image_caption: "Does that title say I’m a tramp?! Is that what people think of me? I never knew..."
 headline: true
 featured: true

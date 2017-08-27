@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Bowers asks if Google may be losing its innovative edge
 date: "2011-05-26 19:02:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105261958-felix-felixillustration.jpg"
 headline: true
 featured: true
 imported: true

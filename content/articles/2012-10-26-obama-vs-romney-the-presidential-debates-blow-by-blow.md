@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emilie Beauchamp gives the account of the latest goings on in the US Presidential Election
 date: "2012-10-26 02:17:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
 headline: true
 featured: true
 imported: true

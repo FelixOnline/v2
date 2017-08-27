@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach is transported back in time by the RA’s Moroni exhibition
 date: "2014-11-10 21:08:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102106-ps3110-key-23.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102106-ps3110-key-23.jpg"
 headline: true
 featured: true
 imported: true

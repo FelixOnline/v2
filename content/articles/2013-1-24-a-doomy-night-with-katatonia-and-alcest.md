@@ -4,7 +4,7 @@ title: >
 subtitle: >
   London plays host to a French connection
 date: "2013-01-24 22:51:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242251-mc4509-img_0850.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242251-mc4509-img_0850.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gongs abound this year
 date: "2013-06-13 23:06:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140006-tna08-stephen-richardson.jpg"
 image_caption: "Stephen Richardson, Deputy Rector of Imperial College London"
 headline: true
 featured: true

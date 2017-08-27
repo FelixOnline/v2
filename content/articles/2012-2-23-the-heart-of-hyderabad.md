@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A whistle-stop tour through the sights of the famous Indian city
 date: "2012-02-23 20:45:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232049-ams111-charminar.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232049-ams111-charminar.gif"
 image_caption: "So much to see, so little time"
 headline: true
 featured: true
@@ -29,7 +29,7 @@ Hyderabad city, India. Capital of the state of Andhra Pradesh, the second larges
 
 Hyderabad is a perfect mix of alluring historical charm, reflecting the town’s heritage, and bustling modern areas: a clear demonstration of the town’s progress. Quirky narrow streets, beautiful mosques and packed bazaars are unquestionably the defining features of Old City. Here, you also find Hyderabad’s most famous landmark, Charminar. The word Charminar literally means “four towers”, and this is an apt description of the monument. Charminar, which artfully houses a beautiful mosque, is a“Hyderabad is a perfect mix of historical charm and bustling modern areas”n ornate structure consisting of four minarets connected by arches. Climb up the 150 steps to the top of a minaret, and experience impressive views of the immediate Old City area and beyond.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232051-ams111-laad-bazaar.gif" title="Get shopping..." caption="Get shopping..." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232051-ams111-laad-bazaar.gif" title="Get shopping..." caption="Get shopping..." attr="" >}}
 
 Just off one of the side roads from Charminar is Laad Bazaar, famous for its bangle stores. The bazaar is a spectacular sight of shimmering stores and throngs of people bartering for the best prices. The shopkeepers have always reminded me of hawks as they wait around the shop entrances, swooping down on us at first sight, and luring us into their stores.
 

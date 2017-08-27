@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Beating off burglars with his tennis racket?
 date: "2011-06-23 20:57:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232157-felix-murray_798430c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232157-felix-murray_798430c.jpg"
 headline: true
 featured: true
 imported: true

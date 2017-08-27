@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Head-to-Head about the merits of Wayne Rooney. Tom Welch and Charles Betts
 date: "2010-10-28 19:44:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282041-ks607-TOMCUT.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282041-ks607-TOMCUT.jpg"
 headline: true
 featured: true
 imported: true

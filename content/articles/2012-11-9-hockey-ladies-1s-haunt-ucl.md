@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Frightfully good performance by Imperial destroys UCL
 date: "2012-11-09 14:30:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091429-tna08-ladies-hockey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091429-tna08-ladies-hockey.jpg"
 headline: true
 featured: true
 imported: true

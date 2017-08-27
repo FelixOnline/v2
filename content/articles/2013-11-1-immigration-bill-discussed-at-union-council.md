@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Government Immigration Bill deemed to have possible impact on international students
 date: "2013-11-01 09:09:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010940-felix-icu-council.jpg"
 image_caption: "Imperial College Union"
 headline: true
 featured: true

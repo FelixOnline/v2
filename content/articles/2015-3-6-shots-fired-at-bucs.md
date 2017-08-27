@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ernest Lo reports as Imperial A team grab silver
 date: "2015-03-06 14:09:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061409-kmw13-photo-1.jpg"
 headline: true
 featured: true
 imported: true

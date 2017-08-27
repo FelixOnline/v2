@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jane Courtnell reports on research into alternative energy sources
 date: "2015-03-20 00:49:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503200049-cj914-newseventsimages.png"
 image_caption: "CT scan of willow showing fibre (brown) and vessels (blue)"
 headline: true
 featured: true

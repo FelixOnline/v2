@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Krestas shares his top ten resolutions for a healthier, tastier year!
 date: "2012-01-19 21:35:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
 image_caption: "Stock those cupboards with delicious goods, but remember to clear them out once in a while, yeah?"
 headline: true
 featured: true

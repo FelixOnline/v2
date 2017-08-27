@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophia Goldberg on her first taste of Cyprus
 date: "2012-11-22 23:13:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222313-tna08-people.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222313-tna08-people.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ I’m not going to lie to you, the beverages were not for the faint hearted. The
 
 We loved it, so why not cook something inpsired by Cyprus in your kitchen? Or head out to somewhere where they’ll cook it for you?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222313-tna08-cheese.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222313-tna08-cheese.jpg" title="" caption="" attr="" >}}
 
 Cypriot restaurants in London
 

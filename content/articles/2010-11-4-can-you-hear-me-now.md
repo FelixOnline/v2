@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Gibbs goes hands on with the ultimate ‘radio voice’ USB microphone, the unusually named Blue Yeti
 date: "2010-11-04 18:36:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041837-ba108-YetiMic.jpg"
 headline: true
 featured: true
 imported: true

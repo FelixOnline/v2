@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kidulthood’s Adam Deacon writes, directs and stars in this long-awaited British ghetto comedy. By Vishnu Aggarwal
 date: "2011-03-03 06:16:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030615-ks607-anuvahoo.jpg"
 image_caption: "Adam Deacon is our hapless hero Kenneth"
 headline: true
 featured: true

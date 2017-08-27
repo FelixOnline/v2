@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Hot Chip
 date: "2010-01-14 14:34:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141431-ks607-HotChip.jpg"
 headline: true
 featured: true
 imported: true

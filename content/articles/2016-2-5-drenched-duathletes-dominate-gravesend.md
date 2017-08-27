@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The formation of a “small lake” on the track didn’t stop Imperial Triathalon Club
 date: "2016-02-05 12:57:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
 image_caption: "Run, Anna, run!"
 headline: true
 featured: true

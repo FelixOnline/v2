@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two smokers give the new E-Lites a test to see what they’re like
 date: "2013-06-13 23:41:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140041-tna08-catsmokingweb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140041-tna08-catsmokingweb.jpg"
 headline: true
 featured: true
 imported: true

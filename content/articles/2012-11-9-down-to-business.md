@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nida Mahmud probes the latest ranking of the Business School
 date: "2012-11-09 00:25:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201211090024-tna08-business-school.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211090024-tna08-business-school.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ Imperial College London has consistently ranked within the World Top 10 in the Q
 ## FT rankings overview
 This year, Imperial’s MBA ranking positions it lower than LSB (4th), Oxford (20th), Cambridge (26th), Warwrick (27th ), Manchester (31st), Cranfield (36th) and Cass (38th). Within the sub categories, Imperial’s highest was for career progress, where it came in at 19. Imperial’s value for money was ranked in 38th position.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211090025-tna08-table.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211090025-tna08-table.jpg" title="" caption="" attr="" >}}
 
 The tuition fees for the full time MBA are £36,000; this is a fairly competitive value in terms of cost if compare to London Business School (LBS), where the MBA tuition fees were almost 60% more than Imperial’s at a tremendous £57,500. The FT ranks LBS 4th and this was the highest ranking achieved by any UK business school. Stanford ranked 1st place, it has a tuition fees of $106,236, which equates to £66,496. It may seem like the tuition fees of an MBA programme increases with its ranking, however, the cost not always correlated to its position in the league table. The MBA offered by India’s Institue of Management Ahmedabad was ranked 11th by the FT; the tuition fees were Rs. 15 Lakhs, which equates to £17,280.
 ## How are the FT rankings compiled?

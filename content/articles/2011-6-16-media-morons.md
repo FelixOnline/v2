@@ -4,7 +4,7 @@ title: >
 subtitle: >
   British media coverage of Libya is flimsy and subservient
 date: "2011-06-16 20:28:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162126-felix-libya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162126-felix-libya.jpg"
 headline: true
 featured: true
 imported: true

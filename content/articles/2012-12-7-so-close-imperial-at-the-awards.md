@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Close but not cigar for Imperial. It's an honour just to be nominated, right?
 date: "2012-12-07 00:38:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070028-tna08-theawards.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070028-tna08-theawards.jpg"
 headline: true
 featured: true
 imported: true

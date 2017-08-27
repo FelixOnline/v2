@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A Batman theme won the syncronised swimmers a silver medal
 date: "2016-03-11 12:15:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111215-felix-synchro 3.JPG"
 image_caption: "Gotham City has a new swim group."
 headline: true
 featured: true

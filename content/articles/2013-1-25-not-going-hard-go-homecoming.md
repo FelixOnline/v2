@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Singapore Society's Major Event is coming soon
 date: "2013-01-25 02:11:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250211-tna08-poster-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250211-tna08-poster-2.jpg"
 headline: true
 featured: true
 imported: true

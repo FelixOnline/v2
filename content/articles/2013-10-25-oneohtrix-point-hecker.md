@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi examines albums from modern ambient’s greats
 date: "2013-10-25 00:29:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250129-felix-mus_sstudio.jpg"
 image_caption: "Tim Hecker and Oneohtrix Point Never"
 headline: true
 featured: true

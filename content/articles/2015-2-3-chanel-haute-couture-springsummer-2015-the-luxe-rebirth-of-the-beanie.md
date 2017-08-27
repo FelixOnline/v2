@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
 headline: true
 featured: true
 imported: true

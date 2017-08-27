@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC Debating Society brings together two cunning linguists in a furious head-to-head
 date: "2011-10-14 00:26:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140127-sjw209-james-osama.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ Bringing bin Laden to trial would have been more just, legal and impressive. It 
 
 No - Ed Middleton
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110140128-sjw209-ed-osama.jpg" title="" caption="" attr="" >}}
 
 We have the wolf by the ears; and we can neither hold him, nor safely let him go. Justice is in one scale, and self-preservation in the other.” These words spoken by Thomas Jefferson fittingly describe the quandary faced by the Western world when fighting the War on Terror; and let us be clear about this, we are indeed fighting a war. The nature of warfare has changed since the days of soldiers standing in an open field wearing their nation’s banner. In the age of globalisation, war is fought over great distances by splinter cells comprised of anonymous soldiers. In 1998, Osama bin Laden declared war on the Western world and in 2001 George Bush reciprocated. Osama bin Laden was a soldier in that war and his death was one of the many casualties. Here I will show you why the death of Osama bin Laden was justified as an act of war, and why the alternatives made this the only viable option.
 

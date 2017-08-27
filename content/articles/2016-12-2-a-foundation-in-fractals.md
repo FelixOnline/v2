@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Zofia Strzelecka highlights the wonders and applications of the patterns that make up the universe
 date: "2016-12-02 14:03:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021403-felix-fractal-1781410_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021403-felix-fractal-1781410_1280.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Women’s 2nds dispatch Portsmouth 1sts with ease
 date: "2012-01-20 12:06:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201201201205-felix-img_8922.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201201205-felix-img_8922.jpg"
 image_caption: "Off-target! Such a rare occurence in foil"
 headline: true
 featured: true

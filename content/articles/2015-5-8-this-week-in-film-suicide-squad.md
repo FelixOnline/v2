@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Harley Quinn's first live-action moments on screen
 date: "2015-05-08 12:50:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201505081320-jyg11-harley-quinn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505081320-jyg11-harley-quinn.jpg"
 image_caption: "Margot Robbie on set as Harley Quinn"
 headline: true
 featured: true

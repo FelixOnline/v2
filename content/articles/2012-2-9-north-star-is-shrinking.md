@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Almost an Earth's worth of gas lost each year
 date: "2012-02-09 22:29:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
 image_caption: "All other stars appear to rotate around the North star as the Earth spins"
 headline: true
 featured: true

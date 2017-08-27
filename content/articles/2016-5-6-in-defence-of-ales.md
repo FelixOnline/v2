@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ales are heavenly elixirs that don’t need to be cold and fizzy to taste wonderful
 date: "2016-05-06 09:48:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061048-felix-squirrel ale.jpg"
 image_caption: "Like me, you can enjoy classy beverages like this. "
 headline: true
 featured: true

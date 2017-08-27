@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Barnett gets on his saddle
 date: "2012-11-23 00:12:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230011-tna08-cycling-ting.jpg"
 headline: true
 featured: true
 imported: true

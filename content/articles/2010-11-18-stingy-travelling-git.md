@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals
 date: "2010-11-18 20:47:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182045-ks607-dubai.jpg"
 headline: true
 featured: true
 imported: true

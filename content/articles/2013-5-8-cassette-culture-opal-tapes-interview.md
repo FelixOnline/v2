@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray discusses the electronic cassette label with Stephen Bishop
 date: "2013-05-08 20:31:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305082130-tna08-opal-tapes.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ SB: It’s interesting to hear people say that and I’d like to know what you t
 
 So this idea of a reusing of genre templates and a density and claustrophobia brought to it by adopting lo-fi techniques. That’s a good line that can be drawn through Opal Tapes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305082130-tna08-opaltapes2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305082130-tna08-opaltapes2.jpg" title="" caption="" attr="" >}}
 
 RG: I think for me it is a lot of things you mentioned; there seems to be this grittiness to all the recordings, and a running theme of experimentalism. I also feel like the more dancefloor based productions (if they could be called that) have a tendency to bring in noisy elements. It seems that there’s been more of a push in general towards these kind of noise / techno crossovers recently (e.g. Container) – do you think the use of noise is becoming more prevalent in electronic music?
 

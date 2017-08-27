@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Latest episode demonstrates how not to tackle a rape storyline
 date: "2013-10-12 19:18:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122018-jal08-tv2-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122018-jal08-tv2-copy.jpg"
 headline: true
 featured: true
 imported: true

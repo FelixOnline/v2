@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Kendoka organise UK tournament and win silver
 date: "2016-03-04 11:53:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
 image_caption: "Imperial Captain John Jonsson leaps into action. "
 headline: true
 featured: true

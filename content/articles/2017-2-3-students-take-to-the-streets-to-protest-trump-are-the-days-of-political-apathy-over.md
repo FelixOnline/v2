@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lef Apostolakis joins the protesters and asks them whether recent developments have given British politics a second wind
 date: "2017-02-03 15:12:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031512-felix-Trump-21.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031512-felix-Trump-21.jpg"
 headline: true
 featured: true
 imported: true
@@ -27,7 +27,7 @@ Donald Trump has consistently been on the collective consciousness for a while. 
 
 Last Friday the news of Trump’s executive order banning individuals from seven Muslim-majority countries from entering the US took the world by storm. As the ban started having very real consequences for countless people across the globe,  #MuslimBan started trending on social media platforms. The very next day, Owen Jones called for an emergency national demonstration in London, which within two days got the attention and potential attendance of over 60,000 people.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031513-felix-Trump-8.jpg" title="" caption="" attr="Izzat Rais" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031513-felix-Trump-8.jpg" title="" caption="" attr="Izzat Rais" >}}
 
 At Imperial College, infamous for it’s politically apathetic student body the turnout was historically one of the largest turnouts in recent memory. Gasim Gasim, an Electrical and Electronic Engineering fresher and first time protester was impressed. “Imperial students are not political and I’ve heard it actually, from one of our Wardens who used to be in LSE. One of our main differences she said was that IC students aren’t political at all. So it’s nice to see everyone coming out right now.”
 
@@ -37,7 +37,7 @@ The large turnout is partially due to the efforts of Ariana Sadr-Hashemi, a seco
 
 The protest itself was estimated to have been attended by over 10,000 protesters. As a professional, I was surprised. Protesting takes time, energy, planning, and commitment. Normally I wouldn’t have been able to attend due to the workload and last minute nature of the event. But I did, not so much as a reporter (there was no need, the protest was well attended and documented from members of the press including felix) but as an individual, adding my voice to the thousands shouting in unison “Refugees are welcome here”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031514-felix-IMG_0040.JPG" title="" caption="" attr="Lef Apostolakis" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031514-felix-IMG_0040.JPG" title="" caption="" attr="Lef Apostolakis" >}}
 
 I was even more surprised to bump into a number of friends and acquaintance from university, including the Head of the Student Voice. Though their attendance wasn’t unexpected, the fact that I kept bumping into familiar faces was as, those who have ever taken part in a mass demo know, finding anyone in a crowd is near impossible. And while the massive cat head on my shoulders certainly made me more locatable, the fact remained: an unusually large number of Imperial students had been at the demo.
 
@@ -45,16 +45,16 @@ Monday came and went, people in London and beyond protested, statements were rel
 
 Political apathy is an issue the UK and other European countries have struggled with for decades. The ‘apathetic youth’ is regularly blamed for the shortcomings of the democratic process. In the UK, there’s been an evident downwards voting-turnout trend since the 1940’s. And even though turnout has been increasing since the 2001 general election which saw the lowest ever participation (59.4 percent) in a general election in recent British history, the UK only now hit pre-noughties levels of voter-turnout this summer during the EU referendum, where 72.2 percent of the population voted.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031514-felix-Trump-11.jpg" title="" caption="" attr="Izzat Rais" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031514-felix-Trump-11.jpg" title="" caption="" attr="Izzat Rais" >}}
 
 Are recent developments, from the UK’s Brexit referendum to Donald Trump’s inauguration, prodding us back into a politically energetic state? Sadr-Hashemi thinks it’s the polarised political climate. “When someone is so far on one side of the political spectrum you do get the uniting of everyone who is more moderate kind of going ‘this is too much for me, I’m going to protest now’”
 
 Robin Saunders an Imperial alumnus agrees. “During my time at Imperial there was a feeling of political apathy. During my degree we voted in the coalition and I voted Lib Dem at the time and had plenty of years to think over my sins for that. But there was a general feeling that democracy was failing us and that it didn’t make a difference – even if you wanted to support the right cause your voice wasn’t going to be heard. This is a powerful sign that this doesn’t have to be true and that there’s still life left in the British people and in Imperial.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031515-felix-Trump-7.jpg" title="" caption="" attr="Izzat Rais" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031515-felix-Trump-7.jpg" title="" caption="" attr="Izzat Rais" >}}
 
 To me, this became particularly obvious right after the ‘Muslim ban’ took place, during the preparation for and participation in Monday’s anti-Trump protest outside 10 Downing St. The emergency demo was immediately organised and attended by reportedly 10,000 people in a time-window of just two days. That might seem small in comparison to the Women’s March turnout which took place in London the week before and which was reportedly attended by over 100,000 protesters, however this would be an unfair comparison. For starters, the women’s march was organised weeks in advance giving everyone time to make plans and even travel into London to participate in the demo. We need to also recognise that protesting takes time and energy. Going to a protest is not fun, it’s necessary. So to see thousands of people gather on Downing Street to protest again so soon and so spontaneously was not only extraordinary, but also a clear sign of political involvement.
 
 As Saunders says, “May might not respond to this event but if there are people out there who aren’t sure that speaking up does anything we’re here to gather in numbers and show them that it can.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031515-felix-Trump-4.jpg" title="" caption="" attr="Izzat Rais" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031515-felix-Trump-4.jpg" title="" caption="" attr="Izzat Rais" >}}

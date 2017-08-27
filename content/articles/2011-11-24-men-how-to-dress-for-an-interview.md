@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the dreaded season of interrogation kicks in, even the most macho of men start to wonder how they can dress to impress. Ross Gray shows you what to wear to that all important interview
 date: "2011-11-24 21:19:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242119-felix-shirttie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242119-felix-shirttie.jpg"
 headline: true
 featured: true
 imported: true

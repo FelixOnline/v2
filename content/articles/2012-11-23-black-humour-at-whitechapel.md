@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two very different artists on show at East London gallery
 date: "2012-11-23 00:17:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230017-tna08-cattelan1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230017-tna08-cattelan1.jpg"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ Whilst the squirrel may form a more personal reflection, the majority of the wor
 
 At the centre of the room is a rug, whose design has been based upon the casing for a wheel of cheese. The jingoistic sentiments surrounding a map of Italy, which may have seemed quaint when simply used to advertise cheeses, become reminiscent of language used in Mussolini’s Italy, and brings on a deep sense of unease.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211230017-tna08-mel2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211230017-tna08-mel2.jpg" title="" caption="" attr="" >}}
 
 On the adjacent wall hangs the sign of the Marxist Italian terrorist group the Red Brigades but this too has been subverted. Made up in garish neon, it has become a Christmas greeting; the infamous star becomes the one leading the faithful to Bethlehem. This subversion of ideas is at the heart of Cattelan’s work, and is one of the key tools in his satirical arsenal. Some may dismiss it as shock tactics, but the pieces certainly hit the viewer to the core.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mark England travels to the Boston Arms to find a band guaranteed to soundtrack future O2 adverts
 date: "2012-05-25 19:09:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201205252009-mc4509-zulu-winter---shot-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205252009-mc4509-zulu-winter---shot-1.jpg"
 headline: true
 featured: true
 imported: true

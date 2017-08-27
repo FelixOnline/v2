@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A term of initial occupancy issues for new postgraduate accommodation
 date: "2011-12-08 19:59:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201112081957-pk1811-aerial_view[1].jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112081957-pk1811-aerial_view[1].jpg"
 headline: true
 featured: true
 imported: true

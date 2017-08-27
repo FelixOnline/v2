@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fallout as event loses over £15,000
 date: "2012-05-18 06:14:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201205180713-felix-fusion-23.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205180713-felix-fusion-23.jpg"
 headline: true
 featured: true
 imported: true

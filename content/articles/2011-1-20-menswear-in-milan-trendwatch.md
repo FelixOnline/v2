@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202033-ks607-blueboat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202033-ks607-blueboat.jpg"
 headline: true
 featured: true
 imported: true

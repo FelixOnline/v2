@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews the Godspeed side project’s latest album
 date: "2014-01-17 03:52:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170352-jal08-music_smz2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170352-jal08-music_smz2.jpg"
 headline: true
 featured: true
 imported: true

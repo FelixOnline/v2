@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Humans are unmistakably tied to our ape origins, says Jane Courtnell
 date: "2015-03-13 00:42:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130043-cj914-jawbone---photoshopped-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130043-cj914-jawbone---photoshopped-copy.jpg"
 image_caption: "The discovery of this jawbone made fossil hunters get hot under the collar"
 headline: true
 featured: true

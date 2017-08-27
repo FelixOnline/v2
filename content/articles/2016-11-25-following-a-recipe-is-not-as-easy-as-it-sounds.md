@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Follow Andrada as she tries to follow a recipe, takes a two hour detour and resigns to eating store bought cake while waiting for her pie to cook
 date: "2016-11-25 14:40:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Things became rather complicated. Ok, let me start this over, in a more simple m
 
 The problems started when we decided (we, not just pretentious me!) that we didn’t want to buy rolled puff-pastry and we wanted to make our own. This single step took three hours, but if you can follow any googled recipe and not start a flour fight (please, don’t!), then you’ll be fine in 50-60 minutes. Also, don’t let a bunch of incapable students who’ve never stepped in the kitchen before attempt this part – the pastry might need to be remade. (No, not everything can be salvaged, unfortunately).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611251440-felix-Screen Shot 2016-11-25 at 14.40.17.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611251440-felix-Screen Shot 2016-11-25 at 14.40.17.png" title="" caption="" attr="" >}}
 
 ## Pastry
 Mix the salt and flour. Add the butter, broken up into small pieces and mix all the ingredients together. The butter chunks should be sticky and should easily mix with the flour, but please DO NOT start throwing it at other people! Add just half the water and whisk everything together before adding some more. In the end, you should get a pretty solid piece of dough. Cover the bowl with cling film and let it rest in the fridge for 20 minutes. The last step: take out the pastry and roll it out, then wrap it (take the upper third and fold it to the centre. Do the same for the lower third and repeat this two to three times – the more times you repeat it, the puffier the pastry will be). Put the pastry back in the bowl, re-cover with cling film, and let it rest another 20 minutes in the fridge.

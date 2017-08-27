@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dylan Lowe and Christopher Richardson offer nuggets of advice to would-be travellers
 date: "2011-02-27 19:43:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271937-ks607-backpack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271937-ks607-backpack.jpg"
 headline: true
 featured: true
 imported: true

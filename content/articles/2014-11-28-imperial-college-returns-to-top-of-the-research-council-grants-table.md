@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Making it rain with the monies
 date: "2014-11-28 00:38:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
 headline: true
 featured: true
 imported: true

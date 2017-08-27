@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian on computing and important mathematical problems
 date: "2012-02-03 11:01:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201202031101-sjw209-complex-zeta.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202031101-sjw209-complex-zeta.jpg"
 image_caption: "A plot of the Riemann-Zeta function over the Complex Plane. Trippy."
 headline: true
 featured: true
@@ -30,13 +30,13 @@ Why should the average person care about finding solutions to them? First, we mu
 
 A core component in electronic circuits is the transistor. The number of transistors within computer processor chips have increased over time roughly according to [Moore’s Law](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html), allowing for greater processing power. This law states the number of transistors will double every 18 months and eventually reach a limit. This limit is frequently extended, and consumers continue to see improvements yearly. This greater processing power is not limited to consumer use, however, and research institutes have begun to take advantage of the speed and efficiency gains to harness the raw power of the integrated circuit and [GPU](http://www.nvidia.com/object/GPU_Computing.html).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202050720-ak6309-image1.png" title="Number of transistors per die within processors over time" caption="Number of transistors per die within processors over time" attr="Credit: Intel" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202050720-ak6309-image1.png" title="Number of transistors per die within processors over time" caption="Number of transistors per die within processors over time" attr="Credit: Intel" >}}
 
 If Physics is to be considered the application of Mathematics to the Universe, frequently giving us answers to life’s questions, then Computing is the application of Mathematics to the virtual Universe. For instance, creating a perfect sphere is [impossible in the physical realm](http://www.csiro.au/Outcomes/ICT-and-Services/Data-deluge/Precision-spheres-in-push-to-re-define-kilogram.aspx), though such perfect elements are digitally representable. This expressive property has opened the door to new methods of analysis with machines, using them as an aid to solving existing research problems. For instance, a quantum mechanical system described to us by Physics is best explored by a [quantum computer](http://en.wikipedia.org/wiki/Quantum_computer), a machine which is capable of operating on the same physical levels as the very realm researchers are attempting to understand.
 
 The [Riemann Hypothesis](http://www.claymath.org/millennium/Riemann_Hypothesis/), considered one of the most important problems in pure mathematics (_Borwein et al. 2008_), involves the distribution of the prime numbers. The hypothesis states that the solutions to the Riemann-Zeta function lie on a critical line. While no proof yet exists, the first [ten trillion values have been verified](http://mathworld.wolfram.com/RiemannZetaFunctionZeros.html) by distributed supercomputing efforts.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202050722-ak6309-2.png" title="A plot of values 0 to 35" caption="A plot of values 0 to 35" attr="Credit: Wolfram MathWorld, Derbyshire (2004)" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202050722-ak6309-2.png" title="A plot of values 0 to 35" caption="A plot of values 0 to 35" attr="Credit: Wolfram MathWorld, Derbyshire (2004)" >}}
 
 While an underlying pattern appears plausible, this Hilbert Problem remains unproven. The unpredictable nature of the prime numbers has been put to use in the [RSA](http://mathworld.wolfram.com/RSAEncryption.html) (_Rivest, Shamir and Adleman, MIT, 1978_) cryptographic algorithm. This system, considered currently unbreakable due to technical infeasibility, provides digital security with primes. Banks, websites and governments worldwide have adopted RSA and it is a common means of distributing an encryption key. A [brute force search](http://mathworld.wolfram.com/ExhaustiveSearch.html) would need to test possible primes to break this, but since there is no reliable way of determining the next prime, computers may take years to perform this operation, rendering this method impractical. A proof of the Riemann Hypothesis, however, may provide a means of determining a pattern and breaking RSA.
 
@@ -44,7 +44,7 @@ While an underlying pattern appears plausible, this Hilbert Problem remains unpr
 
 Brute force guessing of standard passwords is also impractical. We are all currently encouraged to create case-sensitive alphanumeric passwords. The problem with checking every possibility lies not with verification; a computer can easily identify whether two pieces of text are equal. It lies with first obtaining the solution to compare. Some techniques search through dictionary entries, allowing quicker identification of common passwords.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202050725-ak6309-3.png" title="A case sensitive password with alphanumeric characters" caption="A case sensitive password with alphanumeric characters" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202050725-ak6309-3.png" title="A case sensitive password with alphanumeric characters" caption="A case sensitive password with alphanumeric characters" attr="" >}}
 
 Another Millennium Prize Problem, touted the most important unsolved problem in Computer Science, [P vs NP](http://www.claymath.org/millennium/P_vs_NP/) (_Cook, 1971_) revolves around this concept. It asks the question of whether a problem having quick machine verifiable solutions means those solutions can also be found quickly. Problems of the latter are classified [P](http://en.wikipedia.org/wiki/P_(complexity)), while those that are hard to compute are NP. In the case of guessing passwords, it becomes apparent that verification is a P problem (easy) while searching for the correct password is [NP](http://en.wikipedia.org/wiki/NP_(complexity)) (hard).
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Head to The Book Club in Shoreditch for an evening of extreme 'artiness'
 date: "2010-11-11 20:20:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112017-nm1010-drinking.jpg"
 image_caption: "Felix staff doing their best impression of arty people discussing literachacha..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nathaniel Gallop on the underlying issues that encourage media misogyny
 date: "2014-11-20 20:54:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
 headline: true
 featured: true
 imported: true

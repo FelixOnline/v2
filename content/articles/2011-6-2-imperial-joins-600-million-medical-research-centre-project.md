@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial contributes £40 million to Francis Crick Institute
 date: "2011-06-02 18:09:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021908-felix-ukcrmi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021908-felix-ukcrmi.jpg"
 headline: true
 featured: true
 imported: true

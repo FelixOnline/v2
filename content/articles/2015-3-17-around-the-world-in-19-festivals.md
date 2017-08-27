@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah brings you the best festivals in the world
 date: "2015-03-17 18:14:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
 headline: true
 featured: true
 imported: true

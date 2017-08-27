@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scientists create generator to make use of waste heat
 date: "2011-05-12 16:25:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121720-felix-trafficjam11.jpg"
 headline: true
 featured: true
 imported: true

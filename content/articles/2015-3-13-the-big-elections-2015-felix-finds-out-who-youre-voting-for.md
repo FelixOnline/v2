@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our predictions for the next year's sabbatical officers [Updated with link to results breakdown]
 date: "2015-03-13 00:49:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
 image_caption: "The live stats on the Union page give a comprehensive breakdown of voters"
 headline: true
 featured: true

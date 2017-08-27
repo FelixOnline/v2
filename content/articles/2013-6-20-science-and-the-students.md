@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210017-tna08-easterisland02.jpg"
 image_caption: "The Easter Island statues drag themselves across the hill to queue in the Library Cafe"
 headline: true
 featured: true
@@ -47,7 +47,7 @@ Surprisingly, the survey was not ran by Imperial’s friends the British Union A
 
 November
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210018-tna08-blue-whale-pictures_3.jpg" title="The Blue Whale: an eight on the Imperial Scale" caption="The Blue Whale: an eight on the Imperial Scale" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210018-tna08-blue-whale-pictures_3.jpg" title="The Blue Whale: an eight on the Imperial Scale" caption="The Blue Whale: an eight on the Imperial Scale" attr="" >}}
 
 Blue whales seemed to be the stars of November with a study showing that they actually pirouette underwater before lunging at patches of krill from below. Such moves displayed more grace than those offered by freshers when they ventured across London to go to Fabric for the first and last time this month, with many finding they are still not prepared for the wider world outside of Metric.
 
@@ -67,7 +67,7 @@ In physics, a potential source of local comets was identified on the edge of the
 
 January
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210019-tna08-2_28_11_supremecoffee7598.jpg" title="The only love students felt in January- one indued by chemical stimulants" caption="The only love students felt in January- one indued by chemical stimulants" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210019-tna08-2_28_11_supremecoffee7598.jpg" title="The only love students felt in January- one indued by chemical stimulants" caption="The only love students felt in January- one indued by chemical stimulants" attr="" >}}
 
 2013 seems to be the year for neuroscience; January kicked off with the identification of the loss of cells within the cortex being responsible for decreasing sleep quality and a poorer long-term memory. This was actively displayed in those sitting January exams, although was offset by certain students thinking it was appropriate to nap in the Library between study sessions.
 
@@ -78,7 +78,7 @@ Further government action in science was seen in January, with Obama renewing hi
 
 February
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210019-tna08-meteor-strikes-russia-injuries_64326_600x450.jpg" title="The comet that struck Chelyabinsk" caption="The comet that struck Chelyabinsk" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210019-tna08-meteor-strikes-russia-injuries_64326_600x450.jpg" title="The comet that struck Chelyabinsk" caption="The comet that struck Chelyabinsk" attr="" >}}
 
 Spring seemed to have sprung in science, if not elsewhere during February, with flowers and butterflies revealing their secrets to the biologists. Flowers were proved to have a negative electrical charge to attract positively charged bumblebees in an effort to encourage pollen interactions. Meanwhile it was found that migrating monarch butterflies use temperature to dictate flight direction, monitored by their internal clocks.
 
@@ -88,7 +88,7 @@ Excitement for physicists peaked this month with a meteor strike in the Russian 
 
 March
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210020-tna08-lucas-higgs-ce0047h-nice2.jpg" title="The best thing physicists did all year – an attempt at a spirograph picture" caption="The best thing physicists did all year – an attempt at a spirograph picture" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210020-tna08-lucas-higgs-ce0047h-nice2.jpg" title="The best thing physicists did all year – an attempt at a spirograph picture" caption="The best thing physicists did all year – an attempt at a spirograph picture" attr="" >}}
 
 March was a busy month for science and students at Imperial alike. Neuroscientists, continuing with their previous success in research, discovered the source of migraines. In contrary to popular belief that these were caused by repetitive hounding from Union hacks badgering you to vote in the Big Election, they were actually found to be due to waves of cellular depolarisation in the cortex.
  With the approach of final year projects and exams for third year biologists also came a paper determining how sleepless nights can affect gene activity, much to their dismay. Genes concerning immune and stress responses are in particular negatively affected by sleep deprivation; again yet another reason why maybe sometimes it is ok to sleep on the library floor during tedious revision sessions. Biologists also found that mice preformed better on learning tasks and maze navigation when injected with human brain cells, so at least we could claim we are cleverer than the rodents this month.
@@ -101,7 +101,7 @@ An infant was also successfully cured of HIV in March using antiviral drugs, aft
 
 April
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210020-tna08-lab-rat-london.jpg" title="The BUAV’s poster mouse for why Imperial needs to stop science" caption="The BUAV’s poster mouse for why Imperial needs to stop science" attr="Credit: (C) The Buav" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210020-tna08-lab-rat-london.jpg" title="The BUAV’s poster mouse for why Imperial needs to stop science" caption="The BUAV’s poster mouse for why Imperial needs to stop science" attr="Credit: (C) The Buav" >}}
 
 April was an exciting month for Imperial – researchers from the Department of Medicine identified new mutations in the bird flu virus, H5N1, that allow for it to replicate more readily in mammals.
  Meanwhile, at Imperial’s National Heart and Lung institute, a study on stem cells allowed for the identification of possible treatment for those suffering from the bleeding disorder, von Willebrand Disease (vWD). vWD is caused by a malfunctioning clotting factor, but using stem cells, researchers were able to pinpoint exactly what defects were present in different patients, and hopefully develop tailored therapy.
@@ -115,7 +115,7 @@ On a happier note however, biologists found a new hormone within the liver that 
 
 May
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210021-tna08-ku-xlarge.jpg" title="What happens when you don’t print safely – a windpipe that won’t leave you breathless" caption="What happens when you don’t print safely – a windpipe that won’t leave you breathless" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210021-tna08-ku-xlarge.jpg" title="What happens when you don’t print safely – a windpipe that won’t leave you breathless" caption="What happens when you don’t print safely – a windpipe that won’t leave you breathless" attr="" >}}
 
 Exam season descended upon campus with its usual fluid, unbroken sweep across the library, bringing student activity to a halt. Fortunately the same can’t be said for scientific development in May.
 

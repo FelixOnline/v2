@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First debuting as a web-series in late 2015, The Benefits of Gusbandry has only recently joined the Amazon Prime arsenal. As a series trying to portray a different side of the relationships between man and woman, how does it stack up?
 date: "2017-02-10 15:56:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
 headline: true
 featured: true
 imported: true

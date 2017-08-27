@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Third consecutive gold for Imperial College Snooker
 date: "2012-05-18 16:43:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181740-felix-snooker.png"
 headline: true
 featured: true
 imported: true

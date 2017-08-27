@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After months of anticipation, Felix releases its review.
 date: "2014-01-22 14:29:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201401221429-me1711-games_gtargb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401221429-me1711-games_gtargb.jpg"
 headline: true
 featured: true
 imported: true

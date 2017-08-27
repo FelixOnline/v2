@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An interview with Physics’ artist in residence
 date: "2012-11-09 13:13:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ M: How would you describe yourself and your work?
 
 G: I really try to avoid any labels. Sometimes my work is educational or documentary and sometimes it is expressive or poetic. Sometimes it is about the science, sometimes it is about the people. I don’t really worry about it. I call myself an artist, but that is because I am interested in expressing different ideas. But the artist in residence thing is a bit too formal for me.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-].jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211091313-tna08-].jpg" title="" caption="" attr="" >}}
 
 M: So what did you feel that you could gain from this relationship you have with the physics department... whatever it is?
 
@@ -77,7 +77,7 @@ Maybe it’s down to education. Maybe it’s just that people don’t have a way
 
 In a way they are complementary, not competing. Part of what I am trying to do is open doors and help people to understand how science can help complement how they understand the world alongside other things.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-gcrgb.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211091313-tna08-gcrgb.jpg" title="" caption="" attr="" >}}
 
 M: Where do you think these differences arise?
 

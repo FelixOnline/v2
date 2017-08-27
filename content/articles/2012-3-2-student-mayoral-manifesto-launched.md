@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mayoral debate planned for Imperial
 date: "2012-03-02 01:06:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201203020106-felix-74bee5e9-720a-4126-a137-b92c534bbdd9.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203020106-felix-74bee5e9-720a-4126-a137-b92c534bbdd9.jpg"
 headline: true
 featured: true
 imported: true

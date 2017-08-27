@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Royal Shakespeare Company's production of Henry IV, Part I at the Barbican Centre
 date: "2015-01-21 20:27:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oh FIIIINE I'll be a fundamentalist then. Maybe more serious than this subtitle makes it seem.
 date: "2013-05-16 18:41:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161941-tna08-video-mira-nair-articlelarge-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161941-tna08-video-mira-nair-articlelarge-1.jpg"
 headline: true
 featured: true
 imported: true

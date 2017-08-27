@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking at the Kepler Telescope's newest discovery
 date: "2013-11-01 09:38:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
 image_caption: "The Kepler Space Telescope before launch in 2009"
 headline: true
 featured: true

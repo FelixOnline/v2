@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061057-felix-bottomlesspit.jpg"
 image_caption: "A bottomless balloon pit?"
 headline: true
 featured: true

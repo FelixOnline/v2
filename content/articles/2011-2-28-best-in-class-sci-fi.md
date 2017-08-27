@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski kicks off our week long look at the highlights of our favourite genres
 date: "2011-02-28 20:35:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282034-ks607-defyingg.jpg"
 image_caption: "The brilliant Defying Gravity was cancelled after only one season"
 headline: true
 featured: true

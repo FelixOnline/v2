@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Zara Shubber looks at scientists’ warnings that high fructose diets may be detrimental to memory
 date: "2012-06-01 13:27:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011427-mc4509-fruits.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011427-mc4509-fruits.jpg"
 image_caption: "Fructose is a sweetener used widely in processed food and drink"
 headline: true
 featured: true

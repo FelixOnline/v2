@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carys Cook on why the Berkley Earth Project is a step in the right direction
 date: "2011-11-17 20:16:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
 image_caption: "I didn’t commision this piece just so I could use a photo of baby polar bears. Honest"
 headline: true
 featured: true

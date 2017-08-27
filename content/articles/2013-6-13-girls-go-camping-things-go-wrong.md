@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Black Rock review
 date: "2013-06-13 23:38:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140038-tna08-black-rock-review-1.jpg"
 image_caption: "Hold on to your ovaries girls...Man of Steel lands today"
 headline: true
 featured: true

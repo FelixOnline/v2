@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Should we have universal benefits?
 date: "2010-10-21 19:06:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010212004-nm1010-osborne.jpg"
 image_caption: "Jeez, get a new bag bro!"
 headline: true
 featured: true

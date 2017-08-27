@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Good news: still everyone doesn't want UCL
 date: "2013-01-17 23:47:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201301172347-tna08-warwick-campus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301172347-tna08-warwick-campus.jpg"
 headline: true
 featured: true
 imported: true

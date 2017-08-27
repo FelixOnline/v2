@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rector’s role to be split into two positions as Imperial announces Provost for 2013
 date: "2012-05-04 00:29:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205040131-felix-harvard-university.jpg"
 image_caption: "Imperial follows in the footsteps of universities such as Harvard"
 headline: true
 featured: true

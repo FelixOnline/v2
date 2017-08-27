@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the second of a series of articles on the privatisation of our universities, Stephen Smith asks why many students seem disappointed with heavily sponsored Careers Services
 date: "2012-06-08 08:47:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206080946-mc4509-feat.jpg"
 image_caption: "The Careers Advisory Service, located on Level 5 of Sherﬁ eld"
 headline: true
 featured: true

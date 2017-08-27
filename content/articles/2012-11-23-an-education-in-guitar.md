@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi dissects Chris Forsyth’s latest album
 date: "2012-11-23 00:19:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
 headline: true
 featured: true
 imported: true

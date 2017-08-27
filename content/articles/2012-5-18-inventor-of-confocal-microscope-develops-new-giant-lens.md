@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Challenging task ahead for Brad Amos
 date: "2012-05-18 11:10:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
 image_caption: "Nerve cells captured with Amos’ mesolens"
 headline: true
 featured: true

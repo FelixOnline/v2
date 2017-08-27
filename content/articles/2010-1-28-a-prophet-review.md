@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201001281549-egk08-AProphet.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001281549-egk08-AProphet.jpg"
 headline: true
 featured: true
 imported: true

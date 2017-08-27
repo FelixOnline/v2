@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With the biggest names playing every week, it’s no wonder people choose to return to Fabric again and again
 date: "2011-01-27 20:40:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272039-ks607-erolalka.jpg"
 image_caption: "Erol Alkan at Parklife festival"
 headline: true
 featured: true

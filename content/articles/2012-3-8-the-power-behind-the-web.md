@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Kim discusses the election site’s technologies
 date: "2012-03-08 21:36:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201203121347-cb908-elections3.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203121347-cb908-elections3.png"
 image_caption: "Prepare to see some funky stuff going on at the stats page"
 headline: true
 featured: true

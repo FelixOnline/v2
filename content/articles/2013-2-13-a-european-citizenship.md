@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the first of two articles about our friends from across the Channel, Leonardo Ialongo lays out the case for European integration
 date: "2013-02-13 16:07:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131854-tna08-eu-passport-web.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Ball and Ben Fernando see the new rooms at One Victoria road
 date: "2014-11-21 13:14:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The next leg of Priya Garg's epic South American adventure
 date: "2011-05-27 15:27:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105271627-felix-bolivian-dancers.jpg"
 headline: true
 featured: true
 imported: true

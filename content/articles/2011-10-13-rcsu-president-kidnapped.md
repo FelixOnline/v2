@@ -4,7 +4,7 @@ title: >
 subtitle: >
   RAG strike at heart of faculty union in the name of charity
 date: "2011-10-13 20:51:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132149-felix-luke-kanczes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132149-felix-luke-kanczes.jpg"
 image_caption: "An image of the captured RCSU President Luke Kanczes, provided by RAG"
 headline: true
 featured: true

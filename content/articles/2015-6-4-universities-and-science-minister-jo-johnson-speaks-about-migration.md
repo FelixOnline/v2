@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the recent speech by Jo Johnson concerning international students
 date: "2015-06-04 23:18:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
 image_caption: "Mr Johnson affirmed his commitment to addressing the drop in students coming from India."
 headline: true
 featured: true

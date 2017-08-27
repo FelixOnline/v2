@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ankles indicated to give them their extraordinary climbing ability
 date: "2013-01-18 00:19:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180018-tna08-twa-climber.jpg"
 headline: true
 featured: true
 imported: true

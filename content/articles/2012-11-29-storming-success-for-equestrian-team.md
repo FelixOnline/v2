@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rachel Gregory reports
 date: "2012-11-29 23:17:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292316-csw09-riding.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292316-csw09-riding.jpg"
 headline: true
 featured: true
 imported: true

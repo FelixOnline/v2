@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Holding it in Hyde Park would be the “ultimate aim”
 date: "2011-06-09 21:26:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092223-felix-petergillings.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092223-felix-petergillings.jpg"
 image_caption: "'Dem kidz' getting down at last year's Ball"
 headline: true
 featured: true

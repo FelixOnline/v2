@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Some postgraduate students are critical of the h-bar but looking forward to some of the services it provides.
 date: "2013-11-08 03:40:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201311080925-felix-screen-shot-2013-11-08-at-09.24.43.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311080925-felix-screen-shot-2013-11-08-at-09.24.43.png"
 headline: true
 featured: true
 imported: true

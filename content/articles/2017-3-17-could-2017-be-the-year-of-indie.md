@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With some major albums about to drop, could we soon be seeing an indie resurgence?
 date: "2017-03-17 17:06:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
 headline: true
 featured: true
 imported: true

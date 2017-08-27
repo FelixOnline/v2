@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An extremely solid debut, and a pleasure on the ears of anyone with a taste for bluesy folk
 date: "2011-05-12 19:03:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201105122002-felix-tin-cans.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105122002-felix-tin-cans.jpg"
 headline: true
 featured: true
 imported: true

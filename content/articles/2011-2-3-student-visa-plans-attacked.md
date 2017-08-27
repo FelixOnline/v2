@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Government’s visa proposals like “using a slegehammer to crack a nut”
 date: "2011-02-03 19:29:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031927-ks607-damiangr.jpg"
 headline: true
 featured: true
 imported: true

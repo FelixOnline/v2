@@ -4,7 +4,7 @@ title: >
 subtitle: >
   But you can go to the summer festival. Jovan Nedic takes a look at the debate over the new format of the Summer Ball
 date: "2011-05-05 23:48:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
 image_caption: "Headliner Laura Marling"
 headline: true
 featured: true

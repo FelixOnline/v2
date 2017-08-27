@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rising costs and insufficient financial support mean that student led activities are under threat.
 date: "2016-11-11 13:15:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111314-so515-background2.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111314-so515-background2.JPG"
 headline: true
 featured: true
 imported: true

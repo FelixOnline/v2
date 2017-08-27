@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Roocroft is impressed by the Oasis guitarist’s solo debut
 date: "2011-10-28 11:27:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281213-felix-noel-1.jpg"
 image_caption: "Noel takes particular care when framing his shots"
 headline: true
 featured: true

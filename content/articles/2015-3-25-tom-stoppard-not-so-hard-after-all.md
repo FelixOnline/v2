@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman wraps his head around the playwright’s latest
 date: "2015-03-25 12:56:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251255-ff712-vinall-and-calf-cmyka.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251255-ff712-vinall-and-calf-cmyka.jpg"
 image_caption: "Olvia Vinall (Hilary) and Anthony Calf (Jerry) in Tom Stoppard’s The Hard Problem"
 headline: true
 featured: true

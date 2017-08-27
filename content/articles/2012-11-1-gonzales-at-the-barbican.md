@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter gives Chilly Gonzales a thumbs up. Or at least he would, if he weren't too cool to do such actions
 date: "2012-11-01 23:15:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012315-tna08-gonzales.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012315-tna08-gonzales.jpg"
 headline: true
 featured: true
 imported: true

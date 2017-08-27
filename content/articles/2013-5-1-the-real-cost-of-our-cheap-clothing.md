@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The RCSU are raising funds for the victims of the accident in Bangladesh. This is the price of our budget clothes
 date: "2013-05-01 14:50:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201305011552-tna08-130424112019-bangladesh-factory-collapse-620xa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305011552-tna08-130424112019-bangladesh-factory-collapse-620xa.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Military veteran, bronze medallist PhD student
 date: "2016-12-02 16:40:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021739-felix-IMG_8389 (2).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021739-felix-IMG_8389 (2).jpg"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ Definitely, one of the things I perhaps worried about at the start of the resear
 **With a focus on Imperial College, does access to the College or the ability to move around campus hamper you at all? How would you rate the facilities we have here?**
 For a central London based institution, it could be a lot worse. We are limited by real-estate, everything has to go up. So there are lifts and there are old buildings linked into new buildings, so it’s a very difficult map to negotiate. I get a parking permit and there are lifts everywhere, sometimes there are issues with the access facilities being maintained properly. The lifts can be broken which causes a number of problems. [The lifts] are few and far between so there’s a fair amount of walking but actually the college has gone out of their way to make sure everything they can do is done to a reasonable standard. There are a limited number of toilet facilities and sometimes the disabled facilities are either broken or occupied and that makes things difficult for someone with a disability. I don’t feel like it hampers me unless things have gone wrong. There have been times when a lift has been out of order and has been for a long time, which massively affects how far I have to walk. If I have to walk further, then I’m more tired which affects the work I’m doing. The distance is only eight or nine hundred metres but as an amputee walking is difficult because you’ve lost your legs and any extra walking you have to do is taxing.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021642-felix-IMG_8381 (1).png" title="" caption="" attr="Joe O'Connell-Danes" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021642-felix-IMG_8381 (1).png" title="" caption="" attr="Joe O'Connell-Danes" >}}
 
 **And has being an amputee hampered your ability to do research?**
 No, absolutely not. I’ve benefited by coming through the military system, whose focus is on rehabilitation and occupational health so getting someone ready to return to work is massive. I was in a very good position, mentally and physically, to come back to work. I never felt any hesitation or dubiousness about coming back to Imperial. I knew I could do it and I don’t think [being an amputee] has hampered me. I’m in the biomechanics lab, which means we use [reflective] marker systems and I need to place things on ankles, therefore I’m down on the floor, so may have to get someone else to do that for me. But, my brain is still functioning, the rest of my body is still functioning and it’s all about thinking your way through obstacles that you are confronted with.

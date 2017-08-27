@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nathaniel Gallop comments on the situation in Ferguson, Missouri
 date: "2014-12-04 18:29:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
 image_caption: "It has been tense in Ferguson since the shooting of Michael Brown in August."
 headline: true
 featured: true

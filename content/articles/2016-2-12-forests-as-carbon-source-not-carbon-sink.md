@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Human management of European forests to mitigate climate change could be counterintuitive
 date: "2016-02-12 11:29:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
 image_caption: "Human forest management – a waste of time?"
 headline: true
 featured: true

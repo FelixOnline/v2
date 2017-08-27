@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Afonso Campos talks to to Joel Gascoigne about Buffer and startups in general
 date: "2011-06-23 20:28:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232128-felix-imag0046.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232128-felix-imag0046.jpeg"
 headline: true
 featured: true
 imported: true

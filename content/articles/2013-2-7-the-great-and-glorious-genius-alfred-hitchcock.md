@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park likes but is not overawed by this tale
 date: "2013-02-07 22:57:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072256-tna08-hitchcock_2012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072256-tna08-hitchcock_2012.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ Now the casting: Grace Kelly, now Her Serene Highness the Princess of Monaco, is
 
 So the events leading up to the actual production seem interesting enough. We wonder just how much of a tough time Hitch will face, whilst directing his passion project. But when it comes to actually showing the audiences the process of filming Psycho, we are treated to very little insight, if at all. Hitchcock is more interested in what effects the filming had on the relationship between the director and his wife. Aside from a brief scene that shows how the infamous “shower scene” came into existence, we very rarely visit the set, let alone spend any time with the actors in front of Hitch’s cameras. Johansson, Biel and D’Arcy all resemble their real-life counterparts and have a good crack at acting the actors’ parts, but their performances are so brief that very little ends up of any use.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302072257-tna08-hitchcock-shower.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302072257-tna08-hitchcock-shower.jpg" title="" caption="" attr="" >}}
 
 The film also wants to explore the psychology behind Hitch’s attachment to the original material of the production. We are intermittently shown Ed Gein at various stages of his life. We see Hitch visualising the serial killer’s behaviour. Developing this to strangers territories, we also see Hitch conversing with his “inspiration.” These scenes hardly ever work, since it is never really depicted just what lesson the director took away from studying his character in so much depth. So he makes a film that causes impact and its fair share of scandals. But how he goes about bringing everything together is never clearly addressed and therefore it all ends up looking a bit tame for its subject matter.
 

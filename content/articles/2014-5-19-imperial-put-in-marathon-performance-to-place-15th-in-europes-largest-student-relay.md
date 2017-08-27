@@ -4,7 +4,7 @@ title: >
 subtitle: >
   On Friday 9th May 2014, a team of from the Imperial College Cross Country and Athletics Club set off to the Netherlands to take on Europe’s largest student relay race; de Batavierenrace. Having been invited year on year by Dutch participants of the Imperial’s own Hyde Park Relays...
 date: "2014-05-19 13:47:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191447-jal08-anne-at-the-start.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191447-jal08-anne-at-the-start.jpg"
 headline: true
 featured: true
 imported: true

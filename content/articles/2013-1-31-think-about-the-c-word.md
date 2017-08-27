@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kate Pumphrey wants you to remember cancer awareness day
 date: "2013-01-31 23:12:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312311-tna08-chemo-drugs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312311-tna08-chemo-drugs.jpg"
 headline: true
 featured: true
 imported: true

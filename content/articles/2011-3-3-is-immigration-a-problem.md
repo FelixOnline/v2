@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With David Cameron attacking “state multiculturalism” and introducing an immigration quota, Felix asks if there's actually any problem at all?
 date: "2011-03-03 20:45:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032039-ks607-immigrat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032039-ks607-immigrat.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   SurfSoc catch some cold, cold waves. Why do they like it again?
 date: "2012-11-22 22:56:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222256-tna08-surfing.jpg"
 headline: true
 featured: true
 imported: true

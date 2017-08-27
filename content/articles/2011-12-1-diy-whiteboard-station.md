@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou helps you to experience the fun of lectures in your own home
 date: "2011-12-01 20:41:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012039-ams111-hag1.jpg"
 image_caption: "The blob at the top is meant to be China. Don’t ask why"
 headline: true
 featured: true

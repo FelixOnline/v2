@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Zain Rizvi describes the action from a rain-sodden Harlington pitch as Imperial fail to defend 79
 date: "2014-05-19 13:21:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191421-jal08-sport_cricket_redknapp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191421-jal08-sport_cricket_redknapp.jpg"
 headline: true
 featured: true
 imported: true

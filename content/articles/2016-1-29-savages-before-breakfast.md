@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Replace that Red Stripe with a Venti Cappuccino
 date: "2016-01-29 09:35:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602011702-cet13-savages1.jpg"
 image_caption: "Look at all these people who are going to be late for work."
 headline: true
 featured: true

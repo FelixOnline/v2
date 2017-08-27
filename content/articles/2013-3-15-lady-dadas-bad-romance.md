@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the Barbican
 date: "2013-03-15 01:28:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
 headline: true
 featured: true
 imported: true

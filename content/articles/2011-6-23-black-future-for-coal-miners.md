@@ -4,7 +4,7 @@ title: >
 subtitle: >
   People living in coalfield areas more like to suffer from long-term illnesses
 date: "2011-06-23 20:00:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232059-felix-mick%20on%20sylvester.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232059-felix-mick%20on%20sylvester.jpg"
 headline: true
 featured: true
 imported: true

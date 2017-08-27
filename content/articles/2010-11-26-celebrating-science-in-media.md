@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011260719-ks607-paneldis.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   News about Clayponds and the Holland Club highlight inadequacies in Imperial's view of postgraduate students
 date: "2012-01-26 22:35:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262216-felix-street_view[1].jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262216-felix-street_view[1].jpg"
 image_caption: "Griffon Studios – the best a postgrad can get?"
 headline: true
 featured: true

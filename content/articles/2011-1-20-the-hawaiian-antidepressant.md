@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Success story of an Imperial miser finding happiness on the islands of manta rays, volcanoes, surfs and opposite-sex attention
 date: "2011-01-20 19:15:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201912-ks607-mantaray.jpg"
 headline: true
 featured: true
 imported: true

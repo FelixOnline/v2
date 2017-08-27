@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC Snowsports want you to go to their yearly Alps trip
 date: "2012-11-01 22:30:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012229-tna08-backflip-cowrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012229-tna08-backflip-cowrgb.jpg"
 headline: true
 featured: true
 imported: true

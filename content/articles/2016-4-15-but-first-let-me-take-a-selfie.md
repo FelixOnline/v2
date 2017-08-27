@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tate Modern's exhibition explores the age-old relationship between photography and performance
 date: "2016-04-15 18:08:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
 image_caption: "Amalia Ulman, Excellences & Perfections (Instagram Update, 8th July 2014),(#itsjustdifferent)"
 headline: true
 featured: true

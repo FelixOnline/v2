@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A team of EEE students are working to help establishing internet access in rural areas of developing countries
 date: "2012-02-16 20:55:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162054-ams111-aurora.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162054-ams111-aurora.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gareth Campbell says goodbye to a band that is close to his heart
 date: "2011-12-08 21:17:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082117-pk1811-pr.jpg"
 image_caption: "The band thought it was time to take an indefinitely extended nap"
 headline: true
 featured: true

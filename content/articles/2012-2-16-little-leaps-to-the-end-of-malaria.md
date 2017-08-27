@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eliot Barford on the small things that could add up to getting rid of malaria for good
 date: "2012-02-16 21:57:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
 image_caption: "A very high magnification micrograph of maternal malaria"
 headline: true
 featured: true

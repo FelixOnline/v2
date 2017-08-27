@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A serious review by Maximilian Eggl on the latest Battlefield game beta
 date: "2014-06-19 18:37:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201406191937-me1711-games_bfhardline.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406191937-me1711-games_bfhardline.jpg"
 headline: true
 featured: true
 imported: true

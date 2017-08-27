@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Coles condemns the current approach to humanitarian aid
 date: "2016-10-28 15:16:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ This begs the question: Why are Haitians still living in such dire conditions? C
 
 In Haiti’s case, external aid originating from NGOs to entire governments resulted in a plethora of unintended consequences. Few may be aware of it, but is an issue which arose long before 2010.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311308-felix-Screen Shot 2016-10-31 at 13.07.49.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311308-felix-Screen Shot 2016-10-31 at 13.07.49.png" title="" caption="" attr="" >}}
 
 > The inhabitants’ living conditions remain unchanged as they grew dependent on foreign donations
 
@@ -53,7 +53,7 @@ Firstly, private donations were mainly directed to emergency response, all impor
 
 Secondly, the US government and organisations such as USAID spread their investments in a rather strange manner. Over a $ 100 million was allocated to housing projects, including luxury townhouses with swimming pools for the staff.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311308-felix-Screen Shot 2016-10-31 at 13.08.02.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311308-felix-Screen Shot 2016-10-31 at 13.08.02.png" title="" caption="" attr="" >}}
 
 As though to further mock the suffering, $ 18 million was spent on the construction of an Olympic-style sports and recreational centre adjacent to one of the largest tent cities, where clean running water and plumbing was alien to most. Even more,$ 260 million funded the completion of Caracol Industrial Park, which is located over 150 miles north of where the earthquake struck.
 

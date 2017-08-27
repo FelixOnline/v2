@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christy Kelly explores the recent national conversation about Ralph Miliband
 date: "2013-10-18 21:29:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182228-jal08-ralph.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182228-jal08-ralph.png"
 headline: true
 featured: true
 imported: true

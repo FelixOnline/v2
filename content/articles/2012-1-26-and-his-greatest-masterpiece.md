@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Catcher in the Rye – the archetypical story of teenage disillusionment, confusion and rebellion
 date: "2012-01-26 22:33:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262232-ams111-catcherintherye.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262232-ams111-catcherintherye.jpg"
 headline: true
 featured: true
 imported: true

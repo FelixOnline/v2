@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Next Thursday is World AIDS Day. As Medsin Imperial holds a debate to mark the occasion, Red Elmahdi investigates the arguments surrounding aid and AIDS
 date: "2011-11-24 21:40:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242140-pk1811-redribbonprojection.jpg"
 headline: true
 featured: true
 imported: true

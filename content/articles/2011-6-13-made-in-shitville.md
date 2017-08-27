@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The week in television
 date: "2011-06-13 13:33:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106131433-felix-172.jpeg"
 headline: true
 featured: true
 imported: true

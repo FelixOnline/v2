@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chair Baroness Manningham-Buller will step down later this year, reports Cecily Johnson
 date: "2015-03-13 01:24:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
 image_caption: "Sir Philip will take over as Chair this May"
 headline: true
 featured: true

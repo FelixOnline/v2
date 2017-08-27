@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192337-cj914-college-buildings.jpg"
 image_caption: "Imperial was the 3rd highest ranked UK university after Cambridge and Oxford"
 headline: true
 featured: true

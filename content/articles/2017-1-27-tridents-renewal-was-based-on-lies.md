@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Avirup Banerjee thinks Trident is an expensive accident waiting to happen
 date: "2017-01-27 16:24:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.27.24.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.27.24.png"
 headline: true
 featured: true
 imported: true

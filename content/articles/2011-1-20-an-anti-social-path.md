@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships
 date: "2011-01-20 19:23:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201921-nm1010-scaaaaaa.jpg"
 headline: true
 featured: true
 imported: true

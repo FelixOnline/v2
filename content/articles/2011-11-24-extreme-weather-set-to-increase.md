@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simulations suggest increased chances of heavy rainfall, which could lead to flooding
 date: "2011-11-24 21:11:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
 image_caption: "Hurricane Katrina is often used as an example of extreme weather "
 headline: true
 featured: true

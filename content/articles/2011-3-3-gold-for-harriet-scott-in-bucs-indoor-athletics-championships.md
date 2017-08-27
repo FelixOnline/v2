@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial athletes shine through
 date: "2011-03-03 21:14:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032111-nm1010-harrieth.jpg"
 headline: true
 featured: true
 imported: true

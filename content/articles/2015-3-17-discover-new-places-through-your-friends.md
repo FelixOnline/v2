@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah had a chat with Imperial graduate Krishan Patel, who founded the app Kites to help people discover their city through each other
 date: "2015-03-17 14:38:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201503171439-ync111-maxresdefault.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503171439-ync111-maxresdefault.jpg"
 headline: true
 featured: true
 imported: true

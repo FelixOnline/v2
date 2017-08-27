@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Harvard-MIT Center for Ultracold Atoms has created “photonic molecules” by binding photons together, as published in Nature last week.
 date: "2013-10-04 00:33:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
 image_caption: "Photonic Molecule"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cue sports club cooks up a storm at national tournaments
 date: "2013-10-04 02:19:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040319-jal08-masters-pic-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040319-jal08-masters-pic-2.jpg"
 image_caption: "ICU Snooker & Pool"
 headline: true
 featured: true

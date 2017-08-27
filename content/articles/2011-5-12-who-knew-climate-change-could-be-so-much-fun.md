@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Bowers becomes a global dictator while reviewing Fate of the World
 date: "2011-05-12 18:41:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
 image_caption: "All you need to be a world leader is to be able to use Google Earth"
 headline: true
 featured: true

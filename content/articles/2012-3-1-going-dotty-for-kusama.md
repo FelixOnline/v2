@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tate Modern has us turning Japanese and just a little mad
 date: "2012-03-01 21:50:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012151-cac111-yayoikusama.jpg"
 image_caption: "More like Tate Magenta..."
 headline: true
 featured: true

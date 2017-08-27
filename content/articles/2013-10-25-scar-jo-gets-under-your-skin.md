@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles on Scarlett Johansson's latest film
 date: "2013-10-25 00:42:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250142-felix-under-the-skin-scarlett-johansson-movie-2013-jonathan-glazer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250142-felix-under-the-skin-scarlett-johansson-movie-2013-jonathan-glazer.jpg"
 headline: true
 featured: true
 imported: true

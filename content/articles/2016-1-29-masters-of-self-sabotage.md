@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our mentality towards mental health needs to change if we are to reduce suffering
 date: "2016-01-29 08:54:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290852-felix-mental health 2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290852-felix-mental health 2.jpg"
 headline: true
 featured: true
 imported: true

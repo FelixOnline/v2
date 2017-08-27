@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Event to be similar to the 1851 Great Exhibition
 date: "2011-11-17 21:06:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
 headline: true
 featured: true
 imported: true

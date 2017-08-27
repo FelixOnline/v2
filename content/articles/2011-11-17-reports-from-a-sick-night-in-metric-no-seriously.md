@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172121-pk1811-csc_0605.jpg"
 image_caption: "Mikill Pane poses with students"
 headline: true
 featured: true

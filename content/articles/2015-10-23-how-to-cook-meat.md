@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Reverse-searing is the the most impressive way to cook a steak on a student budget
 date: "2015-10-23 11:31:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231231-ygr12-steak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231231-ygr12-steak.jpg"
 image_caption: "You don’t have to serve it on a slate, but it does help. "
 headline: true
 featured: true

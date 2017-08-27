@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzy Griffiths goes to Newquay for the waves, and the 'bants' probably
 date: "2013-05-01 10:22:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012035-tna08-surf2.jpg"
 headline: true
 featured: true
 imported: true

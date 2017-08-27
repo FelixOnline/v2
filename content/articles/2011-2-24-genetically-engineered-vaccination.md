@@ -4,7 +4,7 @@ title: >
 subtitle: >
   One bacteria derived vaccine for many infectious diseased
 date: "2011-02-24 20:17:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242014-nm1010-kidvacci.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A sequel to the Channel 4 documentary
 date: "2012-03-13 15:44:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201203131544-felix-channel_4.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203131544-felix-channel_4.png"
 image_caption: "‘Sri Lanka’s Killing Fields: War Crimes Unpunished’ will air on Wednesday 14th March, 10:55pm on Cha"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The follow up to the action packed Taken is disappointing
 date: "2012-11-09 13:33:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091333-tna08-taken.jpg"
 headline: true
 featured: true
 imported: true

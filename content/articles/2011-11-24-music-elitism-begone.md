@@ -32,7 +32,7 @@ I didn’t buy that song because it was Christmas. It was, in fact, January. I b
 
 I am no 80s freak. I don’t own a pair of leg warmers or have pictures of George Michael adorning my walls. But I do love a good melody and something that can make me dance: ‘[Club Tropicana](http://www.youtube.com/watch?v=WYX0sjP6Za8&ob=av3e)’ just does that for me.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242132-felix-wham.jpg" title="Snowflakes, dandruff or... cocaine? Well, it is the 80s " caption="Snowflakes, dandruff or... cocaine? Well, it is the 80s " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242132-felix-wham.jpg" title="Snowflakes, dandruff or... cocaine? Well, it is the 80s " caption="Snowflakes, dandruff or... cocaine? Well, it is the 80s " attr="" >}}
 
 I am not ashamed to say that since becoming a student over two years ago, I have been to see LCD Soundsystem, the Jonas Brothers, Rufus Wainwright and Brad Paisley, amongst others. A mix for sure but something I feel like I should be able to write about without fear of reprisal.
 

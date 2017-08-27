@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski on the best evidence yet for water just below the surface
 date: "2011-11-24 20:58:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
 image_caption: "Europa’s ‘Great Lake’ – scientists speculate that many more exist throughout the moon"
 headline: true
 featured: true

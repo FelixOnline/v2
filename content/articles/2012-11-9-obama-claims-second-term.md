@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emilie Beauchamp has the results from America
 date: "2012-11-09 12:16:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091214-tna08-lolbama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091214-tna08-lolbama.jpg"
 headline: true
 featured: true
 imported: true
@@ -57,4 +57,4 @@ Gary Johnson, former Governor of New Mexico, is running for the Libertarian Part
 
 The Green Party has nominated Jill Stein, a physician from Massachusetts. One of her main proposals is a “Green New Deal”, aiming to create public sector jobs in the clean energy sector to reduce unemployment and boost the economy. She has been endorsed, amongst others, by the infamous political critic and linguist Noam Chomsky.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211091214-tna08-what-you-can-buy.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211091214-tna08-what-you-can-buy.png" title="" caption="" attr="" >}}

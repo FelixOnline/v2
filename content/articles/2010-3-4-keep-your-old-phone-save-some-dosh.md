@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ken Lo takes a look at SIM-only tarifs, saving you a decent chunk of change on your phone bill
 date: "2010-03-04 12:59:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201003041252-srg03-Savings.jpg"
 headline: true
 featured: true
 imported: true

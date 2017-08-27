@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Chaudhri and Kieran Ryan criticise Imperial's expansion in White City
 date: "2017-05-15 16:02:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
 headline: true
 featured: true
 imported: true

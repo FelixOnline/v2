@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Graduate employers have also committed to anonymising candidates
 date: "2015-10-30 12:28:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201510301228-ygr12-cameron-approves.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510301228-ygr12-cameron-approves.jpg"
 image_caption: "Cameron supports anti-bias measures and tax credit cuts"
 headline: true
 featured: true

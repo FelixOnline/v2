@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Magnetic Man unleash a torrent of bass @ Heaven
 date: "2010-11-18 20:39:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182037-ks607-magnetic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182037-ks607-magnetic.jpg"
 headline: true
 featured: true
 imported: true

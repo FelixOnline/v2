@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We surpassed Oxford and Cambridge
 date: "2015-05-08 00:13:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
 headline: true
 featured: true
 imported: true

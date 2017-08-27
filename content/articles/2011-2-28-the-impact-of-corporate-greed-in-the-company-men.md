@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Wells’ debut venture as a film director is an astute and absorbing drama
 date: "2011-02-28 20:42:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282040-ks607-thecompa.jpg"
 headline: true
 featured: true
 imported: true

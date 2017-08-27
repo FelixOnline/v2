@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The TEKUA project comes to London in co-operation with local businesses and Imperial College students in order to raise money towards better Tanzanian education
 date: "2011-12-01 20:22:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012020-pk1811-tekua5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012020-pk1811-tekua5.jpg"
 image_caption: "They make art which is sold around the world "
 headline: true
 featured: true
@@ -34,7 +34,7 @@ From the streets of Manhattan to the crowded squares of Europe, much of the rece
 
 TEKUA is an acronym that stands for the five Swahili words: empowerment, education, initiative, health and poverty. The centre effectively uses education as a weapon to break the crippling chain of poverty which reduces the lives of many young Tanzanian’s to a mere fight for survival. With education comes the empowerment of women in a society whose patriarchal traditions contribute emphatically to the spreading of HIV/AIDS. With education, the centre takes a concrete stand against poverty by equipping the youths of Tanzania with the skills necessary to find decent jobs. Most importantly, with education comes the possibility for young students to realise their dreams and make positive contributions to the development of their society. These are goals worth fighting for. These are statistics worth protesting against. There are 92% of Tanzanians who deserve a voice in our world, and we are determined to finally give them one.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112012022-pk1811-tekua4.jpg" title="According to the guys at TEKUA, the Western ‘99%’ is not the real 99%" caption="According to the guys at TEKUA, the Western ‘99%’ is not the real 99%" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112012022-pk1811-tekua4.jpg" title="According to the guys at TEKUA, the Western ‘99%’ is not the real 99%" caption="According to the guys at TEKUA, the Western ‘99%’ is not the real 99%" attr="" >}}
 
 Now how do we Imperial students fit into this context and how can we actually make a difference to the lives of these young Tanzanians? The answer is by doing enough work to make the TEKUA centre financially self-sufficient. Unfortunately this is much easier said than done. It would be far easier to ask people for their spare change on street corners and donate all the proceeds to the centre. This approach however, would make the centre entirely reliant on the generosity of foreigners, thus preventing it from growing and flourishing independently. The way we have chosen to approach the problem is to take the skills learned by TEKUA students at the centre and use those to generate an income.
 
@@ -50,6 +50,6 @@ Success in our efforts would have a dramatic impact on the future of the centre.
 
 As university students we are often condemned for being apathetic towards global issues and criticised for taking part in deleterious movements such as the 99% campaign. This is our chance to prove these allegations wrong by stepping up to a challenge that is highly ambitious and needs the attention of the world. It is in our power to determine the direction of progress in Tanzanian society and as citizens of an increasingly globalised world we cannot ignore our responsibility. With this kind of decisive action we will undoubtedly have a dramatic impact on the lives of 92% of young Tanzanians. So if you want become part of our mission come and visit the exhibition to take a stand against a crippling statistic that deserves your time.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112012022-pk1811-tekua.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112012022-pk1811-tekua.jpg" title="" caption="" attr="" >}}
 
 The TEKUA Education Centre project presents _Tanzania: Art for Knowledge_ at Chartis UK, 58 Fenchurch St., London, EC3M 4AB, 10:00-16:00 daily until December 17.

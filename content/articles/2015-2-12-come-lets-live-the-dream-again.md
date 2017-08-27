@@ -4,7 +4,7 @@ title: >
 subtitle: >
   That is what Sachin Tendulkar has being telling Indian fans in the latest advertising campaign for the World Cup. On the eve of the tournament, Kunal Wagle tells Felix what to expect.
 date: "2015-02-12 22:43:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
 headline: true
 featured: true
 imported: true

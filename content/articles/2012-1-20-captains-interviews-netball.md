@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shooting the breeze with the popular club
 date: "2012-01-20 17:19:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201201201718-felix-img_8914.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201201718-felix-img_8914.jpg"
 headline: true
 featured: true
 imported: true

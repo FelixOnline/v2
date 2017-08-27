@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle recaps some of the major stories from the holiday.
 date: "2015-01-16 15:35:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161534-kmw13-201911.3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161534-kmw13-201911.3.jpg"
 headline: true
 featured: true
 imported: true

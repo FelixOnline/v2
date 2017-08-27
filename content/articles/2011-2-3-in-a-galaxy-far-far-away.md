@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Most distant galaxy ever detected
 date: "2011-02-03 19:59:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031957-ks607-galaxyga.jpg"
 headline: true
 featured: true
 imported: true

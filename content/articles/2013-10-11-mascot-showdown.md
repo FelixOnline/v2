@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Faculty Unions mutually hold mascots at ransom
 date: "2013-10-11 22:43:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
 headline: true
 featured: true
 imported: true

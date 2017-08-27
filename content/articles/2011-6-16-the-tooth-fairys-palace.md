@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Professor Sara Rankin is asking school children around the UK to donate their baby teeth. But why?
 date: "2011-06-16 19:36:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162027-felix-99.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162027-felix-99.jpg"
 image_caption: "Professor Sara Rankin"
 headline: true
 featured: true
@@ -42,7 +42,7 @@ As a PhD student she used to grab up some equipment from her lab and head over t
 
 She’s keen for Imperial students to get involved as well. Both by donating their teeth – you’d be surprised how many parents keep their kids’ baby teeth, she tells me – and by going to schools and spreading the word. It’s clear that Professor Rankin feels passionate about the importance of outreach. She points out that it’s not just the children who benefit, “it actually brings a lot to your career in terms of communication skills, presentation skills, and it’s also a nice diversion from the daily grind of academia.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201106162035-felix-s.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201106162035-felix-s.jpg" title="" caption="" attr="" >}}
 
 ‘Palaces’ has received coverage in [major](http://www.bbc.co.uk/news/health-12906968)[news](http://www.wired.co.uk/news/archive/2011-03/28/art-science-teeth-donation) outlets and has garnered attention world-wide. It will be first exhibited in Liverpool this December, before coming to the Science Museum from April–June 2012. The plan is to travel the sculpture as much as possible so that children who have donated a tooth can come and see where it has ended up. “I love the idea that children are going to be able to give a single tooth, and then later perhaps visit the Science Museum and they can see what donating something has created,” says Professor Rankin. The hope is that the experience will encourage children to think more positively about donating in general and carry that through life.
 

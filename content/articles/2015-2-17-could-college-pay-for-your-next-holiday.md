@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland sat down with the new head of Exploration Board after their endorsement of his upcoming trip through Central Asia
 date: "2015-02-17 19:12:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171912-ps3110-screen-shot-2015-02-17-at-19.12.38.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171912-ps3110-screen-shot-2015-02-17-at-19.12.38.png"
 headline: true
 featured: true
 imported: true

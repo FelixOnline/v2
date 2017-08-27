@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A monthly column dedicated to the Indian film industry
 date: "2011-05-06 12:39:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061342-felix-51vbbwlfi6l.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061342-felix-51vbbwlfi6l.jpeg"
 headline: true
 featured: true
 imported: true

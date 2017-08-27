@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Teams from Imperial take runner-up places in BP Ultimate Field Trip
 date: "2012-05-10 19:49:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102047-pk1811-2.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102047-pk1811-2.png"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ Team Aspire’s proposal was based on the use of Algae-based bioreactors housed 
 
 G.I.C. (Global Intelligence Consulting) outlined a three-phase approach with membrane technology (based on research being carried out at Imperial) being the first part of their proposal, which culminated in artificial-leaf CO2 break down. G.I.C. stressed the importance that “you won’t go to bed and wake up the next morning with a carbon neutral refinery” and that a flexible solution with immediate action is necessary.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201205102048-pk1811-bpuft12_047.jpg" title="The Final was held at the Royal Institution" caption="The Final was held at the Royal Institution" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201205102048-pk1811-bpuft12_047.jpg" title="The Final was held at the Royal Institution" caption="The Final was held at the Royal Institution" attr="" >}}
 
 C-Less outlined an efficiency improvement approach with large amounts of retro fitting to existing refineries to cut CO2 emission before finally using carbon capture and storage to remove the CO2 under the North Sea. Whilst retro fitting is not cheap, “looking at the costs makes me wince,” a BP employee commented. The retrofitting also has the advantage of being a partial solution that can be enacted right now rather than waiting for technology to develop.
 

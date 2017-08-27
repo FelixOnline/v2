@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Barnett turns his pen to a less provocative subject
 date: "2011-10-21 10:42:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211142-ak6309-attachment.ashx.jpg"
 headline: true
 featured: true
 imported: true

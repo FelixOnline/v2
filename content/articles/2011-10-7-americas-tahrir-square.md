@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The disgruntled left's great fight back
 date: "2011-10-07 10:02:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071100-felix-occupy_wall_street.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071100-felix-occupy_wall_street.jpg"
 image_caption: "A group of New Yorkers angry at the lack of Starbucks on this block"
 headline: true
 featured: true

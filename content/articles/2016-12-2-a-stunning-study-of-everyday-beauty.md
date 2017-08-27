@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jim Jarmusch’s latest work Paterson is a breathtaking exploration of day-to-day life, blissful love, and the sheer power of poetry.
 date: "2016-12-02 14:06:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021406-felix-paterson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021406-felix-paterson.jpg"
 headline: true
 featured: true
 imported: true

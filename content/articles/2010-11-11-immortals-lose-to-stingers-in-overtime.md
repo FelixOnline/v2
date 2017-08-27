@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Neil Chordia reports on Imperial Immortals' narrow loss to Surrey Stingers
 date: "2010-11-11 20:43:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112042-ks607-american.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112042-ks607-american.jpg"
 headline: true
 featured: true
 imported: true

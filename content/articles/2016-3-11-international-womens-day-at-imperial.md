@@ -4,7 +4,7 @@ title: >
 subtitle: >
   #ImperialWomen can
 date: "2016-03-11 11:21:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111120-felix-20160310_140432.jpg"
 image_caption: "Fun fact – there have been four female FELIX Editors so far."
 headline: true
 featured: true

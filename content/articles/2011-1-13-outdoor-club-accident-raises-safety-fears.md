@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union says students are “skilled, experienced and equipped appropriately” but eyewitness disputes Union account
 date: "2011-01-13 21:50:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132147-ks607-helvelyn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132147-ks607-helvelyn.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   C. I. Franke would like a word with your parents about their shockingly bad taste in music
 date: "2011-10-07 12:32:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071332-felix-recordcollection.jpg"
 image_caption: "Your parents' record collection: nothing but a catalogue of embarassing purchases"
 headline: true
 featured: true

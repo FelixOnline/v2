@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Russian standup and sketches impress to become United Kingdom’s top group
 date: "2012-03-15 21:14:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152110-ig711-russian.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152110-ig711-russian.jpg"
 image_caption: "The semi finals. From left to right – Alexey Denisov, Alexander Bukharin, Oksana Iamshanova, Egor Sa"
 headline: true
 featured: true

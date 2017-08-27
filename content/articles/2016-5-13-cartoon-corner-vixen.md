@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-05-13 09:24:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131124-felix-vixen.jpg"
 image_caption: "Another hero is in on the action. "
 headline: true
 featured: true

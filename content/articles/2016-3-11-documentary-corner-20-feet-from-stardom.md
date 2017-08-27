@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-11 11:53:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
 image_caption: "Darlene Love, one of the behind-the-scenes stars in 20 Feet From Stardom."
 headline: true
 featured: true

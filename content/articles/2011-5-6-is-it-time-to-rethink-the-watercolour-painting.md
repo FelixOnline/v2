@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New Tate Britain exhibition challenges preconceptions about watercolour as a medium
 date: "2011-05-06 08:54:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
 image_caption: "The Blue Rigi Sunrise by J. M. W. Turner"
 headline: true
 featured: true

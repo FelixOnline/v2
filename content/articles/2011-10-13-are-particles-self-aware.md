@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon discusses Brownian motion
 date: "2011-10-13 21:56:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132256-felix-white-noise.png"
 image_caption: "The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo"
 headline: true
 featured: true

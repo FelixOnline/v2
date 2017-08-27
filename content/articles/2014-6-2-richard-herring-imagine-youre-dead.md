@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Richard Herring is one of the best British comedians. Fact. He is a comedian of the people, and I hate myself a bit for writing that. He performs for the love of it, always donating proceeds to Scope and putting the rest of the money into more projects.
 date: "2014-06-02 13:07:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021407-felix-r-herring_1318271c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021407-felix-r-herring_1318271c.jpg"
 headline: true
 featured: true
 imported: true

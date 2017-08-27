@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Politicians for hire: Rifkind suspended from Tory Party pending investigation into ‘cash for access’ scandal.
 date: "2015-02-23 15:43:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201502231537-bwh12-rifkind.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502231537-bwh12-rifkind.jpg"
 image_caption: "Rifkind speaks to Policy Exchange in 2012"
 headline: true
 featured: true

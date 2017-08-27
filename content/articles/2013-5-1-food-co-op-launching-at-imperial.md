@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ever wanted yummy and ethical food? Look no further
 date: "2013-05-01 18:21:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201305011921-tna08-final3.jpg-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305011921-tna08-final3.jpg-1.jpg"
 headline: true
 featured: true
 imported: true

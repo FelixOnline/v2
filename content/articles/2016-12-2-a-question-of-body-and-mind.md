@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maurice Zard explores the links between physical and mental disease
 date: "2016-12-02 13:59:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
 headline: true
 featured: true
 imported: true

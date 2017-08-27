@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Professor Sir Gordon Conway interviewed about food security
 date: "2013-05-22 14:35:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305221533-tna08-one-bill-hung.png"
 headline: true
 featured: true
 imported: true
@@ -75,7 +75,7 @@ GC: Fundamentally we must realise that nearly half the farmers in Africa are wom
 
 What you have to do, you have to help farmers form co-operatives, and contract farmer groups, so that they have got the power of being part of a co-operative and doing the deals with the big companies
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305221535-tna08-gconway.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305221535-tna08-gconway.png" title="" caption="" attr="" >}}
 
 JH: Are there are any schemes encouraging people to return and invest in their home countries? Do we need more of a focus on this?
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Underwater Club takes a dive.
 date: "2014-11-06 21:11:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062111-cj914-gopr0234-copy.jpg"
 image_caption: "It is rumoured that one of the divers in this picture was celebrating a world cup result."
 headline: true
 featured: true

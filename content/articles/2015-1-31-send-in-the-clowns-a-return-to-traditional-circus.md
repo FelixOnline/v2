@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reviews Cirque du Soleil’s Kooza at the Royal Albert Hall
 date: "2015-01-31 19:18:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
 image_caption: "Chinese Chair at Cirque du Soleil's Kooza"
 headline: true
 featured: true

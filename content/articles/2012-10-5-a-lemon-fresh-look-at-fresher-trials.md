@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Sport Brings you a rough and incomplete guide to some of the fresher trial events
 date: "2012-10-05 13:34:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051436-felix-sam_0236.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051436-felix-sam_0236.jpg"
 image_caption: "Just wondering how to put a bib on. Hang on, I'll get Balotelli to explain it"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim explains why the Mediterranean diet may be the best there is...
 date: "2017-01-20 15:13:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201513-felix-fish-1768103_1280.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX reviews Maitre Choux, a snazzy patisserie in South Kensington
 date: "2016-05-13 09:34:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
 image_caption: "I wonder if he leaves chocolate squares wherever he goes. "
 headline: true
 featured: true

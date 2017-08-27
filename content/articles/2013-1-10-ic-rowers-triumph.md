@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Scullers Head of the River is traditionally an Imperial College dominated event, with multiple pennant and overall winners dotted around current and past IC members...
 date: "2013-01-10 23:16:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102316-csw09-ben-guns.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102316-csw09-ben-guns.jpg"
 image_caption: "Move over Victoria Beckham, Pout of the Year belongs to BS-J now"
 headline: true
 featured: true

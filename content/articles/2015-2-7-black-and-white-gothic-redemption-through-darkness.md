@@ -4,7 +4,7 @@ title: >
 subtitle: >
   William Gewanter explores the importance of Charles Stewart’s works
 date: "2015-02-07 19:34:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071932-ps3110-nnn-a.jpg"
 image_caption: "Charles Stewart, Uncle Silas: Frontispiece, 1947. "
 headline: true
 featured: true

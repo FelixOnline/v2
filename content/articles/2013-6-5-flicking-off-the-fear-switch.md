@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Some people are afraid of nothing. They should try a thermodynamics exam. That would scare them.
 date: "2013-06-05 16:10:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051709-tna08-steve_irwin.jpg"
 image_caption: "Steve Irwin didn’t have Urbach-Wiethe disease. Dude just had balls of steel"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ Or do they? In the United States a woman, known only as S.M., has Urbach-Wiethe 
 
 The main impact of this destruction is the complete absence of fear within patient S.M. A group of scientists attempted to scare her with, amongst other things, poisonous snakes and arachnids, horror films and haunted houses. Long story short they failed miserably. They couldn’t perturb S.M. Only recently have researches found something that does trigger a fear response in UW sufferers: high concentrations of carbon dioxide in the blood. The fear of suffocation, simulated by breathing in high quantities of carbon dioxide, prompted the patients to feel fear for the first time in their lives. This suggests that the amygdalae, whilst important, are not exclusively the domain of the fear response.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051709-tna08-brown_widow_spider_large.jpg" title="Eeeeeek." caption="Eeeeeek." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051709-tna08-brown_widow_spider_large.jpg" title="Eeeeeek." caption="Eeeeeek." attr="" >}}
 
 However unpleasant fear may be S.M.’s case highlights the role it has to play in human survival from an evolutionary psychological standpoint: S.M.’s lack of fear has led her to handle dangerous animals that most sane people would seek to avoid. Just as pain is a protective mechanism to stop us from inflicting further damage upon ourselves fear probably had a role to play in preventing early humans from running headlong into danger. Fears of snakes, spiders and other such creatures is likely a throwback from those times, and partly explains why people such as Europeans still display seemingly irrational fear responses towards harmless European animals.
 

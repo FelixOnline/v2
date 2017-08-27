@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC jiu Jitsu brings home seven medals
 date: "2017-03-03 16:19:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031619-felix-Medals 1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031619-felix-Medals 1.jpg"
 headline: true
 featured: true
 imported: true

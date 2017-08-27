@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mark England catches up with Bombay Bicycle Club
 date: "2012-05-10 19:59:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102101-felix-bombay4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102101-felix-bombay4.jpg"
 image_caption: "Everyone in this photo looks very happy and relaxed, apart from Mr Serious on the left"
 headline: true
 featured: true

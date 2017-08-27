@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Business School is now in the top 1%
 date: "2012-12-07 00:12:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070008-tna08-349.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070008-tna08-349.jpg"
 headline: true
 featured: true
 imported: true

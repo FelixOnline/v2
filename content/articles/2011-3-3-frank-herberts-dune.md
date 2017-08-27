@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Frank Herbert wrote six Dune novels; read the first and forget the rest
 date: "2011-03-03 20:36:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032034-ks607-frankher.jpg"
 headline: true
 featured: true
 imported: true

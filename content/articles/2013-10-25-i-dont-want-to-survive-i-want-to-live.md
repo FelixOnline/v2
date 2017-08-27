@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews 12 Years a Slave
 date: "2013-10-25 00:46:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
 headline: true
 featured: true
 imported: true

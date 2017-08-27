@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The transformation from stage to big screen.
 date: "2014-06-11 22:13:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201406112311-me1711-suddenly-last-summer-hepburn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406112311-me1711-suddenly-last-summer-hepburn.jpg"
 headline: true
 featured: true
 imported: true

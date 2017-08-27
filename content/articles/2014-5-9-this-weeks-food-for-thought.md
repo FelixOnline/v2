@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405091649-jal08-food_pedestrian.jpg"
 image_caption: "Someone left their breakfast on Bayswater Road #FELIXFOOD"
 headline: true
 featured: true

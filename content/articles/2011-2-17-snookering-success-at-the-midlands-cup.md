@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The IC snooker team makes us proud
 date: "2011-02-17 20:42:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172041-nm1010-snookers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172041-nm1010-snookers.jpg"
 headline: true
 featured: true
 imported: true

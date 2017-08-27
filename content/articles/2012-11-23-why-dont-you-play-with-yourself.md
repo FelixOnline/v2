@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Silver Linings Playbook is worth a watch, says John Park
 date: "2012-11-23 00:39:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
 headline: true
 featured: true
 imported: true

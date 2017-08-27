@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Has the news become more concerned about quantity of papers sold rather than quality of news reporting?
 date: "2012-10-11 21:08:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
 headline: true
 featured: true
 imported: true

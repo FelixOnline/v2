@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Outside of Imperial lies a Thai paradise
 date: "2012-06-03 16:08:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206031707-felix-umami---ped-mekham.jpg"
 image_caption: "Cromwell Road's Umami offers a unique and peaceful atmosphere"
 headline: true
 featured: true

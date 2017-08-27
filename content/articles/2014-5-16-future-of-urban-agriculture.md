@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Food looks where else our lettuce could come from
 date: "2014-05-16 02:11:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160312-jal08-food_underground.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160312-jal08-food_underground.jpg"
 image_caption: "London’s underground farm looking a bit purple"
 headline: true
 featured: true

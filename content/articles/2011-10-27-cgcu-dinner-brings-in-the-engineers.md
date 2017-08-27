@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students turn out in force to celebrate start of term at Café de Paris
 date: "2011-10-27 20:12:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272111-felix-dsc_0550.jpg"
 image_caption: "CGCU President Jacky Kwan takes to the stage to engineer the night's proceedings"
 headline: true
 featured: true

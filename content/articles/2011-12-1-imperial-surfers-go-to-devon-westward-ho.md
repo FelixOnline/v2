@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Interested in surfing? Surfsoc welcomes beginner/intermediate/Kelly slater quality surfers. To be put on the mailing list and learn more about surfsoc simply email: surfsoc@imperial.ac.uk
 date: "2011-12-01 21:28:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012129-ams111-surfsoc%201-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012129-ams111-surfsoc%201-1.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Polls support ban on performing animals
 date: "2011-06-23 19:56:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
 headline: true
 featured: true
 imported: true

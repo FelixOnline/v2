@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The letter was signed by 343 lecturers, including three from Imperial
 date: "2015-10-30 12:26:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: "The advert itself"
 headline: true
 featured: true

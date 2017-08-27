@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou profiles the controversial director and his latest work, Inglourious Basterds
 date: "2010-11-25 19:56:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011251953-nm1010-tarantin.jpg"
 headline: true
 featured: true
 imported: true

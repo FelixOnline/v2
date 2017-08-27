@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa.
 date: "2014-11-06 18:23:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102226-ps3110-ebola.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102226-ps3110-ebola.jpg"
 headline: true
 featured: true
 imported: true

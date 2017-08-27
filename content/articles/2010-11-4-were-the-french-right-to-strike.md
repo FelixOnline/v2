@@ -4,7 +4,7 @@ title: >
 subtitle: >
   During October 3.5 million French workers took to the streets to protest against changes to pension plans
 date: "2010-11-04 19:09:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201011050937-ks607-frenchst.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011050937-ks607-frenchst.jpg"
 headline: true
 featured: true
 imported: true

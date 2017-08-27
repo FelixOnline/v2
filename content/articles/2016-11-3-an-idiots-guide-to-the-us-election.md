@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not to say you’re an idiot, but at least one of the candidates is
 date: "2016-11-03 23:14:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201611032313-felix-10320387414_7074bac3ab_h.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611032313-felix-10320387414_7074bac3ab_h.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ The man needs almost no introduction and has been at the forefront of the news o
 
 > It’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611032313-felix-5440991648_fdc9db5b18_b.jpg" title="" caption="" attr="Gage Skidmore" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611032313-felix-5440991648_fdc9db5b18_b.jpg" title="" caption="" attr="Gage Skidmore" >}}
 
 Delving deeper into Trump we see some more worrying statements on women, Mexicans and Muslims (and these are just the headlining ones). From a blanket ban on Muslims entering the US to ‘help’ combat terrorism, to bragging about sexual assault in the infamous ‘pussy grabbing’ audio from 2005, it’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though). But he still, even as these deplorable character traits have come to light, is polling at around 45% of the popular vote. But why? Because in some cases voters are willing to overlook these things.
 
@@ -50,7 +50,7 @@ At a glance, Clinton seems a pretty good candidate. She has experience in politi
 
 Like with most 70-year-olds, emails aren’t Hillary’s strong point. In essence, emails shouldn’t have been on certain servers and then emails were deleted when they shouldn’t have been. An FBI investigation was launched, no sanctions were brought against her, but it’s an ongoing saga. If it escalates while she’s in office it could potentially lead to impeachment. Trump could also have the same happen should he be found guilty of fraud regarding Trump University (really) in a trial that starts later this year.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611032314-felix-459273407_14da4d71e6_b.jpg" title="" caption="" attr="Marc Nozell" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611032314-felix-459273407_14da4d71e6_b.jpg" title="" caption="" attr="Marc Nozell" >}}
 
 Her relationship with Wall Street has come under fire too. After giving a set of speeches to Goldman Sachs as part of her foundation’s work, how disconnected from them she really is remains to be seen. Clinton’s stance on Syria and no fly zones could (key word being could) send the US into a conflict with Russian forces in tandem with Syria and would involve large scale military deployments. War with Russia isn’t ideal (duh) but like Trump, she’s been known to flip flop over the years and whether this policy would stand, only time will tell.
 **Gary Johnson**

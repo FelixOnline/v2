@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I see people using Kindles and worry they’re giving away their birthright
 date: "2011-02-17 20:07:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201104230143-felix-kindle-2-front1.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104230143-felix-kindle-2-front1.jpeg"
 image_caption: "Do e-book readers make it harder to protect freedom of speech?"
 headline: true
 featured: true

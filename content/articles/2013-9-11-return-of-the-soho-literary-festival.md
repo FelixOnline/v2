@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The small and eclectic festival returns at the end of the end of September.
 date: "2013-09-11 10:55:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309111202-mtm10-johnson2.jpg"
 image_caption: "Journalist and editor Rachel Johnson returns to lead one of the teams in the Classics Quiz"
 headline: true
 featured: true

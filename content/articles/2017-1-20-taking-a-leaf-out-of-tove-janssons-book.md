@@ -4,7 +4,7 @@ title: >
 subtitle: >
   \ The simplicity and warmth of Jansson’s defiance is what is striking: she made books that gave comfort to an oblivious audience, whilst including deeply personal and political messages. \
 date: "2017-01-20 15:28:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
 headline: true
 featured: true
 imported: true

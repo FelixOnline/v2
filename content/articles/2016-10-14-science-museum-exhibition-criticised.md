@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They’ve landed themselves in hot, oily water
 date: "2016-10-14 09:30:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610141135-felix-AB9A1979-01.jpeg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ Speaking to _felix_, Dr. Stephen Webster, Director of Imperial College’s scien
 
 He also described how sponsorship and funding from oil and gas companies can affect science communication: “If there’s any hint that scientists, or science institutions, are in it for themselves, science communication is in immediate trouble. Research becomes viewed with suspicion and innovation is resisted. Science has to pick its way through a maze of ideals and financial need. If we keep too singular a gaze on money, and get lazy about ideals, we’ll soon be lost.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610141128-felix-statoil1.jpg" title="Cheer up kids, tickets are only £6 and a chunk of your soul" caption="Cheer up kids, tickets are only £6 and a chunk of your soul" attr="Kristian Buus" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610141128-felix-statoil1.jpg" title="Cheer up kids, tickets are only £6 and a chunk of your soul" caption="Cheer up kids, tickets are only £6 and a chunk of your soul" attr="Kristian Buus" >}}
 
 Controversy surrounding sponsorship is nothing new for the Science Museum; a deal with Shell ended in December of last year after the company provided funds for a climate-change exhibition, which internal documents show Shell had tried to influence. In February, BP sponsored a Cosmonaut Late at the museum which was met with a theatrical performance based protest.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews the new Channel 4 show
 date: "2015-03-03 14:56:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031456-ps3110-catastrophe-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031456-ps3110-catastrophe-pic.jpg"
 headline: true
 featured: true
 imported: true

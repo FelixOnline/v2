@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail
 date: "2010-10-21 18:49:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010211945-nm1010-andersan.jpg"
 image_caption: "Landey Patton and Alexander Ford are planning to traverse the length of New Zealand"
 headline: true
 featured: true

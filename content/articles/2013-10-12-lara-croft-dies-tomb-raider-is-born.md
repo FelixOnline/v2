@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tomb Raider 2013 provides the long awaited origin story
 date: "2013-10-12 19:29:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
 headline: true
 featured: true
 imported: true

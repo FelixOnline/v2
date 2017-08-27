@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A weekend of Stop the War activities, discussed by Kelly Ameneshoa
 date: "2012-11-29 22:46:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
 headline: true
 featured: true
 imported: true

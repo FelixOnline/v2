@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102110159-sjw209-pssuite.jpg"
 headline: true
 featured: true
 imported: true

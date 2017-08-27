@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
 image_caption: "Not exactly an upbeat revolution"
 headline: true
 featured: true

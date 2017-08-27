@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College give multiple reasons for the disparity
 date: "2013-01-25 01:14:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250107-tna08-halls-drawing.jpg"
 headline: true
 featured: true
 imported: true

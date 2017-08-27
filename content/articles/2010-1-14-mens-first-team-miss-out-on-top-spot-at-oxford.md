@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men's first team miss out on top spot at Oxford
 date: "2010-01-14 19:29:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141927-rsp07-fencing2.jpg"
 headline: true
 featured: true
 imported: true

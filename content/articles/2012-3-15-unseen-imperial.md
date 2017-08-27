@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152127-pk1811-frayed_rope.jpg"
 image_caption: "Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topic"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Will recognition affect the TEF ratings this June?
 date: "2017-05-12 16:16:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201705121833-felix-9059210910_4d639d764c_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705121833-felix-9059210910_4d639d764c_o.jpg"
 image_caption: "Some distinctions are greater than others"
 headline: true
 featured: true

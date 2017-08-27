@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial computing student organises memorial
 date: "2016-10-31 13:41:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201610311340-felix-20161026_161827.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311340-felix-20161026_161827.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   South Kensington campus to start looking a bit different...
 date: "2012-12-07 00:57:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ The Mechanical Engineering building was the first to be noticeably changing. The
 
 During the project there will be an almost musical chairs required to complete it. The optimum phasing has been found by representatives from the departments involved agreeing them. The phasing of the project, which is to say the practicality of where and how it is done, has been agreed on a “room by room” basis. Mr Howe also said that “particular requirements for teaching, research or support functions” have been recognised, hence the room by room analysis.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070058-tna08-mech-eng-2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070058-tna08-mech-eng-2.jpg" title="" caption="" attr="" >}}
 
 Discussing the project, Mr Howe said that “the AMP projects provides for the collocation of the Department of Aeronautics into the existing Mechanical Engineering Annexe and Skempton Buildings and, at the same time, refurbish the remainder of the Mechanical Engineering Building”. He went on to say that the project “aims to refurbish the buildings in a way that ensures their long-term sustainability but which avoids the cost of radical restructuring.” At the same time, the project will address the fact that some buildings are over 40 years old. How said that it will address “the backlog of maintenance issues, the external fabric of the building and the services, plant and infrastructure”. The project will also free up space, which is currently occupied by the Roderick Hill and ACEX buildings.
 

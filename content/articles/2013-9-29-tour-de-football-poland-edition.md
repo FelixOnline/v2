@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Spencer Bennett goes on a lads holiday (they even got matching shirts)
 date: "2013-09-29 16:30:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291730-tna08-footytour.jpg"
 headline: true
 featured: true
 imported: true

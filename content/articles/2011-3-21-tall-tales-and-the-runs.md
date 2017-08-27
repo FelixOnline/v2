@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Recovering from food poisoning in the remote Chilean outback, Priya Garg retells some of the prominent anecdotes circulating South America’s beloved gringo trail
 date: "2011-03-21 12:04:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201103211158-ks607-visiting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103211158-ks607-visiting.jpg"
 headline: true
 featured: true
 imported: true

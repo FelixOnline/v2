@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the discovery of the oldest New World monkey species
 date: "2015-02-20 00:02:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200021-cj914-monkey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200021-cj914-monkey.jpg"
 image_caption: "Artists impression of South America’s oldest monkey"
 headline: true
 featured: true

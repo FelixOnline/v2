@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Only two stars for The Girl from John Park
 date: "2013-02-07 22:56:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072255-tna08-sienna-miller-in-the-girl-2012-movie-image2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072255-tna08-sienna-miller-in-the-girl-2012-movie-image2.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ With repeated rejections Hitchcock resorts to even sneakier, slier and more desp
 
 Played by the steely determined Miller, Hedren was right to be pleased with the casting of the actress to play her. She starts off as the innocent and naïve woman whose dream has come true thanks to a timely Diet Coke advert, but her quiet, persistent strength shows in her necessary coldness towards her legendary director, fearing the possibility of an end to her short-lived career, but also holding onto her dignity. She possesses the beauty and icy glamour of the actress in the 1960s, and comfortably settles into the lavish background atmosphere that has been impeccably set up for her by the technical team.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302072255-tna08-the-girl.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302072255-tna08-the-girl.jpg" title="" caption="" attr="" >}}
 
 For someone portrayed in such a negative light, Jones tries to bring out as much sympathy in his character as possible. Essentially his character boils down to being a sex-crazed maniac who pines for his leading ladies; inappropriately and relentlessly pursuing relationships with them. And yet there is almost a child-like fascination and curiosity in his eyes as he never gives up chasing the things he cannot have. His interactions with his wife Alma (Staunton) are briefly glossed over, and a sub-plot involves how the long-suffering wife decides to take off for a few days after a particularly bad episode in their marriage; this is when he realises that in fact, without his wife, his life is quite meaningless. It is in these brief moments of weaknesses that the audience can feel sympathy towards the otherwise very much unlikable director. The feeling never lasts long, but those scenes to come.
 

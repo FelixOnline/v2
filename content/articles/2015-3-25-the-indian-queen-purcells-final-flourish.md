@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
 image_caption: "Maritxell Carrero and Julia Bullock in The Indian Queen. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method
 date: "2012-02-09 23:53:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092348-felix-viggo-mortensen-7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092348-felix-viggo-mortensen-7.jpg"
 image_caption: "Dear Mr Mortensen, will you be my Valentine?"
 headline: true
 featured: true

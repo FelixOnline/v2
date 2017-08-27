@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma struggles with taming his titans, in a Reus review
 date: "2013-06-05 12:57:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051356-tna08-1029484828.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ Reus is a god/puzzle game in which you must use your four giants (Swamp, Forest,
 
 The gameplay is quite simple. The giants each have a major power which will change the landscape (creating whatever environment they are named after), and creating mountains and oceans influences the terrain to either side as well, influencing what type of settlement is formed and therefore what types of projects the settlement will try to undertake. In addition to this, each giant can place both objects (minerals, plants, animals) onto the surface and aspects onto objects.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051356-tna08-reus-2013-05-21-10-11-09-99.jpg" title="It looks like the planet has little cat-ears! Squeeeee!" caption="It looks like the planet has little cat-ears! Squeeeee!" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051356-tna08-reus-2013-05-21-10-11-09-99.jpg" title="It looks like the planet has little cat-ears! Squeeeee!" caption="It looks like the planet has little cat-ears! Squeeeee!" attr="" >}}
 
 Where things start getting more complicated is the interaction between these objects. Each object has one or more synergies which activate if a certain condition is met,which can lead to situations where simple objects produce more resources than more advanced ones. Successfully taking advantage of these synergies is the key to unlocking the more difficult projects.
 

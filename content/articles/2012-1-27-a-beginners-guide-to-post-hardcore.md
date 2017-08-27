@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lesson 3: Glassjaw
 date: "2012-01-27 12:29:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201271225-felix-glassjawlive2.jpg"
 headline: true
 featured: true
 imported: true

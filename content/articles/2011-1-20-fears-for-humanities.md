@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophia David argues that Humanities could be negatively affected by the proposed changes
 date: "2011-01-20 20:58:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202056-ks607-humanini.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202056-ks607-humanini.jpg"
 image_caption: "Students protesting cuts to the Humanities Department in 2009"
 headline: true
 featured: true

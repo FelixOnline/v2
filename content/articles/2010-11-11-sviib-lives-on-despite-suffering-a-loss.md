@@ -4,7 +4,7 @@ title: >
 subtitle: >
   School of Seven Bells at Heaven
 date: "2010-11-11 21:17:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112116-ks607-sevenbel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112116-ks607-sevenbel.jpg"
 headline: true
 featured: true
 imported: true

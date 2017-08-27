@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indy Leclercq grills Charlie Esberger following the start of the season
 date: "2011-11-10 22:28:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102220-felix-rugby.jpg"
 headline: true
 featured: true
 imported: true

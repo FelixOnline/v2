@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
 image_caption: "Joe Rennison looking worried about the ass-whupping he's about to receive"
 headline: true
 featured: true

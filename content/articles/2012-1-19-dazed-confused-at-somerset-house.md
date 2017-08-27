@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking back on twenty years at the forefront of fashion
 date: "2012-01-19 21:18:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
 image_caption: "Dazed? Confused? Our caption writers are"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter finally gets to grips with a warm piece of potato. Oh, or maybe he meant the band...
 date: "2012-10-26 03:12:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260412-tna08-hot-chip.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260412-tna08-hot-chip.png"
 headline: true
 featured: true
 imported: true

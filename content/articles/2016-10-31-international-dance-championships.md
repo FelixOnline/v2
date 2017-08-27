@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Entering the glamorous world of competitive dance at the Royal Albert Hall
 date: "2016-10-31 22:18:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201610312214-felix-6018845061_ebbd9ea9bd_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610312214-felix-6018845061_ebbd9ea9bd_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ Yes, one would almost have envied the RAH floor, such was the number of incredib
 
 In addition to the professional category, the International Championships also include a second category for amateurs. This refers to dancers who do not dance full-time and teach professionally for a living. While professional ballroom dancers, the sort one sees on Strictly, often begin dancing at the ridiculously early ages of five or six, the amateur category encompasses those who might pick up ballroom dancing later on in life or who cannot do it as a full-time commitment. This would include students who started ballroom dancing at university, like myself and many other members of IC Dance. In fact, two couples from the IC Dance Team went to the early rounds of the amateur Internationals! Unlike the professional dancers who seemed as unreachable as distant stars, the competitors in these amateur rounds reminded me of what I as a student dancer might still hope to achieve.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610312215-felix-16IntProfLa117.JPG" title="" caption="" attr="Rob Ronda" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610312215-felix-16IntProfLa117.JPG" title="" caption="" attr="Rob Ronda" >}}
 
 The World Championships traditionally concludes with the jive of the final Latin round, it being the fastest, most upbeat and energetic dance. But the mood after the final jive took a sombre turn this year. Maurizio Vescovo, one of the most well-known Latin dancers from across the pond, announced his official retirement from competitive dancing in an emotional letter addressed to the dancesport community. Having seen him first in videos and then live during Internationals, I felt the floor would not be the same without his presence. He was a unique character, with a playful, interactive style that contrasted with the classic Latin dancers around him. Though opinion on him may be divided, there is no question that he managed to define a strong personal style that stood out on the dance floor. And this is something that I feel is important, especially in ballroom dancing. With all the strict rules in this form of dance (Feet turned out! Lift that hip higher!) it is all too easy to forget that dance remains intrinsically a form of expression. I like to think of ballroom dancing as one would think of a sonnet. Despite the fixed structure, it is within these confines – or even using these confines – that one finds the freedom to be oneself.
 

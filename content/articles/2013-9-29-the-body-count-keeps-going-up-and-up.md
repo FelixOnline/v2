@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews a few of the more violent summer television hits.
 date: "2013-09-29 15:29:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
 headline: true
 featured: true
 imported: true

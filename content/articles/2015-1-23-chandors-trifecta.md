@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park's two cents on J. C. Chandor's new film
 date: "2015-01-23 16:56:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
 headline: true
 featured: true
 imported: true

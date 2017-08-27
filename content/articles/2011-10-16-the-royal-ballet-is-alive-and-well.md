@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A ballet from the wings and a strong triple bill made for two very special evenings at Covent Garden. Dance in Britain is going strong
 date: "2011-10-16 14:27:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161526-felix-armand_2024074b.jpg"
 image_caption: "Rojo and Polunin: a lesson in passion"
 headline: true
 featured: true

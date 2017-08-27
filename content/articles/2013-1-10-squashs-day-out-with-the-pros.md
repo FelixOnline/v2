@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephanie Walton on glass squash courts.
 date: "2013-01-10 23:19:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102319-csw09-queens-squash.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102319-csw09-queens-squash.jpg"
 image_caption: "IC Squash in action....one day"
 headline: true
 featured: true

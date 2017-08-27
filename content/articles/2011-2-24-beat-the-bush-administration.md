@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A combination of inspiring biopic and politics in Fair Game
 date: "2011-02-24 19:54:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241951-nm1010-fairfair.jpg"
 headline: true
 featured: true
 imported: true

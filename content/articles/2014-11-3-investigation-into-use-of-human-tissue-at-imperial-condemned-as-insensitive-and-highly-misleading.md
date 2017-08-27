@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Royal British Legion and Imperial College London hit back at accusations made by the Mail On Sunday
 date: "2014-11-03 11:24:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
 headline: true
 featured: true
 imported: true

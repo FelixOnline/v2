@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exceptional life forms on earth may be a key to sustaining life on mars
 date: "2012-06-14 20:13:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142113-ams111-science2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142113-ams111-science2.jpg"
 image_caption: "The Atacama desert"
 headline: true
 featured: true

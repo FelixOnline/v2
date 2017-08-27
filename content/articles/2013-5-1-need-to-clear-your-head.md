@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the new imaging technique that is sweaping labs nationwide
 date: "2013-05-01 19:28:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
 headline: true
 featured: true
 imported: true

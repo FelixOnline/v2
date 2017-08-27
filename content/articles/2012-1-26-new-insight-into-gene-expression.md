@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New genome sequencing methods are put into use
 date: "2012-01-26 22:27:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262228-ak6309-39840_web.jpg"
 image_caption: "Is this a sequence binding of proteins or did we print wrong? "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In this well-balanced documentary, an HIV-positive gay Israeli man searches for acceptance in London
 date: "2017-04-27 15:37:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
 headline: true
 featured: true
 imported: true

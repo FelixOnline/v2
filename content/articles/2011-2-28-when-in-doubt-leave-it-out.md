@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Cook talks making shortcuts and artificial intelligence
 date: "2011-02-28 20:45:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201103010939-ks607-gamesmik.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103010939-ks607-gamesmik.jpg"
 headline: true
 featured: true
 imported: true

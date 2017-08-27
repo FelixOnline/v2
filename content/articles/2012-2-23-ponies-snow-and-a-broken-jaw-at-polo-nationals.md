@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232136-cac111-1.gif"
 image_caption: "There’s nothing My Little Pony about this"
 headline: true
 featured: true
@@ -41,7 +41,7 @@ Playing with a slightly different team yet again we had to cross our fingers tha
 
 After this the confusion really set in. The snow started coming down and the pony providers and tournament officials started looking at moving chukkas from other days. Hungry, cold and tired it took quite a while for us to figure out that Sheena would have one more chukka that night, the final one of the day. With the addition of Steff from RVC and Sam from Oxford Brookes, the girls made for a strong team and came away with a runaway victory.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232138-cac111-5.jpg" title="Classy outfits for a classy sport (no, that was not a class-based joke)" caption="Classy outfits for a classy sport (no, that was not a class-based joke)" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232138-cac111-5.jpg" title="Classy outfits for a classy sport (no, that was not a class-based joke)" caption="Classy outfits for a classy sport (no, that was not a class-based joke)" attr="" >}}
 
 With the way the draw worked this year our teams all got Friday off so we settled in for a long night at the pub followed by drinks in our rooms. There was some pretty excellent food at the B&B, a lot of drunken banter with Brookes (which somehow resulted in us owning the Brookes Polo T-Shirts) and more rum, gin, vodka, wine, beer and cider than I care to admit to. After an extremely lazy day, Friday night saw us slightly more sedate at our instructor JJ Spark’s 40th birthday party. Needless to say the B&B staff were not polo’s biggest fans by the end of the evening, and with our Lower Intermediate team set to play against Brookes first thing in the morning the quest to leave each other in a worse state in the morning provided some additional amusement.
 

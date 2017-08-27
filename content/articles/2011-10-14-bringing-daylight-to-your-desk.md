@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shedding light on a desktop lamp
 date: "2011-10-14 11:52:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201110141252-felix-45001-with-laptop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110141252-felix-45001-with-laptop.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   £732,571 was made in total internationally
 date: "2014-12-09 13:49:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201412091349-ps3110-isoc-cake.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412091349-ps3110-isoc-cake.jpg"
 headline: true
 featured: true
 imported: true

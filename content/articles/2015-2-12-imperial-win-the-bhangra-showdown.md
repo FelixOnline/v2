@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as College team wins in Wembley Arena
 date: "2015-02-12 21:02:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
 headline: true
 featured: true
 imported: true

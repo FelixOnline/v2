@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Daniel Oppeheimer is critical of the Secret Garden Party
 date: "2011-10-21 11:31:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
 image_caption: "Been spending Friday nights, living in a hipster’s paradise"
 headline: true
 featured: true

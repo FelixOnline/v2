@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Wheatley aims high in his take on a towering icon of modern British fiction
 date: "2016-09-05 20:40:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
 image_caption: "Tom Hiddleston as the slippery Dr Laing, luxuriating in his brutalist high-rise"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
 headline: true
 featured: true
 imported: true

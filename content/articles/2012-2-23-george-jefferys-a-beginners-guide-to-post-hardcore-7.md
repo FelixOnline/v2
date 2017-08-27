@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lesson 7: Meet Me In St. Louis
 date: "2012-02-23 21:37:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232136-ams111-meet-me-in-st-louis.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232136-ams111-meet-me-in-st-louis.jpg"
 headline: true
 featured: true
 imported: true

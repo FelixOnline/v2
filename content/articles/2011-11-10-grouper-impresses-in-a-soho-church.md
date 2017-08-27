@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray on Grouper – St Giles in the Fields (October 3, 2011)
 date: "2011-11-10 21:23:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102124-felix-grouper.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102124-felix-grouper.jpg"
 image_caption: "Grouper – a master of technical trickery"
 headline: true
 featured: true

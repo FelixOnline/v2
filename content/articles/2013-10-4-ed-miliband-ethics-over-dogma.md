@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed.
 date: "2013-10-04 00:46:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
 image_caption: "Red Ed Miliband"
 headline: true
 featured: true

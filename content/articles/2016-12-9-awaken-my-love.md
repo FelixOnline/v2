@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gambino takes you on a musical journey
 date: "2016-12-09 15:43:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
 draft: true
 headline: true
 featured: true

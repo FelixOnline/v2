@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pedro Pereira interviews the UK country manager from tech startup ‘GateMe'
 date: "2013-02-21 13:21:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201302211314-txl11-gateme_cargo_shoreditch-smaller.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302211314-txl11-gateme_cargo_shoreditch-smaller.jpg"
 headline: true
 featured: true
 imported: true

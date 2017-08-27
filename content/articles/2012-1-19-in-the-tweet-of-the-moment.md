@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pirates of Carthage looks at social media’s pivotal role in bringing down Ben Ali
 date: "2012-01-19 21:28:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
 image_caption: "North Africa’s Got Talent had whittled thousands of hopefuls down to its final four"
 headline: true
 featured: true

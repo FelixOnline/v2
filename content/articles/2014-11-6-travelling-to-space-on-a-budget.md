@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
 headline: true
 featured: true
 imported: true

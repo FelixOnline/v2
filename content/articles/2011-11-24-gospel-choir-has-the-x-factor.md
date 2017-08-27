@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial and King's College singers take the stage
 date: "2011-11-24 22:26:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
 image_caption: "The Gospel Choirs performing alongside contestant Marcus Collins"
 headline: true
 featured: true

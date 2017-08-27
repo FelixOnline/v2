@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anonymous explains why we need to treat sexual assault survivors with empathy, not suspicion
 date: "2016-10-21 12:51:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ For those of you living under a rock, recently a recording was released where Do
 
 However, since those tapes were released, ten women have come forward with stories about how they were sexually assaulted/harassed by Trump over the last 30 years and Trump’s spokeswoman has responded by saying that these women simply want their ”15 minutes of fame”. Cue me feeling physically ill.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610211447-ajp15-Screen Shot 2016-10-21 at 14.47.01.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610211447-ajp15-Screen Shot 2016-10-21 at 14.47.01.png" title="" caption="" attr="" >}}
 
 I’m not sure where the idea that going public with sexual assault claims is ‘a glamorous and profitable move’ came from, but the media coverage from this week alone should be able to kill this misconception. The women who have come forward have been ridiculed, shamed and openly been accused of lying on a national stage. One of these women has now said she plans to leave the US because she fears for her family’s safety.
 
@@ -46,7 +46,7 @@ For some people, the fact that none of these women spoke out before seems to be 
 
 These arguments are so frustrating that they make me want to scream into a pillow because the “conversation” going on right now is essentially the lived experience of most sexual assault survivors, myself included, blown up to a grand scale.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610211450-ajp15-Screen Shot 2016-10-21 at 14.47.17.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610211450-ajp15-Screen Shot 2016-10-21 at 14.47.17.png" title="" caption="" attr="" >}}
 
 “Why didn’t you say something sooner?”
 

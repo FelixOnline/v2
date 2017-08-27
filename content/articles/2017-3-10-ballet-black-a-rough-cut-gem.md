@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ballet Black will return to London on 1st April as part of the Barbican on Broadway programme, which runs from 31st March – 1st April
 date: "2017-03-10 13:44:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101344-felix-3.jpg"
 image_caption: "Ballet Black, Triple Bill, Cira Robinson, José Alves and Mthuthuzeli November in Captured, choreographed by Martin Lawrance"
 draft: true
 headline: true

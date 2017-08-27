@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Both mens' and womans' races saw fantastic results
 date: "2014-11-14 21:22:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142122-ps3110-pic-51.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142122-ps3110-pic-51.jpg"
 draft: true
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course.
 date: "2014-06-23 10:58:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
 headline: true
 featured: true
 imported: true

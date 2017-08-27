@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New technologies promise improved efficiency
 date: "2012-10-05 12:00:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
 image_caption: "Peak absorbance around natural light increases efficiency"
 headline: true
 featured: true

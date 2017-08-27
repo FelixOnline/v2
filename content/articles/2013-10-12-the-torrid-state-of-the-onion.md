@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Keir Little on the shutdown of the web’s biggest drug dealership
 date: "2013-10-12 19:32:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122032-jal08-tech_silk-road-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122032-jal08-tech_silk-road-copy.jpg"
 headline: true
 featured: true
 imported: true

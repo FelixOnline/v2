@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster works in a quarry
 date: "2012-11-01 22:56:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012255-tna08-simsimrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012255-tna08-simsimrgb.jpg"
 headline: true
 featured: true
 imported: true
@@ -38,7 +38,7 @@ My apartment door was still locked and the seals hadn’t been broken. I was saf
 
 After a quick installation, my night’s pleasure was ready. No need for those Marilyn Monroe impersonators tonight.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211012256-tna08-sim2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211012256-tna08-sim2.jpg" title="" caption="" attr="" >}}
 
 I started with the basics, jumping into a large truck with a couple of saw-blades stuck on the front. I’ve never driven one of these machines before, but it should be easy. Straight into the water. Darn it. Next try. I rammed into the wall, like a sailor away on shore-leave, into a call-girl, drilling away. Rocks flew everywhere and the ground shook beneath me.
 

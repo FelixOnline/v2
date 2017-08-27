@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mike and Caz share their pick of foodie-related comforts
 date: "2014-06-02 13:19:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021421-felix-10169365_10152235970964442_2572885061645500569_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021421-felix-10169365_10152235970964442_2572885061645500569_n.jpg"
 headline: true
 featured: true
 imported: true

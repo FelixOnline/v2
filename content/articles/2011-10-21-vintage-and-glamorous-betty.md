@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Krestas reviews Betty Blythe
 date: "2011-10-21 12:06:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Royal Shakespeare Company’s Henry V at the Barbican sursprises and delights
 date: "2015-11-20 09:41:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201511200941-ygr12-henryv.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511200941-ygr12-henryv.jpg"
 image_caption: "There’s something awfully disconcerting about this image – why no real horse?"
 headline: true
 featured: true

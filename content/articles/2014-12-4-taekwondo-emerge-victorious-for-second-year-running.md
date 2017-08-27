@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the hosts of the third Imperial College Open Taekwondo Competition, the club secured their second victory in a row
 date: "2014-12-04 20:42:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042039-cj914-icx_201-copy.jpg"
 headline: true
 featured: true
 imported: true

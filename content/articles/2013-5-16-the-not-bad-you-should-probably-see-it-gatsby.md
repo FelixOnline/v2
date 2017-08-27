@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucy Wiles reviews The Great Gatsby
 date: "2013-05-16 18:16:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Will the BAFTAs swing us in the right direction to guess the Oscar winners?
 date: "2011-02-17 19:27:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171923-nm1010-amyamyam.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171923-nm1010-amyamyam.jpg"
 headline: true
 featured: true
 imported: true

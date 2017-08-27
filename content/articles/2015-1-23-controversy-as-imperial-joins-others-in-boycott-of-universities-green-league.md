@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The College has risen one place to 112th
 date: "2015-01-23 01:32:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230130-cac111-f87fb70d-2fc2-494a-a63c-e82a578c61c9-2060x1236.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230130-cac111-f87fb70d-2fc2-494a-a63c-e82a578c61c9-2060x1236.jpg"
 headline: true
 featured: true
 imported: true

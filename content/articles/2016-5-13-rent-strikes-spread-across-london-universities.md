@@ -4,7 +4,7 @@ title: >
 subtitle: >
   1000 students across UCL, Roehampton, Goldsmiths and the Courtauld are withholding rent in protest
 date: "2016-05-13 08:50:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201605211250-felix-cut.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605211250-felix-cut.jpg"
 headline: true
 featured: true
 imported: true

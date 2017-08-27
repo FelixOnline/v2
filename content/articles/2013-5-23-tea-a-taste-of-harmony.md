@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anum Farooq explores the wonders of tea
 date: "2013-05-23 22:15:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ Now, such research is not because puny efforts at lifting floating weights in aq
 
 Tea is a way of life. No joke. In some cultures, drinking tea is the most wonderful way to relax. You have your pot of hot water, tea leaves, honey and cup, and for a few moments drinking flavoured hot water and ‘being’ is a special moment.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305232315-tna08-tea-bags-cutout.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305232315-tna08-tea-bags-cutout.jpg" title="" caption="" attr="" >}}
 
 So how does this link to meditation? The way of the tea is the link. The art of making it and mastering the mintiness, honey and tea (for example not ever adding cold water). When you focus on the cup and tea, emptying your mind. Feeling numb. You’ll pretty much be reaching Nirvana. Soon.
 

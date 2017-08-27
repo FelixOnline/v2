@@ -4,7 +4,7 @@ title: >
 subtitle: >
   That's right, fear of being without your mobile
 date: "2012-05-18 06:34:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201205180732-felix-blenderiphonesmashed.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205180732-felix-blenderiphonesmashed.jpg"
 headline: true
 featured: true
 imported: true

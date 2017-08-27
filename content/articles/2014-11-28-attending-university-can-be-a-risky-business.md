@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Butcher discusses how to determine the value of education
 date: "2014-11-28 00:46:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
 headline: true
 featured: true
 imported: true

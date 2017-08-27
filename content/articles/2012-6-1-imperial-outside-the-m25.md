@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All about Silwood – improvement and evolution
 date: "2012-06-01 12:38:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011336-mc4509-silwood.jpg"
 image_caption: "Don’t worry, they’ve put a new facade on Mech Eng so it now looks as good as this..."
 headline: true
 featured: true

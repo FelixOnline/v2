@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett thinks DNA are now causing a scene and need to be sent home in a taxi
 date: "2013-01-25 01:54:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250153-tna08-watson-and-crick.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250153-tna08-watson-and-crick.jpg"
 image_caption: "Dude, I swear, that’s totally the nerd gene right there"
 headline: true
 featured: true
@@ -33,7 +33,7 @@ But what do these structural wonders do,if anything? They have previously been f
 
 Telomeres are the cleaver little non-coding genetic martyrs that sacrifice themselves to ensure precious coding DNA doesn’t disappear, as they shorten instead. This shortening actually leads to a limitation in life span – as a telomere shortens to a certain point, cells may enter a state of “old age,” or die completely. When many cells do this, it can lead to organ deterioration or cause many of the diseases associated with old age.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250154-tna08-quadruple-helix-dna.jpg" title="Quadruple helix" caption="Quadruple helix" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250154-tna08-quadruple-helix-dna.jpg" title="Quadruple helix" caption="Quadruple helix" attr="" >}}
 
 One idea is that G-quadruplexes may stop enzymes accessing the telomere after replication. Telomerase is one such enzyme – this replaces any DNA lost at the end of the chromosome and almost reverses the genetic countdown as the chromosomes no longer shorten. With this in mind, inhibition of telomerase could be seen as detrimental to cellular longevity, although too much of telomerase activity can also lead to cancerous growth. It may be therefore that the G-quadruplex acts a mediator between too much or too little telomerase action, and maintains healthy growth levels.
 

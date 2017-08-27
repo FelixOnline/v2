@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again
 date: "2010-11-04 19:06:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041903-jk708-Prof.Nut.jpg"
 headline: true
 featured: true
 imported: true

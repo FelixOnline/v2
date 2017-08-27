@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Olivia Ribeiro and Kirsty Seager on the student protests at Whitehall
 date: "2010-11-26 07:26:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011261042-ks607-protests.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011261042-ks607-protests.jpg"
 headline: true
 featured: true
 imported: true

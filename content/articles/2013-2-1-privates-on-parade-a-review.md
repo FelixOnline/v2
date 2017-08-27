@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal enjoys a camp play with just enough serious tinges
 date: "2013-02-01 00:13:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010013-tna08-simon-russell-beale-(captain-terri-dennis)-and-the-sadusea-company.-by-johan-persson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010013-tna08-simon-russell-beale-(captain-terri-dennis)-and-the-sadusea-company.-by-johan-persson.jpg"
 headline: true
 featured: true
 imported: true

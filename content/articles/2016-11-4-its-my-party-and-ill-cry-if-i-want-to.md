@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lef Apostolakis responds to Aayush’s response (left)
 date: "2016-11-04 14:23:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
 headline: true
 featured: true
 imported: true

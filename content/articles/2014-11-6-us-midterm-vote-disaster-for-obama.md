@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as Republicans are voted into control of the Senate
 date: "2014-11-06 18:56:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061856-cj914-37553d7ff625dc9134f141ac7f8d84fb.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061856-cj914-37553d7ff625dc9134f141ac7f8d84fb.jpeg"
 image_caption: "Barack Obama faces a tough final two years in power"
 headline: true
 featured: true

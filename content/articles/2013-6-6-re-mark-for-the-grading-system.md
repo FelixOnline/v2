@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union Council discusses the GPA
 date: "2013-06-06 15:45:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201306061646-tna08-cambridge_harvard_square.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306061646-tna08-cambridge_harvard_square.jpg"
 headline: true
 featured: true
 imported: true

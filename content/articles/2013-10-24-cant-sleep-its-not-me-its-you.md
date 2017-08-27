@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Amrita Ghosh and Arya Mehta explore solutions to sleep deprivation
 date: "2013-10-24 23:55:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250055-felix-sleep-deprivation-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250055-felix-sleep-deprivation-2.jpg"
 image_caption: "Everybody knows that sleeping on a book allows knowledge to enter your brain by osmosis, guaranteein"
 headline: true
 featured: true

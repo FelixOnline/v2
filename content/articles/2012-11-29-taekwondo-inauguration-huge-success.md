@@ -4,7 +4,7 @@ title: >
 subtitle: >
   LiYan Chow on their victories
 date: "2012-11-29 23:15:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292316-tna08-lalala.jpg"
 headline: true
 featured: true
 imported: true

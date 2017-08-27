@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Concerns about the implications of a Sino-American currency devaluation race continue to rise
 date: "2010-10-28 19:30:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282027-nm1010-g2000000.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282027-nm1010-g2000000.jpg"
 headline: true
 featured: true
 imported: true

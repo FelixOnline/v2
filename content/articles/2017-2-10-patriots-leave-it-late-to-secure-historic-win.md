@@ -4,7 +4,7 @@ title: >
 subtitle: >
    Winning isn’t everything, it’s the only thing
 date: "2017-02-10 16:49:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101649-felix-File_000.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101649-felix-File_000.jpeg"
 headline: true
 featured: true
 imported: true

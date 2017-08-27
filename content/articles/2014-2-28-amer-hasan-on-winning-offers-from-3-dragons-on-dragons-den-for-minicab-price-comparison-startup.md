@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week Nida Mahmud caught up with Amer Hasan, an Imperial Alumnus and CEO of minicabit. He recently appeared on Dragons’ Den and recieved offers from three out of the five Dragons.
 date: "2014-02-28 07:23:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201402280723-jal08-minicabit-in-the-den.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402280723-jal08-minicabit-in-the-den.png"
 headline: true
 featured: true
 imported: true

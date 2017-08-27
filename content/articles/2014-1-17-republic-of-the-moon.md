@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the new Earth-based Lunar Embassy
 date: "2014-01-17 03:41:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170343-jal08-arts-moon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170343-jal08-arts-moon.jpg"
 image_caption: "Republic of the Moon, London, presented by The Arts Catalyst"
 headline: true
 featured: true

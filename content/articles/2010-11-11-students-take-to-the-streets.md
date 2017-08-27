@@ -4,7 +4,7 @@ title: >
 subtitle: >
   50,000 students march in London against government cuts and higher fees
 date: "2010-11-11 22:19:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112212-nm1010-students.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I know you’d rather hear about cocaine, but instead Christopher Walmsley discovers some of the other countless wonders this fascinating country has to offer
 date: "2011-03-10 20:50:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102044-nm1010-bolivibo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102044-nm1010-bolivibo.jpg"
 headline: true
 featured: true
 imported: true

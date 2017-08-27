@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092239-felix-hollandclub-4475.jpg"
 image_caption: "The Holland Club is named after Sir Thomas Holland, former Rector of Imperial College"
 headline: true
 featured: true

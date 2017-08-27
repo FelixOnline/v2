@@ -4,7 +4,7 @@ title: >
 subtitle: >
   While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022144-ks607-cartoonp.jpg"
 headline: true
 featured: true
 imported: true

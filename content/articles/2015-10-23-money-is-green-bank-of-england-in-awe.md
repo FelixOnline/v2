@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why the public must put pressure on governments to invest in renewable energies
 date: "2015-10-23 11:40:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
 image_caption: "Mark Carney: Big money, big... ego."
 headline: true
 featured: true

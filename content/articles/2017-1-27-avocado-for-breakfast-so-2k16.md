@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Firedog is on a mission to revamp the hipster breakfast, causing panic amongst avocado growers worldwide. Enter a morning realm of grilled halloumi, Sujuk and Lor.
 date: "2017-01-27 17:38:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271736-felix-IMG_7331.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,14 +26,14 @@ Mezze. A word meaning a selection of small appetizers. And a word that I have re
 
 For me, the beauty of mezze is to watch the dishes on the table grow into a party of flavours, textures and colours. Not only that, but the hours of cheerful, relaxed socializing and drinks that come with it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701271737-felix-IMG_7338.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701271737-felix-IMG_7338.jpg" title="" caption="" attr="Christy Lam" >}}
 
 Last week, an invite landed in my inbox from Firedog to try their breakfast mezze menu. Firedog is a new Aegean inspired restaurant near Tottenham Court Road, boasting of their unique menu of dishes influenced by Greek and Turkish culture, and their mission of reinvigorating the morning dining scene with their ‘no avocado’ policy.
 
 I’m always up for trying all the new restaurants popping up in London, but waking up to a feast of these delicious small plates? YES, please! (They did say to eat breakfast like a king.)
 So one bright, sunny morning a few days later, I hopped along the quiet Newman Street to Firedog. Pushing open the dark, wooden doors, I was lead to a surprise – bassy, electronic music, a bar, and their logo in bright neon lights in pink, blue and red on the wall. I instantly fell in love with their unique vibes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701271737-felix-IMG_7322.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701271737-felix-IMG_7322.jpg" title="" caption="" attr="Christy Lam" >}}
 
 The waiters were just laying the table with the mezze dishes as I walked further into the restaurant. Just seeing the tiny terracotta plates and tiles was enough to get my adrenaline rushing. Even the slab of butter had its own mini tile. I was not the only one – the whole room was filled with gasps and sparkling eyes set on the tables.
 
@@ -43,7 +43,7 @@ The spread was an adventure for my taste buds, from my normal western flavours t
 
 And when we thought we’d eaten enough to ditch our lunch boxes and cancel our dinner dates, we were also introduced to the four all-day breakfast dishes, an option for those who (sadly) can’t fit the breakfast mezze. The plates were again a burst of colour, offering a taste of Aegean ingredients and flavours in the form of staple brunch dishes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701271737-felix-IMG_7363.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701271737-felix-IMG_7363.jpg" title="" caption="" attr="Christy Lam" >}}
 
 The baked eggs came with herb yoghurt, chilli oil, the sweetness from the charred peppers and the strong, enticing smoky flavours from the smoked tomatoes.
 
@@ -53,4 +53,4 @@ The Ozdemir Pasha II was like a mini mezze selection on a plate, featuring grill
 What’s a breakfast menu with a sweet option? How about a jaw-dropping presentation of toasted brioche, juicy chargrilled plums, kaymak (clotted cream), pistachios and honey? I’d happily replace my French toast with this lighter, yet equally indulgent and eggless version.
 It’s customary in the Mediterranean and the Middle East to not let your guests leave without a 3-month food baby – and neither did Firedog. This breakfast was indeed a creative, contemporary and delicious twist on the traditional Aegean recipes for anyone who’s tired of their boring crushed avocado on sourdough!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201701271738-felix-IMG_7335.jpg" title="" caption="" attr="Christy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201701271738-felix-IMG_7335.jpg" title="" caption="" attr="Christy Lam" >}}

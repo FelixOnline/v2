@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th Century’s most controversial composers
 date: "2015-05-04 16:22:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why poverty is an issue that extends far beyond simple generalisations
 date: "2011-11-24 23:36:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
 image_caption: "Poverty is a complex issue with no set solution"
 headline: true
 featured: true

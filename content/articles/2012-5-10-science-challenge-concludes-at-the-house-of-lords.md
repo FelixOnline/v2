@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cash prize and tour of CERN awarded at Grand Final
 date: "2012-05-10 19:34:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102038-pk1811-1.png"
 image_caption: "A tour for two of CERN was up for grabs for the overall winner"
 headline: true
 featured: true

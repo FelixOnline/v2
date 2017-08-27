@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature
 date: "2011-11-24 20:24:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242023-pk1811-svc2i.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242023-pk1811-svc2i.jpg"
 image_caption: "Some of Imperial’s budding entrepreneurs gather for the the SVC2I event"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ The first of the keynote speakers was the highly experienced Angad Paul, co-foun
 
 Following him was the dynamic Rob Deeming of [Gilt Groupe](http://www.gilt.com/), an online shop offering luxury brands at discounted prices, which is based in the US but expanding into the UK. He spoke of his previous work, both entrepreneurial and otherwise, and taught the audience that joining a young startup is just as rewarding as starting your own, drawing on his own experiences helping Gilt Groupe grow from 30 employees to 900. He also entertained with fascinating statistics of rapid growth and critical points of website based businesses, outlining the importance of computing in solving these problems and offering these opportunities.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242022-pk1811-siliconvalley.jpg" title="Silicon Valley, just south of the San Fransisco Bay Area CA, got its name as the birthplace of a large number of silicon chip manufacturers" caption="Silicon Valley, just south of the San Fransisco Bay Area CA, got its name as the birthplace of a large number of silicon chip manufacturers" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242022-pk1811-siliconvalley.jpg" title="Silicon Valley, just south of the San Fransisco Bay Area CA, got its name as the birthplace of a large number of silicon chip manufacturers" caption="Silicon Valley, just south of the San Fransisco Bay Area CA, got its name as the birthplace of a large number of silicon chip manufacturers" attr="" >}}
 
 The session one panel discussion was moderated by George Berkowski, chairman of MIT Enterprise Forum UK, regularly involved in new ventures and startups. The panel consisted of the aforementioned keynote speakers, joined by Paul Joyce – founder of [Geckoboard.com](http://Geckoboard.com). Among many interesting discussions, they spoke of how they became entrepreneurs later in life and explained that going for it at a young age is not always the best scenario. Building experience first, even in investment banks as in Paul’s case, is important but so is keeping the entrepreneurial vision keen until the right time.
 

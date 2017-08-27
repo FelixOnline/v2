@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From the blatant rejection of some races to the fetishisation of others, OkCupid shows us that you probably are.
 date: "2016-10-21 12:49:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
 headline: true
 featured: true
 imported: true

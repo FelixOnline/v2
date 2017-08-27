@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Boris Johnson takes on the people in the Great Hall
 date: "2013-11-08 03:42:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
 image_caption: "Top: Boris under questioning Bottom: Boris doing 'the creep'"
 headline: true
 featured: true

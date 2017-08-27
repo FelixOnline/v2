@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011261137-ks607-rcaprote.jpg"
 headline: true
 featured: true
 imported: true

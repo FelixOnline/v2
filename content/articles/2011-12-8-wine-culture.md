@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Five things to know about red and white wines
 date: "2011-12-08 21:43:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
 headline: true
 featured: true
 imported: true

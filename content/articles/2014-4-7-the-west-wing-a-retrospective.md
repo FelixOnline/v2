@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily Fulham takes a nostalgic look back at the Bartlet administration
 date: "2014-04-07 12:39:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201404071340-jal08-the-west-wing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201404071340-jal08-the-west-wing.jpg"
 headline: true
 featured: true
 imported: true

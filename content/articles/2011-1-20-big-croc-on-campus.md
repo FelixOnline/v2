@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Next week Marianne Teoh will be undertaking a week of humiliation to raise awareness for charities in Indonesia
 date: "2011-01-20 19:12:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201910-ks607-policepo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201910-ks607-policepo.jpg"
 headline: true
 featured: true
 imported: true

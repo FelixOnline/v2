@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Southwell and Bernard Sunley Hornets FC conquer Beit FC to lift the Interhall Football Championship trophy. Rob Hollinshead and Mateusz Zarucki report on a Harlington showdown
 date: "2012-06-07 19:23:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072023-pk1811-4celebration-(38)-(1).png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072023-pk1811-4celebration-(38)-(1).png"
 image_caption: "Photography courtesy of Southwell FC"
 headline: true
 featured: true
@@ -38,7 +38,7 @@ With not a great deal of victories under the belt and a disjointed feel amongst 
 
 Characteristically reckless (and often, unnecessary) challenges from Johan Rekers, Matt Pike’s ineffective 360° spin move and frail defensive lines (leaving goalkeepers flapping at air) all contributed to a 7-3 loss against a team struggling even more than Southwell at the time. There was a mutual consent that the blame lay heavily on Taha Butt, whose laziness to travel further than Battersea Park left the rest of the team weakened.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072024-pk1811-3secondhalf-(12)-(1).png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072024-pk1811-3secondhalf-(12)-(1).png" title="" caption="" attr="" >}}
 
 This, however, would prove to be a major turning point. With the position in the league rapidly dwindling and hopes of making the play-off stage appearing to fade away, such a defeat was what the team needed in order to wake up and smell the coffee before the season was lost entirely.
 
@@ -48,7 +48,7 @@ Quarter-final
 
 Southwell ended the regular season in 4th position overall, landing them a quarter-final tie with neighbours Holbein and Willis Jackson, which turned out to be more than eventful. Southwell were only able to convert one of the many chances they created in the first half. However, the real drama was to follow in the second half. The action immediately recommenced as Southwell stormed to a 4-1 lead with goals from Alex Smith and Myles Jarvis. The Holbein team eventually realised that Alex ‘Sandy’ Riley was making his debut in goal (in place of an absent Rob Hollinshead) and managed to exploit this fact by scoring two quick goals. All that remained on Southwell’s mind was to maintain the one goal lead until the final whistle. Everything was going according to plan until the last action of the game, when human wrecking-ball Johan Rekers (again, unnecessarily) steamrolled his way through one of the Willy J players in the box. This sparked a 20-minute debate on the severity and maliciousness of the challenge, to which the two captains settled on an unorthodox indirect free-kick in the penalty area to Holbein and Willis Jackson FC. With every single Southwell player lined up on their own goal line, Holbein captain Sean Jordan miraculously managed to find the net, taking it into extra time. With both teams clearly exhausted, Southwell went behind after a spill from Jono Palmer, who had relieved Sandy Riley from his nightmare in goal. In the second half of extra time, Southwell showed true character and fought back with a goal from Jarvis to take the match into penalties.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072034-pk1811-3secondhalf-(134)-(1).png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072034-pk1811-3secondhalf-(134)-(1).png" title="" caption="" attr="" >}}
 
 The first four penalties taken by Butt, Palmer, Jarvis and last-minute call up Joe Kempton were dispatched with no issue only to be matched by their Holbein and Willis Jackson counterparts. The fifth penalty taker for Willis Jackson stepped up only to have his attempt saved by another substitute keeper: Matthew Taylor. The pressure was now solely on the shoulders of Alex Smith to carry Southwell through to the next round. In an atmosphere one can only describe as tantamount to a World Cup Final, Smith failed to seal the deal. Sudden death. One more penalty rattled the back of the net for Willis Jackson and so the burden shifts to pasta-loving Italian Andrea Greco. The keeper stands tall in his goal as Greco strikes the ball. The next few seconds seemed like a lifetime, as the ball somehow ricocheted off one post and on to the other before crossing the line, leaving the Southwell team both confused and overjoyed as they were not out of it yet. The seventh penalty for Willis Jackson resulted in another brilliant save by Taylor which meant that captain Zarucki, who had been neglecting responsibility, or as he put it, “regaining energy”, called his own number and stepped up. Under the pressure formed by a crowd or random bypassers, Zarucki delivered one final swing of his boot which secured the Hornets passage into the semi-finals.
 
@@ -56,7 +56,7 @@ Semi-final
 
 After such a close shave in the quarters, Southwell were hoping to dispatch Eastside FC in the semi-finals without having to undergo the same drama. Again, Southwell started strong, utilising the long throw of Taha Butt to penetrate Eastside’s box on numerous occasions resulting in goals from Jono Palmer and Mateusz Zarucki in the first half. It was also apparent during this game that the back four of Southwell had finally found some cohesion. Man-mountain Alex Coney, along with the slick-skilled Martin Kouame, who had anchored the back four throughout most of the season, teamed up with James Johnston and an out-of-position Jono Palmer, to provide Southwell with a solid defence and only their second clean sheet of the season. With another goal by Jono Palmer bagged in the closing stages of the second half, Southwell wrapped up the semi-final with a convincing 3-0 win just as news filtered through from the opposite pitch that Beit FC too had won, setting up a mouth-watering final.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072027-pk1811-4celebration-(9)-(1).png" title="Victory is sweet for Southwell. Sport Imperial medals even sweeter" caption="Victory is sweet for Southwell. Sport Imperial medals even sweeter" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072027-pk1811-4celebration-(9)-(1).png" title="Victory is sweet for Southwell. Sport Imperial medals even sweeter" caption="Victory is sweet for Southwell. Sport Imperial medals even sweeter" attr="" >}}
 
 Final
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Henry Garner and Chris Nielsen bring you up to speed on their dominance
 date: "2012-11-09 14:38:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091438-tna08-footy-tactics.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091438-tna08-footy-tactics.jpg"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ Our confidence was high, and rightfully so, as we dicked on them for 90 minutes 
 
 Next up were St George’s on the 31st of October. The reverse fixture the season before brought back bad memories of a 10 O’clock kick off and a Cypriot finishing the final 5 minutes in goal. The squad were buoyed by the false news that they now played on 3G. However, upon arrival we were dismayed to hear we would in fact be on grass in the overwhelming stadium of high flying Tooting and Mitcham FC. Solace was only found in the pitchside chicken van and proper seating for our ever growing fan club. Again Imperial dominated despite inappropriate footwear and whining from Tofis that he needed insoles for his boots. A wunderstrike from Tofis opened the scoring from a corner delivered by the consistently dangerous Dale. After the ball was weakly cleared, Tofis headed it over an opposition defender before unleashing an unstoppable drive through the keepers’ butter fingers into the net to deafening chants of Golaccio from no one. Wedemeyer continued his impressive scoring streak with a clever right-footed finish from a Tofis cross.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211091438-tna08-sponsor-football.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211091438-tna08-sponsor-football.jpg" title="" caption="" attr="" >}}
 
 Half time provided relief for a visibly shaking St George’s against an Imperial team smelling blood. Imperial pressed to extend their lead with more slick play drawing ‘Olé’s from the crowd. Such was their dominance that Amjad found himself in approximately an acre of space all of 2 yards from their goal, dead centre, with the ball before him. No one was quite prepared for what followed: with the goal at his mercy the pressure got to him. Luke Varney’s midweek miss against Southampton in the Capital One Cup was forgotten in an instant. There was screaming silence from the travelling supporters which was shattered by a high pitched moan from Amjad’s mouth – a cry of despair, anguish, pain, remorse, guilt and pure regret. The sadness seen on his face was comparable to that of Achilles mourning the death of Patroclus. He received a Man of the Match vote from Garner after the match, but this was widely assumed to be a sympathetic gesture. Bjorkstrand took a leaf out of Amjad’s book by promptly spurning a host of chances that Fernando Torres himself would have struggled to miss. Unfortunately, overcommitment from the Imperial team and a few missed challenges from an otherwise untested defence allowed St Georges to pull back a sloppy goal, the first goal they had conceded in approximately a decade of football. This served as a wake up call, lifting Imperial with Wedemeyer winning a penalty after a disgusting challenge from a St Georges defender, prompting the 2 travelling supporters (Smithy’s parents) to brandish imaginary cards which were unheeded by the immoveable referee.
 

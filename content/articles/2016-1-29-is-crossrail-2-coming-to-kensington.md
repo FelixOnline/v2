@@ -32,7 +32,7 @@ The proposed station would be part of the £30 billion infrastructure project by
 
 The support was provided through a letter to the London Evening Standard which was also sent to London Mayor, Boris Johnson.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201601290844-felix-crossrail_1.jpg" title="" caption="" attr="Crossrail" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201601290844-felix-crossrail_1.jpg" title="" caption="" attr="Crossrail" >}}
 
 The signatories’ letter says that the north-south link would provide Kensington and Chelsea with the “integration with the wider London public transport system, especially the Underground” which they say it currently lacks.
 

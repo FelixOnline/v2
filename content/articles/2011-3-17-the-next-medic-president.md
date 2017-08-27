@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Suzie Rayner is running uncontested for Medic President, but is she the right person for the position?
 date: "2011-03-17 19:29:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103171924-ks607-img_2962.jpg"
 headline: true
 featured: true
 imported: true

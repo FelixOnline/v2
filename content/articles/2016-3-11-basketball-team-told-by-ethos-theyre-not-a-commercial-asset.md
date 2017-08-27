@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Their slots had already been cancelled twice in three months without notice
 date: "2016-03-11 11:20:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111118-felix-bball.jpg"
 image_caption: "Men's Imperial 1st Basketball are currently top of their BUCS league group. "
 headline: true
 featured: true

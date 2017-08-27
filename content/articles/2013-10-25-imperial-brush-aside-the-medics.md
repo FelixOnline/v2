@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Josh O’Donnell reports as Imperial’s 1st XV rugby team win comfortably.
 date: "2013-10-25 01:17:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250217-felix-rugby-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250217-felix-rugby-photo.jpg"
 headline: true
 featured: true
 imported: true

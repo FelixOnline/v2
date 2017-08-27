@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Seriously freakin' awesome fun on the Isle of Wight!
 date: "2010-10-14 19:25:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142023-ks607-bestival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142023-ks607-bestival.jpg"
 image_caption: "New Age fun with a vintage feel!"
 headline: true
 featured: true

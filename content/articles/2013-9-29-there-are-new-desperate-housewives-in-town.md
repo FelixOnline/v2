@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Television Editor John Park reviews Devious Maids and Mistresses
 date: "2013-09-29 15:06:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291605-jal08-mistresses-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291605-jal08-mistresses-copy.jpg"
 headline: true
 featured: true
 imported: true

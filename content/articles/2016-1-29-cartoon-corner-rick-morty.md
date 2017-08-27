@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This clever and inventive show is the epitome of high-concept storytelling
 date: "2016-01-29 09:59:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
 image_caption: "Let’s get Schwifty!"
 headline: true
 featured: true

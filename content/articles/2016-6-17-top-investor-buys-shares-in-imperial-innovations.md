@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Neil Woodford now owns 20% of our research and development arm
 date: "2016-06-17 08:51:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171051-felix-bio.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171051-felix-bio.png"
 headline: true
 featured: true
 imported: true

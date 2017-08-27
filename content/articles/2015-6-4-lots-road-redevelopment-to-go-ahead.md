@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Ball investigates as work starts on the Chelsea waterfront
 date: "2015-06-04 23:19:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
 image_caption: "The project has an estimated completion date of 2019, but the first set of houses will go on sale in the next few weeks"
 headline: true
 featured: true

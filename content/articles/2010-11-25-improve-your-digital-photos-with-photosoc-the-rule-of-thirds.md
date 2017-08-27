@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Remember that breaking the rule, once you’ve learnt it, can result in some striking shots too”
 date: "2010-11-25 20:23:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252021-nm1010-ruleofth.jpg"
 image_caption: "An example of the rule of thirds"
 headline: true
 featured: true

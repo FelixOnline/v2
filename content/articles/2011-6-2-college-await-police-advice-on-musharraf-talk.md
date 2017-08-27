@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pakistan Society say that visit would "add to the reputation of the College"
 date: "2011-06-02 18:21:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021915-felix-musharraf.jpg"
 headline: true
 featured: true
 imported: true

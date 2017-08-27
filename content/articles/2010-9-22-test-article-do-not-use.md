@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112217-nm1010-students.jpg"
 draft: true
 headline: true
 featured: true

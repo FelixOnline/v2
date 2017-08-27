@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is underwhelmed by this new exhibition of Wellington portraits
 date: "2015-03-25 13:31:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
 image_caption: "Arthur Wellesley, 1st Duke of Wellingtonm (detail) by Francisco de Goya, 1812-14 "
 headline: true
 featured: true

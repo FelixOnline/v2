@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:48:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
 image_caption: "A video purporting to show the beheading of Alan Henning was released 2 weeks ago"
 headline: true
 featured: true

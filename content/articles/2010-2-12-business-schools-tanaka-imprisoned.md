@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sina Ataherian reports on the 5-year sentence that Imperial College benefactor Gary Tanaka faces this week
 date: "2010-02-12 01:45:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201002120144-rsp07-tannakab.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002120144-rsp07-tannakab.jpg"
 headline: true
 featured: true
 imported: true

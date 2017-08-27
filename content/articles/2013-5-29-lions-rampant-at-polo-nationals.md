@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICU Riding and Polo celebrate victory at the Arena Polo Nationals
 date: "2013-05-29 15:44:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305301030-tna08-nationals-photo.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ I should introduce the rest of the team. But our number 3 thinks that polo is an
 
 Unfortunately, at this stage my memories really do get hazy, though I do remember I ate a huge meal that was far too large for any sane person. It did give me a chance to get back to the polo on Friday morning. Myself, Jon and Olivia were in the prestigious Novice 1 division and were pretty excited to see what we could do when we got on. I can’t for the life of me remember who we played in our first round match, it may have been Portsmouth again, however I do remember the score: 6-0. We pretty conclusively smashed them into the ground. Jon went on a spree of goals and after the first throw in I think they only made it over the half way line once from a free hit before we were back after them. Trying hard not to let the score line go to our heads we waited for match 2. Against the much more worrying Cambridge team involving a player well known to us as someone that has played at the level above… but then so have both me and Jon before now so we were aware we’d have to fight hard.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305301030-tna08-prizegiving-1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305301030-tna08-prizegiving-1.jpg" title="" caption="" attr="" >}}
 
 Things did not go well with us starting behind and me at the back having to fight off strong attack after strong attack. Jon and Olivia managed to mount plenty of attacks of their own keeping us in contention and winning us a penalty to keep the scores level. These have been our Achilles’ heel in the past and my heart was racing as I lined up to take it, my words from a few days before ringing in my ears; “I’ve never scored a penalty in an arena match before”. The match ended 3 apiece and dread set in as we realised we were going to be penalties for the match and Jon and Olivia both agreed that I would be up first. If I recall correctly we actually got through a full round of penalties and were still tied, but it was all over shortly after with the first penalty of sudden death making the difference. We were through to the top four.
 

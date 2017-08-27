@@ -38,4 +38,4 @@ Man of the Match went to OlisaUfodiama returning from injury, whilst notable men
 
 ICURFC is proud to be sponsored by:
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211230013-tna08-rugbyleaguetingy.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211230013-tna08-rugbyleaguetingy.jpg" title="" caption="" attr="" >}}

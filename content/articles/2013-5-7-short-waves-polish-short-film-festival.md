@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lily Le gets her dictionary out. Or should I say... goes to Google... słownik. I don't know, maybe I should.
 date: "2013-05-07 19:30:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201305072028-tna08-straznicy-(0-00-05-03).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305072028-tna08-straznicy-(0-00-05-03).jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ As audience members started laughing at what seemed to be not very funny scenes,
 
 Only three films were live action. Philosophical narrated animations, light-hearted and brightly coloured stop-frames to pop music, an eerie Grizzly Tales for Gruesome Kids-esque black and blood red cartoon, and a rather dull compilation of scientific archive material formed the rest.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305072030-tna08-o-rzadach-milosci-(0-03-00-24).jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305072030-tna08-o-rzadach-milosci-(0-03-00-24).jpg" title="" caption="" attr="" >}}
 
 Of the live action pieces, a particular favourite was The Guardians. A young officer must allow only travellers with VISAs to pass a barrier and continue their journey into a misty forest. As he stamps the papers of the travellers, he peers intently at their faces with a sadness he knows he should not show. As a mother leaves her child and husband behind, it becomes clear as to where the travellers are going. The simplicity yet complexity of leaving loved ones behind appears.
 

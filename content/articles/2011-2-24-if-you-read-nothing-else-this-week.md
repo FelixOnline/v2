@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kelly Osborne recommends Life of Pi, an award-winning adventure story by Yann Martel, which explores spirituality alone on a boat with a tiger
 date: "2011-02-24 19:05:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241859-nm1010-pipipipi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241859-nm1010-pipipipi.jpg"
 headline: true
 featured: true
 imported: true

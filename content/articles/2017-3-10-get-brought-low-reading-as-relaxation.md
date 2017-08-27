@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Immersing yourself in a good book or comic can provide you with the perfect opportunity to practice self-care – it gives you time to sit down, chill out, and totally engross yourself in the power of words and images. felix Editor Lef Apostolakis gives his own personal recommendation: LOW
 date: "2017-03-10 13:43:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101342-felix-1819_LOW03_COLORS.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101342-felix-1819_LOW03_COLORS.jpg"
 headline: true
 featured: true
 imported: true

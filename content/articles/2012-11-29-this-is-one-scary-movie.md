@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How do you fire someone like Ryan Bingham?
 date: "2012-11-29 23:06:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292304-csw09-up-in-the-air.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292304-csw09-up-in-the-air.jpg"
 headline: true
 featured: true
 imported: true

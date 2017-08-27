@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lily Le goes on an emotional and interesting journey
 date: "2012-11-15 21:25:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152125-tna08-nails.jpg"
 image_caption: "© Boris Mikhailov"
 headline: true
 featured: true
@@ -32,7 +32,7 @@ The exhibition starts with photographs by David Goldblatt, which contrast the �
 By persuading the Race Classification Board that he was coloured, not black, Ernest Cole was able to take pictures of young homeless boys being slapped by white adults for begging, as well as blurred time-lapses of street violence instead of being arrested for practising photography.
  One of his most frank pieces, capturing the essence of the separation, is a wide-shot over a train station filled, on one half, with non-whites scrambling (sometimes over the tracks) to get to non-signposted trains whilst whites wait in comfortable personal space on the other half of the station.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152126-tna08-peopleplayingtennis.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152126-tna08-peopleplayingtennis.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
 
 The struggles for the rights of indigenous South Africans is emphasised with a matriarchal slant (although I can’t help but giggle at a photograph of what looks like Pocahontas with a boombox) in the collection by Graciela Iturbide, theonly female artist featured in the exhibition.
 
@@ -40,7 +40,7 @@ Martin Luther King and Malcom X sit next to Bruce Davidson’s more harrowing pi
 
 The US is also represented through theworks of William Eggleston, the father of style-over-substance thus of style-becoming-substance hipster portraits. Although not as impressive compared to the culturally and politically driven pieces of his peers, it is interesting to see where this style of photography originated from.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152126-tna08-workers.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152126-tna08-workers.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
 
 Upstairs, the collection delves into more specific events of the 60s and 70s.
  Afghans watch the cruel fight between two dogs and a chained bear in a German photographer’s blotchy time-lapse, suggestive of the Soviet Union and US’s power struggle during the Cold War, with Afghanistan caught in the middle.
@@ -49,7 +49,7 @@ The next room holds bizarre nude, political, and religious superimpositions whic
 
 It is easy to reflect over and enjoy all the pieces in the exhibition – even the seemingly abstract ones – as photography and history novices thanks to the helpful blurbs accompanying the collections and to the literature produced by the Barbican.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152126-tna08-redcar.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152126-tna08-redcar.jpg" title="© Boris Mikhailov" caption="© Boris Mikhailov" attr="" >}}
 
 The team has done well in engaging visitors by making them empathise with the photographs. Viewers are referred to such present-day phenomena as the globalisation of Japan with Homei Tomatsu’s exploration into Japanese post-war Americanisation.
 

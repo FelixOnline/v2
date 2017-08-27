@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They had a ball
 date: "2016-11-14 14:20:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201611141420-felix-thumbnail_TennisComp1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611141420-felix-thumbnail_TennisComp1.jpg"
 headline: true
 featured: true
 imported: true

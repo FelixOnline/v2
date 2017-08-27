@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Django Django Django Django Because Music 2012
 date: "2012-02-09 22:23:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092221-pk1811-djangodjango.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092221-pk1811-djangodjango.jpg"
 headline: true
 featured: true
 imported: true

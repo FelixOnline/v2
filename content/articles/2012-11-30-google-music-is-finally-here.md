@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jason Parmar looks at Google’s venture into the digital music market
 date: "2012-11-30 11:25:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201211301126-jp1409-music-players.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211301126-jp1409-music-players.png"
 image_caption: "  Google comes into a pretty competitive market against these badass’ of digital music"
 headline: true
 featured: true

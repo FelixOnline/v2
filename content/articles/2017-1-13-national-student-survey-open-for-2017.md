@@ -4,7 +4,7 @@ title: >
 subtitle: >
   National Union for Students calls to boycott
 date: "2017-01-13 13:50:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201701131349-felix-IMG_6790.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131349-felix-IMG_6790.JPG"
 headline: true
 featured: true
 imported: true

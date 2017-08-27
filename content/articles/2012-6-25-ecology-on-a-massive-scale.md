@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at the SAFE Project, two years from its start
 date: "2012-06-25 23:52:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201206260217-ak6309-dsc_0093.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206260217-ak6309-dsc_0093.jpg"
 headline: true
 featured: true
 imported: true

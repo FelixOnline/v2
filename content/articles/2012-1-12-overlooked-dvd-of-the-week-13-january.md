@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Whistleblower is truly an on-screen gem - shame it missed out on a box office run
 date: "2012-01-12 22:38:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122236-cac111-whistleblower.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122236-cac111-whistleblower.jpg"
 headline: true
 featured: true
 imported: true

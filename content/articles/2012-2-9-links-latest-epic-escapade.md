@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not the best, but certainly not the worst. Rhys Davies embarks on Link’s most recent epic, The Legend of Zelda: Skyward Sword
 date: "2012-02-09 22:44:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092243-ams111-c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092243-ams111-c.jpg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ But it feels small. This is the cardinal sin of _Skyward Sword_. One of Zelda’
 
 The characters, true to Zelda form, are quite personable and full of charm. If only there were more of them. My favourite game in the series to date is _Majora’s Mask_ for the sheer amount of characters, each with their own unfolding and intercrossing dramas. With such a small cast, there is only so much you can do here.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202092244-ams111-zelda_skyward_sword2.jpg" title="Argument no. 34 in the fight against GM technology" caption="Argument no. 34 in the fight against GM technology" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202092244-ams111-zelda_skyward_sword2.jpg" title="Argument no. 34 in the fight against GM technology" caption="Argument no. 34 in the fight against GM technology" attr="" >}}
 
 _Skyward Sword _was released last year, during the 25th anniversary for Zelda. You can tell. The game works very well as a Zelda retrospective. The weapons have all been seen before, from the double clawshot (_Twilight Princess_, a welcome return) to the bellows (Which I’m sure I saw in _The Minish Cap_). Familiar names and faces crop up continually. The three provinces, and their guardian spirits, share the names (and rough locations) with those of _Twilight Princess_. There are a few gorons about, who evolution seems to bounce off like rubber, and amazingly Beedle. That travelling salesman has some very, very strong genes. Aspects of gameplay also resurfaced, most notably the spirit trials, which Nintendo loved so much in _Twilight Princess_, they’ve apparently lifted them wholesale from that game. Another trope I was pleased to see return was “Let’s put Link in a cannon!”
 

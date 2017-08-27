@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hyde Park Relays 2016 proves yet again that Valentine’s Weekend is better with a hangover
 date: "2016-02-26 12:16:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261216-felix-HPR Photo 1.jpg"
 image_caption: "The race was enjoyed by athletes of a whole range of abilities."
 headline: true
 featured: true

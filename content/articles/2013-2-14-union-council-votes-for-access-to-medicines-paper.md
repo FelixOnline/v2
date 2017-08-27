@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Motion passed despite sabbs not voting for it
 date: "2013-02-14 21:12:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201302142113-tna08-medicines-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302142113-tna08-medicines-2.jpg"
 headline: true
 featured: true
 imported: true

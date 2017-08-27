@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A prescient commentary on the problems of promoting stereotypes and how they are often wrong
 date: "2011-03-03 20:14:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104220153-felix-r13_m.jpeg"
 headline: true
 featured: true
 imported: true

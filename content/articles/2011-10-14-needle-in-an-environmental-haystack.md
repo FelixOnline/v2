@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eoghan J.Totten reveals his first impressions of London
 date: "2011-10-14 00:39:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140139-felix-eoghan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140139-felix-eoghan.jpg"
 headline: true
 featured: true
 imported: true

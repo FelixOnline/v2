@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christian Franke advises you on how to expand your drinking horizons
 date: "2011-02-03 18:47:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031845-nm1010-whiskeyw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031845-nm1010-whiskeyw.jpg"
 headline: true
 featured: true
 imported: true

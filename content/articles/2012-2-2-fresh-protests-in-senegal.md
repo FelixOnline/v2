@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Senegalese protests intensify
 date: "2012-02-02 19:48:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
 image_caption: "Abdoulaye Wade remains defiant"
 headline: true
 featured: true

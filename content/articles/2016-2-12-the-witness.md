@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Blow delivers his second masterpiece, a game about mazes
 date: "2016-02-12 11:41:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121140-felix-thewitness2.jpg"
 image_caption: "Don’t understand a puzzle? Come back when you’ve explored some more."
 headline: true
 featured: true

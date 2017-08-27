@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial triumphs in University Challenge quarter-finals
 date: "2016-02-05 11:47:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051146-felix-University Challenge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051146-felix-University Challenge.jpg"
 headline: true
 featured: true
 imported: true

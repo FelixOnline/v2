@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray on Nicolas Jaar at the Roundhouse
 date: "2012-02-09 22:11:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092200-pk1811-nicolasjaar1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092200-pk1811-nicolasjaar1.jpg"
 image_caption: "Get your foot away from my face."
 headline: true
 featured: true

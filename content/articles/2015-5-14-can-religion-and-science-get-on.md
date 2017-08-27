@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142313-cj914-winston-copy.jpg"
 image_caption: "Lord Winston took the opinion that religion is not harmful to the progress of science at the debate."
 headline: true
 featured: true

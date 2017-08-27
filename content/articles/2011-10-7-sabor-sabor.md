@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get a taste of South American salsa, Ozy Shyne style
 date: "2011-10-07 10:18:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071119-felix-l-2.jpg"
 image_caption: "Ozy Shyne"
 headline: true
 featured: true

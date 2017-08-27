@@ -4,7 +4,7 @@ title: >
 subtitle: >
   3D TV's back but what does it mean for you?
 date: "2010-06-16 18:30:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201006161924-srg03-3DHDTV.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201006161924-srg03-3DHDTV.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No more White Stripes disheartens fans across the world
 date: "2011-02-03 19:12:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031909-nm1010-whitestr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031909-nm1010-whitestr.jpg"
 headline: true
 featured: true
 imported: true

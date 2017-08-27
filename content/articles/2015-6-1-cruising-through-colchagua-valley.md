@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson knocks back a couple of glasses in Chile’s stunning wine region
 date: "2015-06-01 17:38:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201506021232-ync111-montes-winery.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506021232-ync111-montes-winery.jpg"
 headline: true
 featured: true
 imported: true

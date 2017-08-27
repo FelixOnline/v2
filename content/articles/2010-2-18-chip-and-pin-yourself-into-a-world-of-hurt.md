@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Worthington looks at the so called 'secure' Chip-and-PIN verification system and how it might not be as safe as you think
 date: "2010-02-18 14:29:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201002181426-srg03-ChipandP.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002181426-srg03-ChipandP.jpg"
 headline: true
 featured: true
 imported: true

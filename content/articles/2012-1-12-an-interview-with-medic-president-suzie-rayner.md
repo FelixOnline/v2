@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We interviewed the ICSMU President about ICSM's response to last year's Daily Mail scandal, along with Alcohol Awareness Week
 date: "2012-01-12 21:23:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122123-cac111-medicss.jpg"
 image_caption: "Last year's Daily Mail article"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could marketing efforts be behind poor nomination numbers?
 date: "2017-03-03 14:15:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031415-felix-leadership elections.png"
 headline: true
 featured: true
 imported: true

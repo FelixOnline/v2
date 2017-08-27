@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eat Pray Love boils down to nothing but a shallow travelogue
 date: "2010-10-21 19:21:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010212019-ks607-eatprayt.jpg"
 image_caption: "Eat Pray Throwup..."
 headline: true
 featured: true

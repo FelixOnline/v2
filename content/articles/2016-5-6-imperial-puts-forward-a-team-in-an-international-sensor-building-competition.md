@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The team aims to produce a fully functioning creatinine sensor which rivals those currently available
 date: "2016-05-06 10:18:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
 headline: true
 featured: true
 imported: true

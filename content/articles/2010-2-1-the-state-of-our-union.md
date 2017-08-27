@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Union President Ashley Brown on his achievements and failings as president so far
 date: "2010-02-01 16:23:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011617-rsp07-ashleybr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011617-rsp07-ashleybr.jpg"
 headline: true
 featured: true
 imported: true

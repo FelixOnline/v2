@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Meredith Thomas, aka Charles Thomas, doesn't want to give anything away...
 date: "2012-12-07 02:24:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070223-tna08-bulls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070223-tna08-bulls.jpg"
 headline: true
 featured: true
 imported: true

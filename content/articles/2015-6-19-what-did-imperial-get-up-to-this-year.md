@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the academic year draws to a close, Felix takes a look back at the biggest headlines of the past year
 date: "2015-06-19 13:26:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
 headline: true
 featured: true
 imported: true

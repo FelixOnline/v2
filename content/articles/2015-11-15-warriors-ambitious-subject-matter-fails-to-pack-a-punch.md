@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new film about a cricket team set up by the Maasai spreads itself too thin, and fails to deliver
 date: "2015-11-15 10:51:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201511151050-ff712-4928.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511151050-ff712-4928.jpg"
 image_caption: "Warriors charts the impact forming a cricket team has on the Maasai community"
 headline: true
 featured: true

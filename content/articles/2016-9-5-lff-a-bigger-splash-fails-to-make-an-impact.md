@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Despite the best efforts of Swinton and co, Luca Guadagnino's latest dissapoints
 date: "2016-09-05 20:25:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
 image_caption: "Dakota Johnson as Penelope, in the sun-drenched erotic thriller A Bigger Splash. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union to announce exact prices and drinks on offer later on in the summer
 date: "2012-08-03 11:47:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
 image_caption: "First a bad lab report mark, then pennied by 240 people. Welcome to cat versus booze"
 headline: true
 featured: true

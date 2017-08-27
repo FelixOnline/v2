@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282033-ks607-macappst.jpg"
 headline: true
 featured: true
 imported: true

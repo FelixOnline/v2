@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "With performances like this, the 7s are sure to quickly rise up the table."
 date: "2011-12-01 21:24:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012123-ams111-picture.jpg"
 image_caption: "Darren Ambrose, eat your heart out"
 headline: true
 featured: true

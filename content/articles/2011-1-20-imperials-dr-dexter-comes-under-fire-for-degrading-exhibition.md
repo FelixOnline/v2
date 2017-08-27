@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A London art gallery’s controversial exhibit has been branded “disrespectful and unacceptable”.
 date: "2011-01-20 19:34:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201929-ks607-braiiiii.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201929-ks607-braiiiii.jpg"
 headline: true
 featured: true
 imported: true

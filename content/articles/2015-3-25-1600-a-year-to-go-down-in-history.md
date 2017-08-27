@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola takes us through the life of Giordano Bruno
 date: "2015-03-25 12:39:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251239-ff712-rome_statue_giordano_bruno_campo_dei_fiori.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251239-ff712-rome_statue_giordano_bruno_campo_dei_fiori.jpg"
 image_caption: "The Statue of Giordano Bruno, Campo dei Fiori, Rome "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An uplifting tale of a group of people that discover a different culture and develop a new outlook on life
 date: "2012-05-03 18:16:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031916-ams111-best_exotic_marigold11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031916-ams111-best_exotic_marigold11.jpg"
 image_caption: "Must find Bond, must find Bond, must find Bond, must find Bond..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon on what makes some people become psychopaths
 date: "2011-11-17 20:27:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-battle_royale.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172026-pk1811-battle_royale.jpg"
 image_caption: "How quickly would you turn to killing your friends in order to live?"
 headline: true
 featured: true

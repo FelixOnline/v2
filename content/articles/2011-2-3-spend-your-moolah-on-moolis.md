@@ -4,7 +4,7 @@ title: >
 subtitle: >
   When the hooplah over Brick Lane just gets too much.“Fed up with the cuisine wrongly assumed to be ‘Indian’ in London *cough* Brick Lane...”
 date: "2011-02-03 18:56:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031853-nm1010-moooooli.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031853-nm1010-moooooli.jpg"
 headline: true
 featured: true
 imported: true

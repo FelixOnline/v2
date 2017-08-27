@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Turgid Trumbo fails to shine, despite the best efforts of Bryan Cranston
 date: "2016-02-12 11:45:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121145-felix-Trumbo-trailer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121145-felix-Trumbo-trailer.jpg"
 image_caption: "Helen Mirren in full-on mad hat mode, opposite the strained Bryan Cranston in Trumbo. "
 headline: true
 featured: true

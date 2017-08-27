@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Krestas finds reason to celebrate with the release of Wrecking Ball
 date: "2012-03-11 16:15:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203111614-mc4509-bruce.jpg"
 image_caption: "Bruce wants to know why you haven’t bought the album. It was out March 5th!"
 headline: true
 featured: true

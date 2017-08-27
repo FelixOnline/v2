@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New comedy series has more sex than Imperial, dammit
 date: "2011-10-13 22:46:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
 image_caption: "Fresh Meat – does it deserve the rave reviews?"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou argues that you can’t claim the revolutions for Islam
 date: "2011-03-10 20:09:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102007-nm1010-turkeytu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102007-nm1010-turkeytu.jpg"
 headline: true
 featured: true
 imported: true

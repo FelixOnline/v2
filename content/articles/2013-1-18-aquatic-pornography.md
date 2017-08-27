@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on how bisexuality and fish porn have come together this week
 date: "2013-01-18 00:23:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180022-tna08-poecilia-mexicana.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180022-tna08-poecilia-mexicana.jpg"
 headline: true
 featured: true
 imported: true

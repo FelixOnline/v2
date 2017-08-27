@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250049-felix-amundsen-scott-station.jpg"
 image_caption: "Amundsen-Scott south pole station, now under “caretaker status”"
 headline: true
 featured: true

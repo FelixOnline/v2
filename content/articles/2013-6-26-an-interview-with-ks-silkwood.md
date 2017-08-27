@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco talks to the author of King of the Jungle
 date: "2013-06-26 17:32:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306201645-txl11-silkwood.jpg"
 headline: true
 featured: true
 imported: true

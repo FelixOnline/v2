@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pt. II – Shellac
 date: "2012-05-10 20:13:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102113-felix-shellac.jpg"
 headline: true
 featured: true
 imported: true

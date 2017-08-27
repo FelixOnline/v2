@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charlotte Levin reports on London Team Trophy success
 date: "2010-11-11 20:52:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112051-ks607-fencingf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112051-ks607-fencingf.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week Simon Hunter reports on the trailblazing label that is platforming some of London’s most exciting underground music
 date: "2011-01-27 20:43:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201104221624-felix-avatars-000001517933-y8y8g6-crop.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104221624-felix-avatars-000001517933-y8y8g6-crop.jpeg"
 headline: true
 featured: true
 imported: true

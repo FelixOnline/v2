@@ -4,7 +4,7 @@ title: >
 subtitle: >
   One point in it. MUST TRY HARDER.
 date: "2013-02-01 00:26:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010026-tna08-rugger.jpg"
 headline: true
 featured: true
 imported: true

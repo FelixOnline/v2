@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Celebrate ALL the science
 date: "2016-10-07 17:09:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201610071905-felix-8677099509_0c48a6fbf3_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610071905-felix-8677099509_0c48a6fbf3_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -49,7 +49,7 @@ The study of these super-flat materials, termed ‘flatlands’, enabled a disco
 So how can these new states of matter be used? Well, right now topological insulators, superconductors and metals, known as ‘topological materials’ that could prove to be useful in the search for new electrical components, or in future quantum computers, in the pipeline.
 ## CHEMISTRY | Jeane-Pierre Sauvage, Sir J. Fraser Stoddart &amp; Bernard L. Feringa
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610071907-felix-2422212202_948434b78d_o.jpg" title="" caption="" attr="Yuvi Panda" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610071907-felix-2422212202_948434b78d_o.jpg" title="" caption="" attr="Yuvi Panda" >}}
 
 Molecular machinery was the hot topic of this year’s Nobel Prize for Chemistry, awarded to Jean-Pierre Sauvage, Sir J. Fraser Stoddart and Bernard L. Feringa for the “design and synthesis of machines” 1000 times thinner than a strand of human hair. It is imagined that their work will take chemistry to a new dimension, providing a means for making new materials, sensors and energy storage systems the likes of which have never been possible, until now.
 
@@ -58,14 +58,14 @@ The first steps were taken by Sauvage in 1983, when he linked two miniature ring
 Perhaps the most important part of these developments is that, collectively, they’ve pushed molecular systems from what is called equilibrium; all chemical systems strive for it, a lower energy state. By making artificial systems perform a controlled task, chemistry has ventured into a new world where this stationary stalemate has been overcome. Relatively speaking molecular machinery is roughly where the electric motor was in 1830, when researchers were proud to display various spinning cranks and wheels without realising that they would turn into fans, food processors, electric trains and much more. We can only guess what thrilling developments are in store for the new world of molecular machinery.
 ## REPRODUCTION PRIZE
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610071920-felix-6337597458_c3898201a9_o.jpg" title="" caption="" attr="Mark Howell" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610071920-felix-6337597458_c3898201a9_o.jpg" title="" caption="" attr="Mark Howell" >}}
 
 This prize was for Ahmed Shafik’s research on rats showing a decrease in sexual activity when wearing polyester trousers (yes, this guy actually made trousers for his rats). Similar tests in human males, using a polyester sling for the scrotum actually resulted in a lower sperm count. As trendy as this sounds could polyester act as a new and reversible method of male contraception.
 ## CHEMISTRY PRIZE
 Ironically, the chemistry prize went to Volkswagen this year, for “solving the problem of excessive automobile pollution emissions by automatically, electromechanically [lowering the emissions] whenever the cars are being tested”. This was in reference to the ‘diesel dupe’ scandal that occurred a few months ago, where Volkswagen was exposed for installing a device that reduced car performance during testing, allowing them to emit emissions 40 times the allowed amount in the US once on the road. Despite the scandal, the level of complexity required to pull it off was fairly impressive. Kudos to them for that.
 ## PHYSICS PRIZE
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610071922-felix-16488037889_ec3e30ee6f_o.jpg" title="" caption="" attr="Omer Unlu" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610071922-felix-16488037889_ec3e30ee6f_o.jpg" title="" caption="" attr="Omer Unlu" >}}
 
 Strangely, the physics prize was given out to a bunch of European scientists for finding out that white horses attract less blood-sucking, disease-carrying tabanid flies than darker horses. This may account to why they exist, albeit rare, in nature, despite their pitfalls - being highly UV sensitive and conspicuous to predators. The work showed that the flies were more attracted to darker horses due to their eyes, which polarized light specifically to spot darker prey.
 ## MEDICINE  PRIZE

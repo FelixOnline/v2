@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jamie Thomas gives his take on why he's voting for the Liberal Democrats next Thursday
 date: "2015-05-02 16:11:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201505021709-jr2514-lib-dems-poster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505021709-jr2514-lib-dems-poster.jpg"
 headline: true
 featured: true
 imported: true

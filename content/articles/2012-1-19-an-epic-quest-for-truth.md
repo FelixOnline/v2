@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An unusual biography of a fascinating philosopher
 date: "2012-01-19 20:11:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192010-ams111-bertrand_russell.jpg"
 image_caption: "Russell-ing up some serious artwork"
 headline: true
 featured: true

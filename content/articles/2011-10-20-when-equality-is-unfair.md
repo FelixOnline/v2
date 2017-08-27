@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We should understand society's differences rather than ignoring them, argues Mahfooz Hasan
 date: "2011-10-20 23:10:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
 headline: true
 featured: true
 imported: true

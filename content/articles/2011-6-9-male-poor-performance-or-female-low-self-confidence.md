@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could low self-esteem be hindering female sexual enjoyment?
 date: "2011-06-09 21:39:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092240-felix-euzix_couple5.jpg"
 headline: true
 featured: true
 imported: true

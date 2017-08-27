@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix visits Ceru, a new addition to the South Ken restaurant scene that oozes middle eastern comfort, from the warm, welcoming interior to the sumptuous yet refined food. So that you too can treat yourselves to an excellent meal out, we’ve arranged an exclusive Imperial discount.
 date: "2017-03-10 14:02:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101401-felix-CERU exterior .jpg"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ To look on at the birth of a new restaurant is always exciting – I’ve been a
 
 Simple – they’d meticulously planned before they opened. Barry and Patricia Hilton, the husband-and-wife team behind Ceru, tested many of the ideas beforehand with their successful pop-up under the same name – visiting festivals, private dinners and shows to serve simple, yet delicious dishes from the Levant to a huge audience. It’s reasonable therefore to say that they have some experience, and inside the restaurant it shows. I’ve visited twice now – for a post exam lunch, and a more relaxed breakfast. The former trip was an escape from the drizzle we have been used to over the past few months, and the cosy booths, lit with beautiful geometric lighting on the walls behind, provided a warm embrace to whip away any memories of either the weather, or the equally miserable exam that I had just sat. And yet when I visited on a bright spring morning last week, it was equally as homely in the early rays of sunshine that were just peeking under the deep blue awning. The whole restaurant took on a brilliant palette of colours, with the patterned seating, tiles and lights transporting me straight back to one of the many cafés in Istanbul – one of my favourite cities, especially for food and drink.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703101401-felix-Sharing picture _ press .jpg" title="" caption="" attr="Paul Winch-Furness" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703101401-felix-Sharing picture _ press .jpg" title="" caption="" attr="Paul Winch-Furness" >}}
 
 Post exam, we decided that cocktails were a necessary fix for our mood. A Cucumber Martini (made without Hendricks, something I am personally glad to see the end of) and a delightful gin-and-Campari based Trouble in Paradise quickly lifted our spirits, and in perfect sync with the cocktails arrived the first dishes, a rarity in some restaurants these days. With their tagline of “Share the flavours of The Levant”, don’t expect dainty portions for you to nibble at and politely enquire how everyone is enjoying their food – you’ll want to ask your lab partner for some of their creamy roasted aubergines with piquant, earthy chermoula, and expect to trade it for succulent, tender lamb shoulder – two of my favourite dishes, and both wonderfully executed: the lamb not too fatty, yet unctuous still, and the aubergines roasted enough to give a smoky tang but not an ashtray like sting. The Village Salad cleansed us in between mouthfuls, providing a wonderful fresh contrast and packing flavours of its own, with fried capers and sumac to give it body. Lunch finished with some of the best fried halloumi – something I normally regard as the most humble of dishes, but one that here was a stand out hit with everyone, with the fruity red peppers and harissa cutting the perfect balance to the crispy, golden cheese.
 
@@ -40,4 +40,4 @@ And exclusive to Imperial students, so that you and friends can also treat yours
 
 Ceru, 7-9 Bute St: 7 minutes from campus, 2 minutes from South Ken tube station. Lunch/Dinner: £10-15 for an ample meal, £9 express lunch with a taste of everything. Cocktails £7.5, Breakfast £5-10
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703101401-felix-CERU interior 4.jpg" title="" caption="" attr="Paul Winch-Furness" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703101401-felix-CERU interior 4.jpg" title="" caption="" attr="Paul Winch-Furness" >}}

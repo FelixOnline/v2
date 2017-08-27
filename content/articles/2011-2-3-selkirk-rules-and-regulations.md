@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031943-ks607-selkirks.jpg"
 headline: true
 featured: true
 imported: true

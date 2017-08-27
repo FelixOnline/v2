@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Only two places for the whole of engineering this year, as fewer students come to Imperial from California
 date: "2013-01-17 23:49:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
 headline: true
 featured: true
 imported: true

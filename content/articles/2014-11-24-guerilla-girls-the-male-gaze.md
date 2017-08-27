@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-24 12:19:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241219-ps3110-p78793_10.jpg"
 headline: true
 featured: true
 imported: true

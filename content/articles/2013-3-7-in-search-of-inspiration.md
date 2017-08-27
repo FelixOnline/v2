@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Most people work so that they can live, but a lucky few live so that they can work. All you need is inspiration, says Saskia Verhagen
 date: "2013-03-07 20:56:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072055-txl11-diana-vreeland.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072055-txl11-diana-vreeland.jpg"
 image_caption: "Needs more red"
 headline: true
 featured: true

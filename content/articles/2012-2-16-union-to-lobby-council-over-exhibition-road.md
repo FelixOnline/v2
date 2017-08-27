@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Unclear roundabout highlighted as potential risk
 date: "2012-02-16 22:25:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162224-sjw209-dsc_6844.jpg"
 image_caption: "The unveiling of the new Exhibition Road, not lobbying in action"
 headline: true
 featured: true

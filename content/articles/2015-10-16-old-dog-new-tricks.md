@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Can Twitter’s recently re-instated CEO, Jack Dorsey, do better this time?
 date: "2015-10-16 14:56:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
 image_caption: "Pete Souza"
 headline: true
 featured: true

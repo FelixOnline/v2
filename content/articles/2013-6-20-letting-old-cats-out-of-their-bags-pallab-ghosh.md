@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 2 of 3)
 date: "2013-06-20 16:41:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ TA: Something I’ve noticed is that there is a general underlying tone, but the
 
 PG: Yes it tends to go like that. I took my inspiration from a guy called Steve Marshall, who was Editor when I was a first year. He had this certain approach (humour). The Editors who followed him were a bit more straightforward. They wanted to kind of distinguish themselves by not having the same approach. You only get one shot at it and it’s great fun. So you shouldn’t have any regrets at the end of it.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210142-tna08-pallab1.jpg" title="The front cover depicting the campaign to save the tea room" caption="The front cover depicting the campaign to save the tea room" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210142-tna08-pallab1.jpg" title="The front cover depicting the campaign to save the tea room" caption="The front cover depicting the campaign to save the tea room" attr="" >}}
 
 TA: How did you get involved at Felix?
 
@@ -59,7 +59,7 @@ TA: Any standout moments from your year? News stories or features that you think
 
 PG: Well. I’m the only Felix Editor that riled the Rector so much that they brought out their own newspaper against me! It was just generally a body of work that rattled lots of cages and got a reaction. Everyone was involved in Felix in one way or another. They’d rush to open it to see who had been slagged off, who hadn’t been. You know, obviously the news is important, but with a student newspaper it should be part of the community. If I were to describe what I felt proud of it would be that everyone was engaged in it. We couldn’t print more than a certain number of copies as we’d exceed our budget, but they were gone by 9:30 – first lectures.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210143-tna08-pallab2-copy.jpg" title="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." caption="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210143-tna08-pallab2-copy.jpg" title="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." caption="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." attr="" >}}
 
 TA: Looking back on stories that seemed to be very important, how important do they seem in hindsight?
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Director of the much-acclaimed Ian Curtis biopic Control, is back with a bang
 date: "2010-10-10 15:36:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101634-ks607-GeorgeCl.jpg"
 headline: true
 featured: true
 imported: true

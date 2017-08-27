@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Despite its flaws, The Grand Tour is an amicable successor to the Top Gear of old
 date: "2016-12-09 15:44:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   More and more students are competing for university places
 date: "2011-01-27 18:15:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271812-ks607-ucassats.jpg"
 headline: true
 featured: true
 imported: true

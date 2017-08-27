@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking forward to your hot date? Philippa Skett explains why
 date: "2013-02-07 23:28:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ And when I mean love, what exactly do I mean? The love I am referring to is the 
 
 This love is explained not so delicately by Helen Fisher, an anthropologist, but a scientist nonetheless. She sorts the progression of love into three discrete but not necessarily independent stages; lust, attraction, and attachment. These three are not listed in chronological order in terms of a romantic relationship’s development as they are very much interchangeable. Each of these three stages comes with different boosts of hormones throughout the brain, to accommodate the different life strategies that are optimal for different stages in mammalian reproduction. Love is literally all in your head, although it can cause the usual racing of the heart, sweating of the palms or high quantities of alcohol ingestion too (or possibly chlamydia).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302072327-tna08-050101dopamineheart.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302072327-tna08-050101dopamineheart.jpg" title="" caption="" attr="" >}}
 
 For example, lust accommodates the sex drive and the wish to mate and reproduce recklessly and repeatedly, regardless of where said mate lies on the Imperial scale. It is associated with oestrogens and androgens – hormones that work for the reproductive side of things in the body, and are regulated within the hypothalamus. It is purelya chemical surge to want to get hot and heavy very suddenly, and can subside as quickly as it came (one orgasm joke in the bag). This neurological wiring is completely independent of attraction, which can explain just how easy it can be at times to kick that rugby guy out of your bed after a drunken night out.
 

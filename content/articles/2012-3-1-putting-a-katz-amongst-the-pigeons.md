@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kings Park Capital founder Jason Katz talks to Imperial Investors Club, Deepka Rana reports
 date: "2012-03-01 22:43:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
 image_caption: "Lolkatz: He haz ur private equity financial expertise"
 headline: true
 featured: true

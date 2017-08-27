@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Campaigners for huge cuts in number of sabbs vow they "will be back".
 date: "2014-12-12 12:47:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412121247-ps3110-gordon.jpg"
 headline: true
 featured: true
 imported: true

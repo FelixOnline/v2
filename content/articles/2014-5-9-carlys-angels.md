@@ -4,7 +4,7 @@ title: >
 subtitle: >
   erial-dating lawyer Carly (Cameron Diaz) finally finds someone who could potentially be “the one”. This is until she figures out that he’s a married man. Game of Thrones’ Jaime Lannister, Nikolaj Coster-Waldau, has been a busy man no doubt. His wife Kate (Leslie Mann) is devastated and heart-broken.
 date: "2014-05-09 15:17:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201405091617-jal08-still-of-cameron-diaz-and-nikolaj-coster-waldau-in-the-other-woman-(2014)-large-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405091617-jal08-still-of-cameron-diaz-and-nikolaj-coster-waldau-in-the-other-woman-(2014)-large-picture.jpg"
 headline: true
 featured: true
 imported: true

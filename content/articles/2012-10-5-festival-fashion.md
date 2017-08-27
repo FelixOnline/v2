@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Marianne Teoh gives us the Fashion low-down from Benicàssim
 date: "2012-10-05 12:03:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051303-felix-img_5668.jpg"
 image_caption: "Katy B. Microphones are for losers, and talanted people – BURRRN"
 headline: true
 featured: true

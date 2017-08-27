@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ernest Gonzales - Natural Traits - Friends of Friends - 2012
 date: "2012-01-19 20:40:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
 headline: true
 featured: true
 imported: true

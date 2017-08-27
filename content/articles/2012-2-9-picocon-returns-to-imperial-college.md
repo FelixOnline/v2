@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Annual Science Fiction convention celebrates 2012 with apocalypse theme
 date: "2012-02-09 22:01:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092201-ams111-picocon29-artwork.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092201-ams111-picocon29-artwork.jpg"
 headline: true
 featured: true
 imported: true

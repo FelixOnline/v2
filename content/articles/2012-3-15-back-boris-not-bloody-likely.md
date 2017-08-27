@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It is time for London to elect a mayor
 date: "2012-03-15 22:24:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152223-ams111-boris-hand1.jpg"
 image_caption: "Just a persona? Boris in action"
 headline: true
 featured: true

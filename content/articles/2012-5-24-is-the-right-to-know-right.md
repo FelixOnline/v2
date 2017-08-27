@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Congress might be taking things a step too far
 date: "2012-05-24 23:14:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
 image_caption: "The question of whether or not Congress should dictate morality is key"
 headline: true
 featured: true

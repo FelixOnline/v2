@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What does a trade agreement between the two largest economies in the world mean?
 date: "2013-02-21 13:44:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201302211342-txl11-obama-1024x879.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302211342-txl11-obama-1024x879.jpg"
 image_caption: "US-EU relations"
 headline: true
 featured: true

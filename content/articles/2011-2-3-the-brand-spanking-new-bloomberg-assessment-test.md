@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A complete rip-off or a shortcut to your dream job?
 date: "2011-02-03 20:30:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032026-nm1010-helphelp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032026-nm1010-helphelp.jpg"
 headline: true
 featured: true
 imported: true

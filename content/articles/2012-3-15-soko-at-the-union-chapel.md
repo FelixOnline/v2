@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An interesting night for all its ups and downs
 date: "2012-03-15 21:30:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152128-ig711-img_0271.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152128-ig711-img_0271.jpg"
 image_caption: "Kudos to Soko: this hat is hard to pull off"
 headline: true
 featured: true

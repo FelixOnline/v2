@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Wilkinson discusses the lack of LGBT training in the NHS and the steps that are taken to improve services for the queer community
 date: "2017-02-10 13:39:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101338-felix-9941609134_f0f40a4663_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101338-felix-9941609134_f0f40a4663_o.jpg"
 headline: true
 featured: true
 imported: true

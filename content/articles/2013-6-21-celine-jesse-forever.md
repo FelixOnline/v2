@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Before Midnight Review
 date: "2013-06-21 00:18:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
 image_caption: "No. I ordered Coke. If I wanted a fucking Pepsi I would HAVE SAID"
 headline: true
 featured: true
@@ -29,13 +29,13 @@ Sounds like a fairytale romance gone absolutely right despite some hiccups on th
 
 Opening with a scene where Jesse is dropping off his son at the airport after a fun summer together, we instantly sense trouble brewing as it’s obvious Jesse wants to play a bigger part in his son’s life, a significant portion of which he’s already missed. Celine is at a crossroads as to whether she should accept a new well-paid job in the government.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight_612x380.jpg" title="Rock slide ends happy marriage" caption="Rock slide ends happy marriage" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210119-tna08-before-midnight_612x380.jpg" title="Rock slide ends happy marriage" caption="Rock slide ends happy marriage" attr="" >}}
 
 We join them on the last day of their family holiday in Greece. There are no doubt some beautiful backdrops and scenery, but that’s all secondary to the two characters we want to focus on. Keeping up with the tradition and arguably the Before trilogy’s (for now) most remarkable strength, this is a film in which we see long single takes of characters talking. That’s all they do, they exchange words. And yet, it’s all so endlessly fascinating –it’s sweet, charming, and consistently funny with quotable lines throughout its exceptionally well written script that covers a whole range of ideas and communicate them using its talented cast.
 
 As usual Hawke and Delpy (who also co-wrote the screenplay) are absolutely brilliant – they have that magical chemistry that makes everything look so easy and natural. Coming across as completely spontaneous and effortless is no easy task, and yet the duo who have been at the centre of this romance manage this beautifully. As the cracks begin to show, we are reminded that there is no such thing as the perfect relationship. Life happens, challenges present themselves, there are conflicts, and the longer two people are together, the more apparent this becomes. The courtship between the two is long over – now is the time for compromise and sacrifice. They disagree, they bicker, until eventually there is a full-on fight in the film’s most climatic scene set in a hotel room, easily the best moment in the trilogy. The mounting problems they have faced over the years come to a head, harsh words are exchanged, but the film does well to remember that these characters are not larger-than-life, overly melodramatic individuals. Their arguments aren’t as fiery or loud as say, what Richard Burton and Elizabeth Taylor get up to in the overlong Who’s Afraid of Virginia Woolf? but are more natural and most importantly, relatable.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210120-tna08-before-midnight-ethan-hawke-julie-delpy-photos.jpg" title="Spinach in his teeth is so gross" caption="Spinach in his teeth is so gross" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210120-tna08-before-midnight-ethan-hawke-julie-delpy-photos.jpg" title="Spinach in his teeth is so gross" caption="Spinach in his teeth is so gross" attr="" >}}
 
 Unlike its predecessors there is a fair amount of screen time given to its supporting cast (lovely insightful friends they meet on holiday), making use of differentperspectives and views, although in the end keeping the narrative firmly grounded in the central couple.
 

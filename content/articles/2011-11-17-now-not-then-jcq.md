@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Jeffery on golfing pros, bitches and hoes
 date: "2011-11-17 21:27:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172127-pk1811-jcq.jpg"
 image_caption: "That awkward moment when someone takes the last piece of cake... or the cake."
 headline: true
 featured: true

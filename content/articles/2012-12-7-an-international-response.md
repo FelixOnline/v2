@@ -4,7 +4,7 @@ title: >
 subtitle: >
   International students reply to the fees
 date: "2012-12-07 00:03:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070002-tna08-international-fees.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070002-tna08-international-fees.jpg"
 headline: true
 featured: true
 imported: true

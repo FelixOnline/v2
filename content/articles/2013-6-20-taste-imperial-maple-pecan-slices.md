@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ...and how to duplicate them, thanks to Elizabeth Crow
 date: "2013-06-20 23:24:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210023-tna08-foodslice.jpg"
 headline: true
 featured: true
 imported: true

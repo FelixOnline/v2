@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizabeth Riach evaluates the future of Australia’s biggest attraction
 date: "2016-12-02 14:04:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021404-felix-diving-1656380_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021404-felix-diving-1656380_1920.jpg"
 headline: true
 featured: true
 imported: true

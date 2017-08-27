@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews this modern take on a classic film genre
 date: "2014-11-24 12:49:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
 headline: true
 featured: true
 imported: true

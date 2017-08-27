@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jasmine French (Blanchett) is a hard character for Imperial students to relate to: she’s rich, she wants to go into interior decorating, she knows nothing about finance, and she’s a woman. The film intercuts scenes from two periods of her life; one shows the ostentatious life she leads paid for by h
 date: "2013-10-06 10:22:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201310061122-jal08-film_bllue-jasmine.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310061122-jal08-film_bllue-jasmine.jpg"
 headline: true
 featured: true
 imported: true

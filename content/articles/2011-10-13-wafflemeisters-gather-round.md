@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wafflemeister announces a new waffle-eating competition
 date: "2011-10-13 23:59:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140057-sjw209-wafflemeister.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140057-sjw209-wafflemeister.jpg"
 image_caption: "I want it all... and I want it now"
 headline: true
 featured: true

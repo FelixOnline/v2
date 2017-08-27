@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Crowds gather at Queen’s Tower to hold minute’s silence for Paris victims
 date: "2015-11-19 22:16:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192216-ygr12-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192216-ygr12-cover.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Despite great performances from a strong cast, Black Mass doesn't manage to reach true heights
 date: "2015-12-06 14:07:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201512061403-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512061403-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 draft: true
 headline: true
 featured: true

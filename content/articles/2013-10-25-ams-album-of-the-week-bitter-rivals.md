@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sleigh Bells - Bitter Rivals
 date: "2013-10-25 00:37:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
 image_caption: "Sleigh-Bells - Bitter Rivals"
 headline: true
 featured: true

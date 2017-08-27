@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oliver Benton makes the trip down to the new grounds
 date: "2014-10-17 15:12:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171612-kmw13-imag0045.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171612-kmw13-imag0045.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   UCL vs ICURFC doesn't end too well for our boys
 date: "2014-11-10 22:04:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Can you shampoo with a headscarf on? Where can you pray when you’ve only got five minutes?
 date: "2016-02-19 11:15:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191112-felix-image1.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191112-felix-image1.JPG"
 image_caption: "We’re chilling in SAF, just like you. "
 headline: true
 featured: true

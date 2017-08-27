@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
 image_caption: "The universities minister, David Willetts, has called on universities to adapt to a new environment"
 headline: true
 featured: true

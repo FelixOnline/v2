@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In honour of International Women’s Day we celebrate the female artists who inspire us
 date: "2016-03-11 12:04:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111201-felix-frida.jpg"
 headline: true
 featured: true
 imported: true

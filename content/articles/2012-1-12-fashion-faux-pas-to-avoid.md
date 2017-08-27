@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kicking off a new year, Alice Yang shows us the style resolutions to adopt for life, not just for novelty
 date: "2012-01-12 19:54:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201201131004-felix-uggs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201131004-felix-uggs.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Understandably, after seasons of toe-crunching towering stilettos, the female po
 
 Break the bank and bag a pair of elegant leg extending Rick Owens wedge boots or opt for a less demanding pair of ankle boots from Office. With so many choices out there that eliminate ‘fat calf syndrome’ and guarantee you walk upright (as opposed to on the side of your Ugg), this resolution will not only improve your posture but will also help you give off a more sophisticated look.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201130953-felix-rick-owens-wedge-ankle-boots.jpg" title="Rick Owens wedge boots " caption="Rick Owens wedge boots " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201130953-felix-rick-owens-wedge-ankle-boots.jpg" title="Rick Owens wedge boots " caption="Rick Owens wedge boots " attr="" >}}
 
 ###  GUYS: T under V is never good
 
@@ -40,7 +40,7 @@ Should you be reading this issue of Felix prior to catching sight of your own re
 
 Now boys, your mother did not buy you v-neck sweaters in a desperate attempt to wean you out of your hoodies and band-ts just to see their efforts ruined by such carelessness. Instead, make the conscious decision (preferably starting as soon as possible) to match a smart shirt with your v-neck. Should this look be too formal for you, a casual shirt is a wardrobe staple for the modern man and with the high street offering such a plethora of styles and patterns; you really are spoilt for choice.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201130954-felix-justin_timberlake.jpg" title="Justin gets it wrong " caption="Justin gets it wrong " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201130954-felix-justin_timberlake.jpg" title="Justin gets it wrong " caption="Justin gets it wrong " attr="" >}}
 
 ###  GIRLS: VPLs no more
 
@@ -54,7 +54,7 @@ So should your backside be perfectly pert, I am by no means preventing you from 
 
 Referring to formal short-sleeved shirts as opposed to the standard t-shirt, this section is the start of an attempt to ban the wearing of such items. If you are not yet aware of the risks of wearing such pieces – they hang on even the hunkiest of men in the most unflattering manner, then perhaps it is time you cleared out your wardrobe out and indulged in what women call ‘retail therapy’.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201130955-felix-short-sleeve_shirt-sag.jpg" title="Burn..." caption="Burn..." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201130955-felix-short-sleeve_shirt-sag.jpg" title="Burn..." caption="Burn..." attr="" >}}
 
 The hatred towards these shirts arises because not only are they cut out in the shape of square for some mysterious reason meaning that wearers are expected to be as wide as they are tall, but they also posses the most ridiculous loose flappy sleeves. Not quite as short as on a t-shirt but most definitely not full length, these sleeves hobble somewhat uncertainly around the elbow so that even the most gym-loving biceps seem somewhat lanky and lacking in substance.
 

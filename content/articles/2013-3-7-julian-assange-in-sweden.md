@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christopher Reynolds reviews a biased and inaccurate account of the WikiLeaks founder’s troubles with the law
 date: "2013-03-07 23:56:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes on Desiree Akhavan’s New York sexual romp
 date: "2015-03-25 11:51:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251151-ff712-desiree-in-approriate-behaviour-credit-gravitas-ventures.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251151-ff712-desiree-in-approriate-behaviour-credit-gravitas-ventures.jpeg"
 image_caption: "Desiree Akhavan in Appropriate Behaviour, which chronicles a bisexual Iranian woman’s life in Brooklyn"
 headline: true
 featured: true

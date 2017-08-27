@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Winters on how the music scene at Imperial could be much improved
 date: "2012-06-07 20:01:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072059-ams111-ruler.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072059-ams111-ruler.jpg"
 image_caption: "Metric, metric. Geddit. Geddit. Geddit? It’s a visual pun"
 headline: true
 featured: true

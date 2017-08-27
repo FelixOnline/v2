@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Helen Pennington foils ULU's plans
 date: "2013-02-01 00:29:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
 headline: true
 featured: true
 imported: true

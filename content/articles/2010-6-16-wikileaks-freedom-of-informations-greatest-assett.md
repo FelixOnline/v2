@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam looks at the Whistle Blower's best friend and govrnmental enemy
 date: "2010-06-16 19:49:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201006162046-srg03-WikiLeak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201006162046-srg03-WikiLeak.jpg"
 headline: true
 featured: true
 imported: true

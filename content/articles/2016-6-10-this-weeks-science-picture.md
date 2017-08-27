@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-10 08:27:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101027-felix-14817357391_1eaab3c8a5_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101027-felix-14817357391_1eaab3c8a5_o.jpg"
 image_caption: "Extensive stand of severely bleached coral."
 headline: true
 featured: true

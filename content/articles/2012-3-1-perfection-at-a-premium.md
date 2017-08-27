@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam finally gets his hands on a Macbook Air
 date: "2012-03-01 21:18:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
 headline: true
 featured: true
 imported: true

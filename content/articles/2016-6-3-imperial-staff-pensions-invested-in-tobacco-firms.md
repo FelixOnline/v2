@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cancer Research UK-funded posts contribute to pension that has £211 million in British American Tobacco
 date: "2016-06-03 08:29:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031029-felix-smoking.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031029-felix-smoking.jpg"
 headline: true
 featured: true
 imported: true

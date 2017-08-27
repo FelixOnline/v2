@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jian Li Chew apologises for his article last week in light of new information
 date: "2017-01-20 15:01:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201500-felix-Screen Shot 2017-01-20 at 15.00.30.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201500-felix-Screen Shot 2017-01-20 at 15.00.30.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's only 34 days left till kick off. Are you and your TV ready?
 date: "2010-05-07 11:50:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201005071248-srg03-WorldCup.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Music Editor Riaz Agahi explores the intricate stylings of Chalk White Nights, a collaborative album by Stranger By Starlight
 date: "2013-08-21 07:05:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201308210823-jal08-chalkwhitenights.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201308210823-jal08-chalkwhitenights.png"
 image_caption: "Chalk White Nights by Stranger By Starlight"
 headline: true
 featured: true

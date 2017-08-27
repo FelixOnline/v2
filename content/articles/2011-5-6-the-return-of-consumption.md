@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As consumption, or tuberculosis, continues to spread, scientists are racing to find a new vaccine
 date: "2011-05-06 08:07:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
 image_caption: "Oh yes, definitely a bad case of Bieber fever"
 headline: true
 featured: true

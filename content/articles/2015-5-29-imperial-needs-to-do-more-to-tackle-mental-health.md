@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George gives his thoughts on the latest mental health survey
 date: "2015-05-29 01:00:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290200-ps3110-mentality-report.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290200-ps3110-mentality-report.jpg"
 headline: true
 featured: true
 imported: true

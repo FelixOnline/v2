@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Awesome night of Felix-approved music coming to you Union
 date: "2011-01-20 20:04:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201957-nm1010-mmetricf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201957-nm1010-mmetricf.jpg"
 headline: true
 featured: true
 imported: true

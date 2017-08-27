@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Discovering how dogs were domesticated
 date: "2011-02-03 20:07:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032006-ks607-dogdogdo.jpg"
 headline: true
 featured: true
 imported: true

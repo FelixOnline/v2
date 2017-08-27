@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten reflects on student satisfaction at Imperial following the release of the National Student Survey results last week.
 date: "2013-08-17 18:33:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201308190610-jal08-66355719.png"
 image_caption: "Are our students really more satisfied?"
 headline: true
 featured: true

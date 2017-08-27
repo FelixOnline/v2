@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It might not go on your CV, but here's my advice on an invaluable life skill
 date: "2016-06-17 08:55:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171054-felix-DJ-Makes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171054-felix-DJ-Makes.jpg"
 image_caption: "These guys don't want Simon & Garfunkel."
 headline: true
 featured: true

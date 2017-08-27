@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A demonic doll scores low with Felix Film
 date: "2014-11-10 21:43:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102143-ps3110-annabelle-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102143-ps3110-annabelle-cmyk.jpg"
 headline: true
 featured: true
 imported: true

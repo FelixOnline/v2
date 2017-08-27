@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As rumours of Givenchy designer Riccardo Tisci as successor to the Dior throne grow, the industry reminisces about Galliano’s legacy
 date: "2011-03-10 20:38:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102033-nm1010-diordior.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102033-nm1010-diordior.jpg"
 headline: true
 featured: true
 imported: true

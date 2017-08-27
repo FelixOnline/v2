@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng explores what Somerset House’s newest exhibition can offer
 date: "2015-01-31 18:56:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311857-ff712-rsz_28_mapping_the_city_at_somerset_house_augustine_kofie_overcast_angeles_2014.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311857-ff712-rsz_28_mapping_the_city_at_somerset_house_augustine_kofie_overcast_angeles_2014.jpg"
 image_caption: "Augustine Kofie, Overcast Angeles, 2014."
 headline: true
 featured: true

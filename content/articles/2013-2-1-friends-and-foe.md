@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fiona Cameron reports on the Imperial vs RSM battles
 date: "2013-02-01 00:28:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010028-tna08-hockey1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010028-tna08-hockey1.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ We had a slightly late start as we needed to allow time for the force of the RSM
 
 The first half began with both teams well-matched, and plenty of attempts on goal coming from both sides. After a bit of a tussle, Rooster managed to net the first goal of the match for IC. This gained a slight momentum shift for IC as another one. This time pressure from IC resulted in a RSM own goal by the surprisingly fully clothed Matt Webb! This was unlucky but he is now the RSM mixed top goal scorer. This led to a 2-0 advantage for IC at the end of the first half.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302010028-tna08-hockey3.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302010028-tna08-hockey3.jpg" title="" caption="" attr="" >}}
 
 Then came the opportunity for RSM to show that though they were losing the hockey match, their more experienced social life gave them an advantage for the half-time entertainment: the boat race. Unfortunately IC already started with a disadvantage due to their choice of beverage. Though IC valiantly tried their best, RSM won the race almost a whole person ahead with fire in their bellies and having rehydrated the RSM started the second half with renewed confidence.
 

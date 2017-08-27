@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Looking at the release of a long awaited game.
 date: "2014-01-15 16:46:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201401151645-me1711-games_dayz.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401151645-me1711-games_dayz.jpeg"
 headline: true
 featured: true
 imported: true

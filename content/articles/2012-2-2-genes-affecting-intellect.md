@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Your academic success could be down to your genes
 date: "2012-02-02 19:34:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
 image_caption: "We're all guilty of pulling all nighters..."
 headline: true
 featured: true

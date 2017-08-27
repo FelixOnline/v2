@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa reminisces about the Student Publication Association National Conference
 date: "2014-05-09 02:03:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
 headline: true
 featured: true
 imported: true

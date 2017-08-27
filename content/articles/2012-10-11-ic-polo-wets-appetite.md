@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Savell, Riding and Polo chair reports
 date: "2012-10-11 21:24:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112223-csw09-img_8323small.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112223-csw09-img_8323small.jpg"
 image_caption: "Image courtesy of edphillipsimages.com"
 headline: true
 featured: true

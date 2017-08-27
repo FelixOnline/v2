@@ -4,7 +4,7 @@ title: >
 subtitle: >
   True random numbers generated from laser light
 date: "2011-12-08 20:54:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
 image_caption: "The Diffie-Hellman Key Exchange system relies on random numbers"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gregory Power wishes you a fond farewell
 date: "2011-06-28 11:21:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281221-felix-kengore.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281221-felix-kengore.jpg"
 headline: true
 featured: true
 imported: true

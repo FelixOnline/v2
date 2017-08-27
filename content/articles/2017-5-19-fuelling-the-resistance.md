@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Naomi Pratt addresses the global struggle against extractivism
 date: "2017-05-19 15:03:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
 headline: true
 featured: true
 imported: true

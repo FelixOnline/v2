@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Large scale study to test mental agility confirms that the same risk factors involved in cardiovascular health problems is also involved in impaired cognitive function
 date: "2012-12-07 01:32:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
 headline: true
 featured: true
 imported: true

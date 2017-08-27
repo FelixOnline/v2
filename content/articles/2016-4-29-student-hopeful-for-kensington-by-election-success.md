@@ -4,7 +4,7 @@ title: >
 subtitle: >
   University Challenge star is running to become a councillor
 date: "2016-04-29 10:00:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291059-felix-6997132774_62093dae36_k.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291059-felix-6997132774_62093dae36_k.jpg"
 image_caption: "Democracy."
 headline: true
 featured: true

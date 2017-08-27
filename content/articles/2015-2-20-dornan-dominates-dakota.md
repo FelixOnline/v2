@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix gets down and dirty with 50 Shades of Grey
 date: "2015-02-20 17:01:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
 headline: true
 featured: true
 imported: true

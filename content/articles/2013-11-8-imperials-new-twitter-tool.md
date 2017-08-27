@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A group of academics at Imperial have created a tool that is able to rank the most influential speakers on any topic.
 date: "2013-11-08 03:38:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
 image_caption: "How influential is Imperial?"
 headline: true
 featured: true

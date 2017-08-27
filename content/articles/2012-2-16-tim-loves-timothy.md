@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah discusses the five-decade-spanning James Bond series
 date: "2012-02-16 20:59:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
 image_caption: "Look at those blue eyes... swoon..."
 headline: true
 featured: true

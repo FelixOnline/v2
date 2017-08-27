@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
 headline: true
 featured: true
 imported: true

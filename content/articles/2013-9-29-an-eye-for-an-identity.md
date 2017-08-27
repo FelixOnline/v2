@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles investigates the new Designers in Residence
 date: "2013-09-29 14:33:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291533-tna08-artsrouter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291533-tna08-artsrouter.jpg"
 image_caption: "Thomas Thwaites created “Nabu” - An intelligent internet router that tracks and censors web traffic."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fly-on-the-wall documentary shows true colours of the state system
 date: "2011-10-21 10:40:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211139-ak6309-8dc1e46a-10d8-44fb-a0b2-4c81a19c690c_625x352.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211139-ak6309-8dc1e46a-10d8-44fb-a0b2-4c81a19c690c_625x352.jpg"
 image_caption: "The standard Essex scene"
 headline: true
 featured: true

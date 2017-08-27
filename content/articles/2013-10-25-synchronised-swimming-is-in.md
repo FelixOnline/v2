@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Welcome to IC Synchronised Swimming!
 date: "2013-10-25 01:20:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250220-felix-natsynchro-101.jpg"
 headline: true
 featured: true
 imported: true

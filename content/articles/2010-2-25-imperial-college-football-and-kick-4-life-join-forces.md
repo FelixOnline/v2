@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charity fundraiser helps out HIV victims in Southern Africa
 date: "2010-02-25 18:39:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251838-mb506-Kick4Lif.jpg"
 headline: true
 featured: true
 imported: true

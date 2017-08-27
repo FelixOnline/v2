@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Marie-Laure Hicks fills you in on what's been going on
 date: "2013-05-23 22:12:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232312-tna08-obama-huffington-post.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232312-tna08-obama-huffington-post.jpg"
 headline: true
 featured: true
 imported: true

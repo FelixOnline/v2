@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer on the new procedure performed at Imperial
 date: "2015-01-23 17:46:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
 image_caption: "Hammersmith hospital: Two patients received tissues from the donor, a baby girl who died six days after birth"
 headline: true
 featured: true

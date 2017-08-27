@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park patrols the cinema, and finds a gem in End of Watch
 date: "2012-11-23 00:35:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230035-tna08-120923-end-of-watch-600-1348425270.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230035-tna08-120923-end-of-watch-600-1348425270.jpg"
 headline: true
 featured: true
 imported: true

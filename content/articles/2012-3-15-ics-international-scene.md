@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union policies threaten the Overseas Societies Committee
 date: "2012-03-15 22:25:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152225-pk1811-london-fireworks_1515810c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152225-pk1811-london-fireworks_1515810c.jpg"
 image_caption: "Does the international scene need to reach explosive new heights?"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Musical Theatre Society rehearse and perform Ben Elton’s smash hit in only 24 hours
 date: "2011-05-12 19:11:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105122012-felix-img_3768.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucy McGregor think things were better when she was younger. Herumph.
 date: "2013-02-13 14:43:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131439-tna08-angels.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131439-tna08-angels.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,6 +32,6 @@ So far, so generic – but what lifts Griffin’s book above its genre is the ex
 
 The book has flaws, of course. The changes of perspective between Swift and the angels can be confusing, as can the terse, often unattributed dialogue, and some characters don’t receive enough fleshing out, like apprentice sorcerer Dana Mikeda – what’s she up to anyway, and why do we even care? But the book rises above all this, becoming a delight to read through the evident fascination and wonder Griffin finds in her story. Above everything else, A Madness of Angels is full of pure joy.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302131443-tna08-picocon.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302131443-tna08-picocon.jpg" title="" caption="" attr="" >}}
 
 _Kate Griffin is a pen name used by the twice Carnegie-nominated fantasy author Catherine Webb for her adult fiction. She will be at Imperial College for Picocon 30 on the weekend of February 16-17. As one of the Guests of Honour he will give an individual talk and participate in the main panel with Steph Swainston, Richard Morgan, Peter F. Hamilton and Jaine Fenn. For more information, and to register your attendance, visit icsf.org.uk/picocon _

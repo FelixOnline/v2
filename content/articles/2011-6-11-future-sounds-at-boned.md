@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Greg Power talks to Becoming Real about his music, collaborations, future projects and Samurai movies in anticipation of his headlining set at BONED tonight
 date: "2011-06-11 17:35:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201106111837-felix-becoming-real.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106111837-felix-becoming-real.jpg"
 headline: true
 featured: true
 imported: true

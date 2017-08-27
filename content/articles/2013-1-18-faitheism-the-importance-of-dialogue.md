@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton gets influenced by the only book to ever make him cry
 date: "2013-01-18 00:31:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180135-tna08-book-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180135-tna08-book-cover.jpg"
 headline: true
 featured: true
 imported: true

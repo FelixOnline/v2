@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto prophesies the End Times with Music Tech
 date: "2011-11-17 21:31:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172130-pk1811-music-tech-article.jpg"
 image_caption: "Oh no!"
 headline: true
 featured: true

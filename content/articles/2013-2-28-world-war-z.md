@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl looks at an unusual depiction of the zombie story
 date: "2013-02-28 18:04:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302281804-txl11-worldwarz.jpg"
 headline: true
 featured: true
 imported: true

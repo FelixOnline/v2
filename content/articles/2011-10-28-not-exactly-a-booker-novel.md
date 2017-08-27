@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Carr on the shortcomings of this year's Man Booker prize winner
 date: "2011-10-28 09:33:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281033-felix-1018_barnes.jpg"
 image_caption: "Julian Barnes – master of the extended essay?"
 headline: true
 featured: true

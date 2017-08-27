@@ -4,7 +4,7 @@ title: >
 subtitle: >
   RAG drops Imperial Rugby from their Nude Calendar after Rugby made the national press.
 date: "2014-11-06 22:09:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062209-snb11-dsc_0008.jpg"
 image_caption: "Taken from the Rugby Centrefold in Issue 1583 "
 headline: true
 featured: true

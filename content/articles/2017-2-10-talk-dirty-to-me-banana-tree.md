@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shanzeh embarks on an Indonesian food trip for an amazing price and, on top of that near college, not eating but rather experiencing a whole spectrum of flavours and making memories
 date: "2017-02-10 16:10:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101610-felix-Picture13.png"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ From the minute we walked in the staff were very welcoming and sat us at a spaci
 
 Ordering took about 20 minutes, because there was just so much choice! Our waitress brought us five different menus: main menu, vegetarian menu, drinks menu, desserts menu, specials menu, and on the menus themselves there were symbols identifying if dishes are vegan, vegan but with eggs, gluten free, halal, recommended, spiciness levels, etc. After I attempted to decipher these hieroglyphics, read all the menus, and remember everything, I just asked the waitress for help. She had knowledge, which was good because it’s such a let-down if the staff do not know about the food themselves.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101610-felix-Picture12.png" title="ooh yeah baby" caption="ooh yeah baby" attr="Shanzeh Khurshid" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101610-felix-Picture12.png" title="ooh yeah baby" caption="ooh yeah baby" attr="Shanzeh Khurshid" >}}
 
 ## Da food
 For starters we got duck and vegan spring rolls, sesame crackers, and crispy street style dough with a satay sauce. The spring rolls each came with different sauces which complemented their insides. They were cooked well, hot on the inside, crispy on the outside. Standard spring rolls. The sesame crackers tasted a bit like stale bread with the texture of a cracker. I didn’t like them much because I prefer prawn crackers. But if you’re vegetarian, like my friend who shot-gunned the last one, I feel like you’ll like them a lot. The dough was interesting. It wasn’t really crispy, more chewy. The sweet satay sauce made it taste more like a dessert than a starter. It definitely felt like street food, and was kind of like I was eating Indonesian churros.

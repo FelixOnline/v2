@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on netball’s continued success
 date: "2012-12-07 03:15:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070312-tna08-netball1.jpg"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ In the third quarter the team really did start to shine. Nancy Edge provided som
 ## IC 2s vs RHUL 3s
 On Monday IC 2nds took on RHUL 3rds away, and it truly was away. A tube, two trains and a 12 minute walk later we arrived. Funny that this was a LUSL game for London Universities and we were playing in Kent somewhere, needless to say we were very unimpressed. With freezing cold temperatures and only 7 players, we weren’t exactly excited about the next hour.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070314-tna08-netball-web2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070314-tna08-netball-web2.jpg" title="" caption="" attr="" >}}
 
 The first quarter started out slowly with the cold clearly taking its toll on everyone’s brain function, neither IC nor RHUL had anything much to shout about. We started to pull away capitalising on RHUL mistakes, thanks to some fantastic interceptionsfrom, smallest player on the team, Emily Rolfe. It was clear that our new “fling a limb” tactic was working, with IC arms flailing everywhere we were making it difficult for RHUL to string together any significant number of passes.
 
@@ -47,7 +47,7 @@ It was the final quarter and RHUL had just been promised Nando’s by their coac
 ## IC 3s vs KCL 3s
 The day started off eventfully, with snow delaying all trains to Egham. When we arrived with 7 players, already at a disadvantage, crossing our fingers there would be no other incidents, two of our players were told they couldn’t play because of piercings that needed to be taken out. According to said players these piercings were ‘impossible’ to take out. ‘You need pliers’ ‘you can push it through my ear’ ‘someone just pull it out’ ‘there’s blood’. After multiple attempts we managed, as a team, to remove all earrings and play commenced as the clock struck 3, with the Sun blinding players eyes even in the freezing conditions.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201212070313-tna08-netball2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201212070313-tna08-netball2.jpg" title="" caption="" attr="" >}}
 
 The first quarter started off eventfully with some strong interceptions from new player Kirstin and some good shooting from Izzie. The score at the end of the quarter didn’t reflect the level of competition with them leading 13-8. In the second quarter, the slippy court and an over zealous shooter got the best of Laura, and she went tumbling slamming her knee into the cement, which could be heard from the other side of the court. Play stopped and she was carried by 6 people, including both umpires, off the court. She managed to bandage herself up (what do medics need 6 years for?) and play continued with only 6 players. Two goals were scored in quick succession, showing RHUL that we were a force to be reckoned with. That quarter ended with RHUL 21-14.
 

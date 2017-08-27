@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Dudley shoots for the stars
 date: "2013-03-07 21:48:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072148-jal08-dsc_0715-2.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fingers crossed for a vote against
 date: "2011-10-14 00:20:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140119-sjw209-stephen-small.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140119-sjw209-stephen-small.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
 headline: true
 featured: true
 imported: true

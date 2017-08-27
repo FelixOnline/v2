@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There crème de la crème of the online fashion community is at your fingertips
 date: "2011-11-10 22:09:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102209-felix-6a00e5508e95a98833015436ab5821970c-700wi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102209-felix-6a00e5508e95a98833015436ab5821970c-700wi.jpg"
 image_caption: "Susanna Lau "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the final instalment of the Sabb interview series, Bernadett Tildy talks Tinder, “Lad Culture” and the Imperial Ratio
 date: "2014-11-14 20:46:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
 headline: true
 featured: true
 imported: true

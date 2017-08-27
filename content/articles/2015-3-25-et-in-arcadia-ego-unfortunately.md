@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman is less than entranced by Stoppard’s classic drama
 date: "2015-03-25 12:55:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
 image_caption: "Tom Stoppard, the writer of Arcadia"
 headline: true
 featured: true

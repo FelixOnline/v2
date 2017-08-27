@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Franzen is an arse, but damn, he's a good writer
 date: "2012-10-11 20:30:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
 headline: true
 featured: true
 imported: true

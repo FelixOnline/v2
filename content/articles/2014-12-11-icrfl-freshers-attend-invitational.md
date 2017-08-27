@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A nice trip to Cambridge for Imperial College Rugby League
 date: "2014-12-11 23:37:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112337-cj914-rfl.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112337-cj914-rfl.png"
 headline: true
 featured: true
 imported: true

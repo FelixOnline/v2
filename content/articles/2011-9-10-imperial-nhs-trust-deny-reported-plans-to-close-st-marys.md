@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Trust 'furious' over reports suggesting site closures at Paddington and Charing Cross Hospital
 date: "2011-09-10 15:40:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201109101650-felix-st_mary_s.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201109101650-felix-st_mary_s.jpg"
 image_caption: "St Mary's Hospital, located in Paddington"
 headline: true
 featured: true

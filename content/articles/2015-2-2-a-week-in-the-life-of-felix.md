@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt investigates the daily life of the student newspaper.
 date: "2015-02-02 14:25:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
 image_caption: "Scenes from a newsroom's mind."
 headline: true
 featured: true

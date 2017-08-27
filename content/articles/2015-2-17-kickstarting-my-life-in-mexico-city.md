@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aditya Narayanan discuss the arts and footballs in this dynamic capital as a new home
 date: "2015-02-17 19:15:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
 headline: true
 featured: true
 imported: true

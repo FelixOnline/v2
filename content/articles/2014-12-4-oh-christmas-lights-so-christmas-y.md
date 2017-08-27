@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Discover the local spotlights of London’s Christmas suit with Yung Nam Cheah
 date: "2014-12-04 19:05:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041905-cj914-p1060362-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041905-cj914-p1060362-copy.jpg"
 image_caption: "Decorated Oxford Street looking ever so Christmassy"
 headline: true
 featured: true

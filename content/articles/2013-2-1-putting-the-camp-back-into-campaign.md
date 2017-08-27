@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas mince along to the Michael Grandage Company’s opening show
 date: "2013-02-01 00:11:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
 image_caption: "Sam Swainsbury (L) and Joseph Timms (R)"
 headline: true
 featured: true

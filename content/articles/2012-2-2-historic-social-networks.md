@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The concept of social networking is not as modern as you may think.
 date: "2012-02-02 19:23:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202021921-ams111-facebook.jpg"
 image_caption: "A map of social connectivity"
 headline: true
 featured: true

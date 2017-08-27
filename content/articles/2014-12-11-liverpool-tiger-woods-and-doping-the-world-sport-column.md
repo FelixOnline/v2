@@ -4,7 +4,7 @@ title: >
 subtitle: >
   For the last time in 2014, Kunal Wagle rounds up the week's sport news
 date: "2014-12-11 23:41:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112341-cj914-200501.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112341-cj914-200501.jpg"
 headline: true
 featured: true
 imported: true

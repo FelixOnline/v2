@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pinheads like bowling... Jessica Chan reports on their latest exploits
 date: "2012-12-07 03:08:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070308-tna08-bowling1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070308-tna08-bowling1.jpg"
 headline: true
 featured: true
 imported: true

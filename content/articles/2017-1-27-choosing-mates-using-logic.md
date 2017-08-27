@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how fruit flies have been found to use logical reasoning when choosing partners
 date: "2017-01-27 16:34:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271634-felix-fruit-fly7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271634-felix-fruit-fly7.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The pressures of harder exams take their toll on a brave IC team. Jayanth Ganapthy reports
 date: "2013-06-13 22:22:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132322-tna08-eng.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132322-tna08-eng.jpg"
 headline: true
 featured: true
 imported: true

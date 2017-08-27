@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Microtransactions and DLC: a bright idea or a big mistake? Laurence Pope decides
 date: "2011-10-21 10:28:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211559-sjw209-lil_saxton.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211559-sjw209-lil_saxton.jpg"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ In all fairness Valve has managed to implement microtransactions and distribute 
 The _TF2_ ‘store’ was implemented remarkably well, however. All weapons and most cosmetic items are findable in-game through a random drop system, craftable through another menu, and there’s even an in-game trading/ bartering system so technically one doesn’t have to use the store to gain an advantage. In practice though weapons are a little harder to come by, but the point still stands – no money has to be spent in order to find everything that has any significant impact in battles. It’s by no means perfect, but Gabe Newell and the _TF2_ team have yet to go down the [Bobby Kotick route](http://en.wikipedia.org/wiki/Robert_Kotick#Controversy).
  To give Valve extra credit, not all the money they earn stays with them. Valve introduced a scheme allowing modellers and mappers to submit their weapons, cosmetic items and maps to them. The best ones get implemented into the game, and 25% of the proceeds go to their creators. Big bucks can and have been made – after one update, one creator received a cheque for – wait for it – $47,000. If that’s not rewarding one’s fans, I don’t know what is.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110211557-sjw209-b2-dlc_09.jpg" title="" caption="" attr="Not as great as if first looks Credit: PlatformNation.co.uk" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110211557-sjw209-b2-dlc_09.jpg" title="" caption="" attr="Not as great as if first looks Credit: PlatformNation.co.uk" >}}
 
 Now that’s enough about a half-decent way to implement DLC and micro transactions. The immediate case that springs to mind regarding a poor (read: disgusting) way to do DLC is neatly illustrated by _Bioshock 2_. The problem? After the first ‘DLC download’ was released, it was discovered that the content delivered [had actually been on the disc the whole time](http://www.gamedot.co.uk/2010/03/12/bioshock-dlc-already-on-the-disk/). The DLC download was not content – it was a key. You had already bought the extra content 2K were charging you for.
 

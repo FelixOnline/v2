@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
 image_caption: "Maud Wagner, the first known female tattooist in the US 1911."
 headline: true
 featured: true

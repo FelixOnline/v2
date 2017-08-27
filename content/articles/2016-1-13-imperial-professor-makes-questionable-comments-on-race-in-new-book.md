@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601131441-felix-lamb.jpg"
 image_caption: "Dr Lamb has previously written books on Genetics and the Queen's English"
 headline: true
 featured: true

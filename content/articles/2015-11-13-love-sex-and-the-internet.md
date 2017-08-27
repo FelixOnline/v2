@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nina Freeman’s Cibele is a deeply personal vignette exploring the awkward sensuality of online relationships in your teens
 date: "2015-11-13 14:52:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131450-cet13-cibele3.png"
 image_caption: "Nina Freeman easily wins the award for coolest hair in the gaming industry. "
 headline: true
 featured: true

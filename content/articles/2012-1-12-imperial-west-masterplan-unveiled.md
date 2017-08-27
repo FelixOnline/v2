@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Proposals include 34-storey residential tower to be built at Wood Lane
 date: "2012-01-12 22:32:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122231-felix-01141_imperial_vbuilddbase_2011-11-15_a_full.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122231-felix-01141_imperial_vbuilddbase_2011-11-15_a_full.jpg"
 image_caption: "Imperial West will provide accommodation from autumn 2012"
 headline: true
 featured: true

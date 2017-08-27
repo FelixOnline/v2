@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Jack Vance’s highly influencial series set far in the future on a dying planet Earth
 date: "2014-03-26 13:28:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201403261328-jal08-thedyingearth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403261328-jal08-thedyingearth.jpg"
 headline: true
 featured: true
 imported: true

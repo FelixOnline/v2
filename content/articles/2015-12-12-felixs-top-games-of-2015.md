@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Four games you have to play before 2016
 date: "2015-12-12 16:02:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512151436-cet13-201512121612-cet13-games.png"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ highlights:
 
 ## 4. Rocket League
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512121548-cet13-rocketleague.gif" title="" caption="" attr="Tumblr" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512121548-cet13-rocketleague.gif" title="" caption="" attr="Tumblr" >}}
 
 Rocket League is the sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars, a name which, while a bit of a mouthful, is a fairly accurate description of both games. It’s essentially a football game, but with cars. Obviously, cars don’t have feet so they couldn’t call it that (although that doesn’t stop Americans from misusing the term).
 
@@ -41,7 +41,7 @@ The thrill of speeding from one end of the pitch to the other is unlike anything
 This holiday don’t ask for Fifa and put Rocket League on your wish list instead.
 ## 3. Splatoon
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512121554-cet13-splatoongif.gif" title="" caption="" attr="Tumblr" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512121554-cet13-splatoongif.gif" title="" caption="" attr="Tumblr" >}}
 
 Nintendo created one of the greatest first-person shooters of all time when they released Metroid Prime for the GameCube in 2002. However, since the people have rarely associated Nintendo with the genre. In 2015, with Splatoon they innovate yet again, producing a third-person shooter that attempts to redefine what a competitive shooter can be.
 
@@ -54,7 +54,7 @@ At first, the game’s art style will probably remind you of an awful nineties c
 The only problem is that you’ll have to buy a Wii U to play it.
 ## 2. Metal Gear Solid V: The Phantom Pain
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512121600-cet13-metalgeargif.gif" title="" caption="" attr="Tumblr" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512121600-cet13-metalgeargif.gif" title="" caption="" attr="Tumblr" >}}
 
 A major complaint with the Metal Gear Solid franchise has always been that it relies too heavily on drawn-out cutscenes and a nonsensical plot. Luckily, The Phantom Pain is largely devoid of the problems that plagued the series’ past, and as a result Kojima has created arguably his greatest game yet.
 
@@ -65,7 +65,7 @@ Whether in Afghanistan or Angola-Zaire, it’s incredibly satisfying to quietly 
 The Phantom Pain is what all future open-world games should aspire to be: responsive, lifelike, and beautifully rendered. Kojima, take a bow.
 ## 1. Undertale
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512121615-cet13-undertalegif4.gif" title="" caption="" attr="Tumblr" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512121615-cet13-undertalegif4.gif" title="" caption="" attr="Tumblr" >}}
 
 In videogames, the act of killing is almost universally rewarded; yet, in reality there is no worse crime one can commit. There are many games, particularly when stealth is involved, where entirely pacifist playthroughs are possible (although this rarely beneficial to the player). Undertale gives a certain humanity to its enemies through its humour and charm. It doesn’t actively encourage you to spare those you encounter, but I’ve never felt worse murdering something digitally before.
 

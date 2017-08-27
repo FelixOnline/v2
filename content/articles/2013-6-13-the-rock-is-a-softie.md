@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Snitch review
 date: "2013-06-13 23:35:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
 image_caption: "What does that title say? Say that to my face"
 headline: true
 featured: true
@@ -32,7 +32,7 @@ Perhaps The Rock could be seen as a bit of a miscast here – anyone who messes 
 
 Essentially the message that is repeatedly used throughout is the fact that fathers are willing to do anything for the benefit of their families. And we see several examples of fathers doing whatever is necessary – the most obvious one here is John, Daniel also has a son and wife to support, the same goes for the drug kingpin they’re trying to take down, Juan Carlos “El Topo” Pintera (a very well-cast Benjamin Bratt). Very little time is spent on Pintera, the antagonist, and it’s all about the “good” guys put in impossible situations, getting in way over their heads.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-image-03.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140035-tna08-snitch-image-03.jpg" title="" caption="" attr="" >}}
 
 There are tonal inconsistencies largely due to the film not quite being able to balance the thriller side to the more grounded drama aspect. It’s better in giving us the tense excitement even with a relatively tight budget – the inevitable final highway chase involving a shootout is on a small scale, with very little gimmick and yet is able to deliver some quality action. The many stand-offs between the good guys and bad also have effective input in working towards a climax, more so since we’ve already seen just how vulnerable John is in this unpredictable criminal world.
 

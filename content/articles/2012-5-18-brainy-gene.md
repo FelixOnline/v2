@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Genetic component of brain development uncovered
 date: "2012-05-18 11:18:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
 image_caption: "A pyrimidal neuron and dendrites"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Daniel Ogbonna shares the many highs and lows of adjusting to London culture
 date: "2016-10-21 10:25:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
 image_caption: "Writer, Daniel Ogbonna"
 headline: true
 featured: true

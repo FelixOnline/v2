@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson’s epic three day hike up Lombok’s beastly volcano
 date: "2015-01-23 19:07:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
 image_caption: "An extra day brings you to the gorgeous lakeside completened with hot spring"
 headline: true
 featured: true

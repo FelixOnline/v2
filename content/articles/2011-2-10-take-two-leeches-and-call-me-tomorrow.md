@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102025-ks607-leechese.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students in halls saving energy
 date: "2011-01-27 18:31:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271828-ks607-students.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271828-ks607-students.jpg"
 headline: true
 featured: true
 imported: true

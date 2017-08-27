@@ -4,7 +4,7 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151349-cj914-sitting.png"
 image_caption: "GoPros abound as José and some friends take a much needed break."
 headline: true
 featured: true

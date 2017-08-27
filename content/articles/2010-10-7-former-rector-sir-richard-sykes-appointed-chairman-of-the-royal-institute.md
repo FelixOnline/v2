@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Royal Institute selects former Imperial Rector as new Chair of its Council
 date: "2010-10-07 22:41:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
 headline: true
 featured: true
 imported: true

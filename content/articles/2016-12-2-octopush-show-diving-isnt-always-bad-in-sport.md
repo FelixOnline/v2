@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hint: we're talking underwater hockey
 date: "2016-12-02 16:51:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021650-felix-octopush 2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021650-felix-octopush 2.jpg"
 headline: true
 featured: true
 imported: true

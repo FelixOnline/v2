@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Complaint that Kendall intimidated student not upheld
 date: "2011-06-16 19:00:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106161958-felix-img.jpg"
 image_caption: "Court Chair Hamish Common (left) ruled that Kendall had not acted inappropriately"
 headline: true
 featured: true

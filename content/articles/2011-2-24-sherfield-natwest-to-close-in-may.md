@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Concerns raised about impact on international students
 date: "2011-02-24 19:40:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241938-ks607-natwestn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241938-ks607-natwestn.jpg"
 image_caption: "NatWest declined to comment"
 headline: true
 featured: true

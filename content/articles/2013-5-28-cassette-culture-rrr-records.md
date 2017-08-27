@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi talks to Ron Lessard, head of seminal noise label RRR
 date: "2013-05-28 14:42:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
 headline: true
 featured: true
 imported: true
@@ -51,7 +51,7 @@ I no longer ask the artist to make their master based on recycling/remixing – 
 
 There was a time when the noise scene didn’t exist, everyone was unloved and unaccomplished – but when we found each other, we knew we had to support each other – now the noise scene exists but it sill has the unloved and unaccomplished – they get my full support, I remember what it was like when no one cared.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305281542-tna08-recycled-tapes.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305281542-tna08-recycled-tapes.jpg" title="" caption="" attr="" >}}
 
 RA: How do you feel the noise scene has evolved since the beginning and is it for better or for worse?
 

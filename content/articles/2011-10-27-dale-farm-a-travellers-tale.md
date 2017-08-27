@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
 image_caption: "Is nobody going to comment on the great tiling of the street? "
 headline: true
 featured: true

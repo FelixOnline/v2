@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
 image_caption: "It probably won't look like this"
 headline: true
 featured: true

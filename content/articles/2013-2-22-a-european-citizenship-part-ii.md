@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Leonardo Ialongo discusses the value of European sovereignity in an increasingly competitive world
 date: "2013-02-22 01:53:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220153-tna08-europe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220153-tna08-europe.jpg"
 headline: true
 featured: true
 imported: true

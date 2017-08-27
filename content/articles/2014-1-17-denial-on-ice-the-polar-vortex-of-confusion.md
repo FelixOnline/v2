@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons.
 date: "2014-01-17 03:29:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170329-jal08-2_20140109_1367144925.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170329-jal08-2_20140109_1367144925.jpg"
 image_caption: "The Niagara Falls rendered stationary by the cold front of the Polar Vortex"
 headline: true
 featured: true

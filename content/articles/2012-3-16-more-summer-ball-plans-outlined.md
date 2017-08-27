@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tickets now on sale, greater emphasis on managing risk
 date: "2012-03-16 01:50:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201203160155-felix-screen-shot-2012-03-16-at-01.54.41.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203160155-felix-screen-shot-2012-03-16-at-01.54.41.png"
 headline: true
 featured: true
 imported: true

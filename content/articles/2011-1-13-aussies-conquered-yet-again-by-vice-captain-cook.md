@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Peter Swallow and Navin Surtani take a look at the winners & losers of the 2010/11 Ashes
 date: "2011-01-13 20:28:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132025-ks607-theashes.jpg"
 headline: true
 featured: true
 imported: true

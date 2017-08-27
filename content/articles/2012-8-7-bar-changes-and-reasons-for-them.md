@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stefan Nubert, Deputy President (Finance & Services) explains the changes and reasons for them.
 date: "2012-08-07 20:04:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201208072303-felix-stefan-white-background.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201208072303-felix-stefan-white-background.jpg"
 image_caption: "Stefan Nubert (got it right, YES!) Deputy President (Finance & Services)"
 headline: true
 featured: true

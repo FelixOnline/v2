@@ -4,7 +4,7 @@ title: >
 subtitle: >
   10 Imperial hurlers in Birmingham
 date: "2013-01-10 23:23:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
 image_caption: "Winning smiles all round"
 headline: true
 featured: true

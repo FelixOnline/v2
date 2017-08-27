@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An expat’s secret food indulgences unveiled courtesy of Aki Matsushima
 date: "2011-03-03 06:30:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030629-ks607-japenese.jpg"
 headline: true
 featured: true
 imported: true

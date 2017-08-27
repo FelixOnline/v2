@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
 image_caption: "Eat your frozen veggies kids."
 headline: true
 featured: true

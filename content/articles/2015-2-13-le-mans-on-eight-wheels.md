@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzie Campbell on IC Skate Soc's first speed skate training session.
 date: "2015-02-13 14:27:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
 image_caption: "IC Skate Soc warm up on the Serpentine"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riding and Polo heads to the Arena Polo Nationals
 date: "2011-03-25 15:14:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201103251630-jn104-Polowith.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103251630-jn104-Polowith.jpg"
 headline: true
 featured: true
 imported: true

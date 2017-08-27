@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students visit Liverpool and Manchester for a fun weekend away from London
 date: "2015-02-20 00:34:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
 headline: true
 featured: true
 imported: true

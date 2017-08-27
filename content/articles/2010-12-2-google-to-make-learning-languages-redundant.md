@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Google to make learning languages redundant?
 date: "2010-12-02 19:59:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201012021954-nm1010-language.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012021954-nm1010-language.jpg"
 headline: true
 featured: true
 imported: true

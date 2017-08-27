@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011261007-ks607-bluntjam.jpg"
 headline: true
 featured: true
 imported: true

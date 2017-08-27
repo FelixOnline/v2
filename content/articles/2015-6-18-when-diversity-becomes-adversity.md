@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
 image_caption: "Not everything about diversity is always inspiring and positive. It can be a scary and alienating experience."
 headline: true
 featured: true

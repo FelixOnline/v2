@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Cronshaw talks to Formula 1 engineer Dirk DeBeer about all things motorsport
 date: "2011-10-27 23:39:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
 image_caption: "Lotus test their 2011 car in Cambridgeshire"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Owen Leech on why we should all hit hot metal with hammers
 date: "2014-12-11 21:26:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112126-cj914-blacksmith.jpg"
 image_caption: "This is basically blacksmithing. We promise."
 headline: true
 featured: true

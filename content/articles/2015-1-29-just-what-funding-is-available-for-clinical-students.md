@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What grants and loans are medical students entitled to?
 date: "2015-01-29 23:55:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
 image_caption: "Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl eats shoots and leaves
 date: "2012-11-01 22:54:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012253-tna08-originalrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012253-tna08-originalrgb.jpg"
 headline: true
 featured: true
 imported: true
@@ -38,7 +38,7 @@ However I did do the dungeons, which not only helped me gain XP that much faster
 
 Now about the new class. When Blizzard first announced that a new panda race would be introduced, most critics laughed about this decision.I however applaud it, as not only are the
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211012253-tna08-pandaren-conceptrgb.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211012253-tna08-pandaren-conceptrgb.jpg" title="" caption="" attr="" >}}
 
 Pandaren ass-kicking cool, they also provide some comic relief for all those of us who take ourselves too seriously (myself included). They come in multiple varieties and colours, with the females even getting a tail. They have several abilities having to do with cooking, which will probably be nerfed in the next update as right now it’s overpowered. Also for all those wanting to start a new Pandaren char, you get a bonus on your rested XP and this makes levelling quite a bit more efficient. The biggest thing with the Pandaren race is the fact that you can choose to be an ally or a horde. Now that is deep, think about it, you have the choice to become an amazing ally or a horrible horde. Seriously now though, it is quite cool as this means that you can see pandas on both sides of the war!
 

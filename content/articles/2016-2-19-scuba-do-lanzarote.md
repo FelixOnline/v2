@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Night dives, skinny dipping and sangria
 date: "2016-02-19 12:27:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191226-felix-CuttleJo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191226-felix-CuttleJo.jpg"
 image_caption: "ICUC on some Finding Nemo hype."
 headline: true
 featured: true

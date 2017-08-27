@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bond is most definitely back
 date: "2012-11-01 23:00:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012259-tna08-skyfall-still06.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012259-tna08-skyfall-still06.jpg"
 headline: true
 featured: true
 imported: true

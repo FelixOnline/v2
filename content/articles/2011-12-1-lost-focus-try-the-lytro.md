@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Three lenses make for a smarter picture
 date: "2011-12-01 19:34:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
 headline: true
 featured: true
 imported: true

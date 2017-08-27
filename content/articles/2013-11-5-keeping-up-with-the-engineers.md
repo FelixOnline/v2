@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix catches up with the City & Guilds Union. We hear what they’ve been getting up to over the last few week and what we can expect for the future.
 date: "2013-11-05 09:49:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201311181818-cac111-1397483_560233020715380_1477261187_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311181818-cac111-1397483_560233020715380_1477261187_o.jpg"
 headline: true
 featured: true
 imported: true

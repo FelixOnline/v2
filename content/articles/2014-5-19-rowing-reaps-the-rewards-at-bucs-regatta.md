@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wilf Kimberley reviews the action as the men bring home the Victor Ludorum trophy, but the College miss out on the overall prize
 date: "2014-05-19 13:24:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191424-jal08-sport_rowing1.jpg"
 headline: true
 featured: true
 imported: true

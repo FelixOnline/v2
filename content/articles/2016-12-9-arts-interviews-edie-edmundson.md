@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Puppetry is having a bit of a renaissance at the moment thanks to shows like War Horse
 date: "2016-12-09 15:59:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201612121556-felix-TAN13418 (1)_captioned.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612121556-felix-TAN13418 (1)_captioned.jpg"
 headline: true
 featured: true
 imported: true

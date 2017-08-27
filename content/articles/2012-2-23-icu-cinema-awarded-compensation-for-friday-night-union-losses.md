@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232316-felix-photo-1.jpg"
 image_caption: "ICU Cinema operates out of the Union Concert Hall"
 headline: true
 featured: true

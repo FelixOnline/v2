@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anastasia Eleftheriou discusses this seemingly esoteric foodstuff
 date: "2012-02-16 21:48:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162147-ams111-lobster_rolls.jpg"
 image_caption: "Grilled, spaghetti or sushi? The choice is yours!"
 headline: true
 featured: true

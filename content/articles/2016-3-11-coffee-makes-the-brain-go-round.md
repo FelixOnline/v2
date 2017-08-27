@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What is the link between excessive coffee consumption and multiple sclerosis?
 date: "2016-03-11 11:37:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111137-felix-8189896503_377474128d_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111137-felix-8189896503_377474128d_o.jpg"
 image_caption: "Regardless of what coffee does or does not do, we love it and can’t live without it."
 headline: true
 featured: true

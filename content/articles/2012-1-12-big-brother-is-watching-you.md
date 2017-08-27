@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matt Allinson muses on the feasibility (or otherwise) of 24/7 surveillance in every aspect of our lives
 date: "2012-01-12 21:40:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122139-cac111-italian-police.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122139-cac111-italian-police.jpg"
 image_caption: "Italian police have guns, but more importantly, style and swagger"
 headline: true
 featured: true

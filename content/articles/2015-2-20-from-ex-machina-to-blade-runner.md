@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Masters explores the merits of Science Fiction
 date: "2015-02-20 16:40:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201640-ps3110-exmachina2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201640-ps3110-exmachina2.jpg"
 headline: true
 featured: true
 imported: true

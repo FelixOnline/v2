@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews Son of a Gun
 date: "2015-02-03 15:03:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031503-ps3110-son-of-a-gun-1-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031503-ps3110-son-of-a-gun-1-cmyk.jpg"
 headline: true
 featured: true
 imported: true

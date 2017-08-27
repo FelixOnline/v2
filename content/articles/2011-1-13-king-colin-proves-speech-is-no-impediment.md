@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201101131933-ks607-kingsspe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101131933-ks607-kingsspe.jpg"
 headline: true
 featured: true
 imported: true

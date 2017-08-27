@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In brief
 date: "2013-05-02 13:27:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201305021427-tna08-pic2-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305021427-tna08-pic2-2.jpg"
 headline: true
 featured: true
 imported: true

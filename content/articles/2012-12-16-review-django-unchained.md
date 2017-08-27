@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tarantino works his magic with this tale of revenge in the Deep South
 date: "2012-12-16 15:23:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
 image_caption: "Christoph Waltz as Schultz and Jamie Foxx as Django"
 headline: true
 featured: true

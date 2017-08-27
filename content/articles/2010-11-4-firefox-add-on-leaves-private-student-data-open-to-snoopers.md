@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041857-ma1307-fbstalki.jpg"
 image_caption: "FireSheep is a little more subtle than this..."
 headline: true
 featured: true

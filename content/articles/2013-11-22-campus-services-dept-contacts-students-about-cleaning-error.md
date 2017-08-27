@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Last week Felix reported on College Campus Services’ decisions to change the campus cleaning services during a re-tendering of the cleaning contract. It transpired that one of the department’s decisions...
 date: "2013-11-22 03:31:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201311241659-jal08-news_icu_bins.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311241659-jal08-news_icu_bins.png"
 headline: true
 featured: true
 imported: true

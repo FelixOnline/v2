@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
 date: "2010-10-28 19:45:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282042-ks607-Mudmadne.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282042-ks607-Mudmadne.jpg"
 image_caption: "Gotta be careful when you visit the elephants..."
 headline: true
 featured: true

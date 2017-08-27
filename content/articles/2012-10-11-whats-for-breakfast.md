@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Making missing the "most important meal of the day" a thing of the past
 date: "2012-10-11 21:19:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
 image_caption: "I’m going rogue and pouring LOADS of milk on the cereal"
 headline: true
 featured: true

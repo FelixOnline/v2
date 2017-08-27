@@ -4,7 +4,7 @@ title: >
 subtitle: >
   On the eve of the Ashes, in our new column we preview the series.
 date: "2013-11-19 18:31:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
 image_caption: "It's Clarke v Cook, take two"
 headline: true
 featured: true

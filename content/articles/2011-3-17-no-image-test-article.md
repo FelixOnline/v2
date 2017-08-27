@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No image test article
 date: "2011-03-17 20:23:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172057-ks607-small_oxford.jpg"
 draft: true
 headline: true
 featured: true
@@ -31,4 +31,4 @@ No image test articleNo image test articleNo image test article
 
 This is a test.....
 
-{{< figure src="http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg" title="" caption="" attr="Credit: flickr/andai" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201105200525-felix-kapow-coffee.jpg" title="" caption="" attr="Credit: flickr/andai" >}}

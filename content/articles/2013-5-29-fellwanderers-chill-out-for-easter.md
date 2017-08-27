@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fellwanderers Easter Tour to the Snowy Scottish Highlands
 date: "2013-05-29 15:42:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201305291643-tna08-155.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305291643-tna08-155.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ The Bothy (constructed ‘on a budget’ with solid stone walls and a meagre har
 
 Sunday morning we rose early munching granola and drinking tea, with a tantalising view of the snow capped An Tealach massif across the Loch basking in sun. We walked from the Bothy climbing the ridge immediately behind us which formed a peninsula spiking towards the Atlantic ocean. We summited both Cnoc a’ Bhaid-rallach (544m) and Beinn Ghobhlach (635m), escaping the harsh winds to enjoy a sandwich picnic huddled between some rocks. We strolled down to Scoraig Village, which is accessed by boat across the Loch (no road); some 50 people live there, with well-drawn water, electricity from windmills, and neat little houses where phone and TV signals do not reach… a real contrast to London. We wandered back around the coast to our new home for a slice of Hello Kitty cake and then a classic cheesy chorizo pasta meal with a few beers. There was a good sized table and chairs to eat around but we were a bit cosy with 15 squeezed in, though the comfy sofa and roaring fire kept us happy. After hot showers it was time for bed, where two sleeping bags was the only way to keep warm!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305291643-tna08-050-(1).jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305291643-tna08-050-(1).jpg" title="" caption="" attr="" >}}
 
 Monday we were hungry to enter the mountains, hiking from Camusnagul up to Glas Mheall Mor (979m Munro Top) with a snowy scramble to the summit, then epic views to the spikes of the Munros beyond. We crossed the valley before heading up Sail Mhor (767m) with panoramic views of the mountains behind and the islands and sea in front. Thai green stir-fry and cherry pie for dinner. Tuesday we journeyed inland to Iverlael Bridge (on A835) climbing the snowy ridge up to the white-out that was Eididh nan Clach Geala (927m Munro), slowly picking our way down the icy decent we had lunch by the frozen fords and then retreated down the valley via Loch an Chnapalch. A delicious beef curry with rice and naan was prepared at the bothy and much fun was had.
 

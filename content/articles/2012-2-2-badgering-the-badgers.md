@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Christopher Nichols on why we should save the badgers from culling
 date: "2012-02-02 19:29:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201202021928-ams111-badger-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202021928-ams111-badger-2.jpg"
 image_caption: "Don't kill them... I'll take them. I'll take them all!"
 headline: true
 featured: true

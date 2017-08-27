@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Witham reviews the independent café Greenfields
 date: "2013-02-22 03:02:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220302-tna08-green.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe looks at some great tats
 date: "2013-02-28 23:42:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302282342-tna08-tattoo.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ For Danzig Daldaev, tattoos shaped his life. He was born in Russia in 1925 and c
 
 Tattooing within prison was illegal and severely punishable but on discovery of Daldaev’s project, the KGB decided to support him in hiswork. His drawings provided them with an invaluable criminal record of a prisoner’s life history; everything from previous crimes, birthplace, aspirations and even sexuality could be found out from their tattoos.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302282342-tna08-drawing_34_jpg_460x690_q95.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302282342-tna08-drawing_34_jpg_460x690_q95.jpg" title="" caption="" attr="" >}}
 
 One example is of a winged woman dancing on a hand. The text reads ‘Oh, fickle fortune, smile on me once more’. It describes the thief’s desire to commit a single large-scale theft, which would allow him to give up his life of crime.
 
@@ -36,7 +36,7 @@ Running in parallel with Daldaev, between 1989 and 1993, was Sergei Vasiliev, br
 
 Walking around this exhibition I was drawn to the symbolism of the tattoos and questioning what they meant and why they were there. The mystery behind the portraits was what initially fascinated me and translating the illustrations emphasised howmuch the tattoos acted as a secret language in the Russian criminal underworld.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302282342-tna08-vasiliev-tattoo-print-no12.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302282342-tna08-vasiliev-tattoo-print-no12.jpg" title="" caption="" attr="" >}}
 
 If we look further into the picture of the ‘Man and the Cello’ we see tattoos of the ‘thieves’ stars’ which openly display resentment and bitterness towards authority and can be read as ‘I will not kneel before the police’. Furthermore the manacles on hisankles signify that he has served sentences of over five years. But what I found most striking was the juxtaposition between the sense of vulnerability and gentleness in his expression and the tattoos of the daggers through his neck, which symbolise that he had committed murder while imprisoned and is available to hire for further assassinations.
 

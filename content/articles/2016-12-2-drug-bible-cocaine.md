@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Now officially known as the Devil's Persil
 date: "2016-12-02 15:30:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201612021529-felix-Screen Shot 2016-12-02 at 15.29.30.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612021529-felix-Screen Shot 2016-12-02 at 15.29.30.png"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ Cocaine sold on the street is often mixed with absolute shite. In order to incre
 ## Legality
 The good news is that cocaine is a decriminalised substance in Portugal and Colombia. So if you fancy taking cocaine without fear of a criminal record that’s where you need to be heading. The bad news is that the UK is still very much stuck in the late 20th century (in the early 20th century you actually could buy cocaine from shops). Cocaine is a class A drug in the UK. This is the most serious classification. Being found in possession can result in a seven year prison sentence and a fine.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021527-felix-Screen Shot 2016-12-02 at 15.27.25.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021527-felix-Screen Shot 2016-12-02 at 15.27.25.png" title="" caption="" attr="" >}}
 
 ## Some statistics
 According to The Independent, “about one in 24 (4.2%) of people between 15 and 34 in the UK” admitted taking cocaine in the past twelve months. This means that Britain has the highest rate of cocaine use among young adults in Europe. With an EU average of 1.9% it’s no wonder we voted to leave. Europe can’t even keep up adequate levels of cocaine use. The same report also showed that nearly one in ten people in the UK aged from 15 to 64 had used cocaine at some point in their lives. So, if you’re struggling to find friends at Imperial College to share your rampant cocaine habit with, you are not alone.

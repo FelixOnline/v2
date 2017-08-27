@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Food Editor Michael Chung on food waste.
 date: "2013-10-25 01:04:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250205-felix-food_foodwaste.jpg"
 headline: true
 featured: true
 imported: true

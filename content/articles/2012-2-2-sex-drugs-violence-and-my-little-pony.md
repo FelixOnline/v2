@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Flynn gives us the lowdown from Ponyville, and proof that anything we get sent does actually get printed
 date: "2012-02-02 22:43:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022242-sjw209-ponieslad.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022242-sjw209-ponieslad.png"
 image_caption: "A still from the musical number ‘At the Gala’ from the episode ‘Best Night Ever’"
 headline: true
 featured: true

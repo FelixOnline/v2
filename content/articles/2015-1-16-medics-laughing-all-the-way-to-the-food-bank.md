@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Medics make substantial donation to local Hammersmith food bank
 date: "2015-01-16 13:08:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
 headline: true
 featured: true
 imported: true

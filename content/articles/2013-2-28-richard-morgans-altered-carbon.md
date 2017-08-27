@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Altered Carbon
 date: "2013-02-28 18:11:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302281811-txl11-altered-carbon.jpg"
 headline: true
 featured: true
 imported: true

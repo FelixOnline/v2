@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Outside the world top 200 but still inside our hearts
 date: "2016-11-18 17:07:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181707-felix-fencing.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181707-felix-fencing.JPG"
 headline: true
 featured: true
 imported: true

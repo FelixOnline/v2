@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Don Y Ma discusses the recent attack on democracy in Hong Kong
 date: "2016-11-18 14:35:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
 headline: true
 featured: true
 imported: true
@@ -38,7 +38,7 @@ Rita Fan, a pro-Beijing politician, stated that the Basic Law only guarantees ju
 “If the oath taken is determined as invalid, no arrangement shall be made for retaking the oath.”
 Supporters of the government insist that the NPCSC’s power to interpretation is written in the law, the interpretation has simply cleared up the misunderstandings regarding Article 104, and people with nothing to hide shouldn’t have to fear an interpretation. Additionally, they argue that opponents of the interpretation are doing so in support of the two legislators’ actions.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181434-felix-Screen Shot 2016-11-18 at 14.34.42.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181434-felix-Screen Shot 2016-11-18 at 14.34.42.png" title="" caption="" attr="" >}}
 
 But there’s the thing: I couldn’t give less of a fuck about those two idiots. This story has escalated far past the fate of Leung and Yau, whose political careers are without a doubt over. They picked a bad fight and are paying the consequences. This is about the Hong Kong government’s inability to uphold justice, rule of law, and separation of powers, which are core principles of a functioning democracy.
 

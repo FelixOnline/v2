@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles heads to the Barbican, where they are currently celebrating the work of Samuel Beckett, to watch Lessness and Waiting for Godot
 date: "2015-06-09 11:59:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506091256-ff712-02.jpg"
 image_caption: "Sydney Theatre Company, Waiting for Godot, Hugo Weaving, Philip Quast, Richard Roxburgh and Luke Mullins"
 headline: true
 featured: true

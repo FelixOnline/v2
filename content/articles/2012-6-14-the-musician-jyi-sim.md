@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Musician - Jyi Sim
 date: "2012-06-14 20:39:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142137-pk1811-dsc02584.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142137-pk1811-dsc02584.png"
 headline: true
 featured: true
 imported: true
@@ -60,7 +60,7 @@ M - Your production logo is an aeroplane.
 
 J - Oh you noticed that? And it’s the initial of a J!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142139-pk1811-postcards-from-unity-cover.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142139-pk1811-postcards-from-unity-cover.png" title="" caption="" attr="" >}}
 
 M- You’re selling your music – how’s that going?
 

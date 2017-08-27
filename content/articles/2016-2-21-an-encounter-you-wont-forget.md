@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602211251-jc7413-encounter_1.jpg"
 image_caption: "Simon McBurney in The Encounter."
 headline: true
 featured: true

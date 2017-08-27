@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Byzantium: a great vampire tale
 date: "2013-06-05 12:24:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306051322-tna08-byzantium09.jpg"
 image_caption: "The same meal every single day must get boring"
 headline: true
 featured: true
@@ -28,19 +28,19 @@ In this day and age when vampires of fiction are all-powerful, untouchable creat
 
 Turns out the only reason these two are the most wanted vampires is because they’re female. The vampire society puts a lot of importance on the word “brotherhood” and allows no women into their group. Since Clara and Eleanor were both created against the rules, they need to be removed. This explains Clara’s paranoia, and the need to isolate themselves wherever they go, whereas with Eleanor, who is kept in the dark about most of this, doesn’t understand.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051323-tna08-byzantium04.jpg" title="I’m so tired of drinking the same thing every day. I miss tea, oh, and cocktails" caption="I’m so tired of drinking the same thing every day. I miss tea, oh, and cocktails" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051323-tna08-byzantium04.jpg" title="I’m so tired of drinking the same thing every day. I miss tea, oh, and cocktails" caption="I’m so tired of drinking the same thing every day. I miss tea, oh, and cocktails" attr="" >}}
 
 For the past couple of centuries, Eleanor seems to have been a good, disciplined girl. Now she’s finally getting the courage to stand up for herself and rebel (and about time, too). She meets a boy, joins some college classes, and soon the secrets start spilling themselves. And as she tells her story, we are shown, in many flashback sequences, just how everything came about.
 
 Director Neil Jordan takes his time to give us the full picture – he knows how much to tell when, and more importantly, he knows when to make the cuts – leaving the narrative hanging. He doesn’t give anything away too easily, and with this air of mystery and intrigue, this becomes a vampire film that’s far more entertaining and smarter than the norm. The two parallel plot-lines here serve to further the two females’ nature.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051323-tna08-image.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051323-tna08-image.jpg" title="" caption="" attr="" >}}
 
 Arterton is absolutely spot-on as Clara; and winding the clock back to the 19th Century, we see the long, complicated and painful process she had to endure to end up where she is now – and even as an immortal she’s failed to find peace. Arterton is loud, forceful and assertive, and has no problem tapping into the seductive side of her role given some very suggestive items of clothing she wears. But underneath all the confidence and tough exterior, there’s an obvious inner layer of weakness and vulnerability. With no allies she is on her own to look out for her family. Very little kindness was shown to her all her life, so we understand her need for utmost control.
 
 In contrast to her mother, Eleanor is a quieter, more restrained presence on the screen, one that Ronan captures beautifully. She’s sheltered and naïve, qualities that make her budding, awkward romance with Frank (Caleb Landry Jones – who looks so pale he could well be a vampire himself) all the more sweet and charming. Over the years she too has found her specific ways to cope with her need for feeding, one that involves a more humane, sensitive approach. It’s fascinating to navigate in their world, where vampires are incredibly similar to humans and really not a lot sets them apart.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306051323-tna08-gemma-arterton-in-byzantium-2013-movie-image.jpg" title="Vampire... but can be seen in a mirror. WHAT!?" caption="Vampire... but can be seen in a mirror. WHAT!?" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306051323-tna08-gemma-arterton-in-byzantium-2013-movie-image.jpg" title="Vampire... but can be seen in a mirror. WHAT!?" caption="Vampire... but can be seen in a mirror. WHAT!?" attr="" >}}
 
 There are several under-developed characters as the film is interested solely in Arterton and Ronan. Sam Riley in particular deserves more screen time given his significance to the overall plot, and his participation could have been enhanced for a more exciting finale that disappointingly ends on a bit of a flat note. Jonny Lee Miller lends his talent to play the vile antagonist, whereas Daniel Mays puts in an appearance to add a touch of comedy to the otherwise overall serious tone.
 

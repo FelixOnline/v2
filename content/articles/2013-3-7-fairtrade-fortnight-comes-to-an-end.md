@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aditya Narayanan is definitely more than just Fairly pleased at how the week went
 date: "2013-03-07 21:33:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072132-jal08-wp_20130306_012-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072132-jal08-wp_20130306_012-2.jpg"
 headline: true
 featured: true
 imported: true

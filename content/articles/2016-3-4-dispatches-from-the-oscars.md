@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Rock’s introduction of Stacey Dash left us all totally stumped
 date: "2016-03-04 11:50:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
 image_caption: "Ruffalo et al. celebrate Spotlight’s win"
 headline: true
 featured: true
@@ -40,7 +40,7 @@ In a charged speech, producer Michael Sugar said that the message of the film sh
 
 _Spotlight_’s win for Best Picture wasn’t the only surprise of the night. Mark Rylance won Best Supporting Actor, which was widely expected to go to Sylvester Stallone, for his role as Rudolf Abel in _Bridge of Spies_ – the film’s only award. Best Visual Effects went to _Ex Machina_, the British sci-fi drama whose budget was minuscule compared to its competitors; _Ex Machina_ beat out stiff competition for the award, including _Star Wars_, _Mad Max_, and _The Revenant_, whose CGI bear scene garnered acclaim. Alicia Vikander, the star of _Ex Machina_, also took home Best Supporting Actress for her role in _The Danish Girl_.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201603041149-felix-31AB884900000578-3468777-image-a-14_1456717982895.jpg" title="Chrissy Teigen was horrified" caption="Chrissy Teigen was horrified" attr="ABC" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201603041149-felix-31AB884900000578-3468777-image-a-14_1456717982895.jpg" title="Chrissy Teigen was horrified" caption="Chrissy Teigen was horrified" attr="ABC" >}}
 
 Ennio Morricone took home the Best Score award for his treatment of Quentin Tarantino’s _The Hateful Eight_. Going up to receive the award, the 87-year-old Morricone was treated to a standing ovation, a recognition of his decades of work in the industry. _Inside Out_ took home the award for Best Animated Feature, as expected, and British documentary _Amy_, following the life of the late singer Amy Winehouse, took home Best Documentary.
 

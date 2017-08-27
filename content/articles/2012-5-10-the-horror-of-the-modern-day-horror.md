@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Or, the merits of Pyramid Head over generic space monster battles
 date: "2012-05-10 19:31:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102031-felix-pyramid_head.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102031-felix-pyramid_head.jpg"
 headline: true
 featured: true
 imported: true

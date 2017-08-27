@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial’s Underwater Hockey team won their first ever medal at the University Nationals tournament on Saturday 8th March in Plymouth, finishing 3rd out of 17 teams.
 date: "2014-05-02 02:03:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020303-jal08-octopush1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020303-jal08-octopush1.jpg"
 headline: true
 featured: true
 imported: true

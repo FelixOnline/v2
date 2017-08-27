@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Butcher wonders whether the Tories learnt anything
 date: "2015-05-14 22:37:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
 image_caption: "As we say goodbye to the Liberal Democrats in Downing Street, how are things going to change?"
 headline: true
 featured: true

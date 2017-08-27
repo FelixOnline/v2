@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A strike ballot follows the demonstration on Whitehall that saw 20,000 flock to parliament
 date: "2015-10-23 10:54:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231224-ygr12-img_0833.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231224-ygr12-img_0833.jpg"
 headline: true
 featured: true
 imported: true

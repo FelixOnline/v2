@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Threshold for bursary likely to rise from £50,000 to £60,000
 date: "2011-03-17 19:46:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172006-ks607-img_2989.jpg"
 image_caption: "Financial support will be provided for households earning up to £60,000 "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   According to recent information the halls are set to close in 2015, either for refurbishment or permanently.
 date: "2014-03-27 11:49:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403271149-jal08-evelyn-gardens.jpg"
 image_caption: "Evelyn Gardens - One year to go?"
 headline: true
 featured: true

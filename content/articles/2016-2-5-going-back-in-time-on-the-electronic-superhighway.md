@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The landmark exhibition brings together 50 years of art and technology co-evolution
 date: "2016-02-05 12:14:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051213-felix-Lorna-5.jpg"
 image_caption: "“Lorna” by Lynn Hershman Leeson."
 headline: true
 featured: true

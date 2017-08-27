@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A Cappella and Musical Theatre came together for the midweek ArtsFest showcase
 date: "2015-02-20 00:19:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
 headline: true
 featured: true
 imported: true

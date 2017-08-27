@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
 image_caption: "Earth’s not doing so well."
 headline: true
 featured: true

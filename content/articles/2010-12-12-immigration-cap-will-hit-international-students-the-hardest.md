@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Restrictions on immigration will endanger universities
 date: "2010-12-12 14:27:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201012121425-ks607-theresea.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012121425-ks607-theresea.jpg"
 headline: true
 featured: true
 imported: true

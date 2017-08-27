@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The team's project 'Ecolibrium' not only landed them the Gold Medal but five other major prizes.
 date: "2016-11-11 11:50:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111140-so515-newseventsimages.jpeg"
 image_caption: "Wooh! Science!"
 headline: true
 featured: true

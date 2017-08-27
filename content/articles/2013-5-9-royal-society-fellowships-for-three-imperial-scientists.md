@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Not quite the same as the Fellowship of the Ring... Probably.
 date: "2013-05-09 12:07:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
 headline: true
 featured: true
 imported: true
@@ -31,7 +31,7 @@ Three Imperial scientists have been granted Fellowship of the Royal Society. Pro
 
 Professor Sir Steve Bloom is the Head of Division for Diabetes, Endocrinology and Metabolism, in the Department of Medicine and Chief of Service for Endocrinology and Pathology in the Imperial College Healthcare NHS Trust. He said: “It is a very pleasing honour for the entire team who have worked together over many years.” He added that it will spur him on to work as there is much to still be done, saying: “The world pandemic of obesity causes great suffering,”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305091305-tna08-royal-society-thing.jpg" title="From left to right: Professor Sir Steve Bloom, Lord Darzi, Professor Joanna Haigh" caption="From left to right: Professor Sir Steve Bloom, Lord Darzi, Professor Joanna Haigh" attr="Credit: Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305091305-tna08-royal-society-thing.jpg" title="From left to right: Professor Sir Steve Bloom, Lord Darzi, Professor Joanna Haigh" caption="From left to right: Professor Sir Steve Bloom, Lord Darzi, Professor Joanna Haigh" attr="Credit: Imperial College London" >}}
 
 Professor Haigh, who is the Head of the Department of Physics and the President of the Royal Meteorological Society, is mainly involved in researching climate science.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
 image_caption: "Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian? "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203160158-felix-russell.jpg"
 image_caption: "The group held their first meeting in the Hotel Russell in London"
 headline: true
 featured: true

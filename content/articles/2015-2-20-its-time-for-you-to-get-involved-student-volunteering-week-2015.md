@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sailing Club Trip to Wales
 date: "2011-01-13 20:24:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132022-ks607-boatboat.jpg"
 headline: true
 featured: true
 imported: true

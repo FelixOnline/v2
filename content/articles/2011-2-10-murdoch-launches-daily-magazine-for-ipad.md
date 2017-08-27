@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Its got nothing on the Daily Felix...
 date: "2011-02-10 20:31:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102102028-dr910-ferozsal.jpg"
 headline: true
 featured: true
 imported: true

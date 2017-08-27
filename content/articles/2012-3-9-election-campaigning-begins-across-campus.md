@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Candidates take to visual media in order to win over voters
 date: "2012-03-09 01:11:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151729-jk708-selection_017.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151729-jk708-selection_017.jpeg"
 headline: true
 featured: true
 imported: true

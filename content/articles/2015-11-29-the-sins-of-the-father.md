@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An intriguing documentary, My Nazi Legacy takes a look at how evil can change a family
 date: "2015-11-29 16:42:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511291642-ff712-1799.jpg"
 image_caption: "Do the sins of the father reflect onto the children?"
 headline: true
 featured: true

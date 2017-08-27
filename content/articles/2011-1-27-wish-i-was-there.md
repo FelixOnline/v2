@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial
 date: "2011-01-27 19:42:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271938-ks607-indylecl.jpg"
 headline: true
 featured: true
 imported: true

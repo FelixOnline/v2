@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bart Andrews provides an SB & BMX update
 date: "2013-10-12 20:08:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122108-jal08-ed---heelflip.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122108-jal08-ed---heelflip.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fiona’s science corner: Attack of the hornets!
 date: "2013-10-11 23:24:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
 image_caption: "The giant hornet, Vespa mandarinia"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112231-csw09-hockeytour.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix talks to Imperial Professor Sanjeev Gupta on his role in the Mars mission
 date: "2014-12-12 12:59:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
 headline: true
 featured: true
 imported: true

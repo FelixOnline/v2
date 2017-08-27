@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles tells us about the exhibition of portraits by Man Ray
 date: "2013-02-21 20:59:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ Man Ray invites us into a world that has now gone forever. His pictures are inti
 
 However, that’s not to say this is an exhibition is without its flaws. The sheer number of famous names captured by Ray’s lens, all displayed together, can become slightly overwhelming; deadening the impact such photos would have if seen individually. At some points in the exhibition it felt as though the focus was not on the man behind the camera, but rather those in front of it. This is not helped by the fact that we are presented with copies of Vogue featuring Man Ray’s shots of authors and models. This feeling continues into the last section of the gallery, which looks at Man Ray’s life in Hollywood and Paris from 1940-76. The centrepiece is a series of photographs from the Sunday Times portraying Catherine Deneuve. These are neither inspiring nor intriguing. Placing this at the end creates an anticlimactic finish to what had largely been a solid collection of Man Ray’s work
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220232-tna08-catherine-deneuve-922x1024.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220232-tna08-catherine-deneuve-922x1024.jpg" title="" caption="" attr="" >}}
 
 Luckily the exhibition manages to turn the attention back to Man Ray by featuring some of his artistic photography. His famous work Le Violon d’Ingres, showing a woman’s back adorned with the F-holes of a cello, is present, along with stills from the four films he produced. However, for me the highlight of the show came in his solarised portraits. Solarisation, a process in which the image’s tone is partially or completely reversed, was perfected by Man Ray and his assistant Lee Miller, who features in many of these works. Man Ray used this effect to create off-kilter, somewhat otherworldly photographs, which are all exceptionally beautiful.
 

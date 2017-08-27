@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Furse explores the delights of this special treat
 date: "2011-03-21 10:55:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All this plus a parking space, presumably
 date: "2016-06-03 09:06:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031105-felix-MATTIN.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031105-felix-MATTIN.jpg"
 headline: true
 featured: true
 imported: true
@@ -40,7 +40,7 @@ In February, the _Guardian_ reported that chancellor salaries had gone up 14% ov
 
 While the average salary for a university head sits at a modest £272,000, Alice Gast currently enjoys a total fee of £432,000 which includes the college’s contribution to her pension and £25,000 worth of ‘Other’ – presumably the rent on the townhouse that comes with the job on Queen’s Gate. Imperial isn’t an average institution, but can it justify such a decadent pay packet for those at the top when fees are set to rise? It probably can, yes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201606031105-felix-scrn.jpg" title="Richard Sykes tried to introduce a dress code for students. This did not go down well. " caption="Richard Sykes tried to introduce a dress code for students. This did not go down well. " attr="FELIX" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201606031105-felix-scrn.jpg" title="Richard Sykes tried to introduce a dress code for students. This did not go down well. " caption="Richard Sykes tried to introduce a dress code for students. This did not go down well. " attr="FELIX" >}}
 
 **Richard Sykes**
 

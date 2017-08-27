@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yes, the problems with the animation start early. Everything looks exactly the same.
 date: "2014-06-02 12:52:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021353-felix-tarzan-3d.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021353-felix-tarzan-3d.png"
 headline: true
 featured: true
 imported: true

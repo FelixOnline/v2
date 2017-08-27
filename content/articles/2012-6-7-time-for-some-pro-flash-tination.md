@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No time for all those mainstream games? Fed up with talking to other human beings? How about a bit of hot Flash action? Felix Games provides...
 date: "2012-06-07 19:05:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201206072004-pk1811-paladog.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206072004-pk1811-paladog.png"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ The evil of mankind was too much, and the Gods decided to replace us with a bunc
 
 You are Paladog, a noble warrior who can wield magic and summon an army of critters to fight with him. Earn gold and experience, upgrade and take the fight back to the demons. Cute, colourful and excruciatingly addicting.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072006-pk1811-star.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072006-pk1811-star.png" title="" caption="" attr="" >}}
 
 [Starlight 2](http://armorgames.com/play/5542/starlight-2)
 
@@ -36,7 +36,7 @@ Something less stressful to ease exam and project tension? _Starlight 2_’s you
 
 It’s an ingenious concept – you’re given a seemingly random constellation, and it’s your job to rotate and twist them around until you form a recognizable shape or object. The easier levels require just a little twisting, whilst the harder ones demand more thought. A thoroughly relaxing and original game through and through.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072007-pk1811-orange.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072007-pk1811-orange.png" title="" caption="" attr="" >}}
 
 [Orange Roulette](http://www.newgrounds.com/portal/view/596354)
 
@@ -44,7 +44,7 @@ It’s an ingenious concept – you’re given a seemingly random constellation,
 
 For a simple random chance game _Orange Roulette_ is both eerily creepy and tense. Do you spin the chamber, aim at your opponent – or put the barrel to your own zesty temple and pull?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072008-pk1811-phage.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072008-pk1811-phage.png" title="" caption="" attr="" >}}
 
 [Phage Wars 2](http://armorgames.com/play/4013/phage-wars-2)
 
@@ -52,7 +52,7 @@ Biology! Despite the fact that _Phage Wars_ doesn’t actually contain any true 
 
 Use ‘gene upgrades’ to splice up your cell and make them faster, stronger and more deadly. Genetic recombination has never been so simple!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072009-pk1811-achievement.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072009-pk1811-achievement.png" title="" caption="" attr="" >}}
 
 [Achievement Unlocked 3](http://www.newgrounds.com/portal/view/596370)
 
@@ -60,7 +60,7 @@ Most games have achievements, but then again most don’t give them out for paus
 
 _Achievement Unlocked 3_ is for the underachievers amongst us – you get about 10 achievements for simply starting the game and moving. Slowly they get harder and harder to earn, and soon even achievement farmers will be scratching their heads. A cool time waster.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072011-pk1811-infect.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072011-pk1811-infect.png" title="" caption="" attr="" >}}
 
 [Infectonator 2](http://armorgames.com/play/13150/infectonator-2)
 
@@ -68,7 +68,7 @@ Ever dreamed of becoming the next H5N1 virus? Me neither, but _Infectonator 2_ i
 
 You start up your global reign of terror with something that could be outcompeted by the common cold. Start to infect people, upgrade your virus to be faster, more virulent and overall more badass, and soon you’ll make Spanish Flu look like a small blip. Keep an eye on the time – this game can be a massive time sink!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072013-pk1811-clockwork.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072013-pk1811-clockwork.png" title="" caption="" attr="" >}}
 
 [Clockwork](http://www.newgrounds.com/portal/view/591142)
 
@@ -76,7 +76,7 @@ Puzzle games like _Clockwork_ aren’t usually my thing, but it reminded me too 
 
 Twist and turn rotating blocks around their paths, blocking them off to create a clear path for your sunbeam in the middle to escape from. Things can get messy if you let them circle around freely, so a certain amount of logical thinking is required. You must ask yourself one question: ARE YOU MAN ENOUGH?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206072015-pk1811-escape.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206072015-pk1811-escape.png" title="" caption="" attr="" >}}
 
 [/ESCAPE\](http://www.newgrounds.com/portal/view/587905)
 

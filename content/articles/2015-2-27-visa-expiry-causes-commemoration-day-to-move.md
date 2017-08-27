@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A fifth of graduating students would have been unable to attend the previously suggested date due to visa expiry
 date: "2015-02-27 00:42:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
 image_caption: "Graduation takes place at the Royal Albert Hall"
 headline: true
 featured: true

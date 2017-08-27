@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle looks at the fitness centre planned for North Acton
 date: "2015-06-04 23:15:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050015-cj914-pulse-fitness.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050015-cj914-pulse-fitness.jpg"
 image_caption: "Imperial joins a list of over 500 institutions that have a Pulse Fitness gym."
 headline: true
 featured: true

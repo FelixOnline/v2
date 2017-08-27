@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote. The final results were 1,201,607 "Yes" votes to 734,300 "No" votes.
 date: "2015-05-23 18:08:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Universities Minister has resigned as David Cameron prepares to announce a reshuffle in the cabinet.
 date: "2014-07-15 02:51:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
 headline: true
 featured: true
 imported: true

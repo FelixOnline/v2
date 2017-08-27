@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Globe’s The Winter’s Tale is striking in its clever use of an intimate atmosphere
 date: "2016-02-19 12:17:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191216-felix-winterstale.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191216-felix-winterstale.jpg"
 image_caption: "Niamh Cusack (Paulina), Rachael Stirling (Hermione) and John Light (Leontes) in The Winter’s Tale. "
 headline: true
 featured: true

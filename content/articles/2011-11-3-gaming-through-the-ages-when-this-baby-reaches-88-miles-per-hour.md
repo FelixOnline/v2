@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With a combination of persuasive power, begging and bribery we’ve managed to get together three of Gaming section’s biggest writers to talk about videogaming through the ages, as well as what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 20:28:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032029-sjw209-atari_2600.jpg"
 image_caption: "This stuff’s so retro even hipsters don’t know what that console is"
 headline: true
 featured: true
@@ -55,7 +55,7 @@ This is the most exciting annual review we’ve ever written at Felix Games! Not
 
 But all this talk of the future has distracted us from the past highlights of the gaming year. Our favourite speed running blue hedgehog (as opposed to the tyre-flattened brown variety we get over here) got his second sequel and proved once again that other platform heroes are still choking on the dust of Sonic’s breakneck blockbuster gameplay. Nintendo’s star effort this year was the more sedate but no less engrossing Super Metroid, which blew us away with its atmosphere and masterful world design.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032031-sjw209-doom-2-wallpaper-big.jpg" title="Ahh, back when gaming was good and I wasn’t a cynical husk of a human being" caption="Ahh, back when gaming was good and I wasn’t a cynical husk of a human being" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032031-sjw209-doom-2-wallpaper-big.jpg" title="Ahh, back when gaming was good and I wasn’t a cynical husk of a human being" caption="Ahh, back when gaming was good and I wasn’t a cynical husk of a human being" attr="" >}}
 
 But the two Japanese giants had stiff competition from the west, with even the Macintosh computer getting a look in with an impressive debut title from Bungie called Marathon, a FPS with some interesting innovations that made Bungie one to watch. Over in Texas, id Games released the terrifying Doom II, once again turning PC screens everywhere into portals into Hell.
 
@@ -73,7 +73,7 @@ One movement that the 2000’s will probably be remembered for is the rise of th
 
 Game developers are always in search of new ways of providing a fresh gaming experience, and at the bleeding edge of gaming technology lies 3D. Cinemas have been pushing 3D as the next big thing for many years, but with the advent of 3D televisions, the prospect of the technology being shoehorned into games is finally something being considered. Some games like Killzone 3 have been the first to feature 3D graphics support, and the recently released Nintendo 3DS is famously the first handheld console to support glasses-free 3D. If the new technology can really improve anything is a dubious issue, but as corporations seem insistent on persuading us to hand over more money to upgrade our kit, it looks like for the immediate future 3D is here to stay.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032037-sjw209-nt5631.jpg" title="Sleek and sexy – an apt description for both the Wii and my body" caption="Sleek and sexy – an apt description for both the Wii and my body" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032037-sjw209-nt5631.jpg" title="Sleek and sexy – an apt description for both the Wii and my body" caption="Sleek and sexy – an apt description for both the Wii and my body" attr="" >}}
 
 Another innovation that is very much in its infancy is the “gaming-as-a-service” model, which you might more readily recognise as “OnLive”. This service, which is the first of its kind to experience a mainstream release, takes the game out of your computer and onto the Internet. It’s the gaming equivalent of robotic surgery – all the keyboard buttons you press or mouse movements you make (or even analogue sticks you rotate – OnLive is available as a stand-alone console) are sent to OnLive’s servers and all you get is the video to display on screen YouTube-style. A few years ago such a concept would have been ludicrous, but with more and more homes switching to ultra-fast broadband gamers can finally experience the highest quality of graphics without needing to shell out the GDP of a small country on a water-cooled gaming leviathan. OnLive, although still to prove that it can be a success, has begun to bring big-budget titles to the impoverished masses.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
 image_caption: "Shit, shit, shit, shit, shit, shit, shit"
 headline: true
 featured: true

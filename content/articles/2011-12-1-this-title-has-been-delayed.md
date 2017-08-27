@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Major delays on the Felix Line due to a signal failure in the Copy Editor area.
 date: "2011-12-01 21:23:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
 image_caption: "The reward for reading this article is a picture of Scarlett Johansson"
 headline: true
 featured: true

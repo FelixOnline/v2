@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A super easy dessert with which you can impress! Enough for two ramekins.
 date: "2012-02-23 20:45:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
 image_caption: "Blood-red cobblers with a touch of booze"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter on the beat scene groundbreakers
 date: "2012-02-03 11:13:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202031112-sjw209-stones-throw.jpg"
 headline: true
 featured: true
 imported: true

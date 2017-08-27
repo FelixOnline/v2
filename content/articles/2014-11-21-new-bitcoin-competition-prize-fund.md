@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Competition launched by Business school for blockchain technology development
 date: "2014-11-21 13:22:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211321-ps3110-bitcoin11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211321-ps3110-bitcoin11.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As Eating Disorder Awareness Week edges closer, one reader shares with us their struggle with anorexia. Through the haziness they try to recall the ups, the downs and the lessons learned.
 date: "2017-02-03 18:07:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031807-felix-Screen Shot 2017-02-03 at 18.06.27.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031807-felix-Screen Shot 2017-02-03 at 18.06.27.png"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ I thought the only way I could dull my anxiety was starving it. If I was dizzy a
 
 When I did eat, it tended to be fast food. I wasn’t avoiding any particular classes of food, or counting calories like I’d done in my first encounter with anorexia eight years prior. I knew my habits weren’t normal, but I convinced myself it was okay, definitely not an illness or something I couldn’t manage. Sure, I didn’t eat as regularly as the average person, but I was still eating sometimes, and don’t all adults get too busy to eat occasionally? Rapidly, I started to feel like I wasn’t in control anymore – the feeling of accomplishment I got from ignoring meals became more and more difficult to attain. I was conflicted, unable to decide whether I wanted to change and get help or if losing the sense of achievement that came with avoiding meals was too much to bear. I began to lash out at everyone around me. At the time I felt too ashamed to put my actions into words. Nobody had seemed to notice what I was doing so it felt impossible to tell anyone what was happening. Saying there was a problem out loud also meant acknowledging there was one for sure. I had to abandon the rhetoric of a ‘spectrum of normal’ I’d managed to fool myself into thinking.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702031807-felix-Screen Shot 2017-02-03 at 18.06.52.png" title="" caption="" attr="Lef Apostolakis" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702031807-felix-Screen Shot 2017-02-03 at 18.06.52.png" title="" caption="" attr="Lef Apostolakis" >}}
 
 Finally, I managed the courage to get help. Even in the initial stages of assessment and therapy, I wasn’t entirely sure there was anything wrong with me. I’d had a more ‘textbook’ eating disorder in the past, where thoughts of calories and dress size dominated everything I did. It was only when a dietician told me (rather dramatically) that I would eventually starve to death if I continued along the same trajectory that it became impossible to be blasé about the situation. Eating more regularly was difficult to start with, but after a couple of months I started to get my strength back. It was hard to face that a lot of my struggles had been linked to my weight and appearance – topics I hadn’t allowed myself to consciously think about in nearly a decade. When I became aware of gaining weight steadily, of physically getting bigger, of the fact that there was more of me in the world, I nearly lost all the progress I made and reverted to my habits. Gaining weight became a proxy for committing to my surroundings and responsibilities – was I ready for that? It was only then that I started to understand my relationship with food was very much about self worth. I doubted whether I was worthy of eating, worthy of consuming things and occupying space. Managing to control something measurable was an easy way to feel like I’d achieved something and was therefore deserving of my existence.
 

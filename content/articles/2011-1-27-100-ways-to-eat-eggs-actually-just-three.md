@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
 headline: true
 featured: true
 imported: true

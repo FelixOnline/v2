@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett talks to the team on their synthetic biology triumph
 date: "2014-11-06 19:18:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061918-cj914-5792312_orig.png"
 image_caption: "The contestants at the Jamboree in Boston, USA. Imperial won a number of awards at the event."
 headline: true
 featured: true

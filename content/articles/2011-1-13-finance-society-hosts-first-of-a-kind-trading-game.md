@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Young traders from across the country gather at Imperial
 date: "2011-01-13 19:28:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201101131926-ks607-tradingg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101131926-ks607-tradingg.jpg"
 headline: true
 featured: true
 imported: true

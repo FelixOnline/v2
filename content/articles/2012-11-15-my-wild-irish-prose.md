@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl rewrites the history of the Emerald Isle in Crusader Kings II
 date: "2012-11-15 21:55:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152155-tna08-games.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152155-tna08-games.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ Hmmmm what else happened....oh yeah wifey died, can’t really remember her name
 
 That’s it for now! Till next time!!! I have great things planned, and Rhia has many things in motion!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152155-tna08-crusader-kings-ii-01.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152155-tna08-crusader-kings-ii-01.jpg" title="" caption="" attr="" >}}
 
 Anno 1086: Bad day for the house mac Diarmata... Donnell passed away from severe stress (is that even possible?!?!)... anyway gotta live on... at least I have a beautiful grandson, Fáelán...and even though he prefers to play with dolls instead of swords, I think he has a lot of promise. Anyway, “What’s new on the King of Ireland front?” you ask. Remember the Duke of Connacht? Well his son, Ruadri, (whose mother had been insulted) is being a right stroppy little twit. I usurped the title of Duke of Connacht (Breifne kinda is part of it, and I mean, I’m a much better duke anyway) and forced him to become my vassal, all totally acceptable things! So he gets pissed and starts plotting to kill Fáelán, yeah I know, shocking. The NERVE of some people. Really, I had him thrown in to my dungeon... kinda was forced to let him out though, after everyone threatened to declare war on me. Sucks to be not as powerful as all your enemies combined. Oh yeah, I also took over Ulster, after Rhi had fabricated a claim, saying my uncle’s mother’s dog had been the Earl of Ulster, which means it’s mine now. Pretty standard stuff. Also I created the title of Duchy of Meath just because I could. Good times! That means now I am the Duke of Meath, Leinster and Connacht as well as the Earl of Ulster. My plan is coming to fruition, soon when I own more than half of Ireland, I will be able to crown myself King of Ireland, MUAHAHAHAHAHA!!!! (P.S. Gotta do it fast though... I’m 60 now, most people don’t even live to 50 these days... gotta hurry up!)
 

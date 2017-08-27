@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092147-dr910-sophiada.jpg"
 headline: true
 featured: true
 imported: true

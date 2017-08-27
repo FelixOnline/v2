@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Beware, this is serious exercise people
 date: "2011-02-11 06:43:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201102110641-ks607-poledanc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102110641-ks607-poledanc.jpg"
 headline: true
 featured: true
 imported: true

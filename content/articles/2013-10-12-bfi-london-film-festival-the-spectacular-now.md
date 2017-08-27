@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews "The Spectacular Now"
 date: "2013-10-12 19:10:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122010-jal08-film_spectacular.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122010-jal08-film_spectacular.jpg"
 headline: true
 featured: true
 imported: true

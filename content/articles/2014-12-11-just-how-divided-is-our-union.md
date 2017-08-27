@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Butcher says students and sabbs need to start engaging more
 date: "2014-12-11 19:59:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201412111956-cj914-grouptall.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412111956-cj914-grouptall.png"
 image_caption: "This year's sabbatical officers: Pascal Loose (DPE), Tom Wheeler (President), Abi de Bruin (DPCS), A"
 headline: true
 featured: true

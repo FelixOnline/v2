@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fiona Hartley finds it difficult to ignore a golden opportunity for puns
 date: "2013-11-01 09:45:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
 image_caption: "Particulate gold in eucalyptus leaves"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken gives a spoiler-free overview of the U.S. Netflix hit show, House of Cards
 date: "2015-02-03 14:51:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031451-ps3110-house-of-cards-review-1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031451-ps3110-house-of-cards-review-1.png"
 headline: true
 featured: true
 imported: true

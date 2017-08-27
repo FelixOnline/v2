@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds common ground between two very different shows
 date: "2015-05-13 14:23:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
 image_caption: "Kodak Three Point Reflection Guide (Meiko laughing) by Christopher Williams. "
 headline: true
 featured: true

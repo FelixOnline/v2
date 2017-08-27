@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We review The Agent Intellect
 date: "2015-10-23 11:49:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231248-ygr12-witheredoak.jpg"
 image_caption: "A withered oak tree – the only thing that truly understands you. "
 headline: true
 featured: true

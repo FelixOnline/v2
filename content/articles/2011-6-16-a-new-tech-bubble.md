@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexandru Podgurschi sees history repeating itself
 date: "2011-06-16 20:17:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162117-felix-linkedinipo.jpg"
 headline: true
 featured: true
 imported: true

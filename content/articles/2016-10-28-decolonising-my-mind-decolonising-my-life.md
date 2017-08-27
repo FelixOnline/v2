@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jian Chew goes to great efforts to free himself from Western colonisation
 date: "2016-10-28 15:02:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ I realised that electricity was a Western concept since it was discovered by Ben
 
 I first went to the Chemistry department at Imperial and loudly demanded that they stop teaching it since the basis of Chemistry was discovered and advanced by the Arabs. Alas, their colonised minds couldn’t take the truth and the security guard evicted me. I then went to the Mathematics department and screamed that Arabic numerals were invented by the Indians and that geometry was discovered by the Greeks, and the English should decolonise themselves and revert to using whatever number system the Celts had. This time the police arrested me for being a public nuisance.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311313-felix-Screen Shot 2016-10-31 at 13.12.53.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311313-felix-Screen Shot 2016-10-31 at 13.12.53.png" title="" caption="" attr="" >}}
 
 > I left the police station after telling them that since I decolonised my life, British law no longer applies to me
 
@@ -51,4 +51,4 @@ That left the problem of how to go there. I couldn’t take automobiles, trains 
 
 I finally realised that gravity was a Western conspiracy to hide the ancient golden age of humanity where people flew everywhere! After I type this article I shall reject the concept of gravity and fly to my destination, where I shall be a farmer. Without any land and knowing squat about farming, I shall subsequently starve to death, but hey, at least I will have completely decolonised my mind and life. I shall be truly free. And dead.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610311313-felix-Screen Shot 2016-10-31 at 13.13.07.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610311313-felix-Screen Shot 2016-10-31 at 13.13.07.png" title="" caption="" attr="" >}}

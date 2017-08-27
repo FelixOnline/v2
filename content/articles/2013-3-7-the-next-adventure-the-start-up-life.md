@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Natasha Hodgson presents the benefits of an alternative career path
 date: "2013-03-07 21:08:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072104-jal08-steve-jobs-cutout.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072104-jal08-steve-jobs-cutout.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Second anniversary of disaster sees new report criticise scientific models used
 date: "2012-06-01 13:56:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
 image_caption: "The BP oil rig ablaze"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Savell, Deputy President (Finance and Services) talks bars, burritos and what he really thought of his predecessor
 date: "2014-11-10 23:47:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102346-ps3110-screen-shot-2014-11-10-at-23.45.08.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102346-ps3110-screen-shot-2014-11-10-at-23.45.08.png"
 headline: true
 featured: true
 imported: true

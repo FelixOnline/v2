@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Spiking asks: In the land of oil and climate change sceptics, does environmentally friendly policy stand a chance?
 date: "2012-11-22 23:19:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222319-tna08-obama-windfarm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222319-tna08-obama-windfarm.jpg"
 headline: true
 featured: true
 imported: true

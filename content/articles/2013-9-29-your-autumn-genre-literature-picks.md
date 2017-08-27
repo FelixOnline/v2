@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The best of the bunch from Sci Fi society
 date: "2013-09-29 15:18:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291612-tna08-1-wasp-russell-ware.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291612-tna08-1-wasp-russell-ware.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ Fans of hard sci-fi might be disappointed. There is little very modern technolog
 
 Stormfront - Jim Butcher
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291612-tna08-2-dresden-files-butcher-savell.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291612-tna08-2-dresden-files-butcher-savell.jpg" title="" caption="" attr="" >}}
 
 Harry Dresden is the only Wizard in the Phonebook. Probably more importantly, in Jim Butchers Dresden File series, he is also one of many real Wizards (though the others tend not to advertise it). The series, now more than a dozen books long and starting with Storm Front, tracks his progress as a Private Investigator of the paranormal and a slowly maturing Wizard of some power, though little finesse. Without giving too much away they’re great fun short reads for anyone that enjoys a little Urban Fantasy; the vampires are more interesting than Buffy’s let alone Twilight’s sparkly buggers, the faeries are just hilariously conniving and Harry’s sarcastic, Star Wars quoting, humour manages not to get old despite never really growing up.
 
@@ -49,7 +49,7 @@ Anyway, I’d highly recommend it as something fairly light but massively engagi
 
 The Prestige - Christopher Priest
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291612-tna08-3-the-prestige-priest-rivlin.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291612-tna08-3-the-prestige-priest-rivlin.jpg" title="" caption="" attr="" >}}
 
 At first glance The Prestige doesn’t seem like a science fiction story. Indeed, most of it isn’t. But the story of two stage magicians battling to out do each other in a lifelong rivalry at the turn of the twentieth century, as turned in to a film by Christopher Nolan in 2006, is awonderful tale of stage magic, illusions, unreliable narrators and Nikola Tesla. Tesla!
 
@@ -72,7 +72,7 @@ The great thing about the Malazan series is that it’s already complete. Unfort
 
 Ocean at the End of the Lane – Neil Gaiman
 
-{{< figure src="http://felixonline.co.uk/img/upload/201310151143-mtm10-5-the-ocean-at-the-end-of-the-lane-gaiman-matuszewski-(2).jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201310151143-mtm10-5-the-ocean-at-the-end-of-the-lane-gaiman-matuszewski-(2).jpg" title="" caption="" attr="" >}}
 
 Neil Gaiman’s latest novel for adults has already, quite rightly, received a great deal of praise. The book follows a young boy growing up in a large house in the country with his sister and their parents. However, when the suicide of their lodger awakens an ancient and dangerous spirit he must find help from the Hempstock family who live down the lane and are far more than what they appear to be.
 
@@ -82,7 +82,7 @@ This is a very short novel but not a word is wasted. Gaiman is a master of both 
 
 Against A Dark Background
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291617-tna08-6-against-a-dark-backgroun-banks-matuszewski.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291617-tna08-6-against-a-dark-backgroun-banks-matuszewski.jpg" title="" caption="" attr="" >}}
 
 One of Banks’ stand-alone science fiction works, this is a novel of many facets. Set in the isolated but heavily colonised Thrial solar system the book follows Sharrow – an aristocrat and former commander of a military fighter squadron. Faced with a vendetta by a militant religious order known as the Huhsz, she gathers up her former war buddies to find the only artefact that will appease the Hushz’s anger – the deadly and mysterious Lazy Gun.
 

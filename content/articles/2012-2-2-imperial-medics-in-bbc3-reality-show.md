@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Junior Doctors storm back with an Imperial twist
 date: "2012-02-02 22:49:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
 headline: true
 featured: true
 imported: true

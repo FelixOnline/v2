@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial students do what we do best: revise. Well, procrastinate on the internet...
 date: "2012-11-09 00:09:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211090009-tna08-open-academy.jpg"
 headline: true
 featured: true
 imported: true

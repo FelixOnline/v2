@@ -4,7 +4,7 @@ title: >
 subtitle: >
   YouTube sensation plays London
 date: "2011-10-21 11:39:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211239-ak6309-kina5w.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211239-ak6309-kina5w.jpg"
 headline: true
 featured: true
 imported: true

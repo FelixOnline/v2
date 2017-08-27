@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Free-to-Play is often anything but. Laurence Pope debunks the idea that F2P games are a poor gamer’s wet dream
 date: "2011-10-27 23:25:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280021-felix-loadsamoney.jpg"
 image_caption: "Harry Enfield demonstrating how to be a well-prepared F2P gamer"
 headline: true
 featured: true

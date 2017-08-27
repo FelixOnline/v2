@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Priya Garg contemplates the naural beauty of Foz do Iguaçu, and its fragility at the hands of mass tourism.
 date: "2011-02-17 20:25:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172023-nm1010-fallsfal.jpg"
 headline: true
 featured: true
 imported: true

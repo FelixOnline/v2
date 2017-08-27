@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shock! Horror! Buckets used for raising money, not vomit... By Catherine Lu and Genevieve Pugh
 date: "2011-02-28 21:15:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271343-ks607-ragweekm.jpg"
 headline: true
 featured: true
 imported: true

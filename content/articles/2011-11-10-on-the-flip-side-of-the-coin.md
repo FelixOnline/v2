@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A Muslim perspective on the afterlife and religion in society
 date: "2011-11-10 20:41:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111110955-felix-umair-aasem.jpg"
 headline: true
 featured: true
 imported: true

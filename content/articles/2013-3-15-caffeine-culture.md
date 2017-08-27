@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kate Pumphrey takes you on a tour of coffee
 date: "2013-03-15 03:15:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150310-tna08-stockcoffee_beans_by_unamanic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150310-tna08-stockcoffee_beans_by_unamanic.jpg"
 headline: true
 featured: true
 imported: true
@@ -44,7 +44,7 @@ If anxiety and/or stress have not done me by this stage, it may be coffee worthy
 Within half an hour, body and brain are untethering from each other like whippet and leash. My ribcage is being clamped by an implacable force, while my mind skitters over thoughts, ideas, plans like an overexcited Olympic hurdler. For the next couple of hours only a nuclear attack or a car parking fine would be capable of making me focus. And I don’t own a car.
 ## Background to the bean
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150314-tna08-coffee.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150314-tna08-coffee.jpg" title="" caption="" attr="" >}}
 
 ortunately my predicament is shared by many the world over. Coffee is now the second most-traded commodity in the world (after crude oil) and 70 million cups are drunk in the UK every day. 57% of us now regularly drink in coffee shops, and trade, particularly amongst independents, is booming despite the recession. Books, blogs, articles and advice abound about where to find the best brew, and coffee is fast catching up with wine in terms of the snobbery of its aficionados.
 

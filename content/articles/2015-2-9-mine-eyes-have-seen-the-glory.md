@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park reviews the latest film about Martin Luther King
 date: "2015-02-09 19:04:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201502091904-ps3110-selma-cmyk-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502091904-ps3110-selma-cmyk-2.jpg"
 headline: true
 featured: true
 imported: true

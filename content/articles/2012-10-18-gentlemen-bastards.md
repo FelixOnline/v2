@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Scott Lynch’s debut series
 date: "2012-10-18 21:10:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182210-felix-lamora.jpg"
 headline: true
 featured: true
 imported: true

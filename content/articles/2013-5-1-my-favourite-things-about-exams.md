@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It's not all just doom and gloom with exams looming...
 date: "2013-05-01 17:54:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305031241-tna08-bookpile.jpg"
 headline: true
 featured: true
 imported: true

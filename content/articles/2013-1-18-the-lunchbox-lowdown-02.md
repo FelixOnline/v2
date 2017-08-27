@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah with more NY Resolution-friendly healthy grub
 date: "2013-01-18 01:20:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180115-tna08-bento-done.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ I‘m picking up where my fellow Editor Sophia left off last week. If you’re s
 To the right is a bento I prepared some time ago, which I’ll deconstruct into its components below. This is what we’d call an Asian bento, mainly because the main carb component/staple here is rice. Of course, I’ve since been able to fit other grains in that slim Japanese bento box (namely couscous and quinoa) with other sides – the possibilities are endless.
 ## Containers
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180114-tna08-bento-box.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180114-tna08-bento-box.jpg" title="" caption="" attr="" >}}
 
 First, a disclaimer: proper Japanese bento boxes like the one on the right are NOT mandatory., even though I find they offer the advantage of being easier to pack (the box I have is approx 15cm x 6.5cm x 8cm in size with both tiers stacked). That said if you already have a decent inexpensive leak-proof container, you’re good to go.
 

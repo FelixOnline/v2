@@ -4,7 +4,7 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162331-sjw209-hockey.jpg"
 image_caption: "Another one bites the astroturf"
 headline: true
 featured: true

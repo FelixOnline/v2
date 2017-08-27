@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park explores the health epidemic plaguing the lives of Americans
 date: "2014-11-06 19:25:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061925-snb11-fed-up-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061925-snb11-fed-up-1.jpg"
 headline: true
 featured: true
 imported: true

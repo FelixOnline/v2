@@ -4,7 +4,7 @@ title: >
 subtitle: >
   You know what you're doing all day, alone, locked in your room, under the duvet.
 date: "2016-11-11 15:25:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ When sniffing, please ensure all crystals are crushed. This will not only ensure
 ## Legality
 “On June 10th 2014, Ketamine changed from a class C to a class B controlled drug. This means that possession of Ketamine could now get you up to five years in jail and an unlimited fine, while supplying Ketamine to someone else could get you up to 14 years in jail and an unlimited fine.” This is official government policy. However, in real life, if caught with Ketamine for the first time you are more likely to simply receive a caution (or a reprimand if you’re under 18). Something akin to a slap on the wrist from the police.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111536-felix-Screen Shot 2016-11-11 at 15.35.55.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111536-felix-Screen Shot 2016-11-11 at 15.35.55.png" title="" caption="" attr="" >}}
 
 ## Some statistics
 According to Home Office’s “Drug Misuse: Findings from the 2014/15 Crime Survey for England and Wales – Second edition” (doesn’t it have a fancy name for something so dull?), Ketamine use amongst 16 to 24 years olds is decreasing. With “Proportion of adults (16 – 24) reporting use” standing at 1.6%. Whilst that may appear paltry I’d wager there’s a substantial number out there not reporting use – I mean why would you?

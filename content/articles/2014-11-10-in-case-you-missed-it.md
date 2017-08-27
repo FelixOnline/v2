@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on in the world of sport this week
 date: "2014-11-10 21:55:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102155-ps3110-senzo-meyiwa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102155-ps3110-senzo-meyiwa.jpg"
 headline: true
 featured: true
 imported: true

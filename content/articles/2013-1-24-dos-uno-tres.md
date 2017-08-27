@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl reviews the second installment from Green Day
 date: "2013-01-24 22:10:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242211-mc4509-green-day-dos.jpg"
 headline: true
 featured: true
 imported: true

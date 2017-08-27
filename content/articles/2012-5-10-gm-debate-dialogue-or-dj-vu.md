@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Juan Casasbuenas discusses the latest flare-up in the now age-old debate
 date: "2012-05-10 20:31:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102129-ams111-poster-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102129-ams111-poster-copy.jpg"
 image_caption: "Image from GM protest flyer"
 headline: true
 featured: true

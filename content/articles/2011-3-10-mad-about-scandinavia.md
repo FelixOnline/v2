@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nigel Kheng Wei Hehn and Ricki Calel review Madsen, a Scandinavian restaurant in the heart of South Kensington
 date: "2011-03-10 20:58:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103102056-ks607-madsenma.jpg"
 headline: true
 featured: true
 imported: true

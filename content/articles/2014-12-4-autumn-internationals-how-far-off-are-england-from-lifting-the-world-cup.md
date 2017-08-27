@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After mixed performances in the Autumn internationals, Henry Lambley examines whether winning the world cup next year is a realistic dream
 date: "2014-12-04 20:23:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
 image_caption: "Ben Morgan scores a try for England in their 26-17 victory over Australia. They won two out of four "
 headline: true
 featured: true

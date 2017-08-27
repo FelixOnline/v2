@@ -4,7 +4,7 @@ title: >
 subtitle: >
   To get yourself a three-course meal for £13, you might have to do away with tipping, and catch the best deals. But when the food is this good, it’s all worth the effort at Percy and Founders in Fitzrovia.
 date: "2017-02-17 18:25:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171825-felix-Picture3 2.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171825-felix-Picture3 2.png"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ The restaurant is extremely spacious and airy, with floor to ceiling windows, tw
 
 There were a limited number of vegetarian options, which made it easy for both of my vegetarian friends to choose what they want. However, my friend Pooja and I have slightly more complicated dietary requirements. Pooja had been talking about how she was going to get the Sunday roast since we got onto the tube, unfortunately the waiter informed us it was beef, which she doesn’t eat. She then asked for the lamb shank. The waiter took her order, disappeared to the kitchen, but shortly came back to inform us that lamb is cooked in beef gravy. We asked if a separate gravy could be made for her, which he enquired about. It couldn’t. At least he was intelligent enough to check out the ingredients himself now that he knew her requirements. She finally settled for sea bream and I got a risotto, but not before the waiter separately went to check whether either were cooked in alcohol, as I don’t drink and she doesn’t like the taste of it. That took us about 20 minutes, because of all the back and forth.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702171825-felix-Picture1 2.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702171825-felix-Picture1 2.png" title="" caption="" attr="" >}}
 
 ## The food
 Pooja and I split some oysters to begin with. They slid off their shells easily and were so fresh I didn’t actually need any of the chilli oil, Tabasco or lemon they gave alongside it, as they were so flavourful by themselves. Pooja had never eaten oysters before, so she bit into them rather than swallowing them. I am told they don’t taste as nice that way – but to each their own. My other friends let me try their pumpkin soup. It was creamy, multi-flavoured with sweet and spicy tones and was a decent portion.

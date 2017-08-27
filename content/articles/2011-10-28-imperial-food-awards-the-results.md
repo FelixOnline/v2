@@ -48,7 +48,7 @@ Ingredients
 
 * You can buy ready stock however I usually add 1 chicken and 1 beef cube into 750 ml of boiling water and mix to dissolve the cubes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110281507-felix-braised-lamb-shanks-2.jpg" title="The winning braised lamb shanks" caption="The winning braised lamb shanks" attr="Credit: Olivia Tillbert" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110281507-felix-braised-lamb-shanks-2.jpg" title="The winning braised lamb shanks" caption="The winning braised lamb shanks" attr="Credit: Olivia Tillbert" >}}
 
 Recipe
 
@@ -89,7 +89,7 @@ Ingredients
  3 tbsp red chilli powder
  2 tbsp dried basil
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110281502-felix-the-which-came-first-photo-2.jpg" title="The Which Came First" caption="The Which Came First" attr="Credit: Sam Gonshaw and Navid Nabijou" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110281502-felix-the-which-came-first-photo-2.jpg" title="The Which Came First" caption="The Which Came First" attr="Credit: Sam Gonshaw and Navid Nabijou" >}}
 
 Recipe
 
@@ -112,7 +112,7 @@ A slab of pork belly
  Herbes de Provence
  Rosemary herbs
 
-{{< figure src="http://felixonline.co.uk/img/upload/201110281505-felix-dscn7256.jpg" title="Crispy Pork Belly" caption="Crispy Pork Belly" attr="Credit: Chew Jermaine" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201110281505-felix-dscn7256.jpg" title="Crispy Pork Belly" caption="Crispy Pork Belly" attr="Credit: Chew Jermaine" >}}
 
 Recipe
 

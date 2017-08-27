@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First XV team suspended after exposing themselves on the Underground, identified whilst wearing their sports kit.
 date: "2014-10-30 17:28:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
 headline: true
 featured: true
 imported: true

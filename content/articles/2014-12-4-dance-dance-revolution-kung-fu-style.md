@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma finally hooks up a XBox controller
 date: "2014-12-04 19:34:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041934-cj914-kickbeat_22.jpg"
 image_caption: "Dancing her way to the top, and looking incredibly sassy while doing it!"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Researchers studied tiny grains of rock to determine their hydrothermal origins at the core of the icy moon
 date: "2015-03-20 00:54:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503200053-cj914-enceladus-geysers.jpg"
 image_caption: "This cutaway image shows an artist's impression of the ocean under Enceladus' icy crust"
 headline: true
 featured: true

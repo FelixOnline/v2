@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Salaries revealed. Sort of.
 date: "2013-03-15 00:34:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150034-tna08-money.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150034-tna08-money.jpg"
 headline: true
 featured: true
 imported: true

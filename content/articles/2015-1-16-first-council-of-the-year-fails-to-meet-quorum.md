@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Members to vote on papers via email instead
 date: "2015-01-16 13:02:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161302-ps3110-dining-hall-2.jpg"
 headline: true
 featured: true
 imported: true

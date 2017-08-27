@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah recaps some of the last month’s news stories
 date: "2015-04-30 22:58:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
 headline: true
 featured: true
 imported: true

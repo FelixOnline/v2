@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Keir Little wishes a legendary game a very happy birthday
 date: "2011-11-17 20:50:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172049-pk1811-5897451.jpg"
 image_caption: "Rolling hills and sweeping valleys compose the pristine landscape"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ You’ve been told this time and time before, I bet, but you really are quite li
 
 You were quickly becoming what we all wanted: creative, yet challenging; stimulating, satisfying, and sometimes scary. When you grew infinite worlds, I saw that your father had something to be truly proud of. That’s when I handed over my money, to make sure he’d raise you well. Of course, you were worth only €10 back then.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111172050-pk1811-minecraft_creepers_by_kikariz-d37b0nd.jpg" title="A time to forgive and forget" caption="A time to forgive and forget" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111172050-pk1811-minecraft_creepers_by_kikariz-d37b0nd.jpg" title="A time to forgive and forget" caption="A time to forgive and forget" attr="" >}}
 
 You grew so quickly over the next year, and I was with you every step of the way. You flourished, taunting me over exam time, rewarding me during boring summer days. You stretched my creativity, my spirit for adventure, and together we explored deep, dark caves for their treasures, and made beautiful creations.
 

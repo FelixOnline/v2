@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ali Jawad on the lack of human rights in Gaza
 date: "2010-01-22 13:26:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201001221324-rsp07-comment.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001221324-rsp07-comment.jpg"
 headline: true
 featured: true
 imported: true

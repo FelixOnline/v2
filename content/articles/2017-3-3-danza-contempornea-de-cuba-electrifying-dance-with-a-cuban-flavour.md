@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Danza Contemporánea de Cuba was on at the Barbican on the 23rd February
 date: "2017-03-03 15:20:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
 image_caption: "Danza Contemporánea de Cuba's production of Theo Clinkard's The Listening Room"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kelly Oakes reports on a possible cause of falling bee numbers
 date: "2012-05-25 18:42:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251941-mc4509-s4.jpg"
 image_caption: "97% of wildflower meadows have been lost over the past 60 years, adding to the decline of bees"
 headline: true
 featured: true

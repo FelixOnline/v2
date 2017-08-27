@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anonymous explores a secret operatic world previously out of reach
 date: "2015-03-25 12:43:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251242-ff712-51a.jpg"
 image_caption: "About Yellow, Bridget Riley, 2013-2014, Oil on linen"
 headline: true
 featured: true

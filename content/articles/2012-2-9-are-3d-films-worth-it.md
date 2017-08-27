@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matthew Colvin is not convinced by the latest Hollywood invention
 date: "2012-02-09 23:11:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092310-ams111-star-wars-poster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092310-ams111-star-wars-poster.jpg"
 image_caption: "Even the great Yoda cannot escape this 3D craze – his force clearly wasn’t strong enough"
 headline: true
 featured: true

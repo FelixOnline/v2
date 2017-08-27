@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reports on the caffeine-fuelled epic that was MTSoc’s Autumn season
 date: "2014-12-11 21:23:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112123-cj914-mtsoc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112123-cj914-mtsoc.jpg"
 image_caption: "The cast relax during a break in rehearsal."
 headline: true
 featured: true

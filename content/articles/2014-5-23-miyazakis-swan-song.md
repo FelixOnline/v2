@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Over the last decade, ever since Spirited Away rocked the box office and became the highest grossing Japanese film in history, the release of a new Studio Ghibli film has become something of ‘An Event’, bringing with it a whirlwind of excitement and speculation.
 date: "2014-05-23 14:13:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201405231513-jal08-the-wind-rises-3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405231513-jal08-the-wind-rises-3.jpg"
 headline: true
 featured: true
 imported: true

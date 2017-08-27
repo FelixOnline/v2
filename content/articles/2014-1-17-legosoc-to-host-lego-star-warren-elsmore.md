@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If you ever wondered how giant LEGO models are made, Warren Elsmore’s book Brick City shows you how!
 date: "2014-01-17 03:13:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201401170314-jal08-news_warren-elsmore-with-lego-westminster-abbey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401170314-jal08-news_warren-elsmore-with-lego-westminster-abbey.jpg"
 image_caption: "Warren Elsmore's Westminister Abbey"
 headline: true
 featured: true

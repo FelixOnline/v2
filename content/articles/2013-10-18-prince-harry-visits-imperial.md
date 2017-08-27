@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
 image_caption: "Prince Harry in the Centre for Blast Injury Studies"
 headline: true
 featured: true

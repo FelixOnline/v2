@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The lockers on Sherfield Walkway will be available later in the term
 date: "2015-05-14 22:21:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
 image_caption: "The new lockers on the walkway"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the honours system is scrapped, Felix asks whether Imperial could follow suit
 date: "2011-10-13 20:33:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201110141044-felix-front-page-photo_3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110141044-felix-front-page-photo_3.jpg"
 image_caption: "University College London's new proposals have seen support from some academics at Imperial"
 headline: true
 featured: true

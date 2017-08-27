@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Job interviews need an overhaul
 date: "2012-02-02 23:39:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022338-sjw209-jp-morgan.jpg"
 image_caption: "You think JP Morgan interviews are bad, you should do one for the Daily Mail"
 headline: true
 featured: true

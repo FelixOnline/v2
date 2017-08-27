@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Former Pakistani President said to be insulted by College restrictions
 date: "2011-06-09 21:16:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021915-felix-musharraf.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent caught up with the winners on results night
 date: "2015-03-19 23:44:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192344-cj914-election-sabbs.jpg"
 image_caption: "Next year’s Officer Trustees celebrate on the Metric stage"
 headline: true
 featured: true

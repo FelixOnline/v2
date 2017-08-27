@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews the Californian band’s recent Birthday’s gig
 date: "2014-05-02 01:24:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020225-jal08-seahaven.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020225-jal08-seahaven.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC Skydiving's Chair, Isaac Gentle, recaps on a rather awesome beginner wind tunnel trip
 date: "2012-11-01 22:31:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012231-tna08-skydivers1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012231-tna08-skydivers1.jpg"
 headline: true
 featured: true
 imported: true

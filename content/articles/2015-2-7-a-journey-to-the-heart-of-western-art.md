@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Blaise Verhasselt examines Rubens’ legacy at a new RA show
 date: "2015-02-07 19:02:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071902-ps3110-key-209-copya.jpg"
 image_caption: "Peter Paul Rubens, Tiger, Lion and Leopard Hunt, 1616"
 headline: true
 featured: true

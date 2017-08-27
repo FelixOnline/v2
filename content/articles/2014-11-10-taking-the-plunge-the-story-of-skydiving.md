@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonny Jackson describes the thrill of jumping out of a plane...
 date: "2014-11-10 22:07:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102207-ps3110-copy-of-ws1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102207-ps3110-copy-of-ws1.jpg"
 headline: true
 featured: true
 imported: true

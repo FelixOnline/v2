@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland explores what inspires us to seek out adventure
 date: "2015-06-20 17:30:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
 image_caption: "Alim Khan, Emir of Bukhara, 1911 by Sergei Prokudin-Gorskii"
 headline: true
 featured: true

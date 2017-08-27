@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A story of literal and figurative revolution
 date: "2017-05-25 12:42:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
 image_caption: "Billy Howle in the Life of Galileo at the Young Vic | Photo: Johan Persson"
 headline: true
 featured: true

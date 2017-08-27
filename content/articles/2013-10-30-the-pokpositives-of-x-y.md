@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pokémon X & Y saw the first ever simultaneous release of a Nintendo title worldwide.
 date: "2013-10-30 15:49:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201310301548-me1711-game_pleak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310301548-me1711-game_pleak.jpg"
 headline: true
 featured: true
 imported: true

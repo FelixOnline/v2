@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng on the ROH’s new ballet, based of Virginia Woolf’s work
 date: "2015-05-15 12:58:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
 image_caption: "A scene from The Royal Ballet’s Woolf Works"
 headline: true
 featured: true

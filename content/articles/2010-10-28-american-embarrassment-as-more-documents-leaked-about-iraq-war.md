@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From sexual assault to frozen funds, WikiLeaks is under attack from all sides, but will the whistleblower’s friend survive? Feroz Salam continues his investigation
 date: "2010-10-28 19:37:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282035-ks607-wikileak.jpg"
 headline: true
 featured: true
 imported: true

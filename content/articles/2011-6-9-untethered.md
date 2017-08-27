@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ;ouigiguui
 date: "2011-06-09 20:20:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092135-felix-img_0226.jpg"
 image_caption: "PhotoSoc/LeoSoc collaboration, Blyth Gallery, Spring 2011"
 headline: true
 featured: true

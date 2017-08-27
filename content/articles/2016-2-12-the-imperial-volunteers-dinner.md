@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Volunteering societies come together
 date: "2016-02-12 12:04:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
 image_caption: "PwC Presents: Volunteer Dinner organisational committee."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Reviewing the RA's latest exhibition
 date: "2016-10-10 14:57:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
 headline: true
 featured: true
 imported: true

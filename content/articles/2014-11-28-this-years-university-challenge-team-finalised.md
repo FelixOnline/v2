@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as the final team is chosen following weeks of quizzes
 date: "2014-11-28 00:32:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "It’s about companionship, loneliness and survival during tough, conservative times"
 date: "2012-03-15 20:45:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
 image_caption: "I don’t boil bunnies anymore! You must believe me!! I’m not crazy!!!"
 headline: true
 featured: true

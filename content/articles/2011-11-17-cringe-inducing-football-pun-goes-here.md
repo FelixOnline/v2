@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Carnochan kicks about some of his thoughts on Sports Interactive’s latest product, Football Manager 2012
 date: "2011-11-17 20:40:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172038-pk1811-football-manager-2012-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172038-pk1811-football-manager-2012-cover.jpg"
 headline: true
 featured: true
 imported: true
@@ -43,7 +43,7 @@ Up until recently the idea of interacting with players scared many users (“a d
 
 Whilst the new ‘Intelligent Interface’ may at first appear a bit crowded and overwhelming, once you have grown used to the extra information crammed into your screen you begin to wonder how you ever used to stay up till 3am playing without it. However, I have never liked the interactive media conferences and they remain as hopeless as ever with reactions from your players and the media either confusing or overdramatic, and although the novelty of storming out of a press conference for no apparent reason never ceases to amuse, this aspect of the game remains an unnecessary disruption between match days. Similarly, whilst the 3D graphics engine during matches has improved somewhat, I’ve never been convinced by it and couldn’t really care less if I can see Titus Bramble concede an own goal in improved animation. Call me old-fashioned, but I remember the days when I got by with commentary text only and the (epileptic fit inducing) flashing text of “GOAL FOR LAZIO!!!!!” sent me into howls of excitement. Whilst the 2D match engine was a revolutionary feature in FM05, the 3D view stills has the quality of a crappy 90s PS1 game and needs a bit of attention.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111172040-pk1811-fabio-capello.jpg" title="I was told this guy has something to do with football" caption="I was told this guy has something to do with football" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111172040-pk1811-fabio-capello.jpg" title="I was told this guy has something to do with football" caption="I was told this guy has something to do with football" attr="" >}}
 
 There are those who simply skim through a season in a day, only ever distracted from match days with the occasional headline transfer, yet this type of user does the game a disservice and fails to experience the microscopic depth of control available as the most acute details can make or break a season. It is not until you fully immerse yourself into the game and begin organising your team’s training schedule, choreographing your team’s set-pieces and start buying unknown Brazilian seventeen year olds, that you can truly experience FM at its best. Some say that this sort management sim is nothing more than dull spreadsheets and numbers, but these morons have no imagination and can fuck off back to playing Mario Kart. Where Football Manager succeeds is that unlike almost every other game there are an infinite amount of career paths and gameplay is not bound by specific missions or tasks – in FM you are completely free to roam the football world as you please. Whether it be showing Mourinho how it is done at Real Madrid; overhauling the likes of Yeovil Town with a bunch of skinny Romanian under-21s, or emigrating to Jamaica and bringing the World Cup trophy to the Caribbean, life as a Football Manager addict looks set to continue.
 

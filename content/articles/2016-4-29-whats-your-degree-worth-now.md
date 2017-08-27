@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial is giving out more firsts and 2:1s than ever
 date: "2016-04-29 10:34:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291132-felix-hand.jpg"
 image_caption: "What did I freakin’ get?! "
 headline: true
 featured: true
@@ -44,7 +44,7 @@ No course has decreased in number of firsts and 2:1s awarded. Every course has i
 
 The effective tripling of fees for those who graduated after 2009 may mean that subsequent year groups took their degrees a little more seriously, and really felt the pressure to reach a safe 2:1 or get that holy grail first.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604291133-felix-graph final.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604291133-felix-graph final.png" title="" caption="" attr="" >}}
 
 It may help to look at the marking policy of the departments where the degrees awards hasn’t changed. Physics, for example, introduced a scaling algorithm back in 2009 to level the playing field. Part of the reason for scaling, in the department’s own words, is to “prevent the distribution of degree classes from changing unacceptably”. The algorithm was tested on past papers before being implemented, and should not nudge a student’s final degree classification up or down. The system is more a way to combat inconsistency in the difficulty of exams between years, rather than to bump up individual marks. The algorithm is complicated, kind of beautiful if you’re into that and is published on the physics department’s website. Physics has only seen an increase from 82% to 84% over five years, which in this case is statistically unexciting.
 

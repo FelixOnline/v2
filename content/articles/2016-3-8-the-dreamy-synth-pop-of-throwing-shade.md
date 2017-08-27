@@ -4,7 +4,7 @@ title: >
 subtitle: >
    Nabihah Iqba's latest EP is a hazy blur of sharp light and colour
 date: "2016-03-08 16:51:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201603081637-cet13-throwingshade.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603081637-cet13-throwingshade.jpg"
 image_caption: "The iridescent artwork of House of Silk. "
 headline: true
 featured: true

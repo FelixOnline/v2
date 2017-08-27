@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar"
 date: "2012-11-29 23:15:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292315-csw09-bike.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292315-csw09-bike.jpg"
 headline: true
 featured: true
 imported: true

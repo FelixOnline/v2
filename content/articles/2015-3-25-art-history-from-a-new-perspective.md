@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aleksandra Berditchevskaia goes behind the scenes at the all new View Art Festival
 date: "2015-03-25 13:08:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
 image_caption: "Wooden aircraft windtunnel model in the Science Museum’s Blythe House"
 headline: true
 featured: true

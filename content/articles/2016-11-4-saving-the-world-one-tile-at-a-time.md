@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why Elon Musk’s newest invention is smart, sexy and sustainable
 date: "2016-11-04 12:47:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041246-aib116-Roof types.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041246-aib116-Roof types.png"
 headline: true
 featured: true
 imported: true

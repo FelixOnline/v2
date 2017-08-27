@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at Tastes like Human: the latest book of humorous lists by ‘The Shark Guys’
 date: "2012-03-15 21:09:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152109-pk1811-tastes-like-human.png"
 headline: true
 featured: true
 imported: true

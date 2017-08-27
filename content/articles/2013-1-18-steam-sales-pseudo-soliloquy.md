@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica on “My Restraint” with foreword by Jeremy Pac-man
 date: "2013-01-18 00:48:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180047-tna08-sindexlocations.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180047-tna08-sindexlocations.jpg"
 image_caption: "Single rainbow all the way!"
 headline: true
 featured: true
@@ -38,7 +38,7 @@ I started with Bastion, the game that prompted my change of policy on falling fo
 
 I then had to tackle Oblivion, the Eater of Time. In my folly, I had purchased the super ultra deluxe collector’s limited edition, with a bunch more missions and an entire extra region. Though I usually try to finish all games in their entirety, I had to drastically reconsider my definition of completion, or I would get mired in endless fetch quests. I powered through the main missions, which were monumentally disappointing: virtually indistinguishable from the other quests, they had more scripted scenes and a bombastic tone that failed to deliver. I didn’t really believe we were all going to die at the hand of a demon any moment now, when I’d spent the last in-game month running errands for various people. It was a problem of Morrowind before it, and I suspect of Skyrim as well, though I haven’t played it. A greater sense of urgency would help with the narrative.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180048-tna08-bastioncoverwallpaper3.jpg" title="This was the look on my face, when I was told there wasn’t going to be a Bastion sequel. :(" caption="This was the look on my face, when I was told there wasn’t going to be a Bastion sequel. :(" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180048-tna08-bastioncoverwallpaper3.jpg" title="This was the look on my face, when I was told there wasn’t going to be a Bastion sequel. :(" caption="This was the look on my face, when I was told there wasn’t going to be a Bastion sequel. :(" attr="" >}}
 
 I then finished Mass Effect, which had been in my library for years and which I went through in a couple of hours when I managed to tear myself from the preconception that I should go for 100% completion. It is a hard habit to kick, though: both Assassin’s Creed II and Far Cry II are still in need of some more playing, despite the fact that it would take maybe a day at most. It’s those damn collectibles: pointless, idiotic baubles that are infuriatingly hard to find and add nothing. If I don’t retrieve them all, my OCD tendencies will twitch; if I do by looking at an online walkthrough, I’ll grumble at myself for giving up; if I actually manage to find them all, I’ll cry at how I was manipulated and how much time I wasted.
 

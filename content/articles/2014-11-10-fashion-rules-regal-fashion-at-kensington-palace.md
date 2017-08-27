@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nam Cheah reviews the exhibition showcasing gowns worn by royals
 date: "2014-11-10 21:40:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102139-ps3110-20131123_144446.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102139-ps3110-20131123_144446.jpeg"
 headline: true
 featured: true
 imported: true

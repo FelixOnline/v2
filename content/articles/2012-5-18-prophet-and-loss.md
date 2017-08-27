@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taiba Suddek talks to Hassan Abdulrazzak, one of IC’s own, about his new play exploring the Arab Spring
 date: "2012-05-18 15:49:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181649-felix-hassan+abdulrazzak.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181649-felix-hassan+abdulrazzak.jpeg"
 image_caption: "Dr. Hassan Abdulrazzak"
 headline: true
 featured: true

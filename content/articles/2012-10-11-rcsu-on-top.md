@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Plabon Saha says: seriously, we stole everyone’s shit
 date: "2012-10-11 20:49:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201210161532-felix-plabon-mascot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210161532-felix-plabon-mascot.jpg"
 headline: true
 featured: true
 imported: true

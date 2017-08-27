@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Individuals need to band together to help solve teaching
 date: "2012-01-26 23:05:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
 image_caption: "Samuel L. Jackson in Coach Carter, perhaps the most inspirational teacher ever?"
 headline: true
 featured: true

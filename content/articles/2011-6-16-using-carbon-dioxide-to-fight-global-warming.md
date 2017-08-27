@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Novel technique uses liquid carbon to create electricity
 date: "2011-06-16 19:57:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
 image_caption: "Martin Saar"
 headline: true
 featured: true

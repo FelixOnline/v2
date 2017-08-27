@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographer’s Gallery to see what’s trendy
 date: "2014-11-06 21:28:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
 image_caption: "Vanity Fair, 1st February, 1924"
 headline: true
 featured: true

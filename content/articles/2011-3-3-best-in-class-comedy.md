@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucia Podhorksa tells us about Friends, geeks and talk-show psychiatrists
 date: "2011-03-03 06:13:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030610-ks607-bigbangt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030610-ks607-bigbangt.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Maxey looks at the past and present of Zynga
 date: "2012-03-15 19:32:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151932-pk1811-zynga-games.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151932-pk1811-zynga-games.jpg"
 image_caption: "Zynga are responsible for many of the most popular games on Facebook"
 headline: true
 featured: true

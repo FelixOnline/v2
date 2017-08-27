@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett looks at the controversial bill that may be a threat to free speech in universities
 date: "2015-02-05 23:40:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
 headline: true
 featured: true
 imported: true

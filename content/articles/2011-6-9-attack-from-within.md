@@ -4,7 +4,7 @@ title: >
 subtitle: >
   aaedfaefadf
 date: "2011-06-09 20:31:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092131-felix-rafaels.jpg"
 headline: true
 featured: true
 imported: true
@@ -43,7 +43,7 @@ Returning to the corridor to clean up the mess, she reached for the light switch
 
 The ceilings in their Victorian house were unusually high, and Sophie was quite short for her age. Normally, changing a light bulb would have been in the realms of dad-territory, just like mowing the lawn or accompanying mum to the hospital had been. Circumstances, however, have the frustrating ability to change on you with very little notice. Dad was no longer here and so, once again, the burden would have to fall on her. There were no spare bulbs in the house and she couldn’t really be bothered to run to the shops to get more. She had already replaced two bulbs this week, and money was pretty tight these days anyway. Her father’s cheques might come as regular as clockwork, but they were small, and could barely meet the household’s monthly obligations, certainly not any frivolous expenses like reliable artificial illumination.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201106092132-felix-janeseok2.jpg" title="" caption="" attr="Credit: Jane Seok" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201106092132-felix-janeseok2.jpg" title="" caption="" attr="Credit: Jane Seok" >}}
 
 Wandering into the kitchen, she walked over to the windowsill and turned the radio up again. Sophie liked the radio, it was comforting; a character always ready to entertain her when she was bored, a presence to accompany her when she was lonely. Her father, many years ago now, had explained how it worked. How electromagnetic waves could, invisibly, carry a voice, uttered hundreds of miles away, through the air to be decoded by this small box on the window sill. It was fascinating. And, moreover, how these radio waves were made of the same thing as light, so even in the darkest room one might be illuminated by the soft, comforting voice of a stranger.
 

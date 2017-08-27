@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Bhanot explores what the term ‘jazz’ really means to us today
 date: "2015-03-25 12:26:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251225-ff712-oscar-peterson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251225-ff712-oscar-peterson.jpg"
 image_caption: "Oscar Peterson"
 headline: true
 featured: true

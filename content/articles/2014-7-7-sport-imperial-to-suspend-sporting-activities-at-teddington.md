@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What does the future hold for both Teddington and the future of medical sports participation?
 date: "2014-07-07 11:12:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201407071231-jal08-teddington-.jpg"
 headline: true
 featured: true
 imported: true

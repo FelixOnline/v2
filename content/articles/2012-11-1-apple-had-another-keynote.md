@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Eggl looks at Apple’s latest expected and unexpected products
 date: "2012-11-01 22:40:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ Tim Cook came on stage, and like all previous keynotes spouted off facts and fig
 “mapgate” and “scuffgate”, iMessage “300 Billion messages sent” and Game Centre “160 million accounts” were all mentioned, as well as a few more. These stats are quite amazing, however, they have to be taken with a pinch of salt, as Apple will not really brag about their not-so-amazing figures would they.
 ## iBooks
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021608-tna08-ibooks_screenshot.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021608-tna08-ibooks_screenshot.png" title="" caption="" attr="" >}}
 
 For all those who read on their iOS devices, Apple has brought out a new version of iBooks (which now has more than 1.5 million books). The new features include: a scrolling option for easier reading,
 
@@ -43,7 +43,7 @@ For all those who read on their iOS devices, Apple has brought out a new version
 better integration with iCloud directly in the bookshelf, easy-to-use Twitter and Facebook sharing as well as supporting new languages like Korean, Japanese etc. The download of iBooks is free, meaning there is no reason not to upgrade other than being lazy.
 ## MacBook
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021609-tna08-macbook-pro-13-inch-retina.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021609-tna08-macbook-pro-13-inch-retina.jpeg" title="" caption="" attr="" >}}
 
 After having put Retina display on the MacBook Pro 15”, the MacBook Pro 13” now finally has also gotten the upgrade to the beautiful display. The 13” (Macbook Pro) also has other significant differences from the previous version, e.g. it has been made 20% thinner as well as almost half a kilogram lighter. Apple has continued with their movement into cloud storage and has also removed
 
@@ -52,7 +52,7 @@ After having put Retina display on the MacBook Pro 15”, the MacBook Pro 13” 
 the optical drive on the Macbook Pro (meaning no CD/DVD’s for all the retro oldies/hipsters who still use them). The 13” (penis MacBook Pro) has the same features that the new 15” has as well, so you can expect AirPlay, documents in the cloud and Power Nap. Although it is £500 cheaper than its bigger brother, £999 for the cheapest model is still quite expensive. The question is, when price isn’t a crucial factor, who would want the MacBook Air with this new Pro out?
 ## Mac mini
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021610-tna08-overview_hero.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021610-tna08-overview_hero.jpeg" title="" caption="" attr="" >}}
 
 The first of the two minis mentioned in this keynote, the Mac mini is Apple’s budget computer and it has finally seen an overdue upgrade. Hardware-wise, the Mac mini now has ivy bridge chips, Intel
 
@@ -61,7 +61,7 @@ The first of the two minis mentioned in this keynote, the Mac mini is Apple’s 
 HD graphics, WiFi, three USB 3 ports as well as a thunderbolt port. The different variations range from 500GB to 2 TB of HDD memory and the higher end version can be a OS X server, which all in all makes this quite a nice desktop to own.
 ## iMac
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021611-tna08-hero.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021611-tna08-hero.png" title="" caption="" attr="" >}}
 
 After an extremely long time and lots of moaning by iMac users, Apple finally updated the flagship of its Mac range. Incredibly thin (at just 5 mm) and light (shedding 3.6 kilos compared to the previous model) it’s hard to believe that such a powerful computer can be encompassed within. The screen has now been laminated directly onto the outer glass and it’s 75% less reflective than the previous
 
@@ -70,7 +70,7 @@ After an extremely long time and lots of moaning by iMac users, Apple finally up
 iteration. There is also now a HD FaceTime camera, with dual microphones, to make Skype/FaceTime calls that bit sharper and clearer. The new iMac also has Ivy bridge processors up to 32GB RAM as well as 3TB of HDD memory. Like the new MacBook Pro though, there is no optical drive, so once again you are limited to a SD card Reader, USB ports and Thunderbolt. Something new that’s quite exciting though is Apple’s Fusion Drive. As the name suggests it is a fusion between Flash and HDD, allowing for the good performance of flash-based storage with the storage size of hard disk drives.
 ## iPad (the big one)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021612-tna08-apple-ipad.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021612-tna08-apple-ipad.jpeg" title="" caption="" attr="" >}}
 
 Just six months after releasing the 3rd generation iPad, Apple has pretty much screwed over all their customers who bought one (or more). This is because of the release of a brand spanking new iPad, with the new lightning connector, better processor as well as better graphics. This has pretty much
 
@@ -79,7 +79,7 @@ Just six months after releasing the 3rd generation iPad, Apple has pretty much s
 made the 3rd generation as obsolete as the iPhone 4. The price is just the same as before, so if you didn’t flinch and buy the iPad (3rd generation) early, this might be a good buy for you. For all the rest of you, who are annoyed at Apple’s uncaring attitude, tough luck and better luck next time?
 ## iPad mini
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211021612-tna08-ipad-mini-apple.jpeg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211021612-tna08-ipad-mini-apple.jpeg" title="" caption="" attr="" >}}
 
 The mini pretty much came out as expected, and we did do a rumour round-up a two weeks ago (have a read online if you want), but for all you people who didn’t read that article, here is a short summary of what happened. The iPad mini is a 7.9” tablet that you can hold in one hand. It is as thin
 

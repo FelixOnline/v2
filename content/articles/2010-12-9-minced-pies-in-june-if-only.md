@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Why don’t we celebrate Christmas the whole year?”, asks Rhys
 date: "2010-12-09 21:37:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182211-ks607-rhysdavi.jpg"
 headline: true
 featured: true
 imported: true

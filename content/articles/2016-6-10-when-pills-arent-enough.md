@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Wellcome Book Prize celebrates the interdependency of literature and medicine
 date: "2016-06-10 08:33:24 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
 headline: true
 featured: true
 imported: true

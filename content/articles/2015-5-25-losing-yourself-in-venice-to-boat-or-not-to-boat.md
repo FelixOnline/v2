@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her tip for navigating the city of water
 date: "2015-05-25 12:59:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505251358-ync111-p1100656.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Steak, football and beer - a student’s every need fulfilled
 date: "2010-11-11 21:10:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112107-nm1010-broadway.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112107-nm1010-broadway.jpg"
 headline: true
 featured: true
 imported: true

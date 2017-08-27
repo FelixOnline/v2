@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The government’s white paper on higher education is out and it’s official, fees won’t stay at nine grand
 date: "2016-05-20 08:48:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201048-felix-jo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201048-felix-jo.jpg"
 image_caption: "Jo Johnson – who’s raising fees, renaming Boaty McBoatface and is Boris’ brother."
 headline: true
 featured: true

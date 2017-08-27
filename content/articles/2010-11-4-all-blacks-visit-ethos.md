@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New Zealand Rugby team use Sports Imperial facilities
 date: "2010-11-04 18:42:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041840-ks607-allblack.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041840-ks607-allblack.jpg"
 headline: true
 featured: true
 imported: true

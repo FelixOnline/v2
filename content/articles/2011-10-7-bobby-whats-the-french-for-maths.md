@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The worlds of mathematics and art collide at a not-so-novel Parisian exhibition
 date: "2011-10-07 10:31:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071130-felix-patti-smith.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071130-felix-patti-smith.jpg"
 image_caption: "Patti Smith thinking about Poincaré homology spheres. Probably"
 headline: true
 featured: true

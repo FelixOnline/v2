@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fencing grab the gold(s)
 date: "2010-01-14 19:24:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141921-rsp07-fencing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141921-rsp07-fencing.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the last Wellbeing section, I wrote about my experience with recovering from depression. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.
 date: "2014-05-02 00:59:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020159-jal08-11depression.jpg"
 image_caption: "A demonstration of how not to help a friend who is suffering with depression."
 headline: true
 featured: true

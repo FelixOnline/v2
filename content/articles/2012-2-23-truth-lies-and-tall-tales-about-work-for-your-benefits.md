@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232355-felix-workfare-cartoon.jpg"
 image_caption: "A cartoon demonstrating the popular perception of workfare"
 headline: true
 featured: true
@@ -78,7 +78,7 @@ It is disconcertingly easy to describe all three kinds of work experience as “
 
 The advisers’ authority is also worth questioning. In all these cases an adviser has the power to force someone to work, even when, as with Cait Reilly, the work spoils their future prospects. The MWA regulations tell us where this authority comes from: the power to force someone to work “may be exercised by, or by employees of, such person (if any) as may be authorised by the Secretary of State.” Up until now, I had believed that the advisers were employed by the state as civil servants: I was wrong.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232357-felix-screen-shot-2012-02-23-at-23.56.30.jpg" title="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" caption="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" attr="Credit: Veronika McQuade" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232357-felix-screen-shot-2012-02-23-at-23.56.30.jpg" title="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" caption="Graph showing Mandatory Work Activity (MWA) referrals as a percentage of the total, compared with Work Experience (WE). A sharp increase in September 2011 coincides with the privatisation of Jobcentre Plus" attr="Credit: Veronika McQuade" >}}
 
 The Job Centre Myth
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Meredith Thomas interviews Jennifer Louise Martin on the male gaze
 date: "2013-06-05 19:00:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306052000-tna08-file_193_11.jpg"
 headline: true
 featured: true
 imported: true
@@ -68,7 +68,7 @@ M: How do you start a painting?
 
 J: I look at the image for quite a long time. I will absorb the colours straight away, I will immediately know my colour palette. As you can see I use a lot of tones of the same colour. I like to add depth to give the image some kind of story, it adds a personality to the model, there is a story behind her, sort of paralysed by perfection. You can see they are pensive, or thinking. There is this kind off destructive self. That is what I am thinking while I am painting which is why you get this challenging aspect to the painting.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306052000-tna08-jennifer-martin-dash-magazine-1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306052000-tna08-jennifer-martin-dash-magazine-1.jpg" title="" caption="" attr="" >}}
 
 M: So thereis an element of empathising with the subject, even through so many layers of paint and another persons lens?
 

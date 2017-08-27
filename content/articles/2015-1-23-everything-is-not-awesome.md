@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman reports back from Hollywood
 date: "2015-01-23 17:29:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charlie Owen discusses why one class of creature shuns sex
 date: "2012-11-22 23:28:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222329-tna08-bdelloids.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222329-tna08-bdelloids.jpg"
 headline: true
 featured: true
 imported: true

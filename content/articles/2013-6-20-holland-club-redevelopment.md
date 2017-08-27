@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This year the Holland Club was closed, much to the annoyance of many staff and postgraduates. I take a tour of the redevelopment
 date: "2013-06-20 23:47:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210048-tna08-hc2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210048-tna08-hc2.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ First of all, the entire inside has been stripped down to the bare bones. The in
 
 The Project Manager explains where everything used to be and what the current plan is. He has given up his time and ensured the space is safe for us to look around, and for that I am grateful. The entire layout will be flexible allowing it to be multifunctional.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210046-tna08-hc-floor-plan.jpg" title="A floor plan of the layout of the space" caption="A floor plan of the layout of the space" attr="Credit: Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210046-tna08-hc-floor-plan.jpg" title="A floor plan of the layout of the space" caption="A floor plan of the layout of the space" attr="Credit: Imperial College London" >}}
 
 The layout that patrons of theHolland Club remember will not remain the same. The bar counter will be moved to the side that is straight in front of you as you walk in. Perhaps the largest change is that there will be a divider, which will allow for the aforementioned multifunctionality, about half way across the room. The room will be primarily an open space, however there will be the ability for the room to be divided when needed. What could be worrying about this is it being always left in just one position and so being obsolete – it would be quite an effort to always be opening and closing it. The main access point will be moved to inside the Sherfield building, and the current entrance will serve as a fire exit.
 
@@ -41,13 +41,13 @@ There are also extensive renovation works being done on the space in general. Th
 
 This isn’t all that is going on. There will be new activity spaces in the basement, which can be booked by postgraduates. At the moment I couldn’t be taken down to see them as they are still being worked on extensively. The redevelopment of the Holland Club is part of a bigger project to redevelop Sherfield Level 0. Perhaps this hints that the decision was already made well before the campaign to save the Club. This could be supported by the fact that members of Properties Management and Campus (formerly Commercial) Services werefound looking around at 7am before the space had been put out to tender; they said it was to update records, which is normally done at 7am without asking anyone’s permission I assume...
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210045-tna08-roughsketch.jpg" title="An architect’s image of an example layout of the Holland Club space" caption="An architect’s image of an example layout of the Holland Club space" attr="Credit: Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210045-tna08-roughsketch.jpg" title="An architect’s image of an example layout of the Holland Club space" caption="An architect’s image of an example layout of the Holland Club space" attr="Credit: Imperial College London" >}}
 
 I do get the sense that there are people who are working hard to make sure this is a going to be a great space that postgraduates can enjoy. They do seem to be thinking about what will be a good facility, and so it doesn’t look like it will be all doom and gloom. They stress to me that the priority is to make an attractive facility for staff and postgraduates.
 
 It is just a shame that the Holland Club couldn’t have allowed to keep running the bar, and generally a bit more involved in the process. Saying that, the mood boards reflect that a pub feel is wanted and there has been involvement from the GSA and the Union.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210047-tna08-sherfield-fp.jpg" title="A floor plan of Sherfield" caption="A floor plan of Sherfield" attr="Credit: Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210047-tna08-sherfield-fp.jpg" title="A floor plan of Sherfield" caption="A floor plan of Sherfield" attr="Credit: Imperial College London" >}}
 
 Holland Club Closure
 
@@ -57,6 +57,6 @@ Last academic year, the space that the Holland Club occupied was [put out to ten
 
 Holland Club now
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210045-tna08-hc-.jpg" title="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" caption="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" attr="Credit: Photo credit: Save The Holland Club Facebook Page" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210045-tna08-hc-.jpg" title="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" caption="The pub that Kevin Young, the Holland Club Manager, has opened in Spain" attr="Credit: Photo credit: Save The Holland Club Facebook Page" >}}
 
 The Holland Club was essentially a bar and not a club or society. This means that taking away its only facility could have made it no longer exist. It was self governed and run on a not-for-profit model. The Club has moved locations before, but College refused to find it space, saying it could book space like any other club. Of course they would need something that is completely different from other clubs’ booking needs (a dedicated bar area etc) as they were a club whose raison d’être was a friendly pub for staff and postgraduates to relax in. Kevin Young, the bar manager who is affectionately known as Kev, has since started a pub in Spain. The Holland Club has also been on tour, taking over various pubs in the South Kensington area.

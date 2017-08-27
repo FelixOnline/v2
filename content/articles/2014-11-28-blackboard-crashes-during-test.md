@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thomas Lim reports as 450 students are left "confused and frustrated"
 date: "2014-11-28 00:43:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280043-kmw13-img1383.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280043-kmw13-img1383.jpg"
 headline: true
 featured: true
 imported: true

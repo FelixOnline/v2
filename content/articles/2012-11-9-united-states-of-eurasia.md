@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The college’s Europe-centric approach to overseas study is something we should change.
 date: "2012-11-09 12:07:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091207-tna08-european_union_map.jpeg"
 headline: true
 featured: true
 imported: true

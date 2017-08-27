@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171436-felix-Screen Shot 2017-02-17 at 14.35.53.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171436-felix-Screen Shot 2017-02-17 at 14.35.53.png"
 headline: true
 featured: true
 imported: true

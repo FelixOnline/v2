@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is horrified and awed by this display of Goya’s lost album
 date: "2015-03-25 13:11:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
 image_caption: "Regozijo (Mirth), red chalk and scraping. 237 x 148mm. Francisco Goya (1746-1828)"
 headline: true
 featured: true

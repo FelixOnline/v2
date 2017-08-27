@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get ready Imperial – it’s going to be a cheesy weekend!
 date: "2011-10-13 23:41:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
 image_caption: "A whole festival based around cheese and wine? Better brie-lieve it"
 headline: true
 featured: true

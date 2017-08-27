@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Butcher offers his opinion on the cuts in amenities funds.
 date: "2014-10-17 15:24:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201411102234-ps3110-aj532146_429long.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102234-ps3110-aj532146_429long.jpg"
 headline: true
 featured: true
 imported: true

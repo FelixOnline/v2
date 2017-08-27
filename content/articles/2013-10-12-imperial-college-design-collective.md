@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Guillaume Valla on IC’s hidden group of designers
 date: "2013-10-12 20:10:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122110-jal08-imperial-design-collective.png"
 headline: true
 featured: true
 imported: true

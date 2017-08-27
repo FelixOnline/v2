@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Five Imperial students will take to the road this summer in an alternative road trip
 date: "2012-03-15 21:04:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
 image_caption: "Sure, it’s all smiles now, but there are camels to face"
 headline: true
 featured: true

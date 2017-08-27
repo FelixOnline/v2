@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah ponders “ladies who (liquid) lunch” this winter
 date: "2012-11-15 22:00:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152201-tna08-rgbfood.jpg"
 headline: true
 featured: true
 imported: true

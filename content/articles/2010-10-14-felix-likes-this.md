@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Social Network is a contemporary tale of friendship, jealousy, betrayal and – above all – ambition
 date: "2010-10-14 19:58:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142053-nm1010-zuckerbe.jpg"
 image_caption: "Justin Timberlake is actually quite good in The Social Network. Who would have thought?"
 headline: true
 featured: true

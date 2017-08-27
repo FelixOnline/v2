@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Whip out your scalpel and forceps in Surgery Simulator
 date: "2011-03-21 11:58:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201103211156-ks607-surgerys.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103211156-ks607-surgerys.jpg"
 image_caption: "I think I'll perform this triple bypass with the rubber glove and a long black cloak..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nathaniel Gallop on why losing control in US Politics can be good
 date: "2014-11-06 18:40:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
 headline: true
 featured: true
 imported: true

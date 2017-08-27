@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anastasia Eleftheriou pays a visit to Los Locos
 date: "2011-06-23 21:18:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232218-felix-bar_small-(1).jpg"
 headline: true
 featured: true
 imported: true

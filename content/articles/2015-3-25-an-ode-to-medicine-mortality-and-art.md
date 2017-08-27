@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251239-ff712-t07009_10.jpg"
 image_caption: "The Scalpel 2, Barbara Hepworth, 1949"
 headline: true
 featured: true

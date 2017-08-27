@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deepka Rana and George Howard came to the Leonardo exhibition, had a look around then, err, wrote a review, unearthing a few conspiracy theories along the way
 date: "2012-02-09 22:28:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
 image_caption: "The consumer response to the release of the Samsung Galaxy Tab didn’t match that of its competitors"
 headline: true
 featured: true
@@ -39,7 +39,7 @@ The selected works, shown under the title of Painter at the Court of Milan chron
 
 It was almost reassuring to find that, even for a master craftsman like Da Vinci, the mantra of ‘practice makes perfect’ still holds. Adorning many walls was a wide selection of comparatively small sketches or ‘studies’, most of which are part of the Royal Collection, on loan from Her Majesty the Queen. Leonardo used these to practice the many intricate details of his paintings before beginning the actual piece. The importance of these studies can truly be appreciated as the exhibition continues from room to room. Rough sketches such as those of human hands, a woman’s head from varying angles and the paws of an animal are just a few examples; placed later into a final painting, the sketches give a sense of déjà vu when viewing the final piece for the first time. These paintings were not created in flashes of inspiration, but were the product of years of study in the pursuit of perfection.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202092227-cac111-article-0-01fbb83600000578-259_233x423_popup.jpg" title="He knows" caption="He knows" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202092227-cac111-article-0-01fbb83600000578-259_233x423_popup.jpg" title="He knows" caption="He knows" attr="" >}}
 
 In fact perfection, and in particular idealised beauty, was another theme that ran throughout this particular selection of pieces, and indeed through all of da Vinci’s work. In his portrayal of women, such as Cecilia (Sforza’s long term mistress) in ‘Lady with an Ermine’, da Vinci gives the subjects such perfect features that it was often questionable whether he actually paid much heed to the sitter’s true form. This idealisation was fuelled in part by the belief that outer beauty reflected the virtue within a person. In fact the portrait of Cecilia was deemed so beautiful that it moved Bellincinio, a court poet, to write a poem about it, displayed in the exhibition adjacent to the painting itself.
 

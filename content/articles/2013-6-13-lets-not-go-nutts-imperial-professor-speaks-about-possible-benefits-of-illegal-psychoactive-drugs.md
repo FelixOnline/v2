@@ -4,7 +4,7 @@ title: >
 subtitle: >
   But is the government suppressing research? Philippa Skett takes a look at Nutt’s latest paper
 date: "2013-06-13 22:44:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132343-tna08-mdma11.jpg"
 image_caption: "Psychostimulants such as MDMA could have health benefits, if we were actually trusted with these in "
 headline: true
 featured: true
@@ -40,7 +40,7 @@ Not only that, but with cannabis having known medicinal purposes and can be lega
 
 That is not to say we are faring any better across the pond – the UK too are appearing dismally incoherent when it comes to drug classification. Beyond the Class System used we too indulge in a Schedule-based approach that places cannabis, LSD, MDMA, and psilocybin above heroin in respect to the same sort of criteria the USA use, making heroin more accessible (if only by a fraction) for research than those that possess psychoactive properties.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306132344-tna08-dnutt.jpg" title="Professor Nutt looking down on those making the research laws, in a lab distincting lacking in LSD" caption="Professor Nutt looking down on those making the research laws, in a lab distincting lacking in LSD" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306132344-tna08-dnutt.jpg" title="Professor Nutt looking down on those making the research laws, in a lab distincting lacking in LSD" caption="Professor Nutt looking down on those making the research laws, in a lab distincting lacking in LSD" attr="" >}}
 
 Research that has managed to squeeze through the bars of bureaucracy has provided a great insight into what we are actually missing. Cannabinoid 1 receptors which respond to cannabis-derived compounds are incredibly widespread throughout the brain, and the inhibition of using cannabis in research is hindering the understanding of these.
 

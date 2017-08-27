@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290847-felix-businessschool.jpg"
 image_caption: "Imperial means (un)intelligent business."
 headline: true
 featured: true

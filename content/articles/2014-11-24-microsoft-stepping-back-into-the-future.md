@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chrysostomos Meli inspects just what has gone wrong with Windows over the years
 date: "2014-11-24 13:00:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201411241300-ps3110-steveballmer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411241300-ps3110-steveballmer.jpg"
 headline: true
 featured: true
 imported: true

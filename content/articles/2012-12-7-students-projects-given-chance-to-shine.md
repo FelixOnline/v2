@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giri Kesavan shares highlights from Imperial’s first ever CSR conference
 date: "2012-12-07 02:16:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070209-tna08-article_csr-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070209-tna08-article_csr-copy.jpg"
 headline: true
 featured: true
 imported: true

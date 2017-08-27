@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian takes a look at the latest developments in quantum systems
 date: "2011-11-17 20:30:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172030-pk1811-nvcenter.jpg"
 image_caption: "An individual nitrogen vacancy centre in diamond can be used as a Qubit"
 headline: true
 featured: true

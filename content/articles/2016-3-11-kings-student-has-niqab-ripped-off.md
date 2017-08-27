@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two men used “racially aggravated language” at Discover Islam stall before assault
 date: "2016-03-11 11:24:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111124-felix-Screen Shot 2016-03-10 at 12.12.44.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111124-felix-Screen Shot 2016-03-10 at 12.12.44.png"
 image_caption: "An extract from the letter to the Principal. "
 headline: true
 featured: true

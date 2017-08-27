@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A mixed experience at Fulham's Mediterranean-style sharing restaurant
 date: "2010-12-09 19:37:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012091934-ac1507-brasa.jpg"
 headline: true
 featured: true
 imported: true

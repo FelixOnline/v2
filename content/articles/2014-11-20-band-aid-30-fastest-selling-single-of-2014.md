@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202143-cj914-bandaid.jpg"
 image_caption: "Jessie Ware acts as a buffer between old flames Ed and Ellie. Awkward. L-R: (back row) Kyle and Will"
 headline: true
 featured: true

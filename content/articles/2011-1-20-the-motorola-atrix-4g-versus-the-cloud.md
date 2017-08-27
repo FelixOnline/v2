@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The device that rule them all, Motorola Atrix
 date: "2011-01-20 19:16:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201911-nm1010-atrixlap.jpg"
 headline: true
 featured: true
 imported: true

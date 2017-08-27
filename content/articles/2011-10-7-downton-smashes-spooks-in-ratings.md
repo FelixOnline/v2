@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Costume drama trounces MI5 in Sunday night ratings war
 date: "2011-10-07 12:49:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071348-felix-downton_abbey_season_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071348-felix-downton_abbey_season_2.jpg"
 image_caption: "It's cloudier than last year at Downton Abbey, but Sybil and Mary have become more bang tidy"
 headline: true
 featured: true

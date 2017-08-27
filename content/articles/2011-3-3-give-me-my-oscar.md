@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ed Knock examines what the Academy really looks for
 date: "2011-03-03 20:26:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032027-nm1010-departed.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032027-nm1010-departed.jpg"
 headline: true
 featured: true
 imported: true

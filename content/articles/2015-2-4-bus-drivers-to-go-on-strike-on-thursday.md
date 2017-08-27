@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students are advised to allow extra time for travelling to and from university.
 date: "2015-02-04 13:32:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502041332-kmw13-bus10.jpg"
 image_caption: "Commuters wait for a bus during last month's strikes"
 headline: true
 featured: true

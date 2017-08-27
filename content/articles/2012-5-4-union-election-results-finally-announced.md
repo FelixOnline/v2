@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Record turnout for Imperial as controversy and delays hit this year’s campaign trail
 date: "2012-05-04 01:26:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205040226-felix-sabbsphoto.jpg"
 image_caption: "Next year's Sabbatical team"
 headline: true
 featured: true

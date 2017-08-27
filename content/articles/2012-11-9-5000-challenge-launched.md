@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Open to many students to win the chance to develop a project further
 date: "2012-11-09 00:15:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211090015-tna08-marketing-challenge.jpg"
 headline: true
 featured: true
 imported: true

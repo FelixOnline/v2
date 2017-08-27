@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonny Pratt previews tomorrow’s Six Nations opener between England and Wales
 date: "2015-02-05 13:22:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502051322-kmw13-maxresdefault.jpg"
 image_caption: "The rivalry between England and Wales is fierce and steeped in tradition"
 headline: true
 featured: true

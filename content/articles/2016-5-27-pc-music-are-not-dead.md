@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pop Cosmos proves the collective are still kind of relevant
 date: "2016-05-27 08:58:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201605271058-felix-pcmusic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605271058-felix-pcmusic.jpg"
 image_caption: "Sometimes I wish PC Music were sent on a rocket into space, never to return. "
 headline: true
 featured: true

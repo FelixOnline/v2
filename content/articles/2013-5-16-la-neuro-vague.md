@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The title is a reference to Nouvelle Vague, I think. For more information on niche references, email arts.felix@imperial.ac.uk
 date: "2013-05-16 17:46:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
 headline: true
 featured: true
 imported: true

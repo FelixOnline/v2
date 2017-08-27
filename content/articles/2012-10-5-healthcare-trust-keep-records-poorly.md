@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Systematic errors found. Cancer patients details lost. Councils send letter to Trust Chair.
 date: "2012-10-05 15:50:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051650-felix-hammersmith_hospital.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051650-felix-hammersmith_hospital.jpg"
 image_caption: "Imperial College Health Care Trust operates hospitals including Hammersmith"
 headline: true
 featured: true

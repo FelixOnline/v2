@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular column on classic academy snubs you might have missed
 date: "2016-01-29 09:13:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290912-felix-EZlFQPT.gif"
 image_caption: "Better luck next time, hun."
 headline: true
 featured: true

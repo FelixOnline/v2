@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There are two proposals in the Immigration Bill in particular which affect international students...
 date: "2013-12-02 12:24:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201312031559-jal08-news_imbill.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201312031559-jal08-news_imbill.jpg"
 image_caption: "Imperial academics against the bill"
 headline: true
 featured: true

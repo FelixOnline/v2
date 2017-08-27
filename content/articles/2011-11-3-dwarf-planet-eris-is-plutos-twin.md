@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Further details on recently-discovered planet leads to familiar results
 date: "2011-11-03 19:47:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
 image_caption: "An artist’s impression of Eris and its moon, Dysnomia."
 headline: true
 featured: true

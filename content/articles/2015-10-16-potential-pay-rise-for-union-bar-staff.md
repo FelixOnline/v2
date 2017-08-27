@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union council asked about paying students the London Living Wage
 date: "2015-10-16 14:28:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
 headline: true
 featured: true
 imported: true

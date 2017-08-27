@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion
 date: "2011-01-27 20:20:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272019-ks607-rioriori.jpg"
 headline: true
 featured: true
 imported: true

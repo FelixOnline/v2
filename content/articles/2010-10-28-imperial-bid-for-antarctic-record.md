@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pioneering new vehicle set to beat the record for fastest journey to South Pole
 date: "2010-10-28 19:14:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282013-ks607-guyinthi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282013-ks607-guyinthi.jpg"
 image_caption: "David Pierson in the Winston Wong Bio-Inspired Ice Vehicle"
 headline: true
 featured: true

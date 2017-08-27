@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ed Hallett runs and cycles, presumably not while writing this article
 date: "2012-11-15 22:22:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152222-tna08-triathlon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152222-tna08-triathlon.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ Off went the horn, and the front of the pack shot off. Hendrik Frentrup, Keesjan
 
 The punishing blend of long rolling flats and small swerving up-hill slugs meant my legs were beginning to slow on the inclined sections of the track. By transition two (bike to run) I was knackered. I had made up a lot of places, but I had two people hot on my heels. Despite my best efforts they tracked me down and left me for lost before the finish line.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211152221-tna08-table-yah.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211152221-tna08-table-yah.jpg" title="" caption="" attr="" >}}
 
 We clapped in the remaining competitors, and the organisers wasted no time in preparing the podium ready to present the winning prizes. Imperial Triathlon had performed exceptionally, with four people in the top 10, Alex Milne with 4th place, Richard Mathie stealing 3rd, and Jean-Claude beasting in to take pole position, finishing 7 seconds ahead of second place. Sam O’Neill, who has continued with the club from last year, came in a notable 7th. A great result for the club, and a start that will be hard to rival.
 

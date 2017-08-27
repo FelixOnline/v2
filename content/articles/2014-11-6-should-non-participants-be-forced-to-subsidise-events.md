@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In response to ‘Yet another nail in the coffin of the student experience’ by George Butcher
 date: "2014-11-06 18:06:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-boat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102232-ps3110-boat.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This summer’s headline event showcases the work of artistic duos
 date: "2016-06-17 09:26:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201606171125-felix-ra5.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606171125-felix-ra5.jpg"
 image_caption: "Last year’s coordinator Michael Craig-Martin has his work on display. "
 headline: true
 featured: true

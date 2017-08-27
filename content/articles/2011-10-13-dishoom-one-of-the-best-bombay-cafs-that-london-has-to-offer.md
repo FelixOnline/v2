@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael and Anastasia review Leicester Square Indian restaurant Dishoom
 date: "2011-10-13 23:27:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140024-sjw209-dishoom2.jpg"
 image_caption: "Makes a change from KFC"
 headline: true
 featured: true

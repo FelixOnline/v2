@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why is male ballet not acceptable in the context of heteromasculinity?
 date: "2016-11-18 15:10:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophie Middleton on how good vegetarian food can really be
 date: "2013-02-22 03:01:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220301-tna08-sushii.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220301-tna08-sushii.jpg"
 headline: true
 featured: true
 imported: true

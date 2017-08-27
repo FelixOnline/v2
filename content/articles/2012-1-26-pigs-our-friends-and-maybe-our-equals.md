@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could our porcine chums be out of the frying pan?
 date: "2012-01-26 23:10:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262308-felix-pigs-dalton.jpg"
 image_caption: "Not even the ultra masculine Timothy Dalton can bring himself to shoot man’s equals: pigs"
 headline: true
 featured: true

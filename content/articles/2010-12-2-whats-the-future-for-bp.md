@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emma Hardaker-Jones and Peter Duff talk about graduate opportunities, the Deepwater disaster and moving “Beyond Petroleum”
 date: "2010-12-02 21:17:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201012022112-ac1507-bpspill.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012022112-ac1507-bpspill.jpg"
 headline: true
 featured: true
 imported: true

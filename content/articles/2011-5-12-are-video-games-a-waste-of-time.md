@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Two of the Games section's finest writers duke it out
 date: "2011-05-12 19:05:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201105122004-felix-timewaster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105122004-felix-timewaster.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The days of the printed newspaper are numbered, argues Marie-Laure Hicks, as the salad days of social media see a decline in the printing of broadsheets and Berliners
 date: "2011-12-08 20:03:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082001-cac111-uprisingphones.jpg"
 image_caption: "Mobile technology and social media networks played a key role in the uprisings of the Arab Spring"
 headline: true
 featured: true
@@ -36,7 +36,7 @@ Democracy, however, need not worry, because the big boys are still out there. Th
 
 In fact, going online is a drive for competition and higher quality and even more free speech. Bloggers hold journalists accountable and open a platform for discussion. News is becoming more social and papers are beginning to understand this. The New York Times has received accolades based on its use of social networks. Its employees have aggressively adopted Twitter and, on average, a Times story is tweeted every four seconds. British papers have followed a similar course by developing Facebook apps. By the end of November 2011, four million people had signed up for The Guardian’s app. These produced massive increases in readership, especially amongst young people. Social networks are being used as a platform for debating, commenting and sharing news stories. Google is also participating in improving the quality of webpage content with Google Panda. This algorithm pushes “low quality” (containing large amounts of advertising) websites to the end of search results and “high quality” (large amount of text, news and social networking) websites at the top. Furthermore, the web represents a new market for papers as they reach more people. The Guardian now counts half as many American readers as British ones.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082002-cac111-printingpress.jpg" title="A printer laboriously works a 16th century screw press. These archaic printing presses were developed by Gutenberg based on similar designs used for the crushing of grapes to make wine" caption="A printer laboriously works a 16th century screw press. These archaic printing presses were developed by Gutenberg based on similar designs used for the crushing of grapes to make wine" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082002-cac111-printingpress.jpg" title="A printer laboriously works a 16th century screw press. These archaic printing presses were developed by Gutenberg based on similar designs used for the crushing of grapes to make wine" caption="A printer laboriously works a 16th century screw press. These archaic printing presses were developed by Gutenberg based on similar designs used for the crushing of grapes to make wine" attr="" >}}
 
 The move from readers to the web is forcing newspapers to find a new model just to survive. For the moment, a hybrid between paper and webpage is still needed. Not enough money is made online for papers to survive. An example is [Politico](http://www.politico.com/) which has three million online readers but printed ads account for 50% of its revenues. Internet returns are not increasing as fast as hoped for, but this is slowly changing.
 

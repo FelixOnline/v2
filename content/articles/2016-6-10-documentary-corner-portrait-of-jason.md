@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-10 08:32:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101032-felix-poj054.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101032-felix-poj054.jpg"
 image_caption: "Jason Holliday, who cuts a beguiling figure at the centre of Shirley Clarke's Portrait of Jason. "
 headline: true
 featured: true

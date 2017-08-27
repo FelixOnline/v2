@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The man behind fingerprinting and eugenics
 date: "2011-01-13 20:15:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132013-ks607-francisg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132013-ks607-francisg.jpg"
 headline: true
 featured: true
 imported: true

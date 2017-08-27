@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vibrant culture, endless activities and unrivalled coastline: Chris Richardson provides a breakdown on this perfect post-exam getaway
 date: "2011-11-03 20:18:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201111040200-felix-goa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111040200-felix-goa.jpg"
 headline: true
 featured: true
 imported: true

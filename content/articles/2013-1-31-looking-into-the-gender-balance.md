@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We all know about the infamous ‘ratio’ at Imperial. Is it about the STEM subjects, just Imperial, or a worldwide issue? Matt Proctor and Eoghan J Totten investigate
 date: "2013-01-31 22:43:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
 headline: true
 featured: true
 imported: true
@@ -35,7 +35,7 @@ The (unsurprising) revelation came to light after the department revealed that f
 ## United Kingdom Statistics
 ‘Oxbridge’, Durham University and University College London exhibit more balanced male: female ratios, with the latter having a 2% female majority overall. Delving deeper into the statistics shows a pivotal change in the ratio for the STEM subjects. The University of Oxford shows that male undergraduates outweigh their female counterparts by a sizeable 22%. Building upon this a mere 33.4% of science undergraduates at the University of Cambridge enrolled for equivalent 2011/2012 academic year were female. The trend for Durham was less polarised but reiterated the correlation. Taken with a pinch of salt these findings demonstrate that the phenomenon is far from localised to Imperial College (being a focus for higher technical education alone), which instead reflects a more generalised third level STEM trend otherwise obscured in different institutions by humanities departments.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302041014-tna08-data2bigger.jpg" title="Above row is the ratio for just the sciences. Below row is the total. UCL bucks the trend for sciences" caption="Above row is the ratio for just the sciences. Below row is the total. UCL bucks the trend for sciences" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302041014-tna08-data2bigger.jpg" title="Above row is the ratio for just the sciences. Below row is the total. UCL bucks the trend for sciences" caption="Above row is the ratio for just the sciences. Below row is the total. UCL bucks the trend for sciences" attr="" >}}
 
 ## Global Statistics
 Further investigation conducted by Felix presented the observed male: female ratios as a global trend, extending into Europe, the United States of America and the Far East. Starting off in close proximity to the UK (and closer to my heart – Eoghan) the skewed ratio is observed in Dublin institutions. Out of the 11,844 undergraduates enrolled at Trinity College Dublin for the 2010/2011 academic year 4,856 (41%) were male. On the contrary this does not extend to any of the niche STEM disciplines. The starkest contrast to the college-wide ratio arises within Theoretical Physics; one in thirty scholars are said to be female.

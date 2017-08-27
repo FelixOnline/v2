@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Divyen Vanniasegaram believes Cecil Rhodes is just a product of his time
 date: "2017-01-13 13:59:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
 headline: true
 featured: true
 imported: true

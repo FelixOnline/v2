@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ainsley Harriot discusses his life, work and recipes in conversation with Anastasia Eleftheriou
 date: "2011-11-03 21:33:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
 image_caption: "Ainsley Harriot remains involved in the production of a variety of recipes"
 headline: true
 featured: true
@@ -41,7 +41,7 @@ You have written an enormous amount of unique and delicious recipes. From where 
 
 Inspiration comes from my late mum, Graham Kerr (The Galloping Gourmet) and the relationships I have built up with people along the way. Hearing other people’s ideas and experiences is really stimulating and can only influence my cooking further.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111040202-felix-ready-steady-cook-001.jpg" title="Ainsley Harriot presenting Ready Steady Cook" caption="Ainsley Harriot presenting Ready Steady Cook" attr="Credit: BBC" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111040202-felix-ready-steady-cook-001.jpg" title="Ainsley Harriot presenting Ready Steady Cook" caption="Ainsley Harriot presenting Ready Steady Cook" attr="Credit: BBC" >}}
 
 Ainsley Harriott products are famous for their taste and quality. What is your personal involvement in their production?
 

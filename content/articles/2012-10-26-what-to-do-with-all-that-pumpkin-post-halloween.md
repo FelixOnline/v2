@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yiango Mavrocostanti shows you how to make Pumpkin Soup, while Kevin Ng talks you through Pumpkin Chips and Pumpkin Cake
 date: "2012-10-26 02:51:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260351-tna08-pumpkin-soup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260351-tna08-pumpkin-soup.jpg"
 headline: true
 featured: true
 imported: true

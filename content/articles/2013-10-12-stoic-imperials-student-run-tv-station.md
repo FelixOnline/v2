@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An introduction to STOIC
 date: "2013-10-12 20:17:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122117-jal08-white-text-black-background.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122117-jal08-white-text-black-background.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Demands are made as medics let down their guard
 date: "2011-10-07 00:08:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071538-felix-img_5902.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071538-felix-img_5902.jpg"
 image_caption: "ICSMSU President Suzie Rayner (right) outside the RCSU office"
 headline: true
 featured: true

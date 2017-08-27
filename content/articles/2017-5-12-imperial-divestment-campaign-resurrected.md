@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Or is this the final nail in its coffin?
 date: "2017-05-12 17:05:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201705121856-felix-IMG_9038.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705121856-felix-IMG_9038.jpg"
 image_caption: "Not the best place to hang the banner but hey"
 headline: true
 featured: true
@@ -30,7 +30,7 @@ Ironically, in 2014 Imperial asked students to create a massive chalk mural alon
 
 Campaigners think Imperial’s investments don’t reflect its aims as an institution, namely the use of science to solve global challenges. “The fossil fuel industry’s continued exploration is incompatible with our future and undermines the research done here on low carbon technologies and climate change,” says Naomi Pratt, one of the campaigners.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201705121859-felix-IMG_9032.jpg" title="Orange is the new black" caption="Orange is the new black" attr="Lef Apostolakis" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201705121859-felix-IMG_9032.jpg" title="Orange is the new black" caption="Orange is the new black" attr="Lef Apostolakis" >}}
 
 Though both actions were quickly suppressed and it’s unclear how many students noticed them, those who did felt divestment was an important issue to discuss. “I’m fairly on board with it”, said Laurence Copson, a Climate Change, Management and Finance student who happened to be at the Union with his cohort during the banner drop. “I’d just do it from a financial perspective. I’d just make an economic argument for why you’d choose energy efficiency and alternative energy over oil and gas”.
 
@@ -40,7 +40,7 @@ So does that mean Imperial’s money-making instincts might lead it to divest fr
 “It’s going to be the last nut to crack in term of universities. It’s got to be the most oil-and-gas-focused university in the country” says Charlie Cook, another member of the cohort.
 Would divesting even matter though? According to a 2016 Freedom of Information request Imperial has £220 million in its endowment fund. This includes shares in oil giants such as Exxon (£0.52 million), Cairn Energy (£0.1 million), Shell (£0.86 million) and Statoil (£1.05 million) as well as companies which provide technological services to Big Oil such as Emerson (£0.63 million), Mitsubishi (£0.88 million), Petrofac (£0.75 million) and Schlumberger (£0.92 million). These funds are insignificant in comparison to the human capital Imperial annually invests in the oil and gas industry.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201705121904-felix-IMG_7710.JPG" title="OMG is that people being creative? Someone call security!" caption="OMG is that people being creative? Someone call security!" attr="Lef Apostolakis" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201705121904-felix-IMG_7710.JPG" title="OMG is that people being creative? Someone call security!" caption="OMG is that people being creative? Someone call security!" attr="Lef Apostolakis" >}}
 
 Every year Imperial sends over 800 students into oil and gas or mining. But what if it didn’t? “That would be a far greater statement – if they were going to say OK we’re going to change the focus of the majority of our courses so that now we’re trying to train people for, say clean energy rather than oil and gas,” says Cook.
 
@@ -51,4 +51,4 @@ How long will it make sense for Imperial to keep pushing its students into a fie
 “We recognise that fossil fuels contribute to greenhouse gas emissions and we work to mitigate their impact while seeking viable alternative sources of energy,” said an Imperial spokesperson in response to the campaign. “We steward our endowment gifts carefully and believe that we can have the greatest impact on climate change by optimising these resources to invest in research and education.”
 Probably indefinitely.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201705121901-felix-IMG_7712.JPG" title="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" caption="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" attr="Lef Apostolakis" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201705121901-felix-IMG_7712.JPG" title="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" caption="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" attr="Lef Apostolakis" >}}

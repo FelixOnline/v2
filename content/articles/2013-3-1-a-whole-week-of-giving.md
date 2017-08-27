@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the committee and volunteers get back into the swing of work, RAG Chair David Goldsmith reflects on the week
 date: "2013-03-01 00:11:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ When I took the position of RAG Chair in the summer elections of last year I was
 
 The committee of last year consisted of around 3 active members, too few to get anything done by anyone’s stretch of imagination. SoI rang everyone I knew over the summer and progressively formed a team now consisting of 15 central members and, thanks to the hard work of our Halls Officer Joe Gibbs, 34 RAG Hall Reps who represent RAG within the undergraduate halls.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303010011-tna08-bungee-(61-of-79).jpg" title="" caption="" attr="Credit: Benjamin Lester" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303010011-tna08-bungee-(61-of-79).jpg" title="" caption="" attr="Credit: Benjamin Lester" >}}
 
 We decided the RAG logo and branding were outdated so we scrapped them. Working with the Union we developed the new splat logo and slapped it on a load of t-shirts and stickers, ready to take over Imperial. Freshers’ Fair was the chance to make our mark so we took it by storm. We danced by our DJ booth, taking it in turns to get covered in whipped cream, and engaged anyone who happened to walk past. We generated over 1000 sign-ups for our mailing list – a RAG-record for sure.
 
@@ -38,7 +38,7 @@ What followed was a series of incredibly successful events with maximum particip
 
 Recognition then came from the outside world in the form of a prize for the most innovative fundraising idea for our 24-hour row on the Queen’s Lawn, getting our committee invited to the BBC Children in Need Live Show. We were succeeding, and when Christmas came we knew we had generated the power to grab the attention of the whole university with our RAG week. So we met with the Rector and other members of College staff and brought something to Imperial that had never been seen before… a 164 foot high Bungee Jump. Tickets sold out straightaway, sponsorship was raised in the thousands and the spectacle dazzled all.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303010011-tna08-bungee-(11-of-79).jpg" title="" caption="" attr="Credit: Benjamin Lester" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303010011-tna08-bungee-(11-of-79).jpg" title="" caption="" attr="Credit: Benjamin Lester" >}}
 
 If you had asked many Imperial students at the beginning of the year what RAG was you might have received an unsure response: ‘What’s that?’ or ‘Is it that thing medics do?’ (For clarification IC RAG is a separate entity to ICSM RAG!). Now you would be very hard pressed to find someone who hasn’t felt our impact.
 

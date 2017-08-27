@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?
 date: "2013-10-25 00:28:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250127-felix-artsextremehappiness11.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250127-felix-artsextremehappiness11.jpg"
 headline: true
 featured: true
 imported: true

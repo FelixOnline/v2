@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Citizens UK charge £5000 a year for campaigns training for sabbs and volunteers
 date: "2016-04-29 10:09:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291108-felix-citizens.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291108-felix-citizens.jpg"
 image_caption: "London Living Wage is one of their famed campaigns. "
 headline: true
 featured: true

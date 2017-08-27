@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Technology Editor: Yong Wen Chua reveals a bunch of tech secrets for y’all!
 date: "2013-09-29 16:30:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291729-jal08-prezi_logo_transparent_2012-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291729-jal08-prezi_logo_transparent_2012-copy.jpg"
 headline: true
 featured: true
 imported: true

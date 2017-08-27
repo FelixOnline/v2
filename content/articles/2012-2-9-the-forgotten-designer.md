@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the luxury market continues to profit, Alice Yang questions what lies beneath the consumer’s desire for labels
 date: "2012-02-09 22:49:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092322-pk1811-fall-2010-c.jpg"
 image_caption: "Christian Dior Fall 2010 Couture"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As an intelligent species, we should recognise that eating meat is not natural
 date: "2016-02-05 11:54:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051153-felix-cow.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051153-felix-cow.jpg"
 image_caption: "Dairy cattle are raised in painful conditions."
 headline: true
 featured: true

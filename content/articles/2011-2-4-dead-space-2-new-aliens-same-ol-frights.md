@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102041648-sjw209-DeadSpac.jpg"
 headline: true
 featured: true
 imported: true

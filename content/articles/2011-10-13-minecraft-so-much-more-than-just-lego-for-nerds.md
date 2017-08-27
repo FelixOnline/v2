@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laurence Pope goes digging for gold as he tries to explain all those cubes
 date: "2011-10-13 22:41:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
 image_caption: "Note: not in-game footage"
 headline: true
 featured: true

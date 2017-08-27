@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Parisien delights on either side of the channel. Samuel Furse reviews 'Kitchen W8', while Charles Betts hops over to 'Le Boeuf Sur le Toit' in Paris
 date: "2011-02-28 21:05:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282101-ks607-roastwoo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282101-ks607-roastwoo.jpg"
 headline: true
 featured: true
 imported: true

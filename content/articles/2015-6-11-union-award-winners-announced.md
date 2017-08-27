@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah rounds up the recipients of Colours, Fellowships and more
 date: "2015-06-11 22:18:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112318-cj914-unionawards.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112318-cj914-unionawards.jpg"
 image_caption: "Michael Chung receives one of his awards at last year’s ceremony."
 headline: true
 featured: true

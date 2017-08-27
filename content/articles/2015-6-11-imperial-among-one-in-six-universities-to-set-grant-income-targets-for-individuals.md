@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Times Higher Education findings
 date: "2015-06-11 22:10:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506112309-cj914-imperial.jpg"
 image_caption: "Individual targets have been criticised."
 headline: true
 featured: true

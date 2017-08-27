@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Trust responds to news reports
 date: "2011-11-17 21:09:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111181010-felix-mark_davies.jpg"
 image_caption: "Mark Davies, Chief Executive of Imperial College Healthcare NHS Trust"
 headline: true
 featured: true

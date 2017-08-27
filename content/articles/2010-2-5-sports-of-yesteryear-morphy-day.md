@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Whatever happened to Morphy Day, more to the point, what is Morphy Day? Jovan Nedi&#263; looks back at the forgotten inter-faculty sporting events of Imperial&8217;s illustrious past
 date: "2010-02-05 17:27:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002051725-rsp07-morphyda.jpg"
 headline: true
 featured: true
 imported: true

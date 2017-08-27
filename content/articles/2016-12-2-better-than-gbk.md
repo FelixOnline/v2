@@ -25,7 +25,7 @@ I must start this article by giving credits to my Anonymous Kitchen Helpers: the
 But now I am not going to talk about my experiences cooking – I want to talk about my experiences eating out. Not going to Nandos – by eating out I mean just changing kitchens in halls and not being the head chef, but more like an assistant. It happens even to the best of us… but I am, ultimately, a student so, when food is offered to me, I cannot simply say no. Right?
 Some of my friends decided to make burgers, and I decided to trust them and have some faith that I wouldn’t die. And believe it or not, I had an extremely delicious dinner – with less effort than I would normally invest in a dinner – all I had to do was to fry some meat. Easy peasy!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612021522-felix-Screen Shot 2016-12-02 at 15.22.44.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612021522-felix-Screen Shot 2016-12-02 at 15.22.44.png" title="" caption="" attr="" >}}
 
 1. Find someone who is not afraid to fry meat, especially when all the oil starts spitting. Make them feel like they have to do it so everyone can survive the night and start them on frying the burgers on a high heat.
 

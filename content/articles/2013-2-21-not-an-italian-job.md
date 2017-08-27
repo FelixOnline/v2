@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look into an exhibition on the Renaissance and its origins
 date: "2013-02-21 20:52:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
 headline: true
 featured: true
 imported: true

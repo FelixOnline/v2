@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICL women table tennis team battles to the top
 date: "2011-01-27 20:52:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272047-dr910-anushaan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272047-dr910-anushaan.jpg"
 headline: true
 featured: true
 imported: true

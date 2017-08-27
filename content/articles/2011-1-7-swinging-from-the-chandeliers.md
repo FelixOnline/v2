@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Moved by the Hayward Gallery’s latest immersive offering
 date: "2011-01-07 09:46:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101070943-ks607-hayward.jpg"
 headline: true
 featured: true
 imported: true

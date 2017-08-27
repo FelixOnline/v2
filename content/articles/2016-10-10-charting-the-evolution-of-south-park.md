@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A retrospective of everyone's favorite colorado based satirical cartoon
 date: "2016-10-10 12:42:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
 headline: true
 featured: true
 imported: true

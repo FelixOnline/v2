@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Wandering through the misty morass: India's Western Ghats
 date: "2012-02-16 21:11:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162111-ams111-elephant.gif"
 image_caption: "A revitalising coconut scrub after a rough day at the office"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Webster tries out Trucks and Trailers and... likes it?
 date: "2013-02-07 23:31:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072331-tna08-truckl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072331-tna08-truckl.jpg"
 headline: true
 featured: true
 imported: true

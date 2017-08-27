@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe on the impact of logging in Borneo’s rainforests
 date: "2015-05-04 16:27:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
 headline: true
 featured: true
 imported: true

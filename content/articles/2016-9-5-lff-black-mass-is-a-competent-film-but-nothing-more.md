@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Johnny Depp and co put on a good performance, but Black Mass fails to truly impress
 date: "2016-09-05 20:35:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
 image_caption: "Johnny Depp as Whitey Bulger in Boston-set Black Mass"
 headline: true
 featured: true

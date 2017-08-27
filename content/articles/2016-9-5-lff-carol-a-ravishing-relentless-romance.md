@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Todd Haynes excels, as Rooney Mara and Cate Blanchett blow us away with nuanced performances
 date: "2016-09-05 20:31:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ What was radical about the novel – and, indeed, remains radical over half a ce
 
 Haynes’ camera almost always views Carol and Therese obliquely: through doorways, marking off the boundaries of private and public; within cars, ensconcing them in their own bubble of chrome and upholstery; through windows, their faces smudged into blurs by greasy smears. Trapped within their passion, the pair place a buttress between themselves and the world, retreating into their own private domain – a necessary technique for coping with the social pressures of the day, but also a perfect portrayal of the all-consuming passion love can bring.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201609052231-ff712-201512061426-ff712-carol-movie-poster-cate-blanchett-rooney-mara-10.jpg" title="Rooney Mara as Therese Belivet, in Todd Haynes' gorgeous Carol" caption="Rooney Mara as Therese Belivet, in Todd Haynes' gorgeous Carol" attr="Allstar" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201609052231-ff712-201512061426-ff712-carol-movie-poster-cate-blanchett-rooney-mara-10.jpg" title="Rooney Mara as Therese Belivet, in Todd Haynes' gorgeous Carol" caption="Rooney Mara as Therese Belivet, in Todd Haynes' gorgeous Carol" attr="Allstar" >}}
 
 The dialogue is poignant, with every pause and ellipse pregnant with unfulfilled longing. Phyllis Nagy’s screenplay brings with it a soft sense of a beat, offset by the visual melody provided by Edward Lachman’s cinematography. Carter Burwell’s score, all swelling strings and plucked harp, contributes to this harmony, although on occasion it does outstay its welcome. _Carol_ is, to not mince words, simply stunning. Sandy Powell’s costume sumptuous costume design alone conjures up the idea of a mid-century Manhattan, but Jesse Rosenthal’s pitch-perfect art direction takes this to new heights. The audience is transported out of the cinema, and stand blinking, blinded by the midwinter sun, and the possibilities of love it can bring.
 

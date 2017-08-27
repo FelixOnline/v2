@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charity fads raise money for animal testing, but should the public should be better informed?
 date: "2014-11-06 18:14:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102232-ps3110-download.jpeg"
 headline: true
 featured: true
 imported: true

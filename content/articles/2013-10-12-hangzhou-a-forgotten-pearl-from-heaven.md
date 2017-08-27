@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get the lowdown on a fresh UNESCO site in the heart of China’s Zhejiang Province
 date: "2013-10-12 19:45:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122045-jal08-tulips-in-taiziwan-garden---frany-zhang.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122045-jal08-tulips-in-taiziwan-garden---frany-zhang.jpg"
 image_caption: "Tulips in Taiziwan Garden"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Islam Society warmly invite you to their week of events
 date: "2013-02-22 01:17:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220116-tna08-diw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220116-tna08-diw.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Albert Nickelby turns his eyes to Europe in an attempt to explain the seismic pressures of the bond markets.
 date: "2011-12-01 19:46:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201112011943-pk1811-map.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112011943-pk1811-map.jpg"
 image_caption: "A seismic map of Europe produced as part of the Global Seismic Hazard Assessment Project"
 headline: true
 featured: true

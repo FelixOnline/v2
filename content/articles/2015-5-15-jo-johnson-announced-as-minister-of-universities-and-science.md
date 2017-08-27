@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Masters reports on the new minister, who is the brother of London Mayor Boris Johnson
 date: "2015-05-15 12:34:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
 image_caption: "Jo Johnson has a pro-EU stance and supports international collaboration in the sciences"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kevin Ng explores the different options for hot chocolate
 date: "2013-02-07 23:03:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
 headline: true
 featured: true
 imported: true

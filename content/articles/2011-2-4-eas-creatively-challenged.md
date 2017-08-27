@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Worthington places, pastes and paints to his heart’s content in EA’s Create
 date: "2011-02-04 16:59:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201102041657-sjw209-Createti.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102041657-sjw209-Createti.jpg"
 headline: true
 featured: true
 imported: true

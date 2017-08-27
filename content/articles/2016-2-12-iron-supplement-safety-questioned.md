@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial research suggests iron uptake through supplement use may damage cells
 date: "2016-02-12 11:27:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121127-felix-Lucky_Iron_Fish_package.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121127-felix-Lucky_Iron_Fish_package.jpg"
 image_caption: "A ‘lucky iron fish’,  a cast iron fish to cook with that is meant to enrich food with iron, claiming to successfully helping against iron deficiency and iron deficiency anaemia."
 headline: true
 featured: true

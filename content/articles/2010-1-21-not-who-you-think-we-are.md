@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dan Wan speaks to Islamic Societies President, Salman Butt, about the spotlight that UCL'S detroit bomber has brought
 date: "2010-01-21 21:29:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201001212124-rsp07-SalmanHa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001212124-rsp07-SalmanHa.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101272030-nm1010-sushisus.jpg"
 headline: true
 featured: true
 imported: true

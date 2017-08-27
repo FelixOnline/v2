@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oli Benton loves Imperial, but wishes the feeling were a bit more mutual
 date: "2013-05-07 19:17:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201305072017-tna08-webbenton.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305072017-tna08-webbenton.jpg"
 headline: true
 featured: true
 imported: true

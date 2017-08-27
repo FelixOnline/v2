@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The proposed halls will impact hugely on the welfare of students, argues Becky Lane
 date: "2013-02-22 01:40:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220140-tna08-milliband.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220140-tna08-milliband.jpg"
 headline: true
 featured: true
 imported: true

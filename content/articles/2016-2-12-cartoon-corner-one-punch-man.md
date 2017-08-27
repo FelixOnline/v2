@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our hero is so strong that all his battles end with one punch
 date: "2016-02-12 11:57:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121156-felix-onepunchman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121156-felix-onepunchman.jpg"
 image_caption: "Gearing up for the ultimate KO punch."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082054-cac111-euro.jpg"
 image_caption: "The euro sign, illuminated in the European Central Bank logo, outside ECB HQ in Frankfurt, Germany"
 headline: true
 featured: true

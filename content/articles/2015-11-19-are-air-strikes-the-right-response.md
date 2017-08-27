@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Delivering ‘death from above’ won’t weaken ISIS’ battle for hearts and minds
 date: "2015-11-19 22:42:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192241-ygr12-black-and-white-city-bird-people.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192241-ygr12-black-and-white-city-bird-people.jpg"
 headline: true
 featured: true
 imported: true

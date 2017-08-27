@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix follows Christy Lam during a gastronomical overload, as she indulges in an arguably hefty amount of delights, including but not limited to those of the turkish type.
 date: "2016-11-25 14:36:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251434-felix-IMG_4120.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251434-felix-IMG_4120.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ The evening started off with me being late again, sprinting down Baker Street on
 Cocktails are always the best introduction to any restaurant. Yosma’s cocktail menu comprised of a handful of unique cocktails, all inspired by Turkish culturewith names taken from love poems. My favourite was the Sil Bastan, a sweet cocktail with yoghurt gin, Manuka honey, milk acid, egg white and lemon. Yoghurt-flavoured foam floated on top of the bittersweet mixture, strong enough to deflate the stress from a long day. The other one worth mentioning was Yosma, a fruity, bitter, red number with Turkish apple tea vodka, pomegranate,
 vermouth and raki spices.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611251435-felix-IMG_4124.jpg" title="" caption="" attr="Cristy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611251435-felix-IMG_4124.jpg" title="" caption="" attr="Cristy Lam" >}}
 
 With everyone comfortably seated and the shy handshakes transformed into intimate conversations, we were introduced to the heart of meyhane: raki.
 
@@ -49,10 +49,10 @@ The Kavun was more than just melon and feta. Take a bite of melon, a sip of raki
 If you thought that was the end of the meal, you’d be very, very wrong indeed. Turkish cuisine is known for its generosity, meaning more than enough food to satisfy your stomach at appetisers already – with the mains still cooking in the kitchen. So, when the mains were announced it almost felt like an anticlimax, which instantly turned into surprised exclamations as the humongous, monstrous, barbequed whole fish arrived steaming hot on its silver platter, its thick, charcoal-coloured skin scored to reveal the pearly-white flesh beneath. The meat was tender, fell from the bone with a slight nudge with a fork, oozing with its natural juices with every mouthful. This fish, supposedly meant for two people, was more than a family feast.
 The salads that came with the fish did not lack in effort and helped to add a layer back into the food triangle: the Yesil Salata was a simple salad with rocca, a tougher version of our usual rocket leaves, while the Gavurdag was a refreshing mixture of green and red tomatoes with walnuts and mint.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611251435-felix-IMG_0184.jpg" title="" caption="" attr="Cristy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611251435-felix-IMG_0184.jpg" title="" caption="" attr="Cristy Lam" >}}
 
 A dinner party cannot end without a sweet note. A selection of desserts was served, along with strong Turkish coffee and Turkish delights. Apart from spending a good amount of time trying to decrypt our futures from the sludge of coffee grinds at the bottom of our cups, we took care to enjoy the traditional desserts. The kunefe definitely had substantial wow-factor with its crispy, golden yellow Kadoyif pastry and its incredible white cheese strings, temporarily silencing our worries for our hips. The Sambali was a chunk of fluffy semolina cake, served with mastic (a fragrant plant resin used in Turkish desserts) ice cream, reminiscent of the lunchtime sponge cakes from my school days. The Armut Pismaniye comprised of half a poached pear balanced on top of a perfect sphere of ice cream, with a cloud of cotton candy and a generous handful of walnuts.
 
 Satisfied after almost four hours of non-stop feasting, talk and laughter, we called an end to the meet-up, exchanged eager hugs that matured from the raki and headed home to rest our bellies for the next day.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611251436-felix-IMG_4177.jpg" title="" caption="" attr="Cristy Lam" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611251436-felix-IMG_4177.jpg" title="" caption="" attr="Cristy Lam" >}}

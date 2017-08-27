@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dara Rasasingam tells us about her favourite spot in London
 date: "2014-11-10 21:18:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-barbican_towers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102116-ps3110-barbican_towers.jpg"
 headline: true
 featured: true
 imported: true

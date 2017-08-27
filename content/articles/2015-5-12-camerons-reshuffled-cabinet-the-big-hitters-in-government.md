@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
 headline: true
 featured: true
 imported: true

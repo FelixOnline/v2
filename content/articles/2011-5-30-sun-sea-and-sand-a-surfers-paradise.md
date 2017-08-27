@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Surfers head to the warm beaches of Newquay for BUCS Championships
 date: "2011-05-30 11:52:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201105301251-felix-h.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105301251-felix-h.jpg"
 headline: true
 featured: true
 imported: true

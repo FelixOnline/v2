@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians.
 date: "2015-02-22 17:35:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201502221734-ps3110-©rwd14_eradication_035a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502221734-ps3110-©rwd14_eradication_035a.jpg"
 image_caption: "Jon Haynes, in Ridiculusmus’ The Eradication of Schizophrenia in Western Lapland"
 headline: true
 featured: true

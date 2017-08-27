@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Medics dominate second half to win JPR Williams Cup
 date: "2011-03-17 21:52:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172149-ks607-varsityv.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172149-ks607-varsityv.jpg"
 headline: true
 featured: true
 imported: true

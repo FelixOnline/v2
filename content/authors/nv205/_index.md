@@ -1,7 +1,7 @@
 ---
 id: "nv205"
 title: Nickolai Vysokov
-image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

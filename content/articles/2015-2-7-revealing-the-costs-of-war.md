@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland on the Royal Court’s new play
 date: "2015-02-07 19:23:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
 image_caption: "Michael Ajao in Liberian Girl "
 headline: true
 featured: true

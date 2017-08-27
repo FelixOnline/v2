@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From e.quinox to Raincatcher Imperial; students gather to discuss their experiences
 date: "2011-11-10 22:06:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
 image_caption: "Imperial previously hosted its first Global Citizenship Symposium "
 headline: true
 featured: true

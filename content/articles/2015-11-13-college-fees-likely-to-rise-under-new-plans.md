@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Government’s ‘green paper’ proposals would allow fees to rise with inflation
 date: "2015-11-13 14:10:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131409-ygr12-pro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131409-ygr12-pro.jpg"
 image_caption: "We could be seeing more student protests if the green paper goes through."
 headline: true
 featured: true

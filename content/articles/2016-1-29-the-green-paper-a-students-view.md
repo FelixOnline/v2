@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are we about to witness the sculpting of a new higher educational landscape?
 date: "2016-01-29 09:52:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290950-felix-20151104_141456.jpg"
 headline: true
 featured: true
 imported: true

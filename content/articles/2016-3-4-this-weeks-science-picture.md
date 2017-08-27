@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dr Rafael Palacios giving us a little demo of his modelling.
 date: "2016-03-04 11:41:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041141-felix-12790191_10156530568410394_1029293828_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041141-felix-12790191_10156530568410394_1029293828_o.jpg"
 headline: true
 featured: true
 imported: true

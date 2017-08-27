@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett sips a Starbucks whilst writing about how bees get their own daily fix
 date: "2013-03-15 01:00:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
 headline: true
 featured: true
 imported: true

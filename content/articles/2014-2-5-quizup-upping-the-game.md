@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The quiz-gaming sensation storming the nation.
 date: "2014-02-05 10:27:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201402051027-me1711-games_qup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402051027-me1711-games_qup.jpg"
 headline: true
 featured: true
 imported: true

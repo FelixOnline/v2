@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another setback for the quest of finding a reliable male contraceptive, with reports of side effects in clinical trials causing concern
 date: "2016-11-04 12:57:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041257-aib116-sperm-956482_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041257-aib116-sperm-956482_1920.jpg"
 headline: true
 featured: true
 imported: true

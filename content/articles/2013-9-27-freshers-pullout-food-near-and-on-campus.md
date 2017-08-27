@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix gives you the low-down on where to eat on campus...
 date: "2013-09-27 23:30:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201309280031-jal08-icl_catering_104.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309280031-jal08-icl_catering_104.jpg"
 image_caption: "The library café at non-peak times"
 draft: true
 headline: true

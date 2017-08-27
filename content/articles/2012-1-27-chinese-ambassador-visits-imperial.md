@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Visit includes meeting with researchers connected to China
 date: "2012-01-27 00:03:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201270002-felix-icl_ambassador_009.jpg"
 image_caption: "Rector Keith O’Nions meeting with Mr Liu last week"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jennifer Eden discusses the wild animal adoption trend and its consequences
 date: "2016-11-04 14:17:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ While I’m sure the vast majority of exotic animal owners do genuinely care for
 
 This issue starts with the ease of purchase. I had a quick look online. It turns out that on Gumtree I could have bought a bearded dragon for a mere £100, or perhaps two pythons for £40. Mercifully there were no tigers, panthers or lions for sale on Gumtree, but obviously these would come with a significantly heftier price tag. Yet, animal welfare organisations have reported there to be around 25,000 online advertisements for the sale of exotic animals on sites like _buytigers.com_. In England a licence is required before such ownership (under the ‘Dangerous Wild Animals Act’, 1976), but once you’ve acquired that and enough cash in the bank, you’re free to buy an enormous wild predator.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611041415-felix-Screen Shot 2016-11-04 at 14.14.18.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611041415-felix-Screen Shot 2016-11-04 at 14.14.18.png" title="" caption="" attr="" >}}
 
 Once the animal is purchased and has raked in a couple of hundred likes on an Instagram post, there’s the small bother of looking after it.  Certainly more precautions should be taken and questions asked before buying a panther as opposed to your bog standard domestic cat. What does it eat? How much space is required? Will it mistake my granny for a tasty vole rat while we’re trying to enjoy a family Sunday roast? Sadly, when these kind of responsibilities and questions aren’t properly thought through, issues become apparent.
 
@@ -40,7 +40,7 @@ ccording to the Humane Society, only 10% of the 15,000 tigers in the US live in 
 
 Then there’s the small fluffy animals, those which fill the gap in the market a Pomeranian-cross-Pug-cross-Poodle never could. Take the slo loris – a big-eyed, bushy-tailed ball of cuteness (you’ve probably seen one of these in a video having its armpits tickled). Nocturnal animals with large eyes are specially adapted for seeing in darkness. In captivity, though, they have to adapt to the sleeping times of their non- nocturnal owners who want to spend time with the lovable slo loris during the day. Being kept in rooms with bright artificial lighting and spending an unnatural amount of time awake in the daylight hours is uncomfortable and even painful for the slo loris’ eyes. People buying them also struggle to meet the varied dietary requirements of these rainforest animals. They would usually munch on a range of fruits and insects from the rainforest ecosystem – difficult to find in the suburbs.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611041416-felix-Screen Shot 2016-11-04 at 14.14.33.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611041416-felix-Screen Shot 2016-11-04 at 14.14.33.png" title="" caption="" attr="" >}}
 
 Clearly, exotic animals are high maintenance, and too often caring for them properly becomes more hassle than the good photos and social media attention are worth. The realisation dawns on the owner that they’re not going to find a lion-sized litter tray at the nearest Pets at Home, nor can an orangutan survive off scraps of leftover pizza. And while a chihuahua may occasionally growl when approached too close to its food, one flash of pearly white from a tiger would leave you a shivering wreck in your own home.
 

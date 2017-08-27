@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Aaina Mittal explains why junior doctors are striking not for their wallets, but for the future of the NHS.
 date: "2016-10-10 10:37:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Before digging into the economics of negotiation and the philosophy behind strik
 
 So here’s the deal: the government promised a 7 day NHS in their election manifesto. Whilst they haven’t delivered on other promises such as support for working families and affordable housing, this is one thing our health secretary will not let go of, no matter how little insight he has into the real problems faced by front line clinicians on a daily basis. Instead of recognising that delivering on this promise will take some years and extra funding, and will involve recruiting and training more doctors, Hunt has decided to drag out the already long shifts that current junior doctor are on in the hope that he can entice them by what may initially appear to be an increase in pay. Tired doctors make unsafe doctors. You know the drill.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610101239-felix-Screen Shot 2016-10-10 at 12.38.47.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610101239-felix-Screen Shot 2016-10-10 at 12.38.47.png" title="" caption="" attr="" >}}
 
 Junior doctors may react to pay in different ways. The salary itself is, after all, going up, and this may appeal to some. But what will surface in time is that pay for those extremely unsociable hours – those nights in A&amp;E at 5am following a 24 hour shift – has gone down substantially.
 

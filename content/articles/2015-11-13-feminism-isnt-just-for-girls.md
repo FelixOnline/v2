@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Back this week from fighting the patriarchy, Angry Grad asks why we aren’t all embracing equal rights
 date: "2015-11-13 14:25:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
 image_caption: "Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson. "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk dissects The Anatomy of Melancholy
 date: "2014-11-10 21:16:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-img_7692.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102116-ps3110-img_7692.jpg"
 headline: true
 featured: true
 imported: true

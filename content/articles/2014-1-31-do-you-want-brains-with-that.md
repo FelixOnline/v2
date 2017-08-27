@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anand Jagatia takes a look at prions, the bad behaving proteins
 date: "2014-01-31 17:38:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201401311738-jal08-tumblr_m31x9rztgr1rt8lhlo1_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401311738-jal08-tumblr_m31x9rztgr1rt8lhlo1_1280.jpg"
 image_caption: "These prions may look pretty, but they can be deadly too "
 headline: true
 featured: true

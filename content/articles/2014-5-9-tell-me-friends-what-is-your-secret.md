@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton reveals (almost) all with a look at the hot new “Secret” app.
 date: "2014-05-09 02:01:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090301-jal08-feat_secret_ring.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090301-jal08-feat_secret_ring.png"
 headline: true
 featured: true
 imported: true

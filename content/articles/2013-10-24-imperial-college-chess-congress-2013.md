@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICC Congress Organiser John Sargent reports on a successful day
 date: "2013-10-24 23:35:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250034-felix-feat_iccc.jpg"
 image_caption: "Imperial College’s FIDE Master Miguel Navarro-Cia (foreground) in action during Round 4"
 headline: true
 featured: true

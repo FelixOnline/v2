@@ -4,7 +4,7 @@ title: >
 subtitle: >
    The great British Bake Off really was a reality show not quite like any other
 date: "2017-02-03 17:07:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Female rappers rarely talk about sex from any position of power
 date: "2016-05-06 09:59:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061058-felix-hiphop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061058-felix-hiphop.jpg"
 image_caption: "Lil Kim, Missy Elliot, Lauryn Hill and Foxy Bronwn."
 headline: true
 featured: true

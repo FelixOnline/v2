@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
 image_caption: "Brexit-er Boris out on Exhibition Road. "
 headline: true
 featured: true

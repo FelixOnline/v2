@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Food is here with tips to avoid being in a food rut
 date: "2014-03-26 14:03:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201403261410-jal08-screen-shot-2014-03-26-at-14.09.44.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403261410-jal08-screen-shot-2014-03-26-at-14.09.44.png"
 image_caption: "The risotto with chicken, leek and mushrooms, with added bacon and frozen vegetables!"
 headline: true
 featured: true

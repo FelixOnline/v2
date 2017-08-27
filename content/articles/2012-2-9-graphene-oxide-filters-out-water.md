@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Humorous application includes making vodka stronger
 date: "2012-02-09 22:36:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
 image_caption: "90% vodka, anyone?"
 headline: true
 featured: true

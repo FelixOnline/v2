@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the Republicans retake the House of Representatives, analysts debate whether they will they ease the burden on businesses or let them down like it’s 1994
 date: "2010-11-04 18:15:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041811-ma1307-bbbssnzz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041811-ma1307-bbbssnzz.jpg"
 headline: true
 featured: true
 imported: true

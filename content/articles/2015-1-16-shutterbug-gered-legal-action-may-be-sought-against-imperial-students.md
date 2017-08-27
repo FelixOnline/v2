@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Photobooth damage has angered hiring company
 date: "2015-01-16 12:50:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
 image_caption: "A selection of photographs taken by the photobooth before the damage was done. These were not the im"
 headline: true
 featured: true

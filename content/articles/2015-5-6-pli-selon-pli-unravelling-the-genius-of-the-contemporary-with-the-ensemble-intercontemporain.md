@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange reflects on a season of Pierre Boulez at the Barbican
 date: "2015-05-06 12:36:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505061333-km2612-dsc_5201.jpg"
 headline: true
 featured: true
 imported: true

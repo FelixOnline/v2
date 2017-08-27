@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New insight into the language-processing functions of the brain
 date: "2012-02-16 21:43:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162142-cac111-redneuronal.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162142-cac111-redneuronal.gif"
 image_caption: "Neural networks are used to simulate brain activity, but cannot interpret thoughts"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dushi Arumuganesan’s guide to London’s most festive frolics this winter
 date: "2011-12-08 22:01:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082158-pk1811-nathismus.jpg"
 image_caption: "For best results, drop a couple of tabs of acid before hitting the rink: you’ll skate like a pro."
 headline: true
 featured: true
@@ -31,13 +31,13 @@ As far as traditional Christmas fairs go, Hyde Park’s [Winter Wonderland](http
 
 Naturally no festival would be complete without its own carousel, and while Winter Wonderland’s may be set against a background of the beautifully lit-up Observation Wheel, the Southbank’s slightly smaller merry-go-round is dwarfed by the London Eye, no less. Admittedly there are no other rides, let alone an ice rink, available at Southbank, but who needs that artificial rush when you’ve got the entirety of London’s skyline from the vantage point of Embankment pier instead? The view is better, the sausages are juicier and there’s even a book market to boot – the Southbank Centre’s Winter Festival is a must-do this year.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082200-pk1811-p1000942.jpg" title="Tourists stop and gawk at Covent Garden’s big, red, throbbing balls. Aw, yeah..." caption="Tourists stop and gawk at Covent Garden’s big, red, throbbing balls. Aw, yeah..." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082200-pk1811-p1000942.jpg" title="Tourists stop and gawk at Covent Garden’s big, red, throbbing balls. Aw, yeah..." caption="Tourists stop and gawk at Covent Garden’s big, red, throbbing balls. Aw, yeah..." attr="" >}}
 
 If however you feel that Christmas wouldn’t be the same without a session on ice, then why not skate against some of London’s most striking backdrops on the temporary ice rinks being constructed all over the city? The open-air rink at Westfield Stratford City provides views of the new Olympic park, and Canary Wharf’s rink offers an equally imposing setting of the city’s most dizzying towers. Those after more picturesque landscapes should head to the Tower of London, Somerset House, the National History Museum or Hyde Park where the rinks are all set in the midst of London’s famous landmarks.
 
 More and more of us are resorting to online shopping each year in a bid to avoid the frenzied crowds of shoppers at Oxford Street. For those of you who haven’t given in yet, your best bet when hunting for those quirky one-of-a-kind Christmas gifts is to avoid more commercial shopping centres and districts, and instead trek it around some of London’s markets. Of course, there’s Portobello Road and Spitalfields markets on either side of London, each overflowing with vintage clothes, books and ornaments. But there’s more of the same at Columbia Road market (open late every Wednesday until Christmas day) in the East End and the twice weekly Camden Passage market in Islington.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082200-pk1811-p1000939.jpg" title="Generic Imperial student: “RUUUUUN! It’s Godzillaaaaa!”" caption="Generic Imperial student: “RUUUUUN! It’s Godzillaaaaa!”" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082200-pk1811-p1000939.jpg" title="Generic Imperial student: “RUUUUUN! It’s Godzillaaaaa!”" caption="Generic Imperial student: “RUUUUUN! It’s Godzillaaaaa!”" attr="" >}}
 
 Finally, if you just want to spend time walking around London, soaking in the city’s Yuletide spirit, there is no shortage of places to go. Covent Garden has been revamped on all sides: in addition to the bewitching Christmas lights, there has been a visual display installed on the North East piazza in the form of a digital painting that shifts between nativity scenes throughout the day. On Saturdays reindeer-petting is an activity on offer alongside all the market stalls. Meanwhile, a 32 foot tall topiary reindeer watches over the East piazza: an oddly frightening sight from afar after dusk, but impressive nonetheless.
 

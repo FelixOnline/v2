@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma is showing off his brand new tatts...
 date: "2013-05-29 16:12:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ The controls are solid, though a little clunky if using keyboard and mouse. Pers
 
 The art and music, on the other hand, are absolutely astonishing. Together with a few major features in the gameplay (being able to ‘see’ sound, pausing time for short periods, the sheer number of different ways to execute a stealth kill), these cause a very powerful atmosphere in the game. If, like me, you’re one of these people who becomes very invested in a game, you might even start feeling like a real ninja.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305291712-tna08-motnmain_1920x1200.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305291712-tna08-motnmain_1920x1200.jpg" title="" caption="" attr="" >}}
 
 Unfortunately, there are very few games out there to compare this to – 2D stealth games have only really started becoming popular with the release of Mark of the Ninja. However, in comparison to 3D stealth games two things should be noted.
 

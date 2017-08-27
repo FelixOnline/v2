@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Demand for science study steady in comparison
 date: "2011-10-27 19:58:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110272054-felix-img_6743-copy.jpg"
 image_caption: "Despite the decrease in the number of applications, science remains in demand"
 headline: true
 featured: true

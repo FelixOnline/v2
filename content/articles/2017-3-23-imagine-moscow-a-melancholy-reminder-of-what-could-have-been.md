@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Design Museum's latest exhibition has its flaws, but reveals a new side to Soviet architecture
 date: "2017-03-23 16:41:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
 image_caption: "Valentina Kulagina, Front cover design"
 headline: true
 featured: true

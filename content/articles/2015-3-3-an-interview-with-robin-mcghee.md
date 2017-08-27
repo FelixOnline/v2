@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken interviews the Liberal Democrat parliamentary candidate for Kensington
 date: "2015-03-03 14:53:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031453-ps3110-robin-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031453-ps3110-robin-picture.jpg"
 headline: true
 featured: true
 imported: true

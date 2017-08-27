@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First thoughts on Facebook's new app
 date: "2014-02-05 10:20:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201402051021-me1711-tech_paper.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201402051021-me1711-tech_paper.jpg"
 headline: true
 featured: true
 imported: true

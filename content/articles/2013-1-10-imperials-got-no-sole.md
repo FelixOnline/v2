@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Complete participation rates for SOLE released: a mixed bag
 date: "2013-01-10 22:20:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102220-tna08-survey-ting.jpg"
 headline: true
 featured: true
 imported: true

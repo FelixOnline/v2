@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yong Wen Chua echoes Apple: “can’t innovate anymore, my ass.”
 date: "2013-06-21 00:30:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210130-tna08-nyan-cat-final.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210130-tna08-nyan-cat-final.jpg"
 headline: true
 featured: true
 imported: true

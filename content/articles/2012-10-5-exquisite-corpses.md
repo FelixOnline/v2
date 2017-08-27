@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal finds beauty beneath the skin
 date: "2012-10-05 11:28:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051228-nn1209-the_muscles_of_the_shoulder_arm_and_neck_919008.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051228-nn1209-the_muscles_of_the_shoulder_arm_and_neck_919008.jpg"
 image_caption: "Getting hench, Leo style"
 headline: true
 featured: true

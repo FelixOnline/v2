@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Hooftman recounts the tale of Bestival
 date: "2012-10-11 21:26:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112227-felix-bestival.jpg"
 image_caption: "This photo makes me hate the fact  it is not summer anymore..."
 headline: true
 featured: true

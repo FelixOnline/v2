@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cooking is fun, so why not try it out?
 date: "2012-02-23 20:40:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232040-pk1811-100_2007.jpg"
 image_caption: "Apologies to Clare and Hannah... "
 headline: true
 featured: true

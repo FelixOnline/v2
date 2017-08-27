@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ashley Ng reports on the first ever M1 series tournament
 date: "2015-03-06 14:06:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
 headline: true
 featured: true
 imported: true

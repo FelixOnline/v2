@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exploring the “Old Capital” of Bulgaria to discover the deep-seated history of a state abundant in old-fashioned splendour and beauty
 date: "2011-11-24 20:13:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242013-pk1811-bulgaria.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242013-pk1811-bulgaria.jpg"
 image_caption: "Looking down on Veliko and the Yantra from midway up the Tsaravets..."
 headline: true
 featured: true

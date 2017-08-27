@@ -4,7 +4,7 @@ title: >
 subtitle: >
   From the UDH to the green fields of Harlington, Jovan Nedic moves onto rugby
 date: "2010-04-18 17:09:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201004181803-jn104-GuildsRu.jpg"
 headline: true
 featured: true
 imported: true

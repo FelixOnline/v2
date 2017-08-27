@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Plabon Saha reports back from the Electric Ballroom
 date: "2013-03-15 02:50:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150250-tna08-halestorm_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150250-tna08-halestorm_1.jpg"
 headline: true
 featured: true
 imported: true

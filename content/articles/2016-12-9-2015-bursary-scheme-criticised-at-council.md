@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union to request reimbursement of unfairly underfunded students
 date: "2016-12-09 11:53:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
 headline: true
 featured: true
 imported: true

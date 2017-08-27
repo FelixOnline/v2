@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
 image_caption: "Yep, he may offend people, but consider this: without him, no Karl Pilkington"
 headline: true
 featured: true

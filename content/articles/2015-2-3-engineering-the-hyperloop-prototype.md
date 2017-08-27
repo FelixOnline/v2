@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Osama Awara discusses the challenges behind the high speed transport system
 date: "2015-02-03 14:53:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201502031453-ps3110-hyperloop-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502031453-ps3110-hyperloop-2.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range.
 date: "2014-06-26 13:15:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406261415-jal08-concorde_club.jpg"
 image_caption: "A view of the new grounds"
 headline: true
 featured: true

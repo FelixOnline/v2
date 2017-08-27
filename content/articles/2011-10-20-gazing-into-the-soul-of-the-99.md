@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202251-felix-dsc07394.jpg"
 headline: true
 featured: true
 imported: true

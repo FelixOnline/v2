@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A squat in SW3 highlighting the London housing crisis is served eviction papers
 date: "2016-03-11 11:23:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
 image_caption: "Fight the power! Then pop to Pret for lunch."
 headline: true
 featured: true

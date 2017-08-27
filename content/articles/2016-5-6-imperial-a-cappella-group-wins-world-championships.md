@@ -4,7 +4,7 @@ title: >
 subtitle: >
   They were even featured on the worldwide Snapchat story
 date: "2016-05-06 09:44:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061044-felix-JMP_8002.jpg"
 image_caption: "The lads performed songs by British artists."
 headline: true
 featured: true

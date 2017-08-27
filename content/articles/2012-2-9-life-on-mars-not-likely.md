@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Annina Sartor explains how an analysis of Martian soil shows it is not suitable for life
 date: "2012-02-09 22:50:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201202092249-pk1811-pia11718.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202092249-pk1811-pia11718.jpg"
 image_caption: "NASA’s Mars Phoenix Lander on the surface of Mars "
 headline: true
 featured: true

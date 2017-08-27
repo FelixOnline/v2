@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s shit...
 date: "2011-06-28 11:34:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106281234-felix-cup-copy.jpg"
 image_caption: "Two girls in a cup, not quite the same..."
 headline: true
 featured: true

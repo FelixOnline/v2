@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indy Leclercq visits the Boathouse for the latest Club Captain Interview
 date: "2011-11-17 22:56:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172257-felix-dsc_4631.jpg"
 headline: true
 featured: true
 imported: true

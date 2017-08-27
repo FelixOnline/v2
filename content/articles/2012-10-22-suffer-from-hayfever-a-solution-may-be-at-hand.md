@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new clinical trial from joint research with Imperial College and King’s College could bring an end to the summer sneezing
 date: "2012-10-22 12:18:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201210221618-tna08-science-web-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210221618-tna08-science-web-picture.jpg"
 image_caption: "High Pollen days per region. Yellow = Birch. Brown = Grass. Red = Nettle."
 headline: true
 featured: true
@@ -64,7 +64,7 @@ If this applies to you, at least aim to use plants such as butterbur (a girly li
 However, as with all herbal medicines, you run the risk of suffering from adverse side effects and potentially high toxicity exposure, alongside pharmacological interactions with other drugs that may be taken that are still not understood.
 ## What is PollenLITE?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201210221620-tna08-rgb-pollelite.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201210221620-tna08-rgb-pollelite.jpg" title="" caption="" attr="" >}}
 
 PollenLITE is a new type of vaccine aiming to prevent hay fever symptoms triggered during grass pollen season. Instead of treating the symptoms, like the over-the-counter anti-histamines found in your local pharmacist, pollenLITE prevents these symptoms in the first place by “turning off” the allergic reaction.
 

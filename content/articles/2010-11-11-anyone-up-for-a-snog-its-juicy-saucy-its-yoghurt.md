@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Head down to South Kensington for some frozen yoghurt goodness
 date: "2010-11-11 21:23:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112119-nm1010-snogfroz.jpg"
 headline: true
 featured: true
 imported: true

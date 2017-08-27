@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC Crowd (get it?) power to the top 3
 date: "2012-11-29 21:43:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292144-tna08-coding_day_2-194.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,13 +28,13 @@ The 2-day event was staged in partnership with J.P. Morgan’s Technology for So
 
 Two teams from Imperial reached the final of the competition. One team, called the ‘IC Crowd’, had the following Imperial students: Pamela Cruz, Francesco Di Mauro, Michal Sipko, Michal Srb and Giulio Mecocci. They finished in the top three and were the winners of the ‘WaterAid’ prize. They produced an innovative data visualization solution for WaterAid, which is a charity aiming to provide safe, clean water to the world’s poorest people.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211292144-tna08-ic-crowd---team-photo.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211292144-tna08-ic-crowd---team-photo.jpg" title="" caption="" attr="" >}}
 
 Mike Smith and Joe Downie from WaterAid commented saying: “The J.P. Morgan team created a fantastic opportunity to engage and challenge top university students for some really worthwhile causes – it was great being a part of it!”
 
 The other Imperial team, called ‘Recurret’ included Julian Sutherland, Alexandru Paunoiu, Razvan Marinescu, Shahin Mir and Niklas Hambuechen. They finished in the top 6 and created a sophisticated and highly engaging awareness raising solutionfor The Nature Conservancy, which is a charity that develops ecological-preservation solutions around the world.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211292147-tna08-recurret---screenshot.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211292147-tna08-recurret---screenshot.jpg" title="" caption="" attr="" >}}
 
 Andrew Courtney from The Nature Conservancy said: “Overall the weekend exceeded my expectations: the students were top-notch and came up with several creative solutions; the event itself was well designed and gave the students and charities plenty of opportunities to interact. The entire event was a great opportunity for TNC to work with highly talented students and rapidly prototype numerous solutions to an ongoing challenge we’ve faced. “
 

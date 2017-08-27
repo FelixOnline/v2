@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Stewart has diet tips for the fat and lazy
 date: "2010-02-01 16:57:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011653-rsp07-overwirg.jpg"
 headline: true
 featured: true
 imported: true

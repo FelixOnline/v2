@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charlotte Levin reports
 date: "2012-11-29 23:21:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292321-csw09-fencing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292321-csw09-fencing.jpg"
 headline: true
 featured: true
 imported: true

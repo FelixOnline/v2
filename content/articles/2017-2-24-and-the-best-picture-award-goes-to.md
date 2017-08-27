@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A selection of our writers let us know which film they think should take home the top prize of Best Picture at this Sunday’s Academy Awards Ceremony
 date: "2017-02-24 14:19:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241415-felix-arrival-review.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241415-felix-arrival-review.jpg"
 headline: true
 featured: true
 imported: true
@@ -29,7 +29,7 @@ With Arrival, Denis Villeneuve has turned a tedious and uninteresting topic – 
 
 Reflecting on how language shapes our world and interactions, the film’s protagonist Dr. Banks (Amy Adams) asserts that “language is the foundation of civilization. It is the glue that holds a people together. It is the first weapon drawn in a conflict.” The unfamiliar language of the heptapods replaces the wonder and excitement usually provided by explosive alien weapons; the creatures emit an ink-like substance which flows through the air ‘spelling’ out calligraphic-style messages which Dr. Banks and Ian Donnelly (Jeremy Renner) , a mathematician, must decipher. Amy Adams’ performance as Dr. Banks, the foremost expert in her field, is equally impressive: we see her struggle with her past as she tries to save the planet from destroying itself, and international rivalries escalate. Arrival’s promotion of communication over conflict, and cooperation over military intervention, is timely given the world in which we currently find ourselves.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702241416-felix-p047xqbh.jpg" title="" caption="" attr="Allamy" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702241416-felix-p047xqbh.jpg" title="" caption="" attr="Allamy" >}}
 
 ## Moonlight | Hafiz Zainal's pick
 Every so often a film comes along on the big screen and, for a brief moment, thaws out the iciness of our hearts, reminding us of what it means to be human – profoundly vulnerable and emotional – before we return to our seemingly robust and apathetic façade. Moonlight happens to be such a film. The centrepiece of this cinematic triptych is Chiron, a boy whom we all know from school – that boy who was called ‘faggot’ before he even understood what it meant.
@@ -37,7 +37,7 @@ Some of us may have had to endure the unfortunate affair of being mercilessly bu
 
 It is refreshing to watch a film portray a black man as a quiet, sensitive protagonist as opposed to the aggressive criminal stereotype all-too-often used in mainstream Hollywood films. Moonlight, in its entirety, is a film about love and its capacity to alleviate painful past experiences – and that is something we can all relate to, regardless of our differences.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702241417-felix-hidden-figures-HF-228_rgb-e1483623580966.jpg" title="" caption="" attr="20th Century Fox" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702241417-felix-hidden-figures-HF-228_rgb-e1483623580966.jpg" title="" caption="" attr="20th Century Fox" >}}
 
 ## Hidden Figures | Indira Mallik's pick
 Let’s face it: this has been a pretty shit year. From the rise of the far-right in Europe, to an American president trying to block Muslims from entering the country, it’s been a political atmosphere dominated by fear and hatred of others, and a centralisation of voices that would previously be marginalised. Into this environment therefore, the success of Hidden Figures is something to be celebrated. Based on the true-life stories of the African-American women who calculated the trajectories for NASA astronauts during the space race, Hidden Figures acts as a call for unity, reminding us that the ‘greatness’ that Trump supporters want to bring America back to wasn’t that great at all.
@@ -45,7 +45,7 @@ Let’s face it: this has been a pretty shit year. From the rise of the far-righ
 Taraji P. Henson, Octavia Spencer, and Janelle Monaé star in the film, which mainly centres around the ‘computers’ – groups of women who performed complex calculations at top speeds to help rockets get off the ground. The film highlights the vital importance these women played and the challenges they faced, in an era when high-tech computers were a distant vision. Henson plays Katherine Goble, whose skill with analytic geometry saw her calculating space flights, breaking down racial barriers placed in her way with a single-minded strength of will.
 Hidden Figures is celebratory and unashamedly so; it is ‘feel good’ viewing at its most pure and wonderful. It celebrates the legacy of these black women, which has been largely unnoticed by historians, but also asks us to remember that all individuals have worth; not just those who can help NASA. It’s a lesson many leaders could learn, and the Academy would be sending out a strong message to the world by selecting a film that is so inherently political as Best Picture.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702241417-felix-la-la-land-ryan-gosling-emma-stone.jpg" title="" caption="" attr="Allstar" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702241417-felix-la-la-land-ryan-gosling-emma-stone.jpg" title="" caption="" attr="Allstar" >}}
 
 ## La La Land | Tom Stephens' pick
 What a year it is for Best Picture nominees. There really is something for everyone on the list this time around: family drama in Manchester By The Sea, Fences and Lion; sci-fi in Arrival; war drama in Hacksaw Ridge; intelligent thriller Hell or High Water; and even a classic “based-on-a-true-story” unsung heroes (or in this case, heroines) tale in Hidden Figures. It’s one of the most all-round acclaimed collection of nominees in years – none of the films have an approval rating on Rotten Tomatoes lower than 85% – but despite this there have only been two films dubbed to win at any point in the process: Moonlight, which began picking up speed as a possible Oscar winner when it won the Golden Globe for best drama earlier this year, and La La Land.
@@ -54,7 +54,7 @@ I’ll confess now; I haven’t seen Moonlight, and I feel ashamed about it – 
 
 But I will say this: La La Land, frontrunner for the award from the get-go and darling of critics and crowds alike, has received all that hype for a reason. The main reason, aside from its cinematic beauty, the perfection of its direction and writing, the power of its two central performances, and its utterly lush musical score: it is a film that dares to dream. In the era that we’re living in, where the entire world seems to have taken a turn towards the dark, it takes a hell of a lot of heart to make a film this powerfully uplifting, that reminds all who watch it of the power of self-belief without miring itself in cliché.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702241418-felix-ad_232700669-e1485345647935.jpg" title="" caption="" attr="Allstar" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702241418-felix-ad_232700669-e1485345647935.jpg" title="" caption="" attr="Allstar" >}}
 
 ## Manchester by the Sea | Fred Fyles' pick
 Which of these films will matter a year from now? What about five years? What about a decade? Too often, the Academy has made the decision to give the Best Picture award to a film that, realistically, won’t stand the test of time. How many times have you watched Argo? What about The Artist? What about Crash?! It’s time that the Academy bucks the current trend, and goes for a winner that will really hold up down the line. That winner is Kenneth Lonergan’s Manchester by the Sea, a heart-breaking tale of loss and grief, which eschews happy endings in favour of real drama.

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College London develops potential method to control the body's inflammatory response
 date: "2011-01-20 19:24:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201921-ks607-thingsth.jpg"
 headline: true
 featured: true
 imported: true

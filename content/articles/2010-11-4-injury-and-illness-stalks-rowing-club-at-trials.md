@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rowing machines and strong winds for Boat Club as they win 18 BUCS points
 date: "2010-11-04 18:44:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041843-ks607-rowingro.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041843-ks607-rowingro.jpg"
 headline: true
 featured: true
 imported: true

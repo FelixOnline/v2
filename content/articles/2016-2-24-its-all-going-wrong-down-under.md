@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Smuggler is more high-brow than its subject matter suggests
 date: "2016-02-24 18:38:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201602241835-ff712-mule-0-2000-0-1125-crop.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602241835-ff712-mule-0-2000-0-1125-crop.jpg"
 image_caption: "Angus Simpson as Ray, in the somewhat confused film The Smuggler"
 headline: true
 featured: true

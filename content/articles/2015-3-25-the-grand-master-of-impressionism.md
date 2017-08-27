@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik takes a tour of artistic history at the National Gallery
 date: "2015-03-25 13:17:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251316-ff712-impressionism-x8659.pr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251316-ff712-impressionism-x8659.pr.jpg"
 image_caption: "Claude Monet, Poplars in the Sun, 1891. Oil on canvas."
 headline: true
 featured: true

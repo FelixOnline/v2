@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simone Buitendijk discusses online learning, Brexit and more
 date: "2016-12-09 15:33:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091531-felix-newseventsimages.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091531-felix-newseventsimages.jpg"
 headline: true
 featured: true
 imported: true

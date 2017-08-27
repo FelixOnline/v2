@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
 headline: true
 featured: true
 imported: true

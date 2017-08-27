@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Hockey Club serve up free shots and more!
 date: "2012-02-16 21:32:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
 image_caption: "When they break out the pens, it’s time to get out"
 headline: true
 featured: true

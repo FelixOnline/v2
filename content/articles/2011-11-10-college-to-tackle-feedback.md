@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"
-image: "http://felixonline.co.uk/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
 image_caption: "Rector Sir Keith O'Nions is developing a plan with Heads of Department against feedback"
 headline: true
 featured: true

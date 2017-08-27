@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore on why old games get better when you pretend they’re new
 date: "2011-10-13 22:31:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
 image_caption: "Let's take a step back "
 headline: true
 featured: true

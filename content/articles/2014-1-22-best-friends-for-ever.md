@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Reviewing the next installment of Battlefield, as well as gushing about counterknifing!
 date: "2014-01-22 14:15:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201401221418-me1711-games_battlefield.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401221418-me1711-games_battlefield.jpg"
 headline: true
 featured: true
 imported: true

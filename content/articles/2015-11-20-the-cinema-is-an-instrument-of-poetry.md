@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511200915-ygr12-belle-de-jour.jpg"
 image_caption: "Catherine Deneuve in the French drama, Belle de Jour, directed by Buñuel in 1967."
 headline: true
 featured: true

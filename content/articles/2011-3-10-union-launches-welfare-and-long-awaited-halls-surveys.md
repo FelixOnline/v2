@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Halls survey asks whether Ethos should remain free or not
 date: "2011-03-10 19:45:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171936-ks607-hallshal.jpg"
 headline: true
 featured: true
 imported: true

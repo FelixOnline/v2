@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171721-felix-nws3.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,11 +37,11 @@ Ecstatic with my success, I grinned to myself as I listed all the events I could
 
 I navigated my way to the press office and secured my official laminated press pass. I began pinning it to my shirt. “You don’t need to actually wear it, love,” smiled the coquettish girl on the desk. I blushed as I fumbled with the pin and it fell to the floor, any illusion of professionalism irreparably shattered. Her smile widened as she bent to pick it up and kindly fixed it in place for me. I mumbled some thanks, before fleeing the scene to begin my first circuit of the stalls.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703171722-felix-nws6.jpg" title="" caption="" attr="Theo Farah" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703171722-felix-nws6.jpg" title="" caption="" attr="Theo Farah" >}}
 
 I snaked my way around the centre: an orgy of ivory, powder pink, starry eyed brides to be, and infinitely resigned mothers. As I wended my way through, I looked for a kindly, yet bored salesperson to give me some dirt on the debacle. I tried to rehearse how the interview would go in my head, hoping to move from bland questions about the convention itself to the worst excesses of weddings. I settled on a stall occupied by a friendly looking blonde woman surrounded by images of the big day occupying all sizes of frames. “I suppose these must be your doing?” I jeered, attempting to regain some composure after my earlier humiliation. She told me about how it was her first time at the convention, but was here both as a vendor and with fiancé in tow. She said she’d been to over 180 weddings, yet couldn’t possibly plan her own. I glanced at the adjacent stall, a luxury Harrods spa day for the bridal party, and wondered if they squeezed that in between the ceremony and the reception.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703171722-felix-nws7.jpg" title="" caption="" attr="Theo Farah" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703171722-felix-nws7.jpg" title="" caption="" attr="Theo Farah" >}}
 
 "What makes the perfect wedding?”, I asked.
 
@@ -57,4 +57,4 @@ Continuing my circuit, I passed a rentable ice cream truck, a rather jolly singe
 
 Momentarily, my eye was caught by a classic Mercedes convertible in black. I was accosted by the vendor – “You missed all of the beautiful models come in at twelve,” he leered and began his spiel. Bored, I cast my eye over the area, the “Grooms Room”, complete with bottles of gin, a pool table, and handmade leather shoes from Hungary. Disappointed in myself for succumbing to such heteronormative marketing, I started towards the shoes. Made vulnerable by the glorious footwear, I was assaulted by the salesman’s pitch there too and handed what felt like my fiftieth business card of the day. I disengaged and pointedly emptied my pockets of business cards in the bin a metre away. Satisfied with my display of passive aggression, I decided I’d seen enough of weddings. That is until I’m eventually roped into attending one.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703171723-felix-nws5.jpg" title="" caption="" attr="Theo Farah" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703171723-felix-nws5.jpg" title="" caption="" attr="Theo Farah" >}}

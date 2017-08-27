@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Basel Chamali argues that there is no peaceful solution in Syria
 date: "2012-03-08 21:39:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082138-ams111-rebels.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082138-ams111-rebels.jpg"
 image_caption: "Homs’ latest celebrities: Though low in numbers, armed rebels are high in popularity "
 headline: true
 featured: true

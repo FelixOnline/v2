@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The final day of sporting events at Teddington Sports ground took place last on Saturday, 18th October
 date: "2014-10-24 12:57:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201411021841-ps3110-tbl_teddington_event-48.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411021841-ps3110-tbl_teddington_event-48.jpg"
 headline: true
 featured: true
 imported: true

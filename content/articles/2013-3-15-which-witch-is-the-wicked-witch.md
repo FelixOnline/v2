@@ -4,7 +4,7 @@ title: >
 subtitle: >
   3 stars for Oz the Great and Powerful due to a lack of substance
 date: "2013-03-15 02:16:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,19 +26,19 @@ The Wizard of Oz may be a great and powerful man but Sam Raimi’s modern origin
 
 In the traditional Wizard of Oz style, the film starts off in black-and-white mode, as we are introduced to Oscar/Oz (Franco), a womanising, self-centred circus magician/con-artist who dreams of not just goodness, but greatness. After a string of events that land him in a hot air balloon in the midst of a terrifying tornado, Oscar narrowly escapes death and ends up in the colourful land of Oz.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150215-tna08-.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150215-tna08-.jpg" title="" caption="" attr="" >}}
 
 Here is where the film churns out an endless stream of magnificent looking unique features of Oz’s nature – the trees, the flowers, the leaves, all the bright, vibrant colours come to life more so with the extra dimension, and this head-spinning sequence goes on for far too long in fact, completely going over the top, spending more thanthe necessary amount of time concentrating on its pretty visuals rather than pushing on with the story.
 
 Meeting him first is Theodora (Kunis) the good witch, who then introduces him to her sister Evanora (Weisz), who clearly isn’t a very good witch. There is a prophecy in Oz that a great wizard bearing the same name as their world will descend from the skies, will defeat the Wicked Witch and will restore peace. That man appears to be Oscar himself, who instantly grabs the opportunity to become rich and powerful.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150215-tna08-oz-the-great-and-powerful-set-for-sequel-1362939980-5121.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150215-tna08-oz-the-great-and-powerful-set-for-sequel-1362939980-5121.jpg" title="" caption="" attr="" >}}
 
 Theodora truly falls for him, even delving into a fantasy world of her own where she will become Oscar’s wife and the two of them will rule over Oz as a happy couple. The sinister Evanora isn’t convinced, and the political power struggle between the witches is further complicated by Glinda (Williams) who is so clearly the purest one of them all, what with her white dress and blonde hair. Lies and deceit tear these individuals apart, and eventually there comes a time where Oscar needs to step up, and lead an army to overthrow the dark powers that control Oz.
 
 Only that it takes absolutely ages for Oscar to come to his senses. There is a lot of repetition when it comes to portraying him as a money/power/woman-hungry human who only cares about the royal treasures of Oz. Okay we get that he needs to change and as this is a Disney film we also know that he will play the hero in the end but the film’s narrative is bogged down by one too many references to the fact that he’s capable of more than he knows.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150215-tna08-oz-the-great-and-powerful-glinda-and-evanora.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150215-tna08-oz-the-great-and-powerful-glinda-and-evanora.jpg" title="" caption="" attr="" >}}
 
 But when it comes to the finale and linking everything together with what we’ve seen in The Wizard of Oz, the film does manage to establish some clever links and use Oscar’s baseline skills to its advantage in creating a big showdown. His skills as a con-artist he used so well on Earth are put to good use here, as are his sneaky wits. Franco does his best with the very limited sides to his lead character, one shallow, the other reformed and committed, but he brings enough cheeky humour into the role to provide some intermittent laughs.
 

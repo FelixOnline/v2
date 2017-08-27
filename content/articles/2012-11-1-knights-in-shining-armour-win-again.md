@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?
 date: "2012-11-01 23:09:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
 headline: true
 featured: true
 imported: true

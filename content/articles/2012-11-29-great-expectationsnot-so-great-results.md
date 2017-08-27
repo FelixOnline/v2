@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Starring: Jeremy Irvine, Ralph Fiennes, Helena Bonham Carter, Holliday Grainger
 date: "2012-11-29 23:00:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292300-csw09-helena_bonham_carter_great_expectations.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292300-csw09-helena_bonham_carter_great_expectations.jpg"
 headline: true
 featured: true
 imported: true

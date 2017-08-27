@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Review of Imperial College's Drama Society adaptation
 date: "2011-02-17 19:02:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171858-nm1010-vaginamo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171858-nm1010-vaginamo.jpg"
 headline: true
 featured: true
 imported: true

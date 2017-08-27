@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union to hire £100,000 per year worth of new support staff
 date: "2012-11-22 22:25:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222225-tna08-img_3197.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222225-tna08-img_3197.jpg"
 headline: true
 featured: true
 imported: true
@@ -38,4 +38,4 @@ The Union hopes that the new staff members will improve the student experience i
 
 The Union have also commented on further work that will be undertaken later in the year to “empower more students in making decision regarding the distribution of Union subvention to Clubs, Societies and Projects.” However, the plans for this process are not yet finalised.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222239-tna08-tableting.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222239-tna08-tableting.jpg" title="" caption="" attr="" >}}

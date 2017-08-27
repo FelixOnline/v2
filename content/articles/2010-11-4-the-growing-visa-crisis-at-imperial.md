@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The government's immigration cap and how it affects Imperial
 date: "2010-11-04 18:55:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041901-jk708-Research.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041901-jk708-Research.jpg"
 image_caption: "Visa restrictions could hamper Imperial's ability to attract talented researchers"
 headline: true
 featured: true

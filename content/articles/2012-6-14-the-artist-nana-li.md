@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Artist - Nana Li
 date: "2012-06-14 20:26:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142124-pk1811-nana.png"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ N - Exactly, yeah. It’s nice to get inspired by other people and it allows you
 
 E - If you were in a team, might you go and have freelance jobs on the side? So that you didn’t leave manga completely?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206142125-pk1811-tts_cover.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206142125-pk1811-tts_cover.png" title="" caption="" attr="" >}}
 
 N - The longer I work on it the less there is a divide in my mind, between manga, between what I do and what I want to do. In the end it’s all about illustration. It’s about problem-solving. It’s about visual communication, all those big words. Whether it’s drawn in manga style or drawn in the more realistic or cartoony style doesn’t really matter. I think I’m starting to move away from style being an issue. It’s more what I want to do with artwork. I want to draw exciting concepts for cool projects.
 

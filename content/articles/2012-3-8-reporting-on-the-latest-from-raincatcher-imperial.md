@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Following on from the success of their recent Metric Night, Raincatcher is busy obtaining sponsorship for the ambitious Water Carry Walk
 date: "2012-03-08 21:15:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082115-ams111-water.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082115-ams111-water.jpg"
 headline: true
 featured: true
 imported: true

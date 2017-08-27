@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The CGCU President Lejon Chua writes an open letter to engineers
 date: "2013-11-05 09:50:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201311181840-cac111-lejon-chua---president.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311181840-cac111-lejon-chua---president.png"
 headline: true
 featured: true
 imported: true

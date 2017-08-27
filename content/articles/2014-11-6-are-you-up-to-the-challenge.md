@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
 image_caption: "Spot the Felix cat chilling with the team from 2009. Fun fact, Amit was so amazing he made it into t"
 headline: true
 featured: true

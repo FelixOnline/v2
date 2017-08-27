@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman champions Tom Stoppard’s right to the title
 date: "2015-03-25 12:51:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
 image_caption: "Tom Stoppard, perhaps the greatest living playwright? "
 headline: true
 featured: true

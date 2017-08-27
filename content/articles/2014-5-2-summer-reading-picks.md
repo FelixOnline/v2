@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an eclectic selection of five great books to help you help you relax during the busy revision period
 date: "2014-05-02 01:43:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020243-jal08-h2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020243-jal08-h2.jpg"
 headline: true
 featured: true
 imported: true

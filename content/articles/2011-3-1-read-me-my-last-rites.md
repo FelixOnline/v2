@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Rite has got me dying of boredom
 date: "2011-03-01 21:04:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012103-ks607-theritet.jpg"
 headline: true
 featured: true
 imported: true

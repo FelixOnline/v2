@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Highly inflammable substance causes explosion risk in spray-on fabric lab
 date: "2010-12-09 22:04:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092159-dr910-fabrican.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092159-dr910-fabrican.jpg"
 headline: true
 featured: true
 imported: true

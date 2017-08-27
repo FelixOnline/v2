@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201207101243-mc4509-the-newsroom.jpg"
 image_caption: "Practically the Felix Office"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week, it's Jiro Dreams of Sushi
 date: "2015-11-06 14:13:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
 image_caption: "Sushi-master Jiro, with his team."
 headline: true
 featured: true

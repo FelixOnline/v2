@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002251317-srg03-Facebook.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sport Editor Sam Smith does sports. Sports! Sports! Sports!
 date: "2017-01-20 15:49:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201548-felix-20170115_123752.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201548-felix-20170115_123752.jpg"
 headline: true
 featured: true
 imported: true

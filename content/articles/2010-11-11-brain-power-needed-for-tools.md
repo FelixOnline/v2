@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Question of how Stone Age man evolved to craft increasingly superior stone tools answered
 date: "2010-11-11 21:01:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112058-ks607-caveman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112058-ks607-caveman.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Tottenham explains the martial art
 date: "2013-01-18 00:59:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180058-tna08-wing-chen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180058-tna08-wing-chen.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah cannot translate the Rosetta Stone
 date: "2013-05-30 09:16:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201305301015-tna08-rosetta_stone.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305301015-tna08-rosetta_stone.jpg"
 headline: true
 featured: true
 imported: true

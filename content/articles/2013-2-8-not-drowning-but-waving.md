@@ -41,4 +41,4 @@ The full time whistle blew leaving Imperial with mixed emotions; 2 points droppe
 
 Garner was voted man of the match, increasing his lead at the top of Imperial’s very own Fantasy Football but Jones made a very promising debut and, despite the result, the team put in one of the better performances of the season. The journey back is ongoing, and the team are expected back shortly before the summer ball.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302080014-tna08-footy-sponsors.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302080014-tna08-footy-sponsors.jpg" title="" caption="" attr="" >}}

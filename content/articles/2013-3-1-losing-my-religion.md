@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton on growing up faithless in a Catholic country
 date: "2013-03-01 00:51:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Raised Catholic in Northern Ireland, religion was never sold to me as a matter o
 
 So I sought a cure for my atheism. I became heavily involved in Catholic groups, attending mass twice a week and going abroad on pilgrimage. I focussed on the parts of my religion I did believe in, such as charity, and told myself that belief in the rest would surely come. I remember being on a retreat, aged 19, with the intention of finally deciding that I believed in God. Looking back, it does seem incredible that I would head to the countryside with a religious group with the intention of believing in a God I wasn’t sure existed. I spent the weekend reading non-stop through Catholic apologetics but yet again I could only agree with the call to be a moral person and even then felt things weren’t as black and white as they were presented to me. Eventually I realised that to believe would require not a book but a leap of faith. To simply, blindly, accept what the Church said to be true. I had to believe.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303010052-tna08-alom-shaha-for-web.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303010052-tna08-alom-shaha-for-web.jpg" title="" caption="" attr="" >}}
 
 But I couldn’t. I couldn’t because I didn’t. Catholicism went against my beliefs, it went against who I was and in truth I wasn’t a Catholic. This realisation was not the liberation it is for some; it was a grim acceptance. But through chance, I heard of humanism. Actually, I heard about it through a priest who was criticising it: “They arrogantly wish to live good lives without God.” That sounded perfect.
 

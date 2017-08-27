@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michael Purdy discusses the archaic abortion laws of Northern Ireland and the obstacles in getting them changed
 date: "2016-11-11 13:57:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ The current legislation surrounding abortion in place in Northern Ireland is ana
 
 The act is by no means a dormant piece of legislature. This April a 21-year-old woman from Belfast was given a three month suspended sentence for carrying out a self-induced miscarriage using pills she bought online. This woman’s decision to abort the pregnancy would have been one of the most emotionally and physically tasking moments she had ever experienced. For the rest of her life, every time she applies for an international visa, a job, adoption application etc. she must detail this conviction, meaning it will plague her indefinitely. Many women in Northern Ireland who decide to have an abortion travel to England where it is currently legal. This trip costs on average £900, a sum of money that is not light heartedly expended in an economically underdeveloped country. Thus, the law actively discriminates against working class women who do not have the money to travel to England for an abortion and are forced to have the child or terminate the pregnancy by illegal means. In November 2015 Belfast’s High court ruled that Northern Ireland’s current abortion law is incompatible with international human rights. Furthermore, an Amnesty International survey stated that 3/5 people in Northern Ireland agree that the law should be changed to include cases of foetal abnormalities, incest and rape. So why then has there been no change in the last 155 years?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.44.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.44.png" title="" caption="" attr="" >}}
 
 The party is and has historically been controlled by evangelical and fundamentalist Christians. The party opposes any change to the current laws surrounding abortion and has a large enough majority in parliament to prevent a change in legislation. This is not the first time the party has opposed a change in law that would facilitate social equality. The party’s founder Ian Paisley led his party on a campaign to ‘Save Ulster from Sodomy’, claiming homosexual acts were “a crime against God and man and its practice is a terrible step to the total demoralisation of any country.” This campaign intended to prevent the decriminalisation of homosexuality in Northern Ireland.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Tsim drives a hard bargain with your moneyz
 date: "2013-09-29 13:35:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291443-tna08-banknote.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291443-tna08-banknote.jpg"
 image_caption: "My mind on my money and my money on my mind"
 headline: true
 featured: true
@@ -29,7 +29,7 @@ Hopefully anyone who is eligible has already applied for Student Finance England
 
 With the start of university, the most important preparation you should be doing is to ‘Sort out your finances’. The first step to achieve this is to open a student account at the right bank. There are many banks out there, each and every one of them offering a variety of different services and freebies. The most important thing you should be considering is cost-free borrowing (interest free overdraft). This is the crucial difference between student accounts and standard accounts. Student accounts also offer the same functions such as internet/mobile banking, direct debit facilities, contactless etc. These accounts are designed for people who are attending higher education, so open your account now!
 
-{{< figure src="http://felixonline.co.uk/img/upload/201309291440-tna08-business-banks-table.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201309291440-tna08-business-banks-table.jpg" title="" caption="" attr="" >}}
 
 ####  Interest Free Overdraft:
 

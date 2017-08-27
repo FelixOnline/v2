@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201512061442-ff712-JesusCamp1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512061442-ff712-JesusCamp1.jpg"
 headline: true
 featured: true
 imported: true

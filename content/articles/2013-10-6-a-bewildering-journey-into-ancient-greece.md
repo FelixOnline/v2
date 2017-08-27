@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily Fulham reviews the latest fantasy offering from the BBC
 date: "2013-10-06 10:15:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
 image_caption: "A friendly conversation takes a sudden turn for the worst when Pythagoras gets asked to find the squ"
 headline: true
 featured: true

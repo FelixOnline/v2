@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson on this year's BioSoc debate, which included panellists from The Times and the BBC
 date: "2011-03-03 20:30:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032027-ks607-madscien.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032027-ks607-madscien.jpg"
 headline: true
 featured: true
 imported: true

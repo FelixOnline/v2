@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam looks at why the open source mantra is so confused
 date: "2010-05-28 10:28:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201005281126-srg03-Opensour.jpg"
 headline: true
 featured: true
 imported: true

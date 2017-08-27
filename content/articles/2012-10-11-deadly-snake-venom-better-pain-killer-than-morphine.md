@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Black mamba venom proves to be more useful than meets the eye
 date: "2012-10-11 20:46:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112145-csw09-snake.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112145-csw09-snake.jpg"
 headline: true
 featured: true
 imported: true

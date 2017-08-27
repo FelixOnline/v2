@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charles Betts wrestles with existential angst as he attempts to review restaurant chain Giraffe
 date: "2011-09-30 12:21:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201109301319-felix-best-interior.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201109301319-felix-best-interior.jpg"
 image_caption: "Take a chance on Giraffe, or even... stick your neck out...eh, eh? I’ll get my coat"
 headline: true
 featured: true

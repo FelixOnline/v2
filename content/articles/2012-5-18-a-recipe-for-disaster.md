@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett weighs up the pros and cons of publishing research on H5N1
 date: "2012-05-18 11:16:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181215-felix-colorized_transmission_electron_micrograph_of_avian_influenza_a_h5n1_viruses.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181215-felix-colorized_transmission_electron_micrograph_of_avian_influenza_a_h5n1_viruses.jpg"
 image_caption: "Pretty deadly: a transmission electron micrograph of the H5N1 virus (gold)"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sarah Bryne attends a symposium at the South Kensington campus
 date: "2012-11-15 21:06:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rhys Davies welcomes you to Wales
 date: "2010-01-22 13:53:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201001221350-rsp07-comment.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001221350-rsp07-comment.jpg"
 headline: true
 featured: true
 imported: true

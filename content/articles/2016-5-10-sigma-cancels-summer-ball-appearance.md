@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The headliner will now be DJ Fresh
 date: "2016-05-10 13:11:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201605101515-ygr12-sigma copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605101515-ygr12-sigma copy.jpg"
 headline: true
 featured: true
 imported: true

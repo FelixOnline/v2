@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Women's team cruise past opponents
 date: "2013-02-28 23:53:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302282353-tna08-rugby.jpg"
 headline: true
 featured: true
 imported: true

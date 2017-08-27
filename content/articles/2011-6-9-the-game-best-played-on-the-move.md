@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chromaroma hits the London transport network
 date: "2011-06-09 21:42:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
 headline: true
 featured: true
 imported: true

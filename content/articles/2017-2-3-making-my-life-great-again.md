@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
 headline: true
 featured: true
 imported: true

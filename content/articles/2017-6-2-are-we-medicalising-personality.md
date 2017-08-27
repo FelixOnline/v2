@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey thinks sometimes we cross the line when it comes to diagnosing mental health disorders vs personality traits.
 date: "2017-06-02 12:55:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021455-felix-Screen Shot 2017-06-02 at 14.54.57.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021455-felix-Screen Shot 2017-06-02 at 14.54.57.png"
 headline: true
 featured: true
 imported: true

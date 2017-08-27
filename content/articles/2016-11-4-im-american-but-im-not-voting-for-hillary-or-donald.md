@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Steve Bohnel explains why he couldn’t support either of the main candidates
 date: "2016-11-04 14:49:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041446-felix-Screen Shot 2016-11-04 at 14.45.50.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041446-felix-Screen Shot 2016-11-04 at 14.45.50.png"
 headline: true
 featured: true
 imported: true
@@ -48,7 +48,7 @@ The problem with voting for one of these candidates is that there are considerab
 
 And yet, they both seem like much better options than what the Democratic and Republican parties have produced. Both Johnson and Stein agree that marijuana should be legalised. In America, that drug is currently classified as Schedule I. In other words, it’s somehow as dangerous as heroin.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611041446-felix-Screen Shot 2016-11-04 at 14.45.21.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611041446-felix-Screen Shot 2016-11-04 at 14.45.21.png" title="" caption="" attr="" >}}
 
 They also believe in prison reform and police brutality as severe issues, at a time where those topics have generated a lot of news and debate in the states.
 

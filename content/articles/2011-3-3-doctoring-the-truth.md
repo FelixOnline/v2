@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The German secretary of defense has finally stepped down after his PhD was exposed as plagiarised
 date: "2011-03-03 20:52:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201103032049-ks607-germande.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103032049-ks607-germande.jpg"
 headline: true
 featured: true
 imported: true

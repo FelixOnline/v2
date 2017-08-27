@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial Cricket hold their heads high following losses in Hertfordshire
 date: "2011-11-03 22:16:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032216-sjw209-somepeople.jpg"
 image_caption: "The cricketeers gather"
 headline: true
 featured: true

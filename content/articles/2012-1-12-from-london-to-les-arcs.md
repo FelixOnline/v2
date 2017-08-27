@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caffeine addiction, bizarre haircuts and onesies. Snowsports report on their biggest ski trip in recent memory
 date: "2012-01-12 23:02:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122301-felix-rory-dub-sequence.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122301-felix-rory-dub-sequence.jpg"
 headline: true
 featured: true
 imported: true

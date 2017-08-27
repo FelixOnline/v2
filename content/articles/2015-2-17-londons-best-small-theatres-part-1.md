@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg kicks off our guide to overlooked city venues
 date: "2015-02-17 16:55:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171654-ps3110-finborough-arms-largea.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171654-ps3110-finborough-arms-largea.jpg"
 image_caption: "The Finborough Theatre, Earls Court"
 headline: true
 featured: true

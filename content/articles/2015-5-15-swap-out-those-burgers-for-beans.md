@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on lowering your risk of colon cancer
 date: "2015-05-15 12:01:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151300-cj914-phaseolus_beans.jpg"
 image_caption: "New research from a team of scientists, involving some from Imperial College London, suggests that a Western diet, high in protein and fat, can lead to an increased risk of colon cancer compared to one high in starch"
 headline: true
 featured: true

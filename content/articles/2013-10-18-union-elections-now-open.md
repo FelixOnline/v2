@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Time to vote! The Student Rep and Union Council elections have begun!
 date: "2013-10-18 20:43:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
 headline: true
 featured: true
 imported: true

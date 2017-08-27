@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Idea proposed of changing Sabbatical roles
 date: "2012-06-08 08:35:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206080934-mc4509-news2.jpg"
 image_caption: "The meeting took the form of an informal discussion"
 headline: true
 featured: true
@@ -37,7 +37,7 @@ There were several proposed changes to the way the Union is run. The first propo
 
 It was also proposed that two student trustees would be elected and two would be appointed rather than the current election of all four. This was said to “even up the representation,” as some faculties are currently underrepresented on the Trustee Board.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201206081242-felix-img_0489.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201206081242-felix-img_0489.jpg" title="" caption="" attr="" >}}
 
 The restructuring and reshaping the Sabbatical Officer roles was also considered, with the current position of Deputy President (Clubs & Societies) being renamed as Deputy President (Activities), under the remit of handling Clubs and Societies and their officers. The most substantial change came with the removal of Deputy President (Finance & Services) and the potential introduction of Deputy President (Student Development), who would handle volunteering, fundraising and student citizenship. The introduction of a Postgraduate Sabbatical officer was also met with unanimous approval.
 

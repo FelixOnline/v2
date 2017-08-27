@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205040159-felix-george.jpg"
 image_caption: "St George’s, University of London"
 headline: true
 featured: true

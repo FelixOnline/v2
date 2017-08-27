@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dave Krishna gets his Karate Kid on...
 date: "2012-11-23 00:08:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230009-tna08-maks%20nage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230009-tna08-maks%20nage.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   On Saturday 19th February 2011, Felix hosted its first Music Night at Metric. It was a glorious event
 date: "2011-02-28 21:25:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282123-ks607-tincan44.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282123-ks607-tincan44.jpg"
 headline: true
 featured: true
 imported: true

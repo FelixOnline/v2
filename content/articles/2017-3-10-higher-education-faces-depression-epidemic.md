@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joanna Wormald discusses the rise of mental illness across UK universities and efforts (or lack of) that have been made to tackle student depression.
 date: "2017-03-10 13:23:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
 image_caption: "The wordcloud from the institutional culture report"
 headline: true
 featured: true

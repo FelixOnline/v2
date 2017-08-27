@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031936-pk1811-img_6818.jpg"
 image_caption: "Council – not only three hours of serious debate, but three hours of arm exercise too"
 headline: true
 featured: true

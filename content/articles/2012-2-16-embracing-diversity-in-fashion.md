@@ -4,7 +4,7 @@ title: >
 subtitle: >
   MAI and Alice Yang interview fashion’s top activist and All Walks founder Caryn Franklin
 date: "2012-02-16 21:39:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162138-ams111-caryn-blank.jpg"
 image_caption: "All Walks Founder: Caryn Franklin"
 headline: true
 featured: true

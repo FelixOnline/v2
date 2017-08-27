@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi speaks to duo and Ambarchi collaborators
 date: "2013-06-13 23:02:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140002-tna08-manhunter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140002-tna08-manhunter.jpg"
 headline: true
 featured: true
 imported: true
@@ -52,7 +52,7 @@ JT: I mean, of course we’ve seen Twin Peaks, but we weren’t trying to do a T
 
 JR: it’s just a shame that people make a reference to Twin Peaks whenever they hear any kind of synthesizer with a certain tone or chord progression. I think it wasn’t in our heads at all, you know? I think If anything if you wanna make a reference it’s closely tied to say, Broken Flag issues like Maurizio Bianchi from the ‘80s. That, for me, is much more linked to the album we made than Twin Peaks. But we do love the Twin Peaks soundtrack, like most people.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140003-tna08-jamesrushfordjoetalia.jpg" title="JamesRushford and JoeTalia" caption="JamesRushford and JoeTalia" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140003-tna08-jamesrushfordjoetalia.jpg" title="JamesRushford and JoeTalia" caption="JamesRushford and JoeTalia" attr="" >}}
 
 RA: I think it’s just wishful thinking on people’s part. But in a way, there’s a sort of darkly comedic but also bleak and just all out weird ambience in Lynch’s material that also finds some place in your music.
 

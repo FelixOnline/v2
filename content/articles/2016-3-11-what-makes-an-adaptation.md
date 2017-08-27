@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shows should try to be fresh and do something which makes them unique
 date: "2016-03-11 12:05:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111205-felix-the-dresden-files-53f246f8a6b03.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111205-felix-the-dresden-files-53f246f8a6b03.jpg"
 image_caption: "The Dresden Files; based on a great series, but the show missed the mark. "
 headline: true
 featured: true

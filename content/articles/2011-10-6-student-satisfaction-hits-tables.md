@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New emphasis on NSS sees Imperial fall 11 places
 date: "2011-10-06 23:53:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201110070159-felix-league-tables.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110070159-felix-league-tables.jpg"
 image_caption: "Mixed fortunes for Imperial in league table results"
 headline: true
 featured: true

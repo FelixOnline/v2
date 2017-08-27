@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix takes a tour of the nearly completed labs
 date: "2011-05-26 18:29:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201105261926-felix-img_4457.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105261926-felix-img_4457.jpg"
 image_caption: "A section of a new undergraduate teaching lab."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506182045-jyg11-borisjohnson.jpg"
 image_caption: "Could this muppet be the next leader of the Conservative party?"
 headline: true
 featured: true

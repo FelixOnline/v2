@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Abhijay Sood tells us all about why he's in love with labour
 date: "2017-06-02 14:16:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021615-felix-jezspeaker.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021615-felix-jezspeaker.jpg"
 headline: true
 featured: true
 imported: true

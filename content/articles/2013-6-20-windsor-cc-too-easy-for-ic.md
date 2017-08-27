@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Were they fielding a D team?
 date: "2013-06-20 22:40:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306202340-tna08-cricket.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ There were high expectations for ex-Windsor veteran Vishal Nair, having scored a
 
 With his side in trouble at 18 for 3, Jayanth joined Iain Stobbs for a momentum-shifting partnership of 54. Iain smacked ten fours in his authoritative 47 off 45 balls before being removed by one that darted back into his middle stump. The scoring rate stunted, Jayanth played a captain’s knock to rebuild and anchor the innings, well supported by Joe O’Gorman who contributed with 31. Both played smart cricket, rotating strike constantly while at the same time putting away the bad balls when they came. However, disaster struck when he was on 81 and given out to a very dubious LBW decision – just as he was looking to accelerate towards his century. With wickets tumbling at the other end, Vignesh Venkateswaran, the last of the ex-Windsor players, struck some lusty blows including a couple of flicks for six in his quick-fire 32 off 20 before holding out at long-on on the penultimate ball – Imperial 209 all out.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306202340-tna08-cricket-3.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306202340-tna08-cricket-3.jpg" title="" caption="" attr="" >}}
 
 Action resumed immediately in the second innings with club president Sid Kohli opening the bowling with his off-breaks. Leggie Arvind Rajagopalan shared the not-so-new ball, a move that seemed to surprise the opposing team. It turned out to be a good call in the fourth over when Arvind got a flighted delivery to dip drastically, clean bowling the wild-swinging batsman. However, runs continued to flow from both ends even after Vignesh was introduced into the attack, his first two overs going for 16 runs. Nitin Nihalani had a mixed start to his spell giving away 11 runs in his first three deliveries before finally producing the breakthrough on the fourth.
 

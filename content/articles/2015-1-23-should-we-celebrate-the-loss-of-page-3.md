@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week, The Times reported that The Sun had dropped their Page 3 feature. Following the writing of this article, the naked ladies were reinstated on Thursday.
 date: "2015-01-23 01:25:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230125-ps3110-screen-shot-2015-01-23-at-01.26.15.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230125-ps3110-screen-shot-2015-01-23-at-01.26.15.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   To what extent is Felix a democratic body? Can it claim to represent the wider student body? Navid Nabijou investigates
 date: "2013-03-15 00:52:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150051-tna08-felix-old-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150051-tna08-felix-old-cover.jpg"
 headline: true
 featured: true
 imported: true

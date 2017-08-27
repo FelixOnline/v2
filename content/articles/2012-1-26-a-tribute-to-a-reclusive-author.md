@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Spiking looks back on the life of JD Salinger
 date: "2012-01-26 22:28:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262227-ams111-jd-salinger1.jpg"
 image_caption: "JD Salinger – a troubled genius"
 headline: true
 featured: true

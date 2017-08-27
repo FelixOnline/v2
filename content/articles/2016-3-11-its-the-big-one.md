@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ice Hockey preview their upcoming game against UCL
 date: "2016-03-11 12:14:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
 image_caption: "Ice Hockey – that notoriously friendly game. "
 headline: true
 featured: true

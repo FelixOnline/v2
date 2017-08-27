@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The 1sts Football team are knocked out by Reading
 date: "2010-01-22 13:18:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201001221314-ks607-football.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001221314-ks607-football.jpg"
 headline: true
 featured: true
 imported: true

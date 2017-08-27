@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Margot Pikovsky on the Wildlife Photographer of the Year entries currently exhibited in the Natural History Museum
 date: "2012-01-26 22:16:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
 image_caption: "Aahh, mate, aah, amte, aaaaahh, maaate, I'm bugging out so bad here"
 headline: true
 featured: true

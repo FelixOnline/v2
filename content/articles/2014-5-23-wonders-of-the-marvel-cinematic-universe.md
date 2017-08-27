@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s Batman & Robin.
 date: "2014-05-23 13:58:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405231459-jal08-marvel-logo.png"
 headline: true
 featured: true
 imported: true

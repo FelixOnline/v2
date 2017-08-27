@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Domscheit-Berg compares the cult-like organization of Wikileaks to that of the Church of Scientology
 date: "2011-03-17 21:30:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172126-ks607-danielan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172126-ks607-danielan.jpg"
 image_caption: "Assange and Domscheit-Berg"
 headline: true
 featured: true

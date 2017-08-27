@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The U.S. vetoing of the UN resolution on Israeli settlements shows confusion
 date: "2011-02-24 20:09:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242007-ks607-obamaoba.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242007-ks607-obamaoba.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men must be included in feminism
 date: "2013-05-22 14:24:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201305221524-tna08-argentine-tango-dance-natalie-lowe-scott-maslen-strictly-come-dancing-tango-favim.com-99492.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305221524-tna08-argentine-tango-dance-natalie-lowe-scott-maslen-strictly-come-dancing-tango-favim.com-99492.jpg"
 headline: true
 featured: true
 imported: true

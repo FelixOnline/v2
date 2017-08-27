@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Central Library spent more money in 2017 than it has over the last ten years
 date: "2017-06-02 12:47:27 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021446-felix-IMG_7788.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021446-felix-IMG_7788.JPG"
 image_caption: "“Wait. How much did library doors cost?!”"
 headline: true
 featured: true

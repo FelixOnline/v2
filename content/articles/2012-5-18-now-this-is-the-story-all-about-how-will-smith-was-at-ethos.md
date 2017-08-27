@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
 image_caption: "Obviously, things didn't pan out this way"
 headline: true
 featured: true

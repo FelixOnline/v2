@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Arts reviews Howie the Rookie
 date: "2014-11-23 21:34:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411232134-ps3110-howie.jpeg"
 headline: true
 featured: true
 imported: true

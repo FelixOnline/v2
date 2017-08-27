@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial students storm their way through
 date: "2013-02-14 21:14:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
 image_caption: "The Imperial students in the Final"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily White explains how we can easily make a change with four simple actions
 date: "2014-05-16 01:52:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160254-jal08-comment_solarpanelsbangladesh.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160254-jal08-comment_solarpanelsbangladesh.jpg"
 headline: true
 featured: true
 imported: true

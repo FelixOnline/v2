@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Film wishes a warm and happy birthday to England’s very own Kate Winslet, celebrating her 37th birthday today; and as a special thank you to one of the most talented actresses of our time, we look back at the highlights in the extraordinarily diverse career of a supremely gifted English actres
 date: "2012-10-05 12:09:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051309-felix-kate-winslet-hairstyle.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051309-felix-kate-winslet-hairstyle.jpg"
 headline: true
 featured: true
 imported: true

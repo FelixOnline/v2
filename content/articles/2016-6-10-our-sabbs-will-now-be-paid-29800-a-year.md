@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Their pay now matches the average Imperial graduate's wage
 date: "2016-06-10 08:11:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101010-felix-dolla.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101010-felix-dolla.jpg"
 headline: true
 featured: true
 imported: true

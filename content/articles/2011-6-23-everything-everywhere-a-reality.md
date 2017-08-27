@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam picks out the top tech debuting this summer
 date: "2011-06-23 20:35:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232134-felix-google-wallet-setting-up-a-credit-card1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232134-felix-google-wallet-setting-up-a-credit-card1.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey on the global conspiracy to keep her away from Prince Harry
 date: "2013-10-18 21:39:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182239-jal08-harry.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182239-jal08-harry.jpg"
 image_caption: "Tessa's dashing Prince in green combats"
 headline: true
 featured: true

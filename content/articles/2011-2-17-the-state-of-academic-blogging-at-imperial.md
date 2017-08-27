@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102172048-dr910-tyoewrit.jpg"
 headline: true
 featured: true
 imported: true

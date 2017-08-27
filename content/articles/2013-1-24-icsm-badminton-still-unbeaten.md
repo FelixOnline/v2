@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Badminton shuttle towards ultimate domination
 date: "2013-01-24 20:57:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242055-mc4509-p1090381.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242055-mc4509-p1090381.jpg"
 image_caption: "Harder! Smash those shuttlecocks"
 headline: true
 featured: true

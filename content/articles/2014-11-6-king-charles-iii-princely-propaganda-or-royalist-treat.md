@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg asks if this play glosses over an important issue
 date: "2014-11-06 21:44:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
 image_caption: "Tim Pigott-Smith as King Charles III"
 headline: true
 featured: true

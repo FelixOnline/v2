@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
 image_caption: "If you squint, the bricks behind Zola Jesus almost look like forks"
 headline: true
 featured: true

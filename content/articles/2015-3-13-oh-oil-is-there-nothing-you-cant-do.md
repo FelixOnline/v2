@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
 image_caption: "Barack Obama met with King Salman to pay his respects to the former King and Prime Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Saud after his death in January"
 headline: true
 featured: true

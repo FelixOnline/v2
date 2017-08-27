@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College ranks top university for LGBT employment
 date: "2010-01-21 22:26:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201001212223-rsp07-RainbowF.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001212223-rsp07-RainbowF.jpg"
 headline: true
 featured: true
 imported: true

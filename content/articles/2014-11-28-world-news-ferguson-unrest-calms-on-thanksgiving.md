@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle discusses the two nights of protests in the St Louis suburb in Missouri
 date: "2014-11-28 00:51:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280051-kmw13-ferguson-10.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280051-kmw13-ferguson-10.jpg"
 headline: true
 featured: true
 imported: true

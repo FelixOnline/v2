@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Artificial Intelligence won't overtake us
 date: "2011-03-10 18:59:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201103101852-nm1010-terminat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103101852-nm1010-terminat.jpg"
 headline: true
 featured: true
 imported: true

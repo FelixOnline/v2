@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tech Editor Yong Wen Chua on Pokémon X&Y
 date: "2013-10-25 01:02:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250202-felix-games_pokepimp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250202-felix-games_pokepimp.jpg"
 image_caption: "YO, CHICKS BE CHECKING OUT MY YOLOSWAG!!! "
 headline: true
 featured: true

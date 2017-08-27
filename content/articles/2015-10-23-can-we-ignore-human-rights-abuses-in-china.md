@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231257-cj914-president-of-china.jpg"
 image_caption: "Xi Jinping is in the UK as a guest of the Queen."
 headline: true
 featured: true

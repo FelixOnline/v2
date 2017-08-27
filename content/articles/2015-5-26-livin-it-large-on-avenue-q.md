@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman enjoys this debauched puppet musical far too much. Twice.
 date: "2015-05-26 13:52:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201505261448-js5913-avenue-q-cast.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505261448-js5913-avenue-q-cast.jpg"
 image_caption: "The cast of the UK touring production of Avenue Q, waiting for a rehearsal to start."
 headline: true
 featured: true

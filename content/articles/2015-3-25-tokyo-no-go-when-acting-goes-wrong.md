@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
 image_caption: "Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Osama Awara reviews the newest member of the Surface family
 date: "2014-11-10 22:12:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201411102212-ps3110-surfacepro3-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411102212-ps3110-surfacepro3-2.jpg"
 headline: true
 featured: true
 imported: true

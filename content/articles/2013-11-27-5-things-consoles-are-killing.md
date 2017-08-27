@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With the recent releases of the Xbox One and PlayStation 4, it’s high time we examine the victims consoles have claimed since their heralding in the 70’s. Will they be the ultimate culprit in our murder series?
 date: "2013-11-27 16:09:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201311271609-me1711-gaming_gamer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311271609-me1711-gaming_gamer.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent scrutinises the pledges each party has made ahead of the election
 date: "2015-05-01 00:05:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201505010105-ps3110-tv-debate-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505010105-ps3110-tv-debate-pic.jpg"
 headline: true
 featured: true
 imported: true

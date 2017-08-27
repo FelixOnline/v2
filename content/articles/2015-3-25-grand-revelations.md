@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Science Museum's latest show of scientific photography is an incredible triumph
 date: "2015-03-25 14:00:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
 image_caption: "Chronophotograph of a Man Clearing a Hurdle, c.1892, Étienne Jules Marey "
 headline: true
 featured: true

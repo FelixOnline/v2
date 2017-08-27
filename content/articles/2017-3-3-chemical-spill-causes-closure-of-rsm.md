@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031845-felix-IMG_7179.JPG"
 image_caption: "The Royal Schoo of Mines"
 headline: true
 featured: true

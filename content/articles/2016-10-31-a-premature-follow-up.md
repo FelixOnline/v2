@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emma Rice steps down from her role as Globe director
 date: "2016-10-31 16:21:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
 headline: true
 featured: true
 imported: true

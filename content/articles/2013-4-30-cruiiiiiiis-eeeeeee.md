@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tom Cruising into Oblivion
 date: "2013-04-30 10:35:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201305012034-tna08-tom-cruise-in-oblivion.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305012034-tna08-tom-cruise-in-oblivion.jpg"
 headline: true
 featured: true
 imported: true

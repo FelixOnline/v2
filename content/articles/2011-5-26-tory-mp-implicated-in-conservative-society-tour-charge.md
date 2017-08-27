@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Greg Hands denies claims by left-wing political blog
 date: "2011-05-26 18:53:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201105261955-felix-_49091996_-25.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105261955-felix-_49091996_-25.jpeg"
 image_caption: "Greg Hands MP"
 headline: true
 featured: true

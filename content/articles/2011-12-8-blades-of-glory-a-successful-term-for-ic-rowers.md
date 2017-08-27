@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Elizabeth Richards reports on the winning performances of the Boat Club so far
 date: "2011-12-08 20:37:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082037-felix-icbc4-1.jpg"
 headline: true
 featured: true
 imported: true

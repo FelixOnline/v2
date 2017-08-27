@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The single might be topping the charts but does it perpetuate damaging stereotypes about Africa?
 date: "2014-11-20 21:23:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
 image_caption: "Be honest: how many of these can you name?"
 headline: true
 featured: true

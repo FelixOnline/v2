@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Is this the moment for wireless electricity?
 date: "2011-10-07 10:36:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071133-felix-211010-b-delphi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071133-felix-211010-b-delphi.jpg"
 image_caption: "Wireless electricity? I'm counting down the days until we get superpowers"
 headline: true
 featured: true

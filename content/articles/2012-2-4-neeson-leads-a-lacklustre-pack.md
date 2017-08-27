@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Liam Neeson cements his status as action man of the moment – shame about the wolves
 date: "2012-02-04 17:28:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201202041727-felix-the-grey-liam-neeson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202041727-felix-the-grey-liam-neeson.jpg"
 image_caption: "I don’t know who you are. I don’t know what you want... oh, wait, wrong film"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mo Mirza hits the Spector show to find the future of guitar pop
 date: "2012-11-29 22:59:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211292259-tna08-spector-review1.jpg"
 headline: true
 featured: true
 imported: true

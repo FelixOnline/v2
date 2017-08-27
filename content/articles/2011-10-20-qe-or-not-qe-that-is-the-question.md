@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The question of Quantitative Easing. By Rajvinder Virdee
 date: "2011-10-20 22:35:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
 image_caption: "Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Govenor of the Bank of England, "
 headline: true
 featured: true

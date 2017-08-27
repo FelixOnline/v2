@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look into the drug taking habits of students
 date: "2013-05-16 19:08:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305162118-tna08-drugs-survey-website.jpg"
 headline: true
 featured: true
 imported: true
@@ -35,11 +35,11 @@ The full version is available [online](https://union.ic.ac.uk/media/felix/img/Dr
 
 Out of the 762 responses that we received, 54% said that they had tried illegal drugs. Splitting this into male and female showed that 57% of men said that they had taken drugs, whereas 49% of women said that they had.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305162125-tna08-drugs-survey-1.jpg" title="57% of men and 49% of women said that they had taken illegal drugs" caption="57% of men and 49% of women said that they had taken illegal drugs" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305162125-tna08-drugs-survey-1.jpg" title="57% of men and 49% of women said that they had taken illegal drugs" caption="57% of men and 49% of women said that they had taken illegal drugs" attr="" >}}
 
 ## What drugs are people taking?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305171036-tna08-drugssurveygraphfinalplswork.jpg" title="Graph inception: a pie chart in a bar chart showing what drugs people take and regularly they take them." caption="Graph inception: a pie chart in a bar chart showing what drugs people take and regularly they take them." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305171036-tna08-drugssurveygraphfinalplswork.jpg" title="Graph inception: a pie chart in a bar chart showing what drugs people take and regularly they take them." caption="Graph inception: a pie chart in a bar chart showing what drugs people take and regularly they take them." attr="" >}}
 
 Perhaps fairly unsurprisingly the drug that most people had tried was cannabis, by a pretty significant amount. The least tried was heroin (Imperial isn’t THAT depressing it seems). In terms of regular and occasional use, cannabis was once again head and shoulders above the rest. MDMA/Ecstasy was second, with laughing gas in third. The rest were all in single figures for occasional use. Interestingly, laughing gas was the drug with the highest percent of “tried once” use. This could be because it is widely available on holiday in Malia, Kavos, and all other destinations likely to feature on Sun, Sex and Suspicious Parents. The only drug that threw up an even remotely statistically significant number for habitual (daily) use was cannabis.
 
@@ -48,7 +48,7 @@ There was a bit of a discrepancy between the drugs that men and women favoured, 
 For an academically demanding university, there didn’t seem to be widespread use of study drugs such as ritalin and aderall.
 ## Before or during university?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305162128-tna08-drugs-survey-3.jpg" title="The percentage of each year that admitted to trying illegal drugs." caption="The percentage of each year that admitted to trying illegal drugs." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305162128-tna08-drugs-survey-3.jpg" title="The percentage of each year that admitted to trying illegal drugs." caption="The percentage of each year that admitted to trying illegal drugs." attr="" >}}
 
 It may be that Imperial is not as bad an influence on incoming students as people may think. With 76% of students who have tried drugs having done so before university, it may be that a certain element of the drug culture is derived from students’ past experiences outside of College.
 
@@ -61,11 +61,11 @@ That said, are these people having an influence on students who may not have tri
 Some naïve Freshers may be remaining naïve throughout their years, but some students are, as expected, experimenting as the years go on. Based on year of intake, more and more people have taken drugs the longer they have been at university. A difference of only around 14% however between this year’s spread of students does hint that there still isn’t much of a drug influence within the student body.
 ## Druggy Departments
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305171105-tna08-druggsdeppleasework.jpg" title="Percentage of people in Departments who had tried drugs. Note Business School, Materials and Humanities had small sample sizes." caption="Percentage of people in Departments who had tried drugs. Note Business School, Materials and Humanities had small sample sizes." attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305171105-tna08-druggsdeppleasework.jpg" title="Percentage of people in Departments who had tried drugs. Note Business School, Materials and Humanities had small sample sizes." caption="Percentage of people in Departments who had tried drugs. Note Business School, Materials and Humanities had small sample sizes." attr="" >}}
 
 ## Drug taking community?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305162158-tna08-drug-survey-illustration.jpg" title="" caption="" attr="Credit: Hamish Muir" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305162158-tna08-drug-survey-illustration.jpg" title="" caption="" attr="Credit: Hamish Muir" >}}
 
 So is there a drug community at Imperial? This seems to be dependant on who you ask. When asking those who have ever taken drugs, 44% consider there to be some sort of drug scene, whereas those who have not fallen susceptible to chemical highs at any point either generally don’t know if there is a scene (41%) or don’t think there is (26%). When it comes to drugs therefore, it seems to be the case it is who you know, not necessarily what you know.
 ## Harming your degree?

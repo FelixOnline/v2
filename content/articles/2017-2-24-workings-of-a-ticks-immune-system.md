@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ipsita Herlekar looks at how the immune system of ticks is adapted to host disease causing bacteria without being affected themselves
 date: "2017-02-24 13:55:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241355-felix-7292616430_42a137a94e_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241355-felix-7292616430_42a137a94e_o.jpg"
 headline: true
 featured: true
 imported: true

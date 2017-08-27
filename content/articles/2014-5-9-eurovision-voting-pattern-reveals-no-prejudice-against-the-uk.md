@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Statisticians at UCL and Imperial College London have found that contrary to popular belief UK entries to Eurovision have not been “systematically shunned” by the rest of Europe.
 date: "2014-05-09 01:57:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090257-jal08-news_eurovision.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090257-jal08-news_eurovision.jpg"
 headline: true
 featured: true
 imported: true

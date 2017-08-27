@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial's Team Plasticity on Genetic Engineering
 date: "2013-10-24 23:43:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250042-felix-feat_maple.png"
 image_caption: "MAPLE - Team Plasticity's  home bioreactor."
 headline: true
 featured: true

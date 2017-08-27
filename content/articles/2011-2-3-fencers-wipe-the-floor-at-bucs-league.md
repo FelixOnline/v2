@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC Fencing undefeated
 date: "2011-02-03 20:39:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032037-ks607-etretret.jpg"
 headline: true
 featured: true
 imported: true

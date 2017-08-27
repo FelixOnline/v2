@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven takes a look at the French rock scene
 date: "2011-10-28 11:36:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ken Wu on the glamour of American democracy
 date: "2010-01-22 13:49:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201001221347-rsp07-comment.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001221347-rsp07-comment.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Give us your fooookin’ money, says Sir Richard Sykes
 date: "2013-02-14 21:11:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201302142111-tna08-ri-mayfair-home.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302142111-tna08-ri-mayfair-home.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   art is a way of speaking up
 date: "2016-11-25 14:08:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251407-felix-11._Gaybashers_Come_and_Get_It_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251407-felix-11._Gaybashers_Come_and_Get_It_1.jpg"
 headline: true
 featured: true
 imported: true

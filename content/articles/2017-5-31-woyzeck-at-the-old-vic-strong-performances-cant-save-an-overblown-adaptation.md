@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play
 date: "2017-05-31 23:31:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201706010129-im1413-3155.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706010129-im1413-3155.jpg"
 image_caption: "John Boyega and Sarah Greene in  Woyzeck. Photo: Manual Harlan"
 headline: true
 featured: true

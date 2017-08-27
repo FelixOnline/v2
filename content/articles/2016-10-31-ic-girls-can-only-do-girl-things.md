@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Celebrate women’s sport by “jumping away the calories”
 date: "2016-10-31 13:36:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
 headline: true
 featured: true
 imported: true

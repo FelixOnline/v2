@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The deadly disease is usually fatal, but a new drug may hold the key
 date: "2012-10-26 02:29:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260329-tna08-tripterygium_regelii_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260329-tna08-tripterygium_regelii_1.jpg"
 headline: true
 featured: true
 imported: true

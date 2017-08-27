@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
 image_caption: "One thing not being handed out at Imperial Festival was copies of Felix"
 headline: true
 featured: true

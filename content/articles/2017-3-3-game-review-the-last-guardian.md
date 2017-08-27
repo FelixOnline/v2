@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Last Guardian is out on the Playstation 4
 date: "2017-03-03 15:54:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
 image_caption: "       Boy’s best friend, a weird, Griffin-like monster"
 headline: true
 featured: true

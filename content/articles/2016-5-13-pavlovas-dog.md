@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week's recipe
 date: "2016-05-13 09:34:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131134-felix-FullSizeRender.jpg"
 image_caption: "I mean, whoever thought this looked like a ballerina had clearly never actually seen one. "
 headline: true
 featured: true

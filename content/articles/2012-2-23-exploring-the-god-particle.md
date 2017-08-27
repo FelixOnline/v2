@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Michele Tonutti explores the Large Hadron Collider’s main experiment
 date: "2012-02-23 20:54:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232053-cac111-cms.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232053-cac111-cms.jpg"
 image_caption: "Are we on a collision course with the Higgs boson?"
 headline: true
 featured: true

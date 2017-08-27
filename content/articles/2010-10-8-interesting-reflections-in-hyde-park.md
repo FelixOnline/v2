@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anish Kapoor's new exhibition turns the world upside down
 date: "2010-10-08 07:02:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201010080759-ks607-AnishKap.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010080759-ks607-AnishKap.jpg"
 headline: true
 featured: true
 imported: true

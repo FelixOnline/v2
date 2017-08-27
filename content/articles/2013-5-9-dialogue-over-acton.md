@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College stress they will continue to look for cheap, close accommodation Structural inspection of Evelyn Gardens and Garden Hall Garden removed from website with Paragon and Xenia remaining Working group of staff and students set up for Acton development
 date: "2013-05-09 12:18:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_day.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_day.jpg"
 image_caption: "Artist's impression of the new halls. Also a level on The Sims 5, maybe..."
 headline: true
 featured: true
@@ -55,7 +55,7 @@ Regarding Evelyn Gardens and Garden Hall, College stated that structural inspect
 
 Finally, it was noted that College do not make a profit from accommodation charges, pointing out the cost of building maintenance and property values.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_night.jpg" title="Artist's impression of the development" caption="Artist's impression of the development" attr="Credit: Berkeley First" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_night.jpg" title="Artist's impression of the development" caption="Artist's impression of the development" attr="Credit: Berkeley First" >}}
 
 The way forward with North Acton
 

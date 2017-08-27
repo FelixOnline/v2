@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Horti talks to the renowned Christian philosopher about his work
 date: "2011-11-03 21:41:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111041214-felix-wlc.jpg"
 image_caption: "William Lane Craig recently lectured at Imperial"
 headline: true
 featured: true
@@ -54,7 +54,7 @@ With the UK being a more secular society than the US, do you notice a difference
 
 I don’t think that I see a difference personally, because the people that come to our meetings are very interested. We’ve been speaking to packed houses, and so I don’t see the indifferent, apathetic person who doesn’t care about these things. By the very nature of the case, the people that come to see my speak are interested even if they’re sceptical or agnostic or atheistic. There’s a kind of self selection that goes on and so I recognise, in that sense that we’re not seeing the broader British public, but those who do care about these issues.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032139-pk1811-cn_image.size.hitchens.jpg" title="Christopher Hitchens “doesn’t know a lot about the subject” says Dr. Craig" caption="Christopher Hitchens “doesn’t know a lot about the subject” says Dr. Craig" attr="Credit: Vanity Fair" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032139-pk1811-cn_image.size.hitchens.jpg" title="Christopher Hitchens “doesn’t know a lot about the subject” says Dr. Craig" caption="Christopher Hitchens “doesn’t know a lot about the subject” says Dr. Craig" attr="Credit: Vanity Fair" >}}
 
 In a recent lecture at Imperial College London you cited 7 pieces of rational evidence that would lead us to the conclusion that the Christian God exists. Why do you think that some people who are learned in the subject, including people you’ve debated such as Sam Harris and Christopher Hitchens, don’t accept these pieces of evidence as sound and correct?
 
@@ -104,7 +104,7 @@ However, since the development of the internet and YouTube, it turns out that th
 
 That is far more than I’ve sold in terms of books; so it may well be that the public speaking will actually reach more people because it too is archived in this way, and reaches far more people than I do in the actual live audience.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111032141-pk1811-img_6644.jpg" title="Dr Craig will not respond to Richard Dawkins " caption="Dr Craig will not respond to Richard Dawkins " attr="Credit: Joseph Letts" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111032141-pk1811-img_6644.jpg" title="Dr Craig will not respond to Richard Dawkins " caption="Dr Craig will not respond to Richard Dawkins " attr="Credit: Joseph Letts" >}}
 
 Just two more questions before we finish; the first is about Richard Dawkins. There’s been a lot of back and forth between yourself and Professor Dawkins, and I was just wondering if you’ve read his recent article in the Guardian?
 

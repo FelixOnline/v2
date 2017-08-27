@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Firefighter Tim” posed particular difficulties
 date: "2017-03-10 13:08:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101307-felix-fire.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101307-felix-fire.jpg"
 image_caption: "Only 2% of people were able to save lives"
 headline: true
 featured: true

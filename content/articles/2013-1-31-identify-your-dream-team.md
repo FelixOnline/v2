@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nitin Nihalani tells you the vital people you'll need for a successful startup
 date: "2013-01-31 23:53:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301312354-tna08-1507.jpg"
 headline: true
 featured: true
 imported: true

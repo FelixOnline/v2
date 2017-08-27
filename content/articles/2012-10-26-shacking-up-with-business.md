@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deepka Rana talks to Unishack.com’s founder, Ben Oakenfull
 date: "2012-10-26 02:09:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260310-tna08-ben-oakenfull---uni-shack-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260310-tna08-ben-oakenfull---uni-shack-copy.jpg"
 headline: true
 featured: true
 imported: true

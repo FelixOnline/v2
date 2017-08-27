@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our weekly roundup of the week's science news
 date: "2016-02-19 11:26:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
 headline: true
 featured: true
 imported: true

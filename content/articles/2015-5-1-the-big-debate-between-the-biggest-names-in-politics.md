@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken recaps the televised election debate, and gives the lowdown on how each candidate held their own
 date: "2015-05-01 00:30:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201505010130-ps3110-election_leaders_d_3255461b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505010130-ps3110-election_leaders_d_3255461b.jpg"
 headline: true
 featured: true
 imported: true

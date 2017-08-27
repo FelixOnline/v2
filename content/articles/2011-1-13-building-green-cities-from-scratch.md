@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We should move to new cities that are designed to be green
 date: "2011-01-13 20:10:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132009-ks607-masdar.jpg"
 headline: true
 featured: true
 imported: true

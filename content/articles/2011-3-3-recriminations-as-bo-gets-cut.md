@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Computer error contributes to heavy cuts during budgeting
 date: "2011-03-03 05:43:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201103030541-ks607-csbbudge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103030541-ks607-csbbudge.jpg"
 image_caption: "The Clubs and Societies Board spent a gruelling eight hours deciding the allocations"
 headline: true
 featured: true

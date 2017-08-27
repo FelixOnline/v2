@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl, on another beautiful encounter with Bluetooth
 date: "2014-03-26 15:40:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201403261543-jal08-tech_bluehead.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403261543-jal08-tech_bluehead.jpg"
 headline: true
 featured: true
 imported: true

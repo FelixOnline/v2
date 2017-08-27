@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Student proposes onstage at graduation
 date: "2016-05-06 09:42:53 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061042-felix-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061042-felix-cover.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,4 +30,4 @@ highlights:
 
 Adorable or terrible? At Wednesday’s postgraduate graduation ceremony a student who, judging from his gown, had just completed a PhD, proposed to his girlfriend onstage at the Royal Albert Hall. Cameras are set up that project close ups of those crossing the stage up onto a screen behind it for the audience to see. After shaking hands with the President, each student has their moment in the sun, where their post-graduation faces are shown on the big screen for all to see. Some choose to smile embarrassedly, while braver students will dane to do a thumbs-up or peace sign. This unnamed student whipped out a sign and a comically large engagement ring. How do you follow that? Judging from the scenes outside, Sharon said yes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201605061042-felix-13177642_10154123915981838_368826333456877273_n.jpg" title="" caption="" attr="Imperial College London" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201605061042-felix-13177642_10154123915981838_368826333456877273_n.jpg" title="" caption="" attr="Imperial College London" >}}

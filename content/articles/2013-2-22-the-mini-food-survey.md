@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophia Goldberg discusses the best and worst food on campus, where you can get the best lunch or coffee and whether students are put off buying healthy foods because of the price tag.
 date: "2013-02-22 02:59:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220259-tna08-food-survey.jpg"
 headline: true
 featured: true
 imported: true

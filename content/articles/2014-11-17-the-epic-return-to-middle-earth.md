@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl reviews the latest addition to this titanic franchise
 date: "2014-11-17 18:16:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201411171816-ps3110-shadow1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411171816-ps3110-shadow1.jpg"
 headline: true
 featured: true
 imported: true

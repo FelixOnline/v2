@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look at some of the books by the Guests of Honour at Imperial’s Sci-Fi convention
 date: "2012-02-16 21:24:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
 headline: true
 featured: true
 imported: true
@@ -42,7 +42,7 @@ Add to this the identity issues inherent in a 21 year old who’s been rebuilt w
 _Keeping it Real _has all the elements needed for an enthralling read and delivered in a humorous and effortless manner I’d really recommend it. The series, now onto its fifth book, has been extremely successful and I look forwards to finding some time to consume those that I haven’t gotten round to.
 _--Alex Savell_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162123-cac111-silver-screen.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162123-cac111-silver-screen.jpg" title="" caption="" attr="" >}}
 
 ### _Silver Screen _by Justina Robson
 
@@ -52,7 +52,7 @@ At its core this book is a fascinating journey of discovery as both Anjuli and 9
 
 It’s also refreshing that, instead of the default cyberpunk setting of a sprawling megacity, much of the action in _Silver Screen_ takes place in an England that is not to unrecognisable from the country today. It took a bit of getting used to high stakes intrigue playing out in places like Manchester, an unusual setting for this kind of literature, but it certainly added a sense of intimacy to the story, and a feeling that the situations it described could really happen. _--Maciej Matuszewski_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202162124-cac111-empire3.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202162124-cac111-empire3.jpg" title="" caption="" attr="" >}}
 
 ### _Empire in Black and Gold _by Adrian Tchaikovsky
 

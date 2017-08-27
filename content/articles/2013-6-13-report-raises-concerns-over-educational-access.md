@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Bursary and outreach programmes praised but improved participation needed
 date: "2013-06-13 23:22:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140019-tna08-imp-outreach.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140019-tna08-imp-outreach.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ This agrees with worrying [figures](http://www.hesa.ac.uk/index.php?option=com_c
 
 Speaking to Felix Paul Beaumont, Imperial College Union President, said he was “genuinely not sure what more can be done, other than better communication of the College’s financial support package and increased, more focussed Outreach work”. He added that, in his personal opinion: “The College has one of the most generous cash-in-hand financial support packages in the country. The National Scholarship Program requires that £5k of the bursary must be in ‘service discounts’ rather than cash in hand, which the College very nicely gives students in their first year (when they can cash this in on their accommodation), and then provided £50 million to the initiative, which will rise to £100 million in 2013/14 and £150 million in 2014/15 gives £1k cash in their first year, and £6k cash for years after. Most other universities waive fees, which does nothing to help students whilst they’re at university: they need the cash there and then.” He went on to say: “The College is also discussing other ways in which students will be able to spend their service discount in the future, if they so choose. Some considerations at the minute are being able to put the money towards clubs and societies, as most students complain that the thing that they miss out on the most are clubs and societies activities.” There has, as yet, been no official Union response to the figure.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140022-tna08-factbox.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140022-tna08-factbox.jpg" title="" caption="" attr="" >}}
 
 Speaking to Felix Dr Melanie Bottrill, Scientific Projects Manager in Imperial’s Outreach Office, said: “The Outreach team at Imperial works really hard across the calendar year to deliver a wide range activities for prospective students. This year we expect to interact with over 11,000 school students though our activities on campus, such as summer schools and other funded enrichment courses. In addition, we do all sorts of work within schools, such the Pimlico connection, Postgraduate Ambassadors Scheme, Inspire and our school visits programme. Our activity is much wider reaching than I think most people realise. Rarely a day passes without an activity happening on campus or without one us being within a school, so we are a really busy team – and we are brilliantly supported by all the UG and PG students who work on our programmes as mentors or volunteers.
 

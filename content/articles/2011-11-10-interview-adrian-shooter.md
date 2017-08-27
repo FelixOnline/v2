@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang talks to the Chairman of Chiltern Railways about careers in industry
 date: "2011-11-10 21:16:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102111-pk1811-te_blr_2069.jpg"
 image_caption: "Mr Shooter’s Darjeeling Himalayan Steam Locomotive – in his own back garden"
 headline: true
 featured: true
@@ -54,7 +54,7 @@ Having worked for so long with his management team on building up the company, M
 
 “It’s rather interesting as I was actually working for British Railways who were selling Chiltern Railways, so I had a conflict of interest. I had to do three things. Firstly, I had to continue running the railways in a proper, prompt and safe way. Secondly, on behalf of my employer, I had to sell the business – it was competitive and we had 13 companies bidding for it. I had to explain to prospective purchasers how the company worked, what they would need to do and the money they should pay for it. Thirdly, in my own time, I had to work out, with my team, how to buy it.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111102115-pk1811-photo-of-adrian-shooter-2011.jpg" title="Adrian Shooter CBE" caption="Adrian Shooter CBE" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111102115-pk1811-photo-of-adrian-shooter-2011.jpg" title="Adrian Shooter CBE" caption="Adrian Shooter CBE" attr="" >}}
 
 After formally winning the franchise in 1996, Mr Shooter and his team devised a long term plan for the company which is still on-going today.
 

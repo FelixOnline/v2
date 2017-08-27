@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
 image_caption: "Sex Criminals: Volume 1, our Music Editor’s comic of choice"
 headline: true
 featured: true

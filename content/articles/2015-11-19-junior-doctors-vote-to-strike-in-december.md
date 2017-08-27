@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The first strike would see junior doctors only staff emergency care
 date: "2015-11-19 22:20:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511192220-ygr12-angry-medics.jpg"
 headline: true
 featured: true
 imported: true

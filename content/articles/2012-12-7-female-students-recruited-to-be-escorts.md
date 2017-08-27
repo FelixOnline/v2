@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Website found that acts as conduit for people to get prostitutes to pay for tuition fees
 date: "2012-12-07 00:48:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chilean Miner Fantasy Films
 date: "2010-10-21 19:16:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201010212015-ks607-chileanm.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010212015-ks607-chileanm.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   All you need to know about tech life here at Imperial
 date: "2010-10-01 22:00:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104181033-felix-technology-based-life1.jpg"
 image_caption: "In the year 3025, moisturiser is a 'must' "
 headline: true
 featured: true

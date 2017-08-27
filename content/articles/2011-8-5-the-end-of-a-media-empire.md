@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The world of journalism has been shaken to its core, Felix investigates.
 date: "2011-08-05 13:29:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
 image_caption: "Happier times"
 headline: true
 featured: true

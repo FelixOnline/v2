@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray offers dark obscurities and a dreamy indie release
 date: "2013-06-20 23:10:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210011-tna08-rites-cover.jpg"
 headline: true
 featured: true
 imported: true

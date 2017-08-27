@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No, I’m not describing one of your sexcapades – that would lose me my job. Here’s a simple weeknight recipe for something you can really call home cooking.
 date: "2016-11-11 17:05:01 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -26,7 +26,7 @@ Imust confess – the last time I made a stew, it took me 72 hours from start to
 
 I’ve tried to keep it quite simple here, but feel free to mix it up as much as you want. Beef can be swapped for lamb or pork, but try and pick stewing cuts – they’re cheaper, anyhow.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111704-felix-Screen Shot 2016-11-11 at 17.04.37.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111704-felix-Screen Shot 2016-11-11 at 17.04.37.png" title="" caption="" attr="" >}}
 
 Start by heating the oil – a  good splash – in a large pan.  When almost smoking, add in half the beef and get stirring – you don’t want to burn anything, but it needs to brown. Turn the heat down slightly and keep frying the beef until it is really brown on all sides.
 

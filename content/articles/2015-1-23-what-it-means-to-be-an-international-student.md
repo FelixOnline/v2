@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mahima Razdan writes about the perks of mingling abroad
 date: "2015-01-23 01:23:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
 headline: true
 featured: true
 imported: true

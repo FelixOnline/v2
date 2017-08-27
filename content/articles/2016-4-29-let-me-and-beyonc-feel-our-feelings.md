@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291111-felix-beyonce-lemonade.jpg"
 image_caption: "What’s worse, lookin’ jealous or crazy?"
 headline: true
 featured: true

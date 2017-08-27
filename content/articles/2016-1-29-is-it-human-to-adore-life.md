@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Assured defiance from Savages' second album
 date: "2016-01-29 09:37:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201601290936-felix-adorelife.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201601290936-felix-adorelife.jpeg"
 image_caption: "Defiant."
 headline: true
 featured: true

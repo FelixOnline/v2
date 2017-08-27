@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jezebel does Imperial proud
 date: "2013-05-09 12:08:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305091309-tna08-jezebel.jpg"
 headline: true
 featured: true
 imported: true

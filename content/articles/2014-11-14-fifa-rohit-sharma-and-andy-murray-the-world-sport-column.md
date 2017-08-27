@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle tells you what you may have missed out on during a busy week of sport around the globe
 date: "2014-11-14 21:13:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142113-ps3110-_78861027_robshaw_getty.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142113-ps3110-_78861027_robshaw_getty.jpg"
 headline: true
 featured: true
 imported: true

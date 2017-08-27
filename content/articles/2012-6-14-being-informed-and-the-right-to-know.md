@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Whether imposing further diagnostics as a mandatory procedure expands or limits a patient's rights is a question worth considering
 date: "2012-06-14 19:37:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201206142033-ams111-comment2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201206142033-ams111-comment2.jpg"
 image_caption: "An ultrasound image of a baby in a womb"
 headline: true
 featured: true

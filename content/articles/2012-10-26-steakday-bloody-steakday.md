@@ -4,7 +4,7 @@ title: >
 subtitle: >
   AHAAAAAAAAA. It's another Alan Partridge reference
 date: "2012-10-26 02:48:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210260348-tna08-grilled-steak.jpg"
 headline: true
 featured: true
 imported: true

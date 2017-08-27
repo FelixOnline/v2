@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Science and art collide in a no-holds barred battle for the ages
 date: "2013-01-24 23:07:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201301242306-mc4509-theeffect_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301242306-mc4509-theeffect_1.jpg"
 image_caption: "Wait... you’re not Christopher Eccleston"
 headline: true
 featured: true

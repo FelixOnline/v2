@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yorgos Lanthimos’ latest gem is a postmodern love story with deadly claws
 date: "2015-10-16 15:09:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161609-ygr12-the_lobster_posters-xlarge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161609-ygr12-the_lobster_posters-xlarge.jpg"
 headline: true
 featured: true
 imported: true

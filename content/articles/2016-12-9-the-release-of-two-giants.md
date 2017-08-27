@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Qasim Mahmood gives the dirt on the development of two widely anticipated games and why they’re only being released now
 date: "2016-12-09 16:07:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
 image_caption: "Thomas Young – the man, the myth, the polymath"
 headline: true
 featured: true

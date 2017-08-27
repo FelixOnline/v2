@@ -4,7 +4,7 @@ title: >
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012112-ams111-football.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012112-ams111-football.jpg"
 image_caption: "Kill it! Kill it with fire! Or with a brutal tackle"
 headline: true
 featured: true

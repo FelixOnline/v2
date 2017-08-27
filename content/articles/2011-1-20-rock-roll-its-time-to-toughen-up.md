@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The change in ‘Rock & Roll’
 date: "2011-01-20 20:38:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202033-nm1010-rockersf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202033-nm1010-rockersf.jpg"
 headline: true
 featured: true
 imported: true

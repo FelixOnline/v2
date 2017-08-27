@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The beaches that are making waves in television
 date: "2015-05-04 17:01:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
 headline: true
 featured: true
 imported: true

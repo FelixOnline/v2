@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tanguy Racine explores the depths of Migovec, Slovenia
 date: "2015-02-13 15:26:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502131526-bwh12-pict3.jpg"
 image_caption: "Rhys Tyers in a passage at –820m"
 headline: true
 featured: true

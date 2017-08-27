@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stefan Grimm emailed colleagues after his death, months after being sent "ultimatum email" to either find more funding or leave Imperial
 date: "2014-12-04 04:05:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412040411-ps3110-biglab.gif"
 image_caption: "Grimm was facing "
 headline: true
 featured: true

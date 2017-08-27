@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Microsoft is finally back in the modern Smartphone game
 date: "2010-02-18 13:38:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002181331-srg03-WindowsP.jpg"
 headline: true
 featured: true
 imported: true

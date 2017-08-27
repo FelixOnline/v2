@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter checks out a new residency for the party
 date: "2013-03-07 21:34:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201303072131-txl11-jamie-xx-benji-b-xoyo-deviation1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303072131-txl11-jamie-xx-benji-b-xoyo-deviation1.jpg"
 draft: true
 headline: true
 featured: true

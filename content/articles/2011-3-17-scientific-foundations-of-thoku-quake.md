@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How Japan’s buildings coped in the face of one of the worst quakes in recent history, and the struggle to secure the Fukushima nuclear power plant
 date: "2011-03-17 20:55:14 +0000"
-image: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
 image_caption: "Satellite image of Fukushima nuclear plant"
 headline: true
 featured: true

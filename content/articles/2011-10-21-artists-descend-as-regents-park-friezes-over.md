@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Galleries from around the world bring their best to London
 date: "2011-10-21 10:47:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211144-felix-frieze1.jpg"
 image_caption: "They thought the complete Stairway to Heaven was a bit too expensive"
 headline: true
 featured: true

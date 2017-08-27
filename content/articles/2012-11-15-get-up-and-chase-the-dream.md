@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Annabelle Mayers breaks down common startup excuses
 date: "2012-11-15 22:05:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152206-tna08-branson_1805509c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152206-tna08-branson_1805509c.jpg"
 headline: true
 featured: true
 imported: true

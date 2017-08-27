@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A$AP Rooky LiveLove A$AP Tri Angle 2011
 date: "2011-11-17 21:24:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172123-pk1811-kadhim-review.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172123-pk1811-kadhim-review.jpg"
 headline: true
 featured: true
 imported: true

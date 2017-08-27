@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Caz Knight starts off the school year with banter, bullying and brutality at the Hammersmith Lyric
 date: "2010-09-15 17:12:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201009151806-ck806-willaim.jpg"
 headline: true
 featured: true
 imported: true

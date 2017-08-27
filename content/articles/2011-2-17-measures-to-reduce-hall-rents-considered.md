@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Halls should not be subsidising alcohol with the amenities fund argues Union President
 date: "2011-02-17 19:38:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171936-ks607-hallshal.jpg"
 headline: true
 featured: true
 imported: true

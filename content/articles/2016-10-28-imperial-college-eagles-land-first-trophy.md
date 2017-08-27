@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial College Handball secures first place at Fresher's Tournament
 date: "2016-10-28 15:43:25 +0100"
-image: "http://felixonline.co.uk/img/upload/201610281741-aib116-handball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610281741-aib116-handball.jpg"
 headline: true
 featured: true
 imported: true

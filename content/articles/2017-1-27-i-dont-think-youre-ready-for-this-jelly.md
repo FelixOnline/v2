@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-27 16:31:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201701271631-felix-Glow-icecream.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701271631-felix-Glow-icecream.jpg"
 headline: true
 featured: true
 imported: true

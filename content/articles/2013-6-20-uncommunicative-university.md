@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Oli Benton investigates the inner workings of the College and the Union, and what people do and don’t know about how they are run
 date: "2013-06-20 23:49:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201306210049-tna08-smaug_crop02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306210049-tna08-smaug_crop02.jpg"
 image_caption: "Imperial’s cash reserves rival this chap’s"
 headline: true
 featured: true
@@ -44,7 +44,7 @@ We, the student body, were not consulted on Acton. I’m not suggesting, as one 
 
 #AgainstActon was too little too late and there was nothing we could do to stop it. The campaign did, however, manage to get a response out of the College Management Board. No idea who they are? No I didn’t have any either; they are the people that make the day to day decisions and ultimately run Imperial. Why does nobody know who this extremely powerful group of people are?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210050-tna08-uccimage1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210050-tna08-uccimage1.jpg" title="" caption="" attr="" >}}
 
 This response was more than all those vociferous campaigns against the Life Sciences cuts got. An actual response from senior management seems to have acknowledged that this was a mistake. Although they will never admit this in those words, they are at least trying to put it as right as they can at this late stage by conducting a review. I love reviews. A detailed review of Evelyn Gardens and Garden Hall to actually see what condition they are in? Perfect. But why were decisions made before this detailed information was known?
 
@@ -58,7 +58,7 @@ Commercial priorities seem to take precedence over many aspects of College life.
 
 Maybe we’re short of money and don’t hold enough reserves? If we paid off all of our outstanding debt tomorrow, College would still be sitting on a cool £96 million.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210054-tna08-uccimage3.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210054-tna08-uccimage3.jpg" title="" caption="" attr="" >}}
 
 Flexibility is an issue with all large corporations. Imperial is no different; red tape regularly obstructs novel projects or ideas. Imagine if £50,000 was set aside to pay for flights for 50 students to do an IROP in the US, and another £50,000 to let 200 keen students go to conferences; to show them off to the rest of the world and to actually further their learning. So far we’ve spent £100k, 0.16% of the surplus last year, made a huge difference to 250 people (3% of undergrads) and shown our best and brightest off to academics around the world. But there are massively limited resources currently available for opportunities like this; we as a university are missing an opportunity.
 
@@ -67,7 +67,7 @@ Imagine what we could do if College aimed to only make 4% profit next year; we�
 
 But is the Union any better?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210053-tna08-uccimage2.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210053-tna08-uccimage2.jpg" title="" caption="" attr="" >}}
 
 Our one link is the Sabbs; the Union President sits on the highest board in College, the College Council. This is quite a rare privilege, and one that has been revoked previously, but we do have a voice here. A voice that could be used by everyone; those who want a moan or to make things better. But how can the average student get his view across? Supposedly the Union Council; anybody can go to one of their meetings and have their say. You won’t get a vote, and you won’t know what they are discussing until you go along. The files are online and available but this is not the same as advertising the agendas. Only one paper this year was submitted by a non Council member while 93% were submitted by the Sabbs. Is this representation?
 
@@ -85,6 +85,6 @@ Or does it? Are we all that apathetic? I can’t believe this. We do care; highe
 
 Without trying to sound too hacky or desperate, I implore you to get involved. Stop moaning and make some changes. If only by writing a moany article in Felix, make the administrators sit up and listen. They control your time at College but they need us to be on side. Call their bluff occasionally, make them think – this is the only way to improve the ‘Student Experience’ here – they’ve shown they can’t do it by themselves.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306210055-tna08-uccimage4.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306210055-tna08-uccimage4.jpg" title="" caption="" attr="" >}}
 
 _Sources for figures: The surplus in 2011/2012 as a percentage of income is taken from relevant 2011/12 Annual Reports which are available online. All percentages are rounded to the nearest integer. The papers submitted to Union Council is from he minutes of Union Council Meetings. Available online ([If you can find them.](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council)) Reports from Sabbaticals and Constituent Unions weren’t counted._

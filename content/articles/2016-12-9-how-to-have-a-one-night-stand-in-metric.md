@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I know this says that this is about Metric, but really it could apply to any place, at any time, with any person.
 date: "2016-12-09 16:14:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
 headline: true
 featured: true
 imported: true
@@ -59,7 +59,7 @@ B) Bumping uglies
  - Repeat until satisfied
 C) Don’t ignore the clit. Acknowledge the prostate.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612091614-felix-Screen Shot 2016-12-09 at 16.13.35.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612091614-felix-Screen Shot 2016-12-09 at 16.13.35.png" title="" caption="" attr="" >}}
 
 ## 6 | Leave
 You have a ten minute window after sex in which to get up, get dressed, and get the fuck out of there, no questions asked. If that window passes, you have to stay there and pretend that you’re enjoying cuddling until they fall asleep. We don’t make up these rules, society does, and you’d better obey them.

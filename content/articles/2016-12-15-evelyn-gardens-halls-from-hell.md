@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Newly refurbished halls are anything but
 date: "2016-12-15 23:44:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201612152338-felix-IMG_6422.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612152338-felix-IMG_6422.JPG"
 headline: true
 featured: true
 imported: true

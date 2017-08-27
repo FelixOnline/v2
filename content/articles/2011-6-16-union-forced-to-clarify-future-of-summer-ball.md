@@ -4,7 +4,7 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106161945-felix-timsmith.jpg"
 image_caption: "Last year's Summer Ball"
 headline: true
 featured: true

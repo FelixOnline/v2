@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Universities will suffer as Lord Mandelson looks to reduce funding by
 date: "2010-01-14 17:47:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141741-felix-LordMand.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deputy President (Clubs and Societies) Abi de Bruin says keep sending in those requests!
 date: "2015-05-15 12:48:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151348-cj914-sitttingingng.png"
 image_caption: "I. Am. Envy."
 headline: true
 featured: true

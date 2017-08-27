@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Janssen Loek pokes you in the ribs. It's called fencing, don't get so mad...
 date: "2012-11-15 22:23:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152223-tna08-fencing.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152223-tna08-fencing.jpg"
 headline: true
 featured: true
 imported: true

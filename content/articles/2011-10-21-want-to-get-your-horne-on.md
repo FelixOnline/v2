@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
 image_caption: "Most people come for the ginger beard"
 headline: true
 featured: true

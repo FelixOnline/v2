@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Security officer punched in face by suspect
 date: "2011-05-26 18:19:15 +0100"
-image: "http://felixonline.co.uk/img/upload/201106060953-felix-img_0018.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106060953-felix-img_0018.jpg"
 image_caption: "Security officer Jonathan Adams caught one of the thieves"
 headline: true
 featured: true

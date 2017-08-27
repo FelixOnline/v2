@@ -4,7 +4,7 @@ title: >
 subtitle: >
   If you are looking for an internship for next summer, it pays to start thinking about it as early as possible
 date: "2010-10-07 23:03:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010080001-ks607-Business.jpg"
 headline: true
 featured: true
 imported: true

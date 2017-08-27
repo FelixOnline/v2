@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cutting teaching staff in Life Sciences is completely incompatible with aims to improve teaching standards
 date: "2010-12-09 20:29:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092027-ac1507-danpic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092027-ac1507-danpic.jpg"
 headline: true
 featured: true
 imported: true

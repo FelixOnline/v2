@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-01-29 16:44:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201401291643-me1711-games_dayz.jpg"
 headline: true
 featured: true
 imported: true

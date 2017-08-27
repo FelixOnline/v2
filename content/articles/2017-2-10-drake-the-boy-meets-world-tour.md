@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Enjoy Andy Djaba's rant on his love-hate relationship with Drake
 date: "2017-02-10 15:25:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041846-ma1307-PYONGYAN.jpg"
 headline: true
 featured: true
 imported: true

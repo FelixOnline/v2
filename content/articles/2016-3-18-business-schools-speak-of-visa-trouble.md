@@ -4,7 +4,7 @@ title: >
 subtitle: >
   UK “difficult and unattractive” for overseas students
 date: "2016-03-18 11:32:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
 image_caption: "Someone in there disagrees with a Tory policy."
 headline: true
 featured: true

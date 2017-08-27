@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After fabric’s tragic closure at the end of October, many of us are left frantically searching for a substitute to tide us over until the appeal on 28th November. Fear not, felix has you covered! Take a look at these great venues...
 date: "2016-11-11 18:36:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111831-felix-XOYO.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111831-felix-XOYO.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ Taking us further South of the river - it’s worth it, trust me -  Phonox occup
 ## CLF Art Cafe
 Our last entry in South London, this multi-purpose arts venue is located in the imposing industrial architecture of the former warehouse Bussey Building, Peckham.  It never fails to deliver. Three stories, each with its own dance floor and unique selectors. The vibes vary greatly on each floor and each day of the weekend, blasting disco, soul, house and techno.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111835-felix-Bussey.jpg" title="" caption="" attr="Phil Richards" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111835-felix-Bussey.jpg" title="" caption="" attr="Phil Richards" >}}
 
 ## XOYO
 Student favourite XOYO has earned its reputation through consistently putting on fantastic nights. Situated in Shoreditch, this reknowned nightclub provides for more than just hipsters. Its large floors normally play contrasting music on club nights, giving something for everyone to enjoy.
@@ -44,4 +44,4 @@ Opened in 2010, this Dalston club is now a stalwart of the London nightlife scen
 ## Oval Space
 Stunningly beautiful, a wall of windows gives venue-goers a view of the decomissioned gasworks of Bethnal Green. You’ll never forget your nights out here, with listings ranging from live music to giants of electronic dance music. Everyone should visit at least once.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111835-felix-South Terrace.jpg" title="" caption="" attr="Oval Space" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111835-felix-South Terrace.jpg" title="" caption="" attr="Oval Space" >}}

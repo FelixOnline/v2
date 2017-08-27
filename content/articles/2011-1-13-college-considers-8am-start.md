@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101132139-ks607-timetabl.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle picks out the four group stage matches that he is most looking forward to at this year’s World Cup
 date: "2015-02-12 22:57:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
 image_caption: "The rivalry between India and Pakistan is fierce"
 headline: true
 featured: true

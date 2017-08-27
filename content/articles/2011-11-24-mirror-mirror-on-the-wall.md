@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park tries to determine who really will be the fairest of them all...
 date: "2011-11-24 23:00:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242300-felix-charlize-theron-snowwhite.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242300-felix-charlize-theron-snowwhite.jpg"
 headline: true
 featured: true
 imported: true

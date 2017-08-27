@@ -4,7 +4,7 @@ title: >
 subtitle: >
   George Barnett evaluates Top Gear's recent entertainment value
 date: "2012-02-23 20:56:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
 image_caption: "Driving doesn't get tougher than this"
 headline: true
 featured: true

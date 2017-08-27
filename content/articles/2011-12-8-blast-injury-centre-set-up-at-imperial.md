@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Royal British Legion provides £5m towards understanding roadside bomb injuries
 date: "2011-12-08 20:03:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082001-pk1811-yl5f3643.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082001-pk1811-yl5f3643.jpg"
 image_caption: "Professor Anthony Bull, Director of the newly opened Centre "
 headline: true
 featured: true

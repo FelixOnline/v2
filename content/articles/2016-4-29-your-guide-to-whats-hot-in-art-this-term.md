@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exam season is just another excuse to get out and de-stress with the great shows on offer this term
 date: "2016-04-29 10:54:46 +0100"
-image: "http://felixonline.co.uk/img/upload/201604291152-felix-lesblancs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604291152-felix-lesblancs.jpg"
 headline: true
 featured: true
 imported: true

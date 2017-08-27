@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College ignores the fact that many students struggle to afford rented accommodation
 date: "2016-03-04 11:33:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
 image_caption: "It’s not easy finding affordable accommodation in the most expensive neighbourhood in the country."
 headline: true
 featured: true

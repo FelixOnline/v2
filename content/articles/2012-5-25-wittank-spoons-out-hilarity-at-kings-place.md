@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taking the Edinburgh Fringe Festival head on
 date: "2012-05-25 18:30:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251928-mc4509-wittank-caves2.jpg"
 image_caption: "What a wunch of bankers!"
 headline: true
 featured: true

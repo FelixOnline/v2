@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stephen Stopyra explores the gender imbalance in physics
 date: "2013-03-01 00:22:12 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010020-tna08-einstein.jpg"
 headline: true
 featured: true
 imported: true
@@ -58,7 +58,7 @@ Now that I’ve raised some objections to these objections, I’d like to talk a
 
 I first noticed this when one of my lecturers told us about the work of Emmy Noether. For those who aren’t familiar with her work, Emmy Noether is best known for ‘Noether’s Theorem’, a mathematical formulation of the link between conservation laws and symmetries in nature. It is a beautiful idea, and underlies much of modern physics. In her day, Noether had to fight to be accepted among academics, and at one time could only lecture unofficially under the name of her colleague David Hilbert. However, what struck me is that when I first heard about ‘Noether’s Theorem’, I assumed ‘Noether’ must be a man. Statistically, this was a reasonable assumption. But what bothered me was that I was surprised when I learnt that she was not. Why should I have been surprised? Is it because I don’t regard women as capable of being as competent as men? I wasn’t consciously aware of believing that. Counter-intuitively, however, [research has shown that those who most care about believing they are objective are in fact more likely to harbour biases](http://www.sciencedirect.com/science/article/pii/S0749597807000611).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303011229-tna08-240px-noether.jpg" title="Emily Noether" caption="Emily Noether" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303011229-tna08-240px-noether.jpg" title="Emily Noether" caption="Emily Noether" attr="" >}}
 
 If we are capable of being biased without even realising it, then how much discrimination is going on under our noses without even being noticed? Playing a blame-game and crying ‘misogynist conspiracy’ will not help with this. Awareness will. Thinking about these issues rather than hoping they will just go away is the only way to combat our unconscious perceptions. I’ve made a lot of points here, and there is so much more to say. If you think I am wrong then I invite you to tear my arguments to pieces. At least we’ll both be thinking about it, and I’ll have achieved my goal.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022011-felix-business%20plan.jpg"
 headline: true
 featured: true
 imported: true

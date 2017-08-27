@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A study has revealed the reason why the East Antarctic Ice Shelf is thinning so rapidly
 date: "2015-03-19 23:46:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201503192347-cj914-research-plane.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503192347-cj914-research-plane.png"
 image_caption: "A research plane flies over Totten Glacier"
 headline: true
 featured: true

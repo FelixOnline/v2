@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charles Betts and Matt Allinson duke it out over the impact of watching TV
 date: "2011-02-03 20:28:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032026-ks607-couchpot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032026-ks607-couchpot.jpg"
 image_caption: "This guy need less TV, more exercise, and a perm. That's right..."
 headline: true
 featured: true

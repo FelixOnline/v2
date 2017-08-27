@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli on the next generation of charming TV presenters
 date: "2014-12-04 19:19:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041917-cj914-simon-reeve.jpg"
 headline: true
 featured: true
 imported: true

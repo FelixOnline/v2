@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Drunk on the Aesthetic movement at The Cult Of Beauty. By Maisie Russ
 date: "2011-05-20 05:44:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200643-felix-3._laus_veneris.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200643-felix-3._laus_veneris.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Hill recaps the most recent game of American Football
 date: "2015-02-12 23:03:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201502130155-ps3110-screen-shot-2015-02-13-at-01.55.17.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502130155-ps3110-screen-shot-2015-02-13-at-01.55.17.png"
 headline: true
 featured: true
 imported: true

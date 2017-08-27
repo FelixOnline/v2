@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exams cancelled and student union disbands
 date: "2015-05-29 01:13:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
 headline: true
 featured: true
 imported: true

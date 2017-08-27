@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Women@Imperial events taking place this week
 date: "2015-03-13 01:20:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
 image_caption: "Women@Imperial comprises a series of events honouring academic and professional women of the College"
 headline: true
 featured: true

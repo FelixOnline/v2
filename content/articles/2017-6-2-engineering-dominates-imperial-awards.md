@@ -4,7 +4,7 @@ title: >
 subtitle: >
   SACAs, President’s Awards and NSS scores all say the same thing
 date: "2017-06-02 12:44:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
 image_caption: "Most of the award winners were from the Faculty of Engineering "
 headline: true
 featured: true

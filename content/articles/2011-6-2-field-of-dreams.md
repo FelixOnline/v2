@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber continues the Felix Summer Festival Guide with a preview of East London’s Field Day
 date: "2011-06-02 20:03:54 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022103-felix-photo-7.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022103-felix-photo-7.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The creepy masterpiece is back on the big screens
 date: "2012-11-15 21:49:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152149-tna08-the-shining-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152149-tna08-the-shining-1.jpg"
 headline: true
 featured: true
 imported: true

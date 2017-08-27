@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the theory behing political economic modelling
 date: "2014-11-06 18:46:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061846-snb11-nigel-farage.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061846-snb11-nigel-farage.jpg"
 image_caption: "Do all views fall in the middle of the political spectrum?"
 headline: true
 featured: true

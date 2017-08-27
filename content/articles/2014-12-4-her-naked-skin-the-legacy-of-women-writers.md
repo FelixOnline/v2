@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles asks the theatre industry where the women playwrights are
 date: "2014-12-04 20:15:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
 image_caption: "Charlie Bate, Rebecca Lee, Amber James, Alice Winslow, Lily Sacofsky, Elaine Fellos, and Emily-Celin"
 headline: true
 featured: true

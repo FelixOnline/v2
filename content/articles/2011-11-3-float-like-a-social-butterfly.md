@@ -4,7 +4,7 @@ title: >
 subtitle: >
   How your online presence may relate to your real life presence
 date: "2011-11-03 21:43:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 headline: true
 featured: true
 imported: true

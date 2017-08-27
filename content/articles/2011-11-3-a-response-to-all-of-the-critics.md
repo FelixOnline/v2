@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Your hate should be aimed at ITV, not me
 date: "2011-11-03 21:39:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Luke Sheldon asks where the student movement is now, twelve months after it began
 date: "2012-03-08 21:23:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
 image_caption: "No ifs, no buts..."
 headline: true
 featured: true

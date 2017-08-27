@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Commercial services to run Level 0 pub. Holland Club set to close on 21 December 2012. No current offer of alternate premises. Campaign to save the club didn’t work
 date: "2012-11-22 22:38:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222237-tna08-holland-club-backup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222237-tna08-holland-club-backup.jpg"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ There has been an ongoing campaign to save the Holland Club amongst staff and st
 
 Sue Sharp, Chair of Imperial Unite and Treasurer of the Holland Club Committee, said that staff were “overwhelming in support of the club as it was”. She described the bar as “comfortable as it is” while admitting that the function room “does need improvement”. Sharp told Felix that College had been provided with “ample evidence of the Holland Club’s support”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211222238-tna08-img_3212.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211222238-tna08-img_3212.jpg" title="" caption="" attr="" >}}
 
 The reason for the new outlet was “to serve the needs of the College community”. A College spokesman stated that the “space should be fully redesigned to maximise its potential and ensure the best possible service to customers”, which was given as the reason that the Holland Club could not serve food itself. Sharp commented: “If the college is genuine in its intention, why not build and improve on what is already there and loved rather than tearing it down and starting again”. Sharp went on to state that “the Holland Club was willing to improve either alone or in conjunction with catering [College catering: i.e. Commercial Services]”.
 

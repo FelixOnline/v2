@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The current DPFS speaks on his time in office
 date: "2012-02-16 22:58:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162353-sjw209-mfoster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162353-sjw209-mfoster.jpg"
 image_caption: "Deputy President (Finance & Services) Michael Foster"
 headline: true
 featured: true

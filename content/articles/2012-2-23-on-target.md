@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial fencers win their quarter finals to progress to the BUCS Championship final round to be held in Sheffield
 date: "2012-02-23 21:10:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232107-cac111-dsc06929.gif"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232107-cac111-dsc06929.gif"
 image_caption: "En garde!"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ After a bit of a delayed start (due to some excessively long warming up by the o
 
 Technically, the sabre team fielded against Durham would count as a ‘B’ team, although this was by no means evident in the cold, calculating demolition of the opposing team. The hits flowed thick and fast, and in a mere twenty minutes or so the match was done and dusted. One could almost pity the Durhamites, having traveled so far to lose so harshly. Final score: 45-9 for Imperial. Mind-boggling.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202232112-cac111-dsc07001.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202232112-cac111-dsc07001.jpg" title="" caption="" attr="" >}}
 
 For those of you astute with numbers (I would say most of you, but I wouldn’t like to stereotype) you will have noticed that the match was already won by this point; even if Durham won the epee 45-0 Imperial would still prevail on points (and weapons). The mere suggestion of this was scoffed at by the epeeists, though, with the motivation to win all the more fired up by the victories of their squadmates. The match was a much tighter affair than the two previous weapons, with Durham leading for most of the way. This was not unexpected: the Northeners’ strong point was known to be the epee, which was why the team was relieved to have put the match away beforehand. IC were three or four hits down going into the final bout, and some valiant fencing by Gulliver saw the match go down to the wire, with Durham eventually taking it 45-43. It was smiles all around as the men fulfilled the expectations and qualified themselves for the semi-finals, to be held at Sheffield.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alex Thompson offers rationing recipes for hungry times
 date: "2010-11-25 20:39:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201011252036-nm1010-potttaaa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011252036-nm1010-potttaaa.jpg"
 headline: true
 featured: true
 imported: true

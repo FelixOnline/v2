@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jawaad Farooq muses on what the possible solutions to an overcrowded world may be, what the future may have in store, and why we should care
 date: "2016-11-11 16:06:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
 headline: true
 featured: true
 imported: true
@@ -33,7 +33,7 @@ Given the toxic mix of increased population, further damage from climate change 
 
 The first and most obvious one is the advancement of science and technology. Science has been our ‘saviour’ which has generated and sustained the industrial revolution and allowed the population to explode so dramatically. Most of the work being done – except those few eccentric genocidal billionaires apparently – is in this area. From mitigating climate change and creating clean and sustainable energy resources, to improving healthcare and growing more food, all avenues are being explored. This seems to be the most obvious way forward without a morally dubious solution to the problem. In our all-pervading mentality of the consumer comes first, and rising living standards of the world, most of us are not willing to or have even considered radical lifestyle changes.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111604-felix-earth-1365995_1920.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111604-felix-earth-1365995_1920.jpg" title="" caption="" attr="" >}}
 
 Yet these changes could be a real solution to the problem of overpopulation. There would have to be radical changes to what is currently accepted as a norm of lifestyle; a solution where the consumption of resources would decrease radically. If we are to strip life bare and think about it, what is it that we really need to survive and be happy? Food, healthcare, a roof over our heads, companionship, some sort of work and some sort of entertainment. Instead of being a consumer orientated society we would have to become oriented around not having and acquiring new things, but being satisfied with what is there and finding pleasure in the repetition. That is a massive and somewhat untenable cultural shift that would have to occur, but it is not impossible. Yet statistics and human nature seem to be against us. Demands shift as living conditions get better. For example better lifestyles correlate with bigger demands for meat and dairy, so grain that could be used to feed many more people goes into feeding animals to make more of what we want. But we need our cheeseburgers apparently.
 
@@ -41,13 +41,13 @@ Yet cultural shift is not impossible. These changes have been seen to come into 
 
 What seems more likely is that society becomes reset through the almost unavoidable consequence of war occurring due to a fight for resources and supremacy in a world which knows things are going wrong but refuses to face the facts. It as if the world will head to a high energy state; the bubble of our ego’s will inflate and continue to do so till it bursts, expends its energy in war, and finally returns to a low energy state. Then people will – having learnt their lessons – realise where they went wrong and rebuild society on a more sustainable, simpler model. The war will solve the population problem as well, by wiping out a goo chunk of it. If the remnants of nuclear war don’t create an uninhabitable environment, maybe the few lucky survivors will be able to rebuild society. But the tragedy beyond all of this, is that even if some survive, the history shows humans do not seem to learn the lessons of the past, especially not those of war. Two world wars in the space of twenty years, and much more in between and after. It seems war may just be part of our nature. Overpopulation may just be a frustration that lets us express that nature once again.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111606-felix-skull-517594_1280.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111606-felix-skull-517594_1280.jpg" title="" caption="" attr="" >}}
 
 But maybe science and technology will lead us to the solution. And what will that solution be? Maybe we worry about earth as the only planet we have, but maybe that won’t be the case in the future. What if we colonise other planets and our population can spill over and we develop the technology to planet hop and live elsewhere? Efforts are currently underway for a manned mission to Mars, and research is ongoing with regards to how we would populate the red planet. If we can move out of our planet and mine resources from other planets, then the universe is our oyster. Then not only is overpopulation solved, but we could potentially expand beyond any limits. But this is a race against time. Elon Musk with his SpaceX program and desire to die on Mars just “not on landing” may take us one more step closer to colonising it. He hopes to have astronauts on Mars by 2025. NASA has more humble predictions of sending astronauts into orbit by 2030. Having an actual civilisation on Mars therefore seems to be decades off.
 
 There are those who would preach for us to stop having children or to just have one child. In their self-induced panic, they may even set an example for the world. Fair play to them. But beyond the sudden pang of morality you might feel from hearing them preach and beyond the panic that ensues from watching a film such as Inferno as you tentatively put on your intellectual’s glasses and begin to consider if a population cull is what is really needed, we should actually sit down and consult the figures.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611111605-felix-baby-shoes-1796582_1920.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611111605-felix-baby-shoes-1796582_1920.jpg" title="" caption="" attr="" >}}
 
 The idea that population growth is exponential is one that is thrown around quite a lot. And quite callously might I add. From the comparisons of humanity as a virus and the images in your mind of cells dividing uncontrollably, exponential population growth – the increasing growth rate of something proportional to its total quantity – is not supported by the statistics. Starting at 1800 in the space of a hundred years we doubled, then in the next hundred years we multiplied by around six and in the following 15 have increased from around six billion to seven billion.
 

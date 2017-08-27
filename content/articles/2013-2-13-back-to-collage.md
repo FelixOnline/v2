@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal goes all Art Attack
 date: "2013-02-13 17:00:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131659-tna08-sc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131659-tna08-sc.jpg"
 headline: true
 featured: true
 imported: true

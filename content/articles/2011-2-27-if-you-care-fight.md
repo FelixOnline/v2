@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Even if you aren’t directly affected by the cuts to higher education, you should still show your support argues Jennifer Watson
 date: "2011-02-27 12:39:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271237-ks607-protestl.jpg"
 headline: true
 featured: true
 imported: true

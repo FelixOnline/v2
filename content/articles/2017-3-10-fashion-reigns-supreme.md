@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Taking a look at every street-wearing teen's wet dream
 date: "2017-03-10 13:10:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
 headline: true
 featured: true
 imported: true

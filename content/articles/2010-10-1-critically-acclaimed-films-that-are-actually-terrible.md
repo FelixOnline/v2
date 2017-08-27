@@ -4,7 +4,7 @@ title: >
 subtitle: >
   At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
-image: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010012347-ks607-PulpFict.jpg"
 image_caption: "Badass, sure. But 'compelling'? Give me a break"
 headline: true
 featured: true

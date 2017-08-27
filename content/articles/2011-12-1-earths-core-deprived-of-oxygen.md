@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New research reveals new information about the composition of the Earth's core
 date: "2011-12-01 19:44:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112011944-ams111-479480a-f1.2.jpg"
 image_caption: "Cross section showing the inside the Earth."
 headline: true
 featured: true

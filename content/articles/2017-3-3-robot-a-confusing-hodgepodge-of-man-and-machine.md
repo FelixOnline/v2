@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Robot was on at the Barbican from the 22nd – 25th February
 date: "2017-03-03 15:15:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031514-felix-04.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031514-felix-04.jpg"
 image_caption: "Blanca Li Dance Company, Robot"
 draft: true
 headline: true
@@ -30,7 +30,7 @@ It's an interesting premise. Sure, robots can perform calculations with superhum
 In all fairness, the eight human dancers performed with skill and ease; their stamina for carrying such energetic moves for over an hour was quite commendable. But despite the energetic choreography, the moves felt rather monotonous and repetitive – dare I say, robotic?
 Robot's selling point is its generous use of actual robots.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201703031515-felix-03.JPG" title="Blanca Li Dance Company, Robot " caption="Blanca Li Dance Company, Robot " attr="A Jerocki" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201703031515-felix-03.JPG" title="Blanca Li Dance Company, Robot " caption="Blanca Li Dance Company, Robot " attr="A Jerocki" >}}
 
 The orchestra is self-playing, composed of 10 mechanical instruments by Japanese art group Maywa Denki. The musical prototypes are rather whimsical: percussion instruments dominate, although there is a flower-shaped marimba and an automated concertina (which produced a dreadful screeching note). While the soundtrack, composed by Tao Gutiérrez, was quite enjoyable in parts, after half an hour of drumbeats and mechanical beeping it started to become quite headache-inducing.
 

@@ -20,7 +20,7 @@ highlights:
  - photos
 ---
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702101553-felix-Stradanus.jpg" title="" caption="" attr="Courtauld Gallery" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702101553-felix-Stradanus.jpg" title="" caption="" attr="Courtauld Gallery" >}}
 
 Marginalia are the annotations one finds scribbled in the margins of a text; they can be insightful, witty or rude depending on the commentator in question. Reading Drawings is a new collection at the Courtauld Gallery that aims to showcase the equivalent in drawings – inscriptions on sketches dating from the 16th to the 20th century.
 

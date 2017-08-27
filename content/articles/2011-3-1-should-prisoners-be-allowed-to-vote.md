@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the European Court of Human Rights overrules the UK government over prisoner rights, should prisoners have the same democratic rights as the rest of us?
 date: "2011-03-01 20:53:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012050-ks607-prisoner.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012050-ks607-prisoner.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Wilson urges a dialogue between faiths
 date: "2013-02-14 00:38:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201302142229-tna08-felix-adam-poster.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302142229-tna08-felix-adam-poster.jpg"
 headline: true
 featured: true
 imported: true

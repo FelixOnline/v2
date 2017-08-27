@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Graduate Students Union (GSU) Elections close on the 26th July. For those of you who haven't heard about it here's a quick list of candidates and manifestos...
 date: "2013-07-25 04:28:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
 image_caption: "The GSU Summer Elections, are we sure they exist?"
 headline: true
 featured: true
@@ -37,7 +37,7 @@ Position: President
 
 _Candidate #1: Andreas Thomik_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201307250527-jal08-aat10.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201307250527-jal08-aat10.jpg" title="" caption="" attr="" >}}
 
 _Candidate #2: RON - Re-Open Nominations_
 
@@ -47,7 +47,7 @@ Position: Deputy President (Representation)
 
 _Candidate #1: Boshuo Guo_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201307250541-jal08-bg209.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201307250541-jal08-bg209.jpg" title="" caption="" attr="" >}}
 
 _Candidate #2: RON - Re-Open Nominations_
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson and Maciej Matuszewski go head to head
 date: "2010-12-09 21:35:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092124-ac1507-nativity.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092124-ac1507-nativity.jpg"
 headline: true
 featured: true
 imported: true

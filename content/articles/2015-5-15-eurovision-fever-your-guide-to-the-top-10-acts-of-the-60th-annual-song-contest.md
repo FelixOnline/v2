@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jamie Thomas gives us the lowdown on this year’s favourites
 date: "2015-05-15 12:24:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151324-cj914-electro2.jpg"
 image_caption: "Nil points! The British entry are practising their game faces."
 headline: true
 featured: true

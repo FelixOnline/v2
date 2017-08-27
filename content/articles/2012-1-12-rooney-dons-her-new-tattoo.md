@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hollywood successfully takes on the challenge of re-working the first installment of the Millennium series, whilst still satisfying readers of the books
 date: "2012-01-12 22:45:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
 image_caption: "Let’s take this to the bed shall we, Agent Salacious-- I mean, Salander?"
 headline: true
 featured: true

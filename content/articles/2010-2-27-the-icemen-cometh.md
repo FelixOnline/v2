@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Winter Olympics have come to our television screens again, and Gilead Amit shares the view from his couch.
 date: "2010-02-27 17:13:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002271711-rsp07-manonski.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Space to be replaced by study area
 date: "2017-06-02 12:45:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021444-felix-IMG_7792.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021444-felix-IMG_7792.JPG"
 image_caption: "The mysterious EEE Library"
 headline: true
 featured: true

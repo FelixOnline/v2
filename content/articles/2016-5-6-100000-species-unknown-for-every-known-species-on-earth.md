@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Estimating the number of species on Earth is among the great challenges in biology
 date: "2016-05-06 09:53:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
 image_caption: "With over 200 genera they still only represent a fraction of Earth’s diversity. "
 headline: true
 featured: true

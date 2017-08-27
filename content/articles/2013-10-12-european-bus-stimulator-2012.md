@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Calum Skene learns the differences between GTA and real life
 date: "2013-10-12 23:47:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201310130046-jal08-games_mary.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310130046-jal08-games_mary.jpg"
 headline: true
 featured: true
 imported: true

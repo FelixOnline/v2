@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Teams have been suspended and made to miss key matches
 date: "2014-11-14 19:58:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142015-ps3110-rugby-ball.jpg"
 headline: true
 featured: true
 imported: true

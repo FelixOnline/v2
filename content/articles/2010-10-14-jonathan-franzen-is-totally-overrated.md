@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
 image_caption: "To be honest, I didn't actually expect any better from Time Magazine..."
 headline: true
 featured: true

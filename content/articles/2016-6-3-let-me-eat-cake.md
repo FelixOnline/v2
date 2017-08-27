@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX visits WA café, a Japanese pâtissierie in Ealing Broadway
 date: "2016-06-03 09:32:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031131-felix-IMG_2262.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031131-felix-IMG_2262.jpg"
 image_caption: "Choux trious!"
 headline: true
 featured: true

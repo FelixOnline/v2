@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chinhua Yap implores you to enjoy the finer details of food
 date: "2011-02-17 19:37:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171935-nm1010-livelive.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171935-nm1010-livelive.jpg"
 headline: true
 featured: true
 imported: true

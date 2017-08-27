@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082058-ams111-dsc_0642-1.jpg"
 image_caption: "Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles"
 headline: true
 featured: true

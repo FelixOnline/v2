@@ -52,4 +52,4 @@ Sunday arrived and IC departed, making it back in time to catch the last ¾ of S
 
 ICUAFC is sponsored by:
 
-{{< figure src="http://felixonline.co.uk/img/upload/201312110038-jal08-icufc.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201312110038-jal08-icufc.png" title="" caption="" attr="" >}}

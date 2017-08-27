@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson looks at the annual celebration of Imperial’s research
 date: "2015-05-14 22:25:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
 image_caption: "The Band of the Household Cavalry opened the Festival at 12PM on Saturday, with a fanfare on horseback and marching band"
 headline: true
 featured: true

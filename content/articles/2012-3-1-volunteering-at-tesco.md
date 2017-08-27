@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Luke Sheldon attacks the Government’s new scheme as enforced labour that only benefits big companies
 date: "2012-03-01 21:08:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201203012106-cac111-img_9890.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203012106-cac111-img_9890.jpg"
 image_caption: "KFC and Starbucks this week announced apprenticeships while Burger King dropped out of the scheme "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   More anonymous accounts of students and their experiences with depression
 date: "2012-05-04 01:17:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205040214-felix-depression.jpg"
 image_caption: "Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences"
 headline: true
 featured: true

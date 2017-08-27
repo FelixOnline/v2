@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503091908-ps3110-tea.jpg"
 headline: true
 featured: true
 imported: true

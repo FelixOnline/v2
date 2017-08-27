@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simon Hunter gets to grips with London’s latest dance music pioneers
 date: "2012-03-15 21:34:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203152133-ig711-hyperdub.jpg"
 image_caption: "Honey for the bears of the future."
 headline: true
 featured: true

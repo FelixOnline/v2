@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We continue Charlotte Ridler’s chronicles of gigging off the beaten track with three kick-ass music venues
 date: "2011-01-20 20:24:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202005-nm1010-joanaaaa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202005-nm1010-joanaaaa.jpg"
 headline: true
 featured: true
 imported: true

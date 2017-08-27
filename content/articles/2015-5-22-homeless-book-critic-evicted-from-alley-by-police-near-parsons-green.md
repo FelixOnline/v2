@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201505221207-cj914-homeless-mcgee.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505221207-cj914-homeless-mcgee.jpg"
 image_caption: "Mark Burns has been warned to move on from his regular reading spot or face jail time."
 headline: true
 featured: true

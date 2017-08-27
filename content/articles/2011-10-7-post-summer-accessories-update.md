@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A new term starts a new season, and what better way to break into your student loan than by updating your look with a few accessories. Alice Yang gives you this season’s best, and remember – detail is everything
 date: "2011-10-07 12:26:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071325-felix-earrings-dolce-.png"
 image_caption: "Shoulder skimming earrings from Dolce and Gabbana"
 headline: true
 featured: true

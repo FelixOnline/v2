@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind
 date: "2013-10-12 12:12:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201310121307-jal08-1262887_10153350302710195_651778061_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310121307-jal08-1262887_10153350302710195_651778061_o.jpg"
 image_caption: "RCSU @ Freshers Fair"
 headline: true
 featured: true
@@ -43,7 +43,7 @@ The second week of Freshers started off in a truly British manner with the RCSU 
 
 RCSU Autumn Ball:
 
-{{< figure src="http://felixonline.co.uk/img/upload/201310121311-jal08-1270684_10153357731395195_1005991954_o.jpg" title="Check out that liquid nitrogen ice cream! Damn son!" caption="Check out that liquid nitrogen ice cream! Damn son!" attr="Credit: RCSU" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201310121311-jal08-1270684_10153357731395195_1005991954_o.jpg" title="Check out that liquid nitrogen ice cream! Damn son!" caption="Check out that liquid nitrogen ice cream! Damn son!" attr="Credit: RCSU" >}}
 
 Perhaps the most prized event of them all was the RCSU Autumn Ball which took place on Tuesday at Ruby Blue in Leicester Square. There were 3 free double mixers on offer alongside a scoop of nitrogen ice cream. The Ball managed to sell out a day in advance and there was great anguish amongst the people who missed out on the tickets. But for the people who managed to grab hold of one before time ran out, they were in for a treat. The nitrogen ice cream proved to be very successful as evident by the long queues that were forming. Some would say that the ice cream was so good, it made them completely forget about the hardships of grinding a degree out of Imperial. Priced competitively at £12, the ball was organized to ensure it doesn’t cut a deep hole in people’s pockets. Student drink prices were in full flow to ensure that even the hard boozers were kept satisfied. It was a perfect night for the awkward one night stands during freshers to turn into a full blown romance. Near the end, Black Eyed Peas showed up and started singing. Maybe.
 

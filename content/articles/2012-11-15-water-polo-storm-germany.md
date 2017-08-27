@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Romylos Jackson reports on the exploits of Imperial in Europe
 date: "2012-11-15 22:26:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152246-tna08-water-polo.jpg"
 headline: true
 featured: true
 imported: true

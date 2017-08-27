@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joe Brown reports on the disappointing performance of the 1st XV against Tokyo University
 date: "2010-07-08 04:06:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201007080455-jn104-ICvsToky.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201007080455-jn104-ICvsToky.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix gauges student opinion after Daily Mail medic article
 date: "2011-01-20 21:11:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201101202101-ks607-drinkind.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101202101-ks607-drinkind.jpg"
 image_caption: "Lads..."
 headline: true
 featured: true

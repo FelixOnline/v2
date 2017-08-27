@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The expert himself, Sanchit Sharma, introducing you to a world that you definitely want to join
 date: "2015-03-06 16:46:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201503061647-cj914-tower.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503061647-cj914-tower.jpg"
 image_caption: "Welcome to the wonderful world of tabletop RPGs!"
 headline: true
 featured: true

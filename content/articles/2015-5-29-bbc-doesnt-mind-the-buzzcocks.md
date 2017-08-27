@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jack Steadman breaks down the BBC's axing of the beloved panel show.
 date: "2015-05-29 10:59:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505291300-js5913-never-mind.jpg"
 image_caption: "A typical line up for Never Mind the Buzzcocks during one of its guest host phases. I know who some of hese people are, honest."
 headline: true
 featured: true

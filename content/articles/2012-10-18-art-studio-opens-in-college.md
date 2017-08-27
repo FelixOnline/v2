@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Artists have new studio at Imperial
 date: "2012-10-18 21:49:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182248-felix-art-thingrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182248-felix-art-thingrgb.jpg"
 headline: true
 featured: true
 imported: true

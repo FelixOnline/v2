@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber and Jamie Fraser interview Yeasayer
 date: "2010-01-14 14:26:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141423-ks607-OddBlood.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141423-ks607-OddBlood.jpg"
 headline: true
 featured: true
 imported: true

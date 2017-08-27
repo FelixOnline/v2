@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
 image_caption: "*goes to Southall once*"
 headline: true
 featured: true
@@ -34,7 +34,7 @@ Not discussed here are the Green party’s Siân Berry or the Lib Dem Caroline P
 As usual, it’s very freaking difficult to find any information in the run up to elections about politicians’ actual policies with specific figures to back them up. We’ve tried to do our best. What we have covered is both candidates’ fuck-ups, upbringings and what they were doing before they became MPs. Does knowing the eastbound route of the central line make you a better mayoral candidate? That’s for you to decide, friends.
 ## Zac Goldsmith
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604201552-felix-Screen Shot 2016-04-20 at 15.51.51.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604201552-felix-Screen Shot 2016-04-20 at 15.51.51.png" title="" caption="" attr="" >}}
 
 **Fuck-ups**
 
@@ -62,7 +62,7 @@ He was Editor of The Ecologist magazine (a publication founded by his uncle) bef
 Before standing for Mayor, Goldsmith sent out a ballot at his own expense asking his constituents whether they would be happy with him running for this second role. With a stunning majority, they consented. Like Boris, he is pro-Brexit.
 ## Sadiq Khan
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604201552-felix-Screen Shot 2016-04-20 at 15.48.05.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604201552-felix-Screen Shot 2016-04-20 at 15.48.05.png" title="" caption="" attr="" >}}
 
 **Fuck-ups**
 
@@ -90,7 +90,7 @@ According to theyworkforyou.com he has consistently voted against university tui
 
 Last time Labour were in power he was transport secretary but now he’s a plain old shadow minister and MP for Tooting.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201604201624-felix-Screen Shot 2016-04-20 at 16.26.17.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201604201624-felix-Screen Shot 2016-04-20 at 16.26.17.png" title="" caption="" attr="" >}}
 
 Since we discovered last year that polls can’t really be relied on, the race has become a lot more interesting. Current forecasts do predict a win for Khan and despite Labour’s poor performance in last year’s general election, the party saw a seven seat gain in the capital, and now has MPs in 45 of London’s 73 seats.
 

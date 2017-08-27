@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik analyses the divide between the have and have-nots, and Britain’s arts class war
 date: "2015-01-31 18:37:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201501311838-ff712-zadie-smith-nw-2012-use-c-dominique-nabokov-2012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501311838-ff712-zadie-smith-nw-2012-use-c-dominique-nabokov-2012.jpg"
 image_caption: "British author Zadie Smith, whose work has been consistently critically acclaimed."
 headline: true
 featured: true

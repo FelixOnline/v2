@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get spotting
 date: "2016-10-03 19:56:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201610032156-felix-binocolours.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610032156-felix-binocolours.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ highlights:
 For the uninitiated, London can be a strange and scary place. However, for the ornithologically-inclined, it can be a place of wonder. Let _felix_ be your guide, taking you on a tour of the different culture tribes you can spot in the capital. Bonus points if you manage to see them all!
 ## The Techno Head
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610032159-felix-techno.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610032159-felix-techno.jpg" title="" caption="" attr="" >}}
 
 > **Natural Habitat |**
 > Café Oto; Rooms with Boilers
@@ -42,7 +42,7 @@ This species has made all of London its home. From abandoned asylums in Peckham 
 Unfortunately, the techno head is a dying breed; the closure of the most famous aviary, Fabric, has signalled, for many, the death toll for this most delicate of species. Sadiq Khan has promised to put a conservation programme in place to help protect the techno head’s natural habitats, but commercial forces are unlikely to pay heed. If only the night tube extended to Camberwell.
 ## The TV Binger
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610032200-felix-tv.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610032200-felix-tv.jpg" title="" caption="" attr="" >}}
 
 > **Natural Habitat |**A nest made of blankets. Look for the tell-tale charging cables.
 > >
@@ -55,7 +55,7 @@ Pity the Binger. Whereas previously their diurnal rhythms would allow a normal w
 Today, the Binger’s usual activity patterns have switched to one of permanent hibernation. While good TV used to be a once in a generation occasion, today it seems there’s a new masterpiece coming out every week, and even just keeping up with Twitter memes requires at least 18 hours of viewing every day. Recently a new phenomenon has been reported of Binger paralysis: faced with infinite choices of what to watch that day, the Binger will often just stare at the screen in panic, forgetting to eat or drink, until it eventually simply dies. And it still won’t have got round to watching The Wire.
 ## The Film Buff
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610032200-felix-film.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610032200-felix-film.jpg" title="" caption="" attr="" >}}
 
 > **Natural Habitat |**BFI Southbank
 > **Identifying Features |**Fear of sunlight; Copy of Sight and Sound
@@ -66,7 +66,7 @@ Like the techno head, this is a species that exists mainly in the dark. After ge
 In many ancient cultures, this noble species was a symbol of great wisdom, mainly for its ability to describe all of Jean Paul Godard’s filmography, and its great fortitude in the face of Bela Tarr films. They are usually found singly, or in pairs – they rarely exist in a large group, and almost never call to each other. A peculiar phenomenon known as ‘mobbing’ may be observed where lesser species, who think that Christopher Nolan is a genius, gang up on a single film buff – this process has been made much easier with the introduction of IMDB.
 ## The IG Kween
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610032200-felix-insta.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610032200-felix-insta.jpg" title="" caption="" attr="" >}}
 
 > **Naturwal Habitat |**Wherever Time Out recommends
 > **Identifying Features |**Outstretched arms for convenient selfies; IG-ready make-up
@@ -80,7 +80,7 @@ Since the Kween is so easily distracted by its smart phone, which is permanently
 With a wealth of decisions to be made about presenting their online image: from filters to hashtags, captions to formatting, the Kween is the natural curator of the cultural world. Anyone looking to start working in museums, now would be a bad time to start – this is one ecological niche that is fully saturated.
 ## The Theatre Bore
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610032200-felix-theatre.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610032200-felix-theatre.jpg" title="" caption="" attr="" >}}
 
 > **Natural Habitat |**National Theatre; Old Vic; Almeida
 > **Identifying Features |**Gold-plated pensions; Copy of The Telegraph

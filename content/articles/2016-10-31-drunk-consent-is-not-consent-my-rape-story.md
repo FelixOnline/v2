@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Being friends doesn't make it okay
 date: "2016-10-31 22:44:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201610312233-felix-3677708469_0d92186faa_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610312233-felix-3677708469_0d92186faa_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -43,7 +43,7 @@ I don’t remember what happened. I don’t remember a lot of the night leading 
 
 I later found out the extent of my memory blackout. I’d been totally out of control. I had thrown up in at least two locations, as well as being vomited on by someone else. He later told me that I was awake and actively participating, and I believe him, but I like my sexual encounters with a bit of dignity, and that does not stretch to being covered in blood and vomit. Without the memory of what happened, I have the more evidence-based assertion that this was not a condition in which I would have consciously agreed to have sex with someone, much less someone who I would have to live with for another six months, and who I hadn’t ever actively considered sleeping with.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610312228-felix-Screen Shot 2016-10-31 at 22.27.02.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610312228-felix-Screen Shot 2016-10-31 at 22.27.02.png" title="" caption="" attr="" >}}
 
 But, before I fully understood, while I was still processing my hazy idea of what had happened, word spread to our mutual social circle. On top of having to patch over the deep wound that my apparent choosing to have sex with this particular person gored in my relationship, I found myself expected to joke about it and laugh along. After all, if you’re someone in an open relationship who occasionally has sex with friends, no one thinks that any sex you could have with a friend could be non-consensual, no matter what state you might have been in. It seems that most people really do believe that if you’re someone who ‘gets around’ when you drink, you’re probably always up for it.
 
@@ -57,7 +57,7 @@ For me, it was difficult to come to terms with how much it had upset me. How can
 
 It took a long time, a lot of evidence, and an astute interpretation of an offhand comment I made to a sexual health doctor to make me realise that I did have a right and a reason to feel distressed, and to release some of the guilt that I’d been feeling.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610312231-felix-Screen Shot 2016-10-31 at 22.29.51.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610312231-felix-Screen Shot 2016-10-31 at 22.29.51.png" title="" caption="" attr="" >}}
 
 I like to think that now I’m okay. I no longer freak out when I see him on Facebook, and I could probably interact with him face to face without having to take the next day off to lie in a dark room. I struggle to remain friends with people who still see me as simply regretting having sex with him, who have told me to stop making excuses for my decisions, and who continue to reference it. I’m no longer friends with my other housemate, who it turns out questioned my ability to consent at the time, but didn’t think to intervene.
 

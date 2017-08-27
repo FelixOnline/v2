@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Google's launched it's attempt to shoehorn the web into the living room, but will it succeed?
 date: "2010-05-28 10:48:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201005281135-srg03-GoogleTV.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201005281135-srg03-GoogleTV.jpg"
 headline: true
 featured: true
 imported: true

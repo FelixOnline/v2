@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506201255-ff712-rsz_01.jpg"
 image_caption: "Robert Wilson in Krapp's Last Tape"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Husain Al-Jabir gives his first-hand opinion of Grammar schools
 date: "2016-11-18 14:32:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.32.05.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.32.05.png"
 headline: true
 featured: true
 imported: true
@@ -29,14 +29,14 @@ Disclaimer: I’m an alumnus of a well-known North London grammar school, having
 
 Under the guise of ‘educational overhaul’, the Tory and coalition governments through the actions of former resident government snake Mr Michael Gove and his successor Nicky Morgan, as education secretary, have been responsible for scrapping the integrated AS-Level, trying to force every school to become an ‘Academy’, and completely redesigning GCSEs with effectively zero notice. The latest brainwave by our illustrious – and need we mention unelected – Prime Minister Theresa May, is to dispense with forty years of alternately overt and implicit educational policy, by paving the way for the reintroduction of that most divisive of schools: The Grammar school.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.31.49.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.31.49.png" title="" caption="" attr="" >}}
 
 For the Scots, Welsh, or Northerners among you, Grammar schools are meant to represent a progressive utopia – poor but brilliant eleven year olds are to be offered an education akin to their rich privately-educated counterparts in specialist schools where entry is based solely on academic merit. These brilliant children would be able to reach their potential without (heaven forbid!) the less erudite dragging them down. They would of course be selected using the most accurate measure of intelligence known to man – the eleven plus entrance exam, serving as the key to the future. Pass it and a world of opportunity opens, but fail it and the doors are bolted shut.
 
 The problem of this vision is that the eleven plus exam is far from a level playing field for all students, acting more as a class separator than a discriminator of intelligence. As anyone who has sat exams such as the UKCAT, MAT, or their ilk will know that tutoring is omnipresent and shoved into your face at every opportunity (shout out Medify). No matter how ‘tuition-proof’ these exams claim to be, the availability of resources and practice to families with the means to pay far outstrips the poor with potential. Anecdotally, this leads to a middle-class invasion and infiltrative classism with clear consequences on students. It’s not without reason that Tatler, a traditional magazine of the wealthy has published a list of top state schools, most of which are grammars – why waste money on Private school tuition when tutoring for the 11+ is cheaper? Grammars have become an outpost of the rich at the expense of others.
 The Grammar school I went to was situated in a deprived area, surrounded by poorly achieving comprehensives. Consequently, almost everyone in the local area took the test to try and get in, else they would have to resort to the failing local secondaries. You might expect then, that my school would have people from the local area? In actual fact, I could count on two hands the number of people who lived within walking distance to my school. Hundreds of kids are bussed in from the surrounding areas commuting for up to 45 minutes. If you’ve ever commuted to uni, you already know the negative impacts of this; if you haven’t, relying on two daily school buses to get there, effectively preventing you from partaking in after-school activities, isn’t much fun at all. Schools should have a strong link to their local area, with intake coming from the local children and deeply involved in local society. How can grammars possibly have a link to the local community when three-quarters of their students come from an entirely separate borough?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.31.56.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.31.56.png" title="" caption="" attr="" >}}
 
 Grammars suck the intelligent and rich out of local schools, leading to a high achieving enclave within a failing school area. Poor school results lead to difficulty recruiting excellent staff, and wealthier families choose to move away to other areas, contributing to the isolation of the school community. The result is a vicious cycle of failure and decline, from which London’s secondaries are only recently escaping.
 

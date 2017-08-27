@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dana Li visits MADD, Soho’s hottest café and brainchild of a Business School alumnus
 date: "2011-06-12 16:10:44 +0100"
-image: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106121712-felix-siam.jpg"
 headline: true
 featured: true
 imported: true

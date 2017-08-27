@@ -4,7 +4,7 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101446-felix-kendo3.jpg"
 headline: true
 featured: true
 imported: true

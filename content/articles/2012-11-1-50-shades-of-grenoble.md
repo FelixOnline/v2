@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Will Prince’s Weekend d’Integration
 date: "2012-11-01 22:56:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
 headline: true
 featured: true
 imported: true

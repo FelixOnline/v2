@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Frieze Art Fair 101: A novice’s impressions
 date: "2011-10-21 10:28:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211126-felix-bluearts.png"
 image_caption: "Trouser presses and biros are not friends"
 headline: true
 featured: true

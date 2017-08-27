@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer on Imperial’s research in epigenetics asthma treatments
 date: "2015-02-20 00:04:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
 image_caption: "Asthma affects millions of people"
 headline: true
 featured: true

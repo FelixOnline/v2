@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Get your thinking caps on
 date: "2015-01-23 01:35:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230133-cac111-vcc-graphic-695x398.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230133-cac111-vcc-graphic-695x398.png"
 headline: true
 featured: true
 imported: true

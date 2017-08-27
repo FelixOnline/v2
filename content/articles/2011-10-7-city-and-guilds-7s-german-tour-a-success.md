@@ -4,7 +4,7 @@ title: >
 subtitle: >
   City & Guilds 7s tour Berlin
 date: "2011-10-07 01:14:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
 headline: true
 featured: true
 imported: true

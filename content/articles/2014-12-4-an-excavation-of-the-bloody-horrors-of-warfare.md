@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores brutal photographs of wars gone by at the Tate Modern
 date: "2014-12-04 19:58:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
 image_caption: "Steel Helmet with Skull Bone Fused by Atomic Bomb, Nagasaki 1963"
 headline: true
 featured: true

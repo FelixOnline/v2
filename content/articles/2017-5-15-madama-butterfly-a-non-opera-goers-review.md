@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Madama Butterfly was on stage from the 20th of March to the 25th of April 2017 as part of the Spring 2016/17 season
 date: "2017-05-15 16:21:23 +0100"
-image: "http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
 image_caption: "Elizabeth DeShong (Suzuki) and Ermonela Jaho (Cio-Cio San) in Madama Butterfly"
 headline: true
 featured: true
@@ -33,4 +33,4 @@ The undercurrent of orientalism really is a shame because Jaho’s performance i
 
 The opera has not only been written but is often performed in a way that intentionally or not, at times feels like a parody of the Japanese culture. The Royal Opera needs to drag its interpetations out of irrelevance if it is to attract a younger audience, it is difficult to see how Madama Butterfly will stand the test of time unless it is radically re-approached, starting with with a cast that reflects its our current cultural standing and expectations.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---CARLO-BOSI-AS-GORO-MARCELO-PUENTE-AS-PINKERTON-ELIZABETH-DE-SHONG-AS-SUZUKI-ROH-PHOTO-BILL-COOPER.jpg" title="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" caption="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" attr="ROH, 2017 \ Bill Cooper" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201705151820-felix-2017-03-31---CARLO-BOSI-AS-GORO-MARCELO-PUENTE-AS-PINKERTON-ELIZABETH-DE-SHONG-AS-SUZUKI-ROH-PHOTO-BILL-COOPER.jpg" title="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" caption="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" attr="ROH, 2017 \ Bill Cooper" >}}

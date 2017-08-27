@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jennifer Mitchell discusses how climate change will impact farming
 date: "2012-11-29 22:16:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201212011228-lap08-coffe_farmer.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212011228-lap08-coffe_farmer.jpg"
 image_caption: "Agriculture: "
 headline: true
 featured: true

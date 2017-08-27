@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Robots is on at the Science Museum until 3rd September
 date: "2017-02-17 15:17:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171516-felix-IMG_8109.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171516-felix-IMG_8109.jpg"
 image_caption: "Maria, the infamous robot from Fritz Lang's Metropolis"
 headline: true
 featured: true
@@ -37,7 +37,7 @@ In every stage of the 500-year story, robots have held a mirror to mankind. Whet
 A few centuries later, in the enlightened 18th century, machines became more gleeful, with automatons of flute players and writers; in contrast, the next century brought a style that was totally unruly, with drunken aristocrats and dandies all being recreated as automata.
 Despite the praise that these machines received, the rise of the mechanised economy made people acutely aware that automated spinning devices were quickly going to replace skilled craftsmen and women. As a memento of this historical moment, a replica of Maria, the female humanoid in the Fritz Lang’s notorious 1927 film, Metropolis, stares at you while you approach the second exhibition room.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201702171517-felix-IMG_8071.jpg" title="RoboThespian, who can quote Shakespeare at you" caption="RoboThespian, who can quote Shakespeare at you" attr="Agnese Abrusci" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201702171517-felix-IMG_8071.jpg" title="RoboThespian, who can quote Shakespeare at you" caption="RoboThespian, who can quote Shakespeare at you" attr="Agnese Abrusci" >}}
 
 In the same space, the first tinplate toy robots for kids, that hit the shelves in the 1930s, are displayed together with a replica of the UK first robot Eric – presumed dismantled after his risky world tour, he was rebuilt by the Science Museum for the exhibition. Eric shares the visitors' attention jointly with his younger brother, George, and the giant Cygan, an Italian metal showman built in 1957 who shared a magazine cover with Brigitte Bardot.
 

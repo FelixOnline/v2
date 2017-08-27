@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Mitchell and Kazuo Ishiguro discuss ghosts, action and what they avoid writing
 date: "2016-02-26 12:01:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
 headline: true
 featured: true
 imported: true

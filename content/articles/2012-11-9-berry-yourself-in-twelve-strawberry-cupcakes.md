@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yiango shares her latest recipe. This time, strawberry cupcakes for the perfect treat.
 date: "2012-11-09 12:36:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091236-tna08-strawberry-cupcakes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091236-tna08-strawberry-cupcakes.jpg"
 headline: true
 featured: true
 imported: true

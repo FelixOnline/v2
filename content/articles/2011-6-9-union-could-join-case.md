@@ -4,7 +4,7 @@ title: >
 subtitle: >
   President ‘discussing possibility’ of affiliating after College decision to leave
 date: "2011-06-09 20:55:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201106092153-felix-0101_005.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092153-felix-0101_005.jpg"
 headline: true
 featured: true
 imported: true

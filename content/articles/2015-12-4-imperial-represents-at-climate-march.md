@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Donning lab coats, students protested ahead of COP21 in Paris
 date: "2015-12-04 15:12:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201512041512-ygr12-climate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512041512-ygr12-climate.jpg"
 headline: true
 featured: true
 imported: true

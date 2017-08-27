@@ -4,7 +4,7 @@ title: >
 subtitle: >
   RCSU President boycotts event
 date: "2017-06-09 14:51:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706091834-felix-IMG_7818.JPG"
 image_caption: "Quality coverage from your fave paper "
 headline: true
 featured: true

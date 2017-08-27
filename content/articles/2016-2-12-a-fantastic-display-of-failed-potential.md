@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Young Vic presents an inspiring but shallow take on a Hindu classic
 date: "2016-02-12 11:35:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121134-felix-battlefield.jpg"
 image_caption: "The cast of Battlefield at the Young Vic."
 headline: true
 featured: true

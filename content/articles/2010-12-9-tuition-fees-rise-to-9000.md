@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Student protests fail to stop coalition plans
 date: "2010-12-09 22:11:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092207-dr910-wrffrfaq.jpg"
 headline: true
 featured: true
 imported: true

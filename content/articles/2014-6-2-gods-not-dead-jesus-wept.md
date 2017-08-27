@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This film has prompted huge discussion amongst Christians and non-Christians, so, first things first, this is where I stand on the whole religion debate, so you can spot potential bias.
 date: "2014-06-02 13:05:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
 headline: true
 featured: true
 imported: true

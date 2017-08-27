@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Manchester and Sussex students stage sit-ins to protest cuts to higher education
 date: "2010-11-18 21:52:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182151-ks607-mancoccu.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182151-ks607-mancoccu.jpg"
 image_caption: "Manchester students occupying"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kier Little on the new trend of supercapacitors made from graphite
 date: "2013-02-28 18:00:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201302281758-txl11-graphite-rod-sg-007-.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302281758-txl11-graphite-rod-sg-007-.jpg"
 image_caption: "Some graphite rods"
 headline: true
 featured: true

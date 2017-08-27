@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Browne Review recommends that universities be allowed to charge as much as they want
 date: "2010-10-14 19:07:38 +0100"
-image: "http://felixonline.co.uk/img/upload/201010142005-ks607-brownere.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010142005-ks607-brownere.jpg"
 headline: true
 featured: true
 imported: true

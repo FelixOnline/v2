@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The result of over 7 years work, Jim Jarmusch’s latest film takes a bold new look at the gothic classic of vampires.
 date: "2014-04-07 12:48:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201404071349-jal08-only-lovers-left-alive-trailer-618x400.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201404071349-jal08-only-lovers-left-alive-trailer-618x400.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on the last calamitous cabinet days of the Defence Secretary
 date: "2011-10-20 21:58:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
 image_caption: "A whirlwind of business cards and political bust ups for Dr Liam Fox"
 headline: true
 featured: true

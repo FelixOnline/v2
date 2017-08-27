@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emily Fulham reviews a better Sex and the City?
 date: "2013-03-15 01:18:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150307-tna08-hbo-s-girls-is-the-best-new-tv-show-of-2012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150307-tna08-hbo-s-girls-is-the-best-new-tv-show-of-2012.jpg"
 headline: true
 featured: true
 imported: true

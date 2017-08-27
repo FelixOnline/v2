@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A student responds to last week's article about Tibet
 date: "2013-11-15 02:21:45 +0000"
-image: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311150243-felix-dalailama.png"
 headline: true
 featured: true
 imported: true

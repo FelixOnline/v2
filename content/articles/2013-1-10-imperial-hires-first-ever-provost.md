@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After split of role, Professor James Stirling CBE FRS is set to be the first Provost of Imperial
 date: "2013-01-10 22:12:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102213-tna08-stirlingwj_1000.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102213-tna08-stirlingwj_1000.jpg"
 headline: true
 featured: true
 imported: true

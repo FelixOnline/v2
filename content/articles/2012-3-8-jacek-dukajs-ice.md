@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A political and philosophical alternate history thriller
 date: "2012-03-08 20:40:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201203082038-ams111-lod.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203082038-ams111-lod.jpg"
 image_caption: "Let me guess, this novel is set in Imperial Russia?"
 headline: true
 featured: true

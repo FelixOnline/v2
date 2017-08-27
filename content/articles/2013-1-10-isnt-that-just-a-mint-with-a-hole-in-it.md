@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Sport catches up with Riding and Polo on just what makes them love their sport so much
 date: "2013-01-10 23:14:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102313-csw09-pb210925.jpg"
 image_caption: "Felix’s latest My Little Pony feature"
 headline: true
 featured: true

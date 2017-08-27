@@ -1,7 +1,7 @@
 ---
 id: "ann09"
 title: Alexandra Nowbar
-image: "http://felixonline.co.uk/img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
 twitter: ""
 facebook: ""
 website_url: ""

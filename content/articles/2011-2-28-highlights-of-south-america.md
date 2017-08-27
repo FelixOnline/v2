@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucy Adkins gives a short guide to the great South American continent
 date: "2011-02-28 20:59:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282053-ks607-southama.jpg"
 headline: true
 featured: true
 imported: true

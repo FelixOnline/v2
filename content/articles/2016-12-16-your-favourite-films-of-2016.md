@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our writers and editors (as well as FilmSoc) choose their favourite films of the last twelve months, from big hitters to those that may have slipped under the radar...
 date: "2016-12-16 14:45:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161442-felix-TheLittlePrince.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161442-felix-TheLittlePrince.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ In a world that promotes a fast ascent into adulthood, full of its toils and pre
 **5. A Monster Calls**
 Making a great film that centres around death is always difficult, but by focusing instead on how people deal with grief, A Monster Calls tells a story we can all learn something from. Heavy, emotional scenes are balanced by animated stories that use vibrant watercolours to create a visually stunning film with an incredible amount of depth.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161443-felix-A-Monster-Calls-Conor-Falling.jpg" title="" caption="" attr="Apaches Entertainment" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161443-felix-A-Monster-Calls-Conor-Falling.jpg" title="" caption="" attr="Apaches Entertainment" >}}
 
 **6. The Forbiden Room**
 Guy Maddin’s audacious new film spins German expressionism, Pythonesque comedy and a good dose of dream logic into a labyrinthine maze of eccentric short films, nested inside one another like a giant Russian doll. It’s an exhausting watch but it’s endlessly inventive with a cathartic finale revealing that it is a film born of a deep and ecstatic love for cinema itself.
@@ -70,7 +70,7 @@ Given all the horror that has been going on in 2016, cinema can provide an escap
 
 Our Little Sister, the 10th film from Japanese director Hirokazu Koreeda, takes the top spot for its pure escapism: centring around three sisters living in Kamakura, who decide to take in their younger half-sister following their father’s funeral, Our Little Sister follows the sisters throughout the course of a year. The drama is, relatively, drama-free; there are no critical denouements, no betrayals – instead all we have are a group of people, sharing their lives with each other, chatting, and eating. My god, the eating. Our Little Sister reveals the intimate links between food and love, between cooking and the seasons, creating a feast for the palate and the senses. It’s a film that is completely generous, which gives itself over completely to the audience, allowing us to bask in its gentle warmth.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161445-felix-little_sister_01.jpg" title="" caption="" attr="Trigon Film" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161445-felix-little_sister_01.jpg" title="" caption="" attr="Trigon Film" >}}
 
 ## Tom Stephens
  1. American Honey
@@ -88,7 +88,7 @@ If there’s one thing that can be said in favour of 2016, probably one of the a
 
 But the tail-end of the year saw the releases of a slew of stone-cold gems and instant classics; the abstract yet tear-jerking Nick Cave documentary One More Time With Feeling; the heartbreaking and perfectly-acted Ken Loach welfare drama I, Daniel Blake; and best of all, the breathtaking, beautifully epic yet desperately intimate American Honey. Picking between The Big Short and American Honey for the year’s best film was extremely difficult as both are utterly essential for very different reasons: The Big Short grippingly tells an important story about the recent stock market crash and warns how easy it would be for it to happen again, but American Honey is a true moviegoing experience. As three of the most absorbing and refreshing hours I have ever spent in a cinema, it would be simply unfair not to call it my top film of the year.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161446-felix-american-honey-2cmyk.jpg" title="Part and Labour  BFI" caption="Part and Labour  BFI" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161446-felix-american-honey-2cmyk.jpg" title="Part and Labour  BFI" caption="Part and Labour  BFI" attr="" >}}
 
 ## Jenny Shelley
  1. La La Land
@@ -105,7 +105,7 @@ This year was, for better or worse, a big year for the movie industry. It was th
 
 The films that were released over the past year had the usual mix of mediocrity, a few diamonds, and some absolute stinkers. I’m sorry, you will NEVER convince me that Sausage Party is a philosophical look at existential crises – it was awful. And don’t even get me started on Trolls. So, as this year has been bad enough, we will focus on the good. Here’s the roundup of 10 of the best films of 2016. There are a few warm, cuddly films to remedy this stinker of a year such as Zootopia and Finding Dory. There are a few true originals (this was a very sequel-y/revival-y year) with the most interesting being Arrival and the most entertaining being La La Land. I would recommend any of these films but please think of the setting: don’t watch Deadpool with your family, don’t watch Arrival in the dark, and don’t watch Fantastic Beasts with muggles. You’ve been warned.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161447-felix-la-la-land-ryan-gosling-emma-stone.jpg" title="" caption="" attr="Summit Entertainment" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161447-felix-la-la-land-ryan-gosling-emma-stone.jpg" title="" caption="" attr="Summit Entertainment" >}}
 
 ## Steve Bohnel
 It’s been a rough year to be an American – the political system and U.S. election has divided our country in a way worse than I have ever seen.
@@ -118,7 +118,7 @@ Tom Hanks is his usual self, with an impressive performance as Chelsea Sullenber
 
 True to the events of January 15th, 2009, the film is mostly accurate, although tensions between the NTSB and Sullenberger were understandably drummed up for the big screen. That being said, this film is a reason to escape and remember there is good in the world – given this past year, that’s a much-needed change of pace.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161448-felix-1*h0bJ8Uo2KqLnfOuXTg5YgA.jpg" title="Warner Bros" caption="Warner Bros" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161448-felix-1*h0bJ8Uo2KqLnfOuXTg5YgA.jpg" title="Warner Bros" caption="Warner Bros" attr="" >}}
 
 ## Lawrence Good
  1. American Honey
@@ -130,4 +130,4 @@ This has been a good year for soulful films exploring the challenges faced in al
 
 Not all the year’s films were so melancholic, and Hail, Caesar! was the Coen brother’s wry and amusing take on Hollywood’s golden age through the eyes of “fixer” Eddie Mannix. A hodgepodge of pastiche, the film lovingly mocks the pictures of the era. A film that uses, rather than celebrate, the fantasy of cinema, Tale of Tales brings interwoven fairy tales to life with a wonderful cast including the redoubtable Toby Jones. Yet when all is said and done it’s almost Christmas, and Wes Anderson’s short Come Together is the most heart-warming thing you’ll see these holidays, besides the Muppet Christmas Carol.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201612161449-felix-tale-tales.jpg" title="" caption="" attr="Sundance Selects" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201612161449-felix-tale-tales.jpg" title="" caption="" attr="Sundance Selects" >}}

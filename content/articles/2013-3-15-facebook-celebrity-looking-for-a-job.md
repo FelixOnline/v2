@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pedro Pereira interviews Adzuna co-founder Andrew Hunter
 date: "2013-03-15 00:58:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150057-tna08-andrew_hunter-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150057-tna08-andrew_hunter-copy.jpg"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ PP: How are you different from other job search sites? Can you explain how the s
 
 AH: Job ads are fragmented and too complicated to navigate. Users want to search all the ads in one place, which is what we provide at Adzuna: a one-stop shop. We then make the search experience better and empower our users to find the right ads for them, by layering on innovations in social and big data. The biggest misconception about our business is that we’re a portal where you can post ads (like Monster or Gumtree). Adzuna is a search engine (like Google).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150057-tna08-adzuna.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150057-tna08-adzuna.jpg" title="" caption="" attr="" >}}
 
 Adzuna Connect is a social tool that allows jobseekers to see hundreds of job vacancies they are connected to via their first and second degree social connections in LinkedIn and Facebook. The average jobseeker has no idea they’re connected to over 300 relevant, open job vacancies through their social networks. Also, over 90% of companies, large and small, are now using social media to find staff. We also provide users with rich, insightful charts and data on every search, helping jobseekers make informed decisions and setting us apart from the competition.
 

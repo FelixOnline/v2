@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Move over Edward, there's a proper vampire in town
 date: "2011-11-03 20:34:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032034-pk1811-buffy.jpg"
 image_caption: "“A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way” "
 headline: true
 featured: true

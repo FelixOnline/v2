@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The ever controversial prize succeeds this year with evocative and thought provoking nominees
 date: "2012-11-01 22:49:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201211012249-tna08-paul_noble_1999_public_toilet_0.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211012249-tna08-paul_noble_1999_public_toilet_0.jpg"
 headline: true
 featured: true
 imported: true

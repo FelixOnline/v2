@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A supremely (un)knowledgeable column about music
 date: "2011-10-13 23:40:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
 headline: true
 featured: true
 imported: true

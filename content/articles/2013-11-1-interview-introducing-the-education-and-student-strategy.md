@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix talks shop with the Vice-Provost Education
 date: "2013-11-01 09:16:51 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010916-felix-debra-humphris.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010916-felix-debra-humphris.jpg"
 image_caption: "Professor Debra Humphris, Vice Provost (Education)"
 headline: true
 featured: true

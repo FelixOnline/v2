@@ -4,7 +4,7 @@ title: >
 subtitle: >
   President speaks out as RAG week continues mag-less
 date: "2016-02-12 11:11:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121111-felix-IMG_0046.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121111-felix-IMG_0046.JPG"
 image_caption: "It’s impossible to say whether RAG’s charitable donations have suffered. "
 headline: true
 featured: true

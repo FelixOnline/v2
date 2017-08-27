@@ -4,7 +4,7 @@ title: >
 subtitle: >
   With a number of starting players missing things were not looking good
 date: "2016-02-19 12:32:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
 headline: true
 featured: true
 imported: true

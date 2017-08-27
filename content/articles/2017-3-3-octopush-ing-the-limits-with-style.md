@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nothing says style like a tight speedo
 date: "2017-03-03 16:17:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201703031617-felix-Image-1.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703031617-felix-Image-1.png"
 headline: true
 featured: true
 imported: true

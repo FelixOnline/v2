@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yi Liu reminisces about his first Toastmasters speech
 date: "2013-09-29 16:28:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
 headline: true
 featured: true
 imported: true

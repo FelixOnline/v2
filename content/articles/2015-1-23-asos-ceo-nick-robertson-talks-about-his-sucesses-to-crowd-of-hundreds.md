@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501230117-cac111-asos2.jpg"
 headline: true
 featured: true
 imported: true

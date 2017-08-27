@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Painful health problems are totally worth it with literature this good
 date: "2011-11-03 21:18:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110140110-sjw209-omar.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A real term decrease to science spending
 date: "2012-11-15 20:45:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152044-tna08-cutting-up-money.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152044-tna08-cutting-up-money.jpg"
 headline: true
 featured: true
 imported: true
@@ -44,4 +44,4 @@ In the UK, about 32% of funding for R&D is provided by the government.
 
 When the UK is compared to other countries in the G7 (United States, United Kingdom, Italy, France, Germany, Japan, Canada), the UK spends the lowest percentage of the Gross Domestic Product (GDP) on R&D (see table below).
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211171707-tna08-table.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211171707-tna08-table.jpg" title="" caption="" attr="" >}}

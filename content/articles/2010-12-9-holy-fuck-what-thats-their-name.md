@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chaos and noise, as Holy Fuck dominate the Electric Ballroom
 date: "2010-12-09 20:26:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201012092024-ma1307-Holyfuck.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092024-ma1307-Holyfuck.jpg"
 headline: true
 featured: true
 imported: true

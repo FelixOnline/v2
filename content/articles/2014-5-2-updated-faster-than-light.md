@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful Kickstarter campaigns, achieving over 20 times the goal that the developers had asked for.
 date: "2014-05-02 02:00:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201405020300-jal08-games_ftl.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405020300-jal08-games_ftl.png"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her top pick of upcoming festive activities in the UK
 date: "2014-12-04 19:01:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alok Prasad is tired of our lackadaisical attitude
 date: "2013-01-10 22:58:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102257-tna08-moneydegree.jpg"
 headline: true
 featured: true
 imported: true

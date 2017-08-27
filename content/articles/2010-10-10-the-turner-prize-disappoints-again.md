@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s hard to avoid the feeling that it’s all a bit... underwhelming
 date: "2010-10-10 15:24:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101622-ks607-TurnerPr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101622-ks607-TurnerPr.jpg"
 image_caption: "Angela de la Cruz's sawn-up and deformed canvasses"
 headline: true
 featured: true

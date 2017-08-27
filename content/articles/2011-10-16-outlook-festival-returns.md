@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Daniel Oppenheimer reports from sunny Croatia
 date: "2011-10-16 15:04:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161600-felix-outlookfestival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161600-felix-outlookfestival.jpg"
 image_caption: "Dude, where's the beach?"
 headline: true
 featured: true

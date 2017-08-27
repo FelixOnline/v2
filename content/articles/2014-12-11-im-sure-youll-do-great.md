@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has 5 tips for coping with exam stress
 date: "2014-12-11 21:29:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112129-cj914-exams1.jpg"
 image_caption: "If only we were all taking whatever exam this person was revising for. Granted, subtraction can alwa"
 headline: true
 featured: true

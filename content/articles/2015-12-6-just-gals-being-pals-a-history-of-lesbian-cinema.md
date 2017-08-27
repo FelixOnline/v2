@@ -4,7 +4,7 @@ title: >
 subtitle: >
   To celebrate the release of Carol, we take a look over some of the best sapphic power-couples on the silver screen
 date: "2015-12-06 14:53:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201512061451-ff712-maxresdefault.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201512061451-ff712-maxresdefault.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ Shirley MacLaine and Audrey Hepburn play two friends who open a private all-girl
 
 One of the first films where a lesbian relationship was depicted favourably, _Desert Hearts_ follows the journey of Vivian Bell (Helen Shaver), a professor approaching middle age, who travels to Nevada in order to obtain a quickie divorce from her husband. While staying at a ranch, she is surprised by her feelings for free-spirit Cay Rivvers (Patricia Charbonneau); these feelings are reciprocated, and the two enter into a steamy relationship. The ending leaves things open for a bright future, although it’s not explicitly stated.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512061452-ff712-the-children_s-hour-02.jpg" title="Shirley MacLaine and Audrey Hepburn in The Children's Hour, showing us not all gals can be pals!" caption="Shirley MacLaine and Audrey Hepburn in The Children's Hour, showing us not all gals can be pals!" attr="Creative Commons" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512061452-ff712-the-children_s-hour-02.jpg" title="Shirley MacLaine and Audrey Hepburn in The Children's Hour, showing us not all gals can be pals!" caption="Shirley MacLaine and Audrey Hepburn in The Children's Hour, showing us not all gals can be pals!" attr="Creative Commons" >}}
 
 **Thelma and Louise in _Thelma and Louise_ (1991)**
 
@@ -53,7 +53,7 @@ The first part of Indo-Canadian director Deepa Mehta’s legendary _Elements_ tr
 
 The directorial breakthrough of Swedish director Lukas Moodysson, _Fucking Åmål_ follows two teenage girls living in backwater Sweden who develop a relationship. Agnes (Rebecka Liljeberg) is a depressed loner, with few true friends; Elin (Alexandra Dahlström) is more outgoing, but full of ennui, and unsatisfied with life. The two come together after Agnes’ 16th birthday party, a horrifically embarrassing experience for shy Agnes; they believe the key to living a good life would be leaving their small town of Åmål and making it to Stockholm – the town of Åmål took offence to this portrayal, and in English the film is called _Show Me Love_. A tender portrayal of the turbulence of teenage sexuality, _Fucking Åmål_ is a must-watch.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201512061453-ff712-maxresdefault (1).jpg" title="Thelma and Louise, gal-pals par excellence, taking a primitive selfie" caption="Thelma and Louise, gal-pals par excellence, taking a primitive selfie" attr="Youtube" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201512061453-ff712-maxresdefault (1).jpg" title="Thelma and Louise, gal-pals par excellence, taking a primitive selfie" caption="Thelma and Louise, gal-pals par excellence, taking a primitive selfie" attr="Youtube" >}}
 
 **Betty and Rita in _Mulholland Drive_ (2001)**
 

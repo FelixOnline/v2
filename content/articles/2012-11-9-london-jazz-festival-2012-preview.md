@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Matt Earnshaw looks ahead to this year’s London Jazz Festival
 date: "2012-11-09 13:59:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091400-tna08-london_jazz_festival.jpg"
 headline: true
 featured: true
 imported: true

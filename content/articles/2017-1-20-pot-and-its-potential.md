@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lara Bailey looks at the useful applications of marijuana
 date: "2017-01-20 15:09:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201509-felix-baking-1293986_1280.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201509-felix-baking-1293986_1280.png"
 headline: true
 featured: true
 imported: true

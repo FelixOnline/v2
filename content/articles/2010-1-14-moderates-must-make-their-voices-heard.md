@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The great ideological battle of these years of the long 21st Century is not between the liberal West and the fundamentalist Muslims. It is between the vast majority of peaceful Muslims and a small but ever-expanding radical fringe.
 date: "2010-01-14 17:46:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001141741-gda07-Gileadsa.jpg"
 headline: true
 featured: true
 imported: true

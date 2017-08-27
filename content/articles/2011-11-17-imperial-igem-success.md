@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Towards engineering smart and safe bacteria to fight worldwide soil erosion
 date: "2011-11-17 20:21:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172020-pk1811-pic.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172020-pk1811-pic.jpg"
 image_caption: "Autofluorescent roots (blue) of Arabidopsis thaliana and E.coli expressing superfolder GFP (green)"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   North West London hospitals and institutions set to improve local healthcare
 date: "2011-12-01 22:17:59 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012217-felix-imperial_medicine-096.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012217-felix-imperial_medicine-096.jpg"
 image_caption: "Professor Lord Ara Darzi is a key figure in the partnership’s development "
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles chooses his favourite work of art from the Tate Britain's collection
 date: "2014-12-18 15:14:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
 headline: true
 featured: true
 imported: true

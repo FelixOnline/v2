@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dylan Lowe on the delights of a country which is both naturally beautiful and an adrenalin junkie's paradise
 date: "2011-03-01 21:15:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012110-ks607-newzealn.jpg"
 headline: true
 featured: true
 imported: true

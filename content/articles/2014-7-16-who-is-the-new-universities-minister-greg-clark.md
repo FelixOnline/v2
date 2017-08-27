@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Today Prime Minister David Cameron appointed Greg Clark to the post of Universities Minister, after David Willetts resigned yesterday. But who is Greg Clark? Felix takes a look.
 date: "2014-07-16 03:09:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201407160407-kmw13-greg-clark_2005852c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201407160407-kmw13-greg-clark_2005852c.jpg"
 image_caption: "Greg Clark replaces David Willetts as Universities Minister"
 headline: true
 featured: true

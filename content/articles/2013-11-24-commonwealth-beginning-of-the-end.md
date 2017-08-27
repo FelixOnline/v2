@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter...
 date: "2013-11-24 16:07:19 +0000"
-image: "http://felixonline.co.uk/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
 headline: true
 featured: true
 imported: true

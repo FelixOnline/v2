@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
 image_caption: "But we did win the unofficial award for highest typo rate <3"
 headline: true
 featured: true

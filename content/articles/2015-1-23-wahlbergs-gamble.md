@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mark hits the casinos in the remake of one of James Caan's favourite films
 date: "2015-01-23 17:16:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231659-jyg11-the-gambler-cmyk.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231659-jyg11-the-gambler-cmyk.jpg"
 headline: true
 featured: true
 imported: true

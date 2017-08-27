@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett discusses the difficulties associated with determining biodiversity
 date: "2013-11-01 09:34:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311010934-felix-science-snake.jpg"
 image_caption: "A new species of snake, Chironius challenger"
 headline: true
 featured: true

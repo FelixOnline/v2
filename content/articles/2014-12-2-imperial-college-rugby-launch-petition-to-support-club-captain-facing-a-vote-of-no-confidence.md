@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Vote of no confidence to take place at Imperial College Union Council next Tuesday
 date: "2014-12-02 15:22:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201412021522-ps3110-20141202_150133.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412021522-ps3110-20141202_150133.jpg"
 draft: true
 headline: true
 featured: true

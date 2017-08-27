@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After a string of media disapproval, Brett Ratner steps down from his post
 date: "2011-11-17 22:02:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner111109014817.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172207-felix-brettratner111109014817.jpg"
 headline: true
 featured: true
 imported: true

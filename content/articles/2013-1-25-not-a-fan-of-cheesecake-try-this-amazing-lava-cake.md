@@ -4,7 +4,7 @@ title: >
 subtitle: >
   For all you cheese haters out there...
 date: "2013-01-25 01:34:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250134-tna08-lava-cake-copy.jpg"
 headline: true
 featured: true
 imported: true

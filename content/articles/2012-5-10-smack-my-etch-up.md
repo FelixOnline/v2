@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The British Museum displays its rare collection of Picasso prints, never before seen in Britain
 date: "2012-05-10 20:25:40 +0100"
-image: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
 image_caption: "Dave’s sculpting method was unorthodox to say the least"
 headline: true
 featured: true

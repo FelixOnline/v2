@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Paul Nash is on at the Tate Britain until 5 March 2017
 date: "2016-11-04 14:41:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041440-aib116-spring_in_the_trenches_ridge_wood_1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041440-aib116-spring_in_the_trenches_ridge_wood_1.jpg"
 headline: true
 featured: true
 imported: true
@@ -36,7 +36,7 @@ With Nash, one gets the sense that objects are never quite what they seem.
 
 In _Totes Meer_, one of the most famous images of WWII, the jagged crests of a roiling sea threaten to crash onto an adjacent plain. But a closer look reveals it to be static and dead – the twisted carcasses of German airplanes under the moon. Drawing parallels between objects and things larger than themselves was a theme he continued to explore even in his last works. In _Eclipse_ and _Solstice of the Sunflower_, a sunflower withers and blooms with the sun; in _Flight of the Magnolia_, blossoms unfurl as clouds in the sky.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611041442-aib116-nash_megaliths_1.jpg" title="Tate" caption="Tate" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611041442-aib116-nash_megaliths_1.jpg" title="Tate" caption="Tate" attr="" >}}
 
 Analogies aside, the isolated subjects of Nash’s works hide an occult significance or symbolism. Set alone in a desolate landscape, objects like the metal scaffolding of _Pylons_ or the petrified piece of wood in _Stone Tree_ seem to mean more than what they are at face value. Nash also placed large geometric objects in the middle of his landscapes, such as a cube on the shore in _Dymchurch Steps_ or large abstract figures in _Equivalents for the Megaliths_. Displacing something from its usual context was, for Nash, a way to provoke disquietude and lend everyday objects an air of surrealism. Juxtapositions – between the object and the landscape, between sea and land, between the organic and the abstract – can be found everywhere in Nash’s paintings.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reports after College removes tweet about “proper cool scientist”
 date: "2014-11-21 13:26:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201411211326-ps3110-10423977_10204309230744613_1502836449742714437_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411211326-ps3110-10423977_10204309230744613_1502836449742714437_n.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Investigating Imperial’s efforts to support women in the workplace
 date: "2012-01-26 23:29:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262325-felix-phys_3.jpg"
 image_caption: "Members of staff are confident in the improvement of support for female staff"
 headline: true
 featured: true

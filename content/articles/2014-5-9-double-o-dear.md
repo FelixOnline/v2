@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There is a line of dialogue that is rather unwisely repeated on a regular basis in The Love Punch. The film is quite insistent on telling the audience that a certain plan the characters come up with is “crazy, daft, stupid, but brilliant”.
 date: "2014-05-09 15:18:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201405091619-jal08-brosnan-and-thompson-the-love-punch-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405091619-jal08-brosnan-and-thompson-the-love-punch-1.jpg"
 headline: true
 featured: true
 imported: true

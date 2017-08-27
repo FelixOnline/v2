@@ -4,7 +4,7 @@ title: >
 subtitle: >
   ICT tells computing students to change their passwords
 date: "2011-02-27 11:47:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201102271138-ks607-hackingt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102271138-ks607-hackingt.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Phillipa Skett writes about the latest findings in HIV research
 date: "2013-10-04 00:36:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
 image_caption: "HIV Molecule"
 headline: true
 featured: true

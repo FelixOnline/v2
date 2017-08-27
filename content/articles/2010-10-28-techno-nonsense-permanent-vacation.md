@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The first in Simon Hunter’s new series introducing the best electronic dance labels
 date: "2010-10-28 19:36:02 +0100"
-image: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282033-ma1307-technooo.jpg"
 headline: true
 featured: true
 imported: true

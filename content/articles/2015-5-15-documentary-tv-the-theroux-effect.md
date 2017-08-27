@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jonathan Masters finds himself questioning the aims of TV docs
 date: "2015-05-15 12:28:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
 image_caption: "Louis Theroux and Camille, in the BBC Two documentary Transgender Kids, broadcast last month, which sparked a debate about transgender issues in childhood"
 headline: true
 featured: true

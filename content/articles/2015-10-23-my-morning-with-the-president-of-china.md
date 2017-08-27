@@ -4,7 +4,7 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231255-cj914-president.jpg"
 image_caption: "It didn't rain on this writer's parade."
 headline: true
 featured: true

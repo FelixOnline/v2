@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix investigates as to why the funds for halls have been slashed
 date: "2014-10-17 14:28:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
 headline: true
 featured: true
 imported: true

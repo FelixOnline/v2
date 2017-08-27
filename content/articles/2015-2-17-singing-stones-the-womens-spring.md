@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Jacob is riveted by a show that explores woman's place in the Middle East
 date: "2015-02-17 16:28:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201502171627-ps3110-the-singing-stones-a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502171627-ps3110-the-singing-stones-a.jpg"
 image_caption: "The cast of The Singing Stones"
 headline: true
 featured: true

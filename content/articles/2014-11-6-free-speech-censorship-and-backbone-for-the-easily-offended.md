@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Why bother writing an article about free speech today in Britain?
 date: "2014-11-06 18:58:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
 image_caption: "Is this too offensive?"
 headline: true
 featured: true

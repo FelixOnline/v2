@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A play with more than the average number of sofa-wetting whale references
 date: "2011-12-01 20:34:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112012033-ams111-_dsc1515.jpg"
 image_caption: "James took it into his own hands to complain about caption quality"
 headline: true
 featured: true

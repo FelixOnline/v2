@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hollywood’s extortionate spending on last year’s worst films.
 date: "2011-02-03 19:52:50 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031949-nm1010-tourrist.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   FELIX visits The Muffin Man Tea Shop for afternoon tea.
 date: "2016-05-20 09:18:14 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
 image_caption: "This is almost good enough for mother."
 headline: true
 featured: true

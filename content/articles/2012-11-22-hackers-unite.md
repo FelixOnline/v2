@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sam Wong introduces Imperial’s very own Hackathon
 date: "2012-11-22 23:11:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
 headline: true
 featured: true
 imported: true

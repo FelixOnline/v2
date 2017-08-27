@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lloyd James encourages you to participate in university democracy
 date: "2016-11-04 14:39:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201611041438-felix-Screen Shot 2016-11-04 at 14.37.55.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611041438-felix-Screen Shot 2016-11-04 at 14.37.55.png"
 headline: true
 featured: true
 imported: true
@@ -32,7 +32,7 @@ Despite this, our elected representatives saw fit to have £5,000 of College mon
 
 It is true that the engagement of the student body with Union Council is essentially nil (heck, most of those with a seat on Council don’t show up most of the time). Because of this, Union staff and sabbatical officers (who, as this incident shows, can be just as out-of-touch as staff) are held to a degree of accountability that is vastly insufficient. Thanks to the Union’s decision to make their Governance Manager redundant over the summer, the latest set of elections were completely ballsed up and the resulting shockingly low voter turnout strikes at the heart of our very nature as a democratic Student Union. Because of the Union’s decision last year to lobby College to threaten academic sanctions against members of the RAG Committee over a publication embarrassing to a Union Officer, the highest purpose of a Student Union – to stand up for its members against the University – was completely perverted. These things can happen because staff are only accountable to us through the sabbatical officers, who themselves are only accountable through Council, in which the majority of us do not engage.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201611041438-felix-Screen Shot 2016-11-04 at 14.38.19.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201611041438-felix-Screen Shot 2016-11-04 at 14.38.19.png" title="" caption="" attr="" >}}
 
 If we, as students and members of Imperial College Union, do not make our voices heard, this will only continue. As the accountability of the Union to its members evaporates, it can only become less and less student-focused and more and more of a ‘Student Appeasement Division’ of Imperial College London. If you have an opinion on any of the vast number of issues that affect us all as students, Union Council is the place for it to be heard. Get in touch with your Faculty’s council representative, or better yet, come along yourself to the open meetings of the paramount policy-making and accountability body in Imperial College Union. Listen to the reports of your representatives, and express your views.
 

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Research could aid global fight against parasitic infections. By Camilla Ruz
 date: "2011-05-12 16:27:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121728-felix-mken.jpg"
 image_caption: "These parasitic worms didn’t have the backbone to stand up to the toxic Muc5ac mucin"
 headline: true
 featured: true

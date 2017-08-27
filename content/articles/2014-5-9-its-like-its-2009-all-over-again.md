@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews the recent albums by three of his old favourites
 date: "2014-05-09 14:58:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
 image_caption: "Horrors frontman Faris Badwan doing, something, with his fringe"
 headline: true
 featured: true

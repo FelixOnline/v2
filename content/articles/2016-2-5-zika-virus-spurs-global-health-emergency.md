@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Women should avoid getting pregnant until the end of 2017
 date: "2016-02-05 12:06:08 +0000"
-image: "http://felixonline.co.uk/img/upload/201602051205-felix-5568919509_a202f88818_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602051205-felix-5568919509_a202f88818_o.jpg"
 image_caption: "A feeding Aedes Aegypti mosquito. Mosquitoes of this genus are responsible for the transmission of the Zika virus. "
 headline: true
 featured: true

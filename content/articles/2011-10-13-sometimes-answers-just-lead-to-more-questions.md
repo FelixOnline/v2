@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lucia Podhorska takes a retrospective look at LOST
 date: "2011-10-13 23:06:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132357-felix-lost.png"
 image_caption: "WE HAVE TO GO BAAAACK... to reading this review"
 headline: true
 featured: true

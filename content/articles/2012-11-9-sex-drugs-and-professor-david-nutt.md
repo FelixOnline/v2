@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial's resident former advisor's new book is an intriguing read on the science and history of drugs
 date: "2012-11-09 12:48:17 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091248-tna08-drugs.jpg.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091248-tna08-drugs.jpg.png"
 headline: true
 featured: true
 imported: true

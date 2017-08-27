@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Working Party recommends extended teaching hours for humanities
 date: "2011-11-10 19:46:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111101946-pk1811-img_7132-copy.jpg"
 image_caption: "Humanities is concerned that access to languages will be restricted"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We talk yoghurt in our weekly nutrition column
 date: "2016-06-03 09:11:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
 image_caption: "Yoghurt, bitches. "
 headline: true
 featured: true

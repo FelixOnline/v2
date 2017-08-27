@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ken Wu on how rubbish TV is these days...
 date: "2010-02-01 17:05:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201002011703-rsp07-remote.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201002011703-rsp07-remote.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An anonymous writer’s personal experience with emotional abuse and the warning signs
 date: "2014-12-04 18:56:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
 headline: true
 featured: true
 imported: true

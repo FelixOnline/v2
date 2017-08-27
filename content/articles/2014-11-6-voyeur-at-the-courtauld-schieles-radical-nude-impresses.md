@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
 image_caption: "Two Girls Embracing (Friends) 1915"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Archbishop “hides behind banner of preserving tradition” over gay marriage statement
 date: "2012-02-23 23:04:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201202232301-felix-img_0107.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202232301-felix-img_0107.jpg"
 image_caption: "Selwyn College, Cambridge, gave Archbishop Sentamu’s views a cold reception following his statement"
 headline: true
 featured: true

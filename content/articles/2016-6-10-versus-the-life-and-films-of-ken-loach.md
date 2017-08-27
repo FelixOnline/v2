@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-10 08:31:34 +0100"
-image: "http://felixonline.co.uk/img/upload/201606101031-felix-versus_still_2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606101031-felix-versus_still_2.jpg"
 headline: true
 featured: true
 imported: true

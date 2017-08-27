@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton's first hand experience of police violence in Kenya
 date: "2011-02-24 20:19:52 +0000"
-image: "http://felixonline.co.uk/img/upload/201102242010-ks607-copshoot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102242010-ks607-copshoot.jpg"
 headline: true
 featured: true
 imported: true

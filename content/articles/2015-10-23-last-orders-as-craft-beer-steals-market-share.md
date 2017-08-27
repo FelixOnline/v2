@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Will a mega-merger in the brewing industry save big beer?
 date: "2015-10-23 11:15:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
 image_caption: "The Apprentice did beer once, remember? This is not the same at all."
 headline: true
 featured: true

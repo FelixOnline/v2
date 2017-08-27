@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The bane and boon of Android, the world’s biggest mobile ecosystem
 date: "2013-02-07 23:40:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201302072339-tna08-untitled-1gkrwj.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302072339-tna08-untitled-1gkrwj.png"
 headline: true
 featured: true
 imported: true

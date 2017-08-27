@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:30:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201305232330-tna08-pic-8741719026_8b4a130005.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305232330-tna08-pic-8741719026_8b4a130005.jpg"
 headline: true
 featured: true
 imported: true

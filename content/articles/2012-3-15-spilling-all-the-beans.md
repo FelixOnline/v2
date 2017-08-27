@@ -4,7 +4,7 @@ title: >
 subtitle: >
   We speak to studentbeans.com founder James Eder, who takes the time out to teach us a short lesson in business.
 date: "2012-03-15 19:41:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
 image_caption: "Full of beans – James Eder"
 headline: true
 featured: true

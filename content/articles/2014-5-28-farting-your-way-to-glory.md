@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The South Park: Stick of Truth is the latest game by the creators of the show of the same name (without the stick of truth bit) and was released march 2014. It is available on steam, Playstation 3 and Xbox 360 . After the epic trilogy that was the black friday parody of Game of Thrones that I really
 date: "2014-05-28 21:23:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
 headline: true
 featured: true
 imported: true

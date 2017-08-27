@@ -4,7 +4,7 @@ title: >
 subtitle: >
   David Hockney is on at the Tate Modern until 29th May
 date: "2017-02-17 15:14:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
 image_caption: "David Hockney, Portrait of an Artist with Two Figures"
 headline: true
 featured: true

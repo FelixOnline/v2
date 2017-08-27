@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Do we take NHS for granted?
 date: "2011-02-03 20:10:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102032008-nm1010-dctordoc.jpg"
 headline: true
 featured: true
 imported: true

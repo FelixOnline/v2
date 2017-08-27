@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Park runs down the best of the 70s
 date: "2013-01-10 23:08:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102305-tna08-godfather.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102305-tna08-godfather.jpg"
 headline: true
 featured: true
 imported: true

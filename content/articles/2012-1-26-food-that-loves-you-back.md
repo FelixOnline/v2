@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Exploring 'tibits', the Regent Street Veggie Paradise
 date: "2012-01-26 21:47:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262146-ams111-pic-of-food-boat.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262146-ams111-pic-of-food-boat.jpg"
 image_caption: "And it's healthy to boot, nice"
 headline: true
 featured: true

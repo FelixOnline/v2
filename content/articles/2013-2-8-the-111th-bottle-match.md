@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The return of the yearly RSM vs CSM match
 date: "2013-02-08 00:55:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302080055-tna08-bottle-match-picture.jpg"
 headline: true
 featured: true
 imported: true

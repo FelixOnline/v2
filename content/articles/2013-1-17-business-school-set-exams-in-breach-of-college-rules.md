@@ -4,7 +4,7 @@ title: >
 subtitle: >
   One exam set late in the night followed by one in the morning
 date: "2013-01-17 23:40:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301172340-tna08-business-school.jpg"
 headline: true
 featured: true
 imported: true

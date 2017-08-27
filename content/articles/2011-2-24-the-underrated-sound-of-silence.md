@@ -4,7 +4,7 @@ title: >
 subtitle: >
   In this edition of Priya Garg’s tales, we find her off the track in Argentina’s answer to the Lake District, uncovering hidden beauties and inner tranquillity
 date: "2011-02-24 19:20:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102241916-nm1010-mountain.jpg"
 headline: true
 featured: true
 imported: true

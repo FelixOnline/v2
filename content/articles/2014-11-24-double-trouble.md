@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Part 2: Felix asks whether the awarding of double points in the final race is a good thing. No it isn't, says Henry Lambley.
 date: "2014-11-24 20:26:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201411242021-ps3110-xpb_540852_hires.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411242021-ps3110-xpb_540852_hires.jpg"
 headline: true
 featured: true
 imported: true

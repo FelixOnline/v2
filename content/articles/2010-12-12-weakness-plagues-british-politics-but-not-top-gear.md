@@ -4,7 +4,7 @@ title: >
 subtitle: >
   “Ed is as ineffective as a Facebook status update”
 date: "2010-12-12 14:32:27 +0000"
-image: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012121431-ks607-cmaeron.jpg"
 headline: true
 featured: true
 imported: true

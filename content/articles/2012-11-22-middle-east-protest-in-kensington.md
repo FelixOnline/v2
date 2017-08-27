@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students from Imperial get involved with protests against the violence in the Middle East. Protests blocks off parts of High Street Kensington
 date: "2012-11-22 22:32:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201211230025-tna08-south-kensington2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211230025-tna08-south-kensington2.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   As mentioned in last weeks news bubble Apple had a key note last tuesday.
 date: "2013-10-30 15:59:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
 headline: true
 featured: true
 imported: true

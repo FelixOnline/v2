@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Neil Gaiman’s best known novel
 date: "2012-11-15 21:28:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211152129-tna08-gods2.jpg"
 headline: true
 featured: true
 imported: true

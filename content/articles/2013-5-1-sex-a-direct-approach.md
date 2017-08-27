@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Whether you’re in a committed relationship or having a one night stand, you shouldn’t be too afraid to ask for what you want
 date: "2013-05-01 17:59:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305011900-tna08-russellbrand.jpg"
 headline: true
 featured: true
 imported: true

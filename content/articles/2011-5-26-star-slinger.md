@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A profile of this year's hottest artist
 date: "2011-05-26 19:37:47 +0100"
-image: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105262039-felix-denim_large.jpg"
 headline: true
 featured: true
 imported: true

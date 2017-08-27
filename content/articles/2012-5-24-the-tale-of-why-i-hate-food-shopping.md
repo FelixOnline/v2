@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205250016-mc4509-self-checkout.jpg"
 image_caption: "I refuse to use self checkout. I’m basically temping for free by PLEASE REMOVE ITEM FROM BAGGING ARE"
 headline: true
 featured: true

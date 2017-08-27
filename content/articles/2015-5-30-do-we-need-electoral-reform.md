@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken considers the pros and cons of changing our voting system
 date: "2015-05-30 09:43:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
 image_caption: "Is the alternative voting system better for our democracy? "
 headline: true
 featured: true

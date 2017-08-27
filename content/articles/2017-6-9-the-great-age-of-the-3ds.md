@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed fanboys about why the Nintendo 3DS is the greatest handheld console to date
 date: "2017-06-09 15:25:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201706091724-ea3211-81I7gzdcIpL._SL1500_.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706091724-ea3211-81I7gzdcIpL._SL1500_.jpg"
 image_caption: "Six years since the initial release and still going strong"
 headline: true
 featured: true
@@ -39,32 +39,32 @@ Unfortunately all great things must come to an end and the same is true for the 
 Having said that, I still believe the 3DS is a worthwhile investment. You still have access to a large variety of games which stand their ground for the next couple of years. With portability, you also have the freedom of gaming wherever you are, even when you should be paying attention in a lecture. The 3DS isn’t just the portable console of its generation, it’s a platform for gaming across the ages and a means to play many beloved titles from more than three decades of gaming history while on the move.
 I know all this talk has probably whetted your gaming appetite, so next I’ve prepared a list of recommendations of what you should be playing on the 3DS. (If you don’t see Pokémon it’s because I’ve played and talked about it to death and maybe it’s time to move on)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091726-ea3211-OP3_1920x1080.jpg" title="" caption="" attr="Nintendo" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091726-ea3211-OP3_1920x1080.jpg" title="" caption="" attr="Nintendo" >}}
 
 ## The Legend of Zelda: A Link Between Worlds
 With Ocarina of Time and Majora’s Mask being remakes of old titles, A Link Between Worlds was the first original Zelda title on the 3DS and boy, did it deliver. It is an amazing production that is lovingly crafted with nostalgia from previous games and built to perfectly fit the specifications of the 3DS. It makes a great use of the 3D and has enough new features to make it look exquisite. While most Legend of Zelda games are a little more hardcore and are for the serious gamers, this game reminds you to have fun again and marvel at beautiful sceneries.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091726-ea3211-4Koma_Robin.jpg" title="" caption="" attr="Ichijinsha" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091726-ea3211-4Koma_Robin.jpg" title="" caption="" attr="Ichijinsha" >}}
 
 ## Fire Emblem: Awakening
 The Fire Emblem series was on its way out and it looked like only a miracle could save the franchise. And indeed a miracle happened, and its name was Awakening. This sequel combined features from old games while streamlining everything to make it suitable for newcomers. It is an amazing turn-based, tactical game with a gameplay that gets you thinking and a well-written story that keeps you engrossed. It’s battle mechanics are addicting and personally I think Awakening is the perfect game to bring in new fans and remind old players why they love the series so much.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091727-ea3211-Gyakuten_Saiban_5_Promo_Art.jpg" title="" caption="" attr="Capcom" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091727-ea3211-Gyakuten_Saiban_5_Promo_Art.jpg" title="" caption="" attr="Capcom" >}}
 
 ## Phoenix Wright: Dual Destinies
 One-half detective game and one-half visual novel, Dual Destinies tells the story of defence attorney Phoenix Wright and his subordinates Apollo and Athena (I’m not kidding, these are the characters’ actual names) as they get involved in all sorts of adventures in the name of justice. This game is a good entry point into the series as no prior knowledge is necessary. It’s a bit light on action but it’s worth playing if you’re a wannabe detective, animé fan, someone who likes jokes and/or a hawk-enthusiast (Play the game, it’ll make sense)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091727-ea3211-Captain_Falcon_Palette_01.jpg" title="" caption="" attr="Bandai Namco" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091727-ea3211-Captain_Falcon_Palette_01.jpg" title="" caption="" attr="Bandai Namco" >}}
 
 ## Super Smash Bros.
 Super Smash Brothers is one the most popular fighting game franchises of all time and one which everyone has heard of. The fact that its latest entry was released on the 3DS makes it all the better. The newest addition to the Smash Bros family introduces several new players and stages, while taking the series to new heights and reworking its competitive edge. Admittedly, there’s not much in single player mode so this is a game best served to multiple people. Just make sure they’re on the same level of skill as you, otherwise it quickly becomes you losing immediately and watching the other players fight for half an hour.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091727-ea3211-61LumLEdLrL._SL1280_.jpg" title="" caption="" attr="Level-5" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091727-ea3211-61LumLEdLrL._SL1280_.jpg" title="" caption="" attr="Level-5" >}}
 
 ## Professor Layton and the Azran Legacy
 This is the sixth entry in the Professor Layton series, but one that’s written so you can enjoy it with no prior knowledge of the others. Professor Layton is a series that is less about frantic button mashing and more about using your head to solve puzzles and move the story forward. This game features a rich world, full of colourful characters, and offers lots of things to do and even more player choice regarding in what order you do them. If you want to take things easy and like to actually think before you jump, this is the game for you.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201706091728-ea3211-1357901050-34oo0a.jpg" title="" caption="" attr="Next Level Games" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201706091728-ea3211-1357901050-34oo0a.jpg" title="" caption="" attr="Next Level Games" >}}
 
 ## Luigi’s Mansion: Dark Moon
 It’d be a disservice not to mention a Mario game on this list but I’m going to go with a spin-off title as opposed to a main series game. This game will make you laugh as you control Mario’s lesser known, skinnier and younger brother Luigi and basically become a ghostbuster. Beyond that, it has a nice multiplayer mode as well as some cool features that make this a fun enjoyable experience. It’s nice to see Luigi stand on his feet and be resourceful in taking down ghosts as opposed to playing second fiddle to Mario like he usually does.

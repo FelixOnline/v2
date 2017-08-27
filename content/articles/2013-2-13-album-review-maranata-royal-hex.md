@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz doesn't cover his ears
 date: "2013-02-13 13:15:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201302131315-tna08-ttw48.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302131315-tna08-ttw48.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ My first impression of this album was that it had a very low-fi aesthetic, as mi
 
 If I haven’t exactly been forthcoming in describing most of the album, it’s because I was a little flabbergasted. It’s an assault on the ears, firing through a selection of genres, and while it may only have appeal to noiseheads, it is worth noting that it is very diverse and subtly unlike any other album I’ve heard to date.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302131316-tna08-1301.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302131316-tna08-1301.jpg" title="" caption="" attr="" >}}
 
 Jon Wesseltoft’s guitar is almost ever present, bringing in at time punky and doomy motifs and at times simply noisy. Dag Stiberg performs saxophone duties. As well as its contribution to jazz, people like Mats Gustafsson have used the saxophone to add noise, and this is certainly the role here. The saxophone is just as ever present as the guitar but lower in the mix, sounding a little like a screamed vocal at low volume. It does, however, rear its head at appropriate moments, giving it almost a tidal feel and any moment where it prevails seems to have a rather climactic air to it.
 

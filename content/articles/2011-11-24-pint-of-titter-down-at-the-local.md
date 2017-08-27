@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Shock horror! There's actually something funnier than Felix in South Kensington!
 date: "2011-11-24 22:35:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
 image_caption: "Patti Brewster. Can she really pull off mad-cat-lady?"
 headline: true
 featured: true

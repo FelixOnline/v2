@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A delightful book by Chad Orzel
 date: "2011-01-27 18:55:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201101271853-ks607-quantumd.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101271853-ks607-quantumd.jpg"
 headline: true
 featured: true
 imported: true

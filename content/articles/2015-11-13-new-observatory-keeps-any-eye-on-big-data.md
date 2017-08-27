@@ -4,7 +4,7 @@ title: >
 subtitle: >
   KPMG are sponsoring a big data suite that will visualise data for businesses, scientists and students
 date: "2015-11-13 14:21:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131421-ygr12-observatory.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131421-ygr12-observatory.jpg"
 headline: true
 featured: true
 imported: true

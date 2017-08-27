@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our easy guide to getting your console on College internet
 date: "2010-10-01 23:06:45 +0100"
-image: "http://felixonline.co.uk/img/upload/201010020005-ks607-Consoles.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010020005-ks607-Consoles.jpg"
 image_caption: "Let's get those machines online!"
 headline: true
 featured: true

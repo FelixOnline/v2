@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Greg Power declares open war on music haters, and invites you to the second Felix Music Night
 date: "2011-06-02 19:56:30 +0100"
-image: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106022053-felix-var-(1).jpg"
 headline: true
 featured: true
 imported: true

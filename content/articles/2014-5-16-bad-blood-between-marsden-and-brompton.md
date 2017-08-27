@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tensions develop between famous Chelsea hospitals
 date: "2014-05-16 01:40:55 +0100"
-image: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
 headline: true
 featured: true
 imported: true

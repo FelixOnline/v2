@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It's the peanut butter that really gets me
 date: "2011-05-06 15:09:18 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061610-felix-spuntino-pbj.jpg"
 headline: true
 featured: true
 imported: true

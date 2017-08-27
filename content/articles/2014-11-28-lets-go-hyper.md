@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention
 date: "2014-11-28 00:54:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411280054-ps3110-for-website.jpg"
 headline: true
 featured: true
 imported: true

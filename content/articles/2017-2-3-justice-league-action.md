@@ -4,7 +4,7 @@ title: >
 subtitle: >
   New, kid-friendly brand justice
 date: "2017-02-03 17:08:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031708-felix-justice-league-action.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031708-felix-justice-league-action.jpg"
 headline: true
 featured: true
 imported: true

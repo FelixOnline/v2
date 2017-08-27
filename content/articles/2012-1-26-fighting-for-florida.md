@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joseph Letts comments on the current state of US Presidential elections
 date: "2012-01-26 22:01:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
 image_caption: "A tough choice for Republicans: behold the diverse range of old, rich white men"
 headline: true
 featured: true

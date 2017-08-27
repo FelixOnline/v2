@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Boris Johnson takes to the streets to inaugurate new layout
 date: "2012-02-03 00:28:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202030027-sjw209-dsc_6912.jpg"
 image_caption: "“Exquisite, my parents don’t let me use scissors at home!”"
 headline: true
 featured: true

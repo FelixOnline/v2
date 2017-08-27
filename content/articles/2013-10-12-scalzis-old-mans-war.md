@@ -4,7 +4,7 @@ title: >
 subtitle: >
   John Scalzi is one of the highest profile science fiction authors alive. A prolific writer, he was also President of the Science Fiction and Fantasy Writers of America, consulted on the hit TV show Stargate Universe, maintains a hugely popular blog and is an outspoken activist for many good...
 date: "2013-10-12 00:10:35 +0100"
-image: "http://felixonline.co.uk/img/upload/201310120110-jal08-oldman.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310120110-jal08-oldman.jpg"
 headline: true
 featured: true
 imported: true

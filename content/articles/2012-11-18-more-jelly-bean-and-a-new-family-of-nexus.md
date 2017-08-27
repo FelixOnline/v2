@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yong Wen Chua checks out Androids latest OS and has a look at the Nexus
 date: "2012-11-18 13:18:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
 headline: true
 featured: true
 imported: true
@@ -37,7 +37,7 @@ If you’ve ever seen those Google Street View cars ply along the roads taking s
 
 Dubbed “Photo Sphere”, you can use the same technology that powers the Street View cameras in your phone to take 360 degrees panorama shots worthy of your non-Android friends’ envy. If you count yourself as an expert photographer, you can even upload them to Google Maps for sharing with the rest of the world. The camera interface has received a new interface that allows you quick access to camera settings. Of course, this new update also comes with the obligatory increase in the number of filters available that allow people to further “instagram-ise” their photos without needing to use Instagram.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211181325-jp1409-tech-3.png" title="The new camera interface Mega hipster filters to rival instagram " caption="The new camera interface Mega hipster filters to rival instagram " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211181325-jp1409-tech-3.png" title="The new camera interface Mega hipster filters to rival instagram " caption="The new camera interface Mega hipster filters to rival instagram " attr="" >}}
 
 ###
 

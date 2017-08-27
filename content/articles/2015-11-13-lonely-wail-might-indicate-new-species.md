@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
-image: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
 image_caption: "Shy and elusive beaked whale breaching the surface."
 headline: true
 featured: true

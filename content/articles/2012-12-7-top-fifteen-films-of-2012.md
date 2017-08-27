@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Film takes you on a tour of the best films this year
 date: "2012-12-07 14:53:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
 headline: true
 featured: true
 imported: true

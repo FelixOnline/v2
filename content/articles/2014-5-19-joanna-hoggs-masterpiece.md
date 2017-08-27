@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The biography of British director Joanna Hogg is a strange one indeed: mentored by legendary avant-gardiste Derek Jarman during the 1970s, she won a scholarship to the National Film and Television School, where she took a chance on unknown actor Tilda Swinton for her graduate piece. And then?
 date: "2014-05-19 13:53:33 +0100"
-image: "http://felixonline.co.uk/img/upload/201405191454-jal08-exhibition1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405191454-jal08-exhibition1.jpg"
 headline: true
 featured: true
 imported: true

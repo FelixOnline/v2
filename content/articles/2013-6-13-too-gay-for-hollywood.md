@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Behind the Candelabra review
 date: "2013-06-13 23:33:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201306140033-tna08-behind-the-candelabra1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306140033-tna08-behind-the-candelabra1.jpg"
 image_caption: "It’s okay - we’ll be the new Jeremy and Megan"
 headline: true
 featured: true
@@ -29,13 +29,13 @@ But Behind the Candelabra, as its name suggests, is about the wildly eccentric p
 
 Having grown up in a modest foster home, the lavish gifts his boyfriend showers on him is certainly a drastic change, one Scott doesn’t quite mind getting used to. There’s jewellery, there’s never-ending flow of champagne, the immaculately decorated, golden-plated mansion is quite simply out of this world, and in keeping with Liberace’s famous saying “too much of a good thing is wonderful,” everything seems to appear in excess. The production design and the art department have created something extraordinary here, going completely overboard, as well they should, to show that both on and off stage, there is very little difference in Liberace’s taste for extravagance.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140034-tna08-behind-the-candelabra-rob-lowe-03-jpg_152817.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140034-tna08-behind-the-candelabra-rob-lowe-03-jpg_152817.jpg" title="" caption="" attr="" >}}
 
 Their relationship is riddled with disturbing content as it progresses –as we soon discover Liberace’s rather unhealthy obsession to turn his lover into an adopted son of some sorts, pushing Scott into plastic surgery so that they may share more physical resemblance. And so we’re introduced to Dr John Startz (Rob Lowe), a hideously disfigured individual who has clearly had a taste of his own medicine a few too many times, with his uncomfortable looking squint, a by-product of many, many face-lifts, guaranteed to shock and make you think twice about plastic surgery in general.
 
 In the lead role designed to be the centre of attention at all times, Douglas is on excellent form, fully embracing the campy, extremely vibrant energy of the star, and with some incredible CGI work it looks as though it’s actually Douglas who’s playing away at the piano when in fact it’s not. Always dressed in the most sparkling, brightest costumes, there are lots of laughs to be had in seeing a hilariously complex man, and yet there are tender moments of real warmth in scenes that show off Douglas’ range and versatility.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201306140034-tna08-damon11f-3-web.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201306140034-tna08-damon11f-3-web.jpg" title="" caption="" attr="" >}}
 
 Nevertheless there isn’t a lot to immediately like about Liberace in this film; never looking closely at the stage persona that impressed millions worldwide, just by looking at the film alone it’s confusing as to why this man is such a beloved musical icon. A more balanced look would no doubt have further enriched his character, rather than very often coming across as nothing but a creepy, lonely old man with some serious psychological issues.
 

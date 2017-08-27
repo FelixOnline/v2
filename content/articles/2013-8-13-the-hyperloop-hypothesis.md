@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fine, it's not a hypothesis, but the Hyperloop concept could revolutionise medium and long distance transport in the blink of an eye...
 date: "2013-08-13 09:32:12 +0100"
-image: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
 image_caption: "Hyperloop or snazzy remote control?"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Musk created the Hyperloop as a solution for medium-distance transport after los
 
 The Hyperloop
 
-{{< figure src="http://felixonline.co.uk/img/upload/201308131030-jal08-screen-shot-2013-08-13-at-10.11.05-am.png" title="A rendered conceptual design of the Hyperloop" caption="A rendered conceptual design of the Hyperloop" attr="Credit: Elon Musk" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201308131030-jal08-screen-shot-2013-08-13-at-10.11.05-am.png" title="A rendered conceptual design of the Hyperloop" caption="A rendered conceptual design of the Hyperloop" attr="Credit: Elon Musk" >}}
 
 This Hyperloop is a futuristic take on an old technology, specifically the pneumatic tube. Precisely the Hyperloop concept is a complicated mix of pneumatics and magnetic suspension, powered by solar power. The concept requires a low-pressure environment in the Hyperloop system and uses magnetic suspension and propulsion to move capsules containing passengers.
 

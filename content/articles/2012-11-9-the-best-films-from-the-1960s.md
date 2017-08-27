@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A continuation of the best films series. The top spot? It had to be the epic epic.
 date: "2012-11-09 13:55:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091355-tna08-lawrence-of-arabia2-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091355-tna08-lawrence-of-arabia2-1.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The concrete colossus captures the optimism of the architechural era
 date: "2016-05-13 08:53:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
 image_caption: "Shafts of light astride weathered concrete columns: The Barbican Estate today. "
 headline: true
 featured: true

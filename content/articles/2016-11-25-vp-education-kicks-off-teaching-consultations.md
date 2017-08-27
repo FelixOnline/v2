@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Simone Buitendijk calls first ‘Town Hall’ meeting
 date: "2016-11-25 13:17:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251317-felix-IMG_6251.JPG"
 headline: true
 featured: true
 imported: true

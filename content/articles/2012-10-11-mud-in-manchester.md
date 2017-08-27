@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sophie Kirk: Cross country and Athletics club travel to Manchester
 date: "2012-10-11 20:39:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
 headline: true
 featured: true
 imported: true

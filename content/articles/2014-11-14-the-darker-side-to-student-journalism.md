@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Thomas Lim discusses Union censorship of student papers
 date: "2014-11-14 20:29:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142029-ps3110-screen-shot-2014-11-12-at-21.53.08.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142029-ps3110-screen-shot-2014-11-12-at-21.53.08.png"
 headline: true
 featured: true
 imported: true

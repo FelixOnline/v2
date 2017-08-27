@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fabio Virgi looks at Apple's latest offering
 date: "2013-06-13 22:54:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201306132353-tna08-applearticletechrgb.jpg"
 image_caption: "Some of the key new features from OS X SeaLion? Clockwise from top left: Bookmark sidebar, Multiple "
 headline: true
 featured: true

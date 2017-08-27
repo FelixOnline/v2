@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Department failed to tell students their bursary was being reduced
 date: "2011-01-27 18:24:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201101280841-ks607-roderich.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101280841-ks607-roderich.jpg"
 headline: true
 featured: true
 imported: true

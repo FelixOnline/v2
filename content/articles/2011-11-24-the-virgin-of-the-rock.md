@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rajvinder Virdee comments on some of the political and social ramifications of the sale of Northern Rock plc to Richard Branson’s Virgin Money
 date: "2011-11-24 20:19:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242018-pk1811-branson.jpg"
 image_caption: "Business magnate Richard Branson holds up a Virgin Money credit card"
 headline: true
 featured: true
@@ -31,7 +31,7 @@ Ed Balls, the shadow chancellor, expressed the view “[Northern Rock plc] is be
 
 Regarding market turmoil, with the exception of the sovereign bond market, the stock exchange seems to have done reasonably well in the last year; however, bank shares specifically plummeted with the crisis, posing the question of just how long could the state hold on to Northern Rock? Its nationalisation was always supposed to be a temporary one, with pledges being made that it would be sold as soon as possible. The problem is, the markets (especially banks) do not look like they are going to get much better any time soon, especially not by 2013. Banking stocks have fallen dramatically over the past 5 years (Barclays: –75%, Lloyds: –95%, RBS: –96%, HSBC: –50%), and have all remained pretty much flat for the last three, with perhaps a slight further decrease in value. If banks are losing value, it could be argued there is no point in waiting any longer.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242018-pk1811-1757332513.jpg" title="The infamous Northern Rock received its notoriety in 2007 when it became the first bank in 150 years to suffer a bank run after having to approach the BoE for a loan" caption="The infamous Northern Rock received its notoriety in 2007 when it became the first bank in 150 years to suffer a bank run after having to approach the BoE for a loan" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242018-pk1811-1757332513.jpg" title="The infamous Northern Rock received its notoriety in 2007 when it became the first bank in 150 years to suffer a bank run after having to approach the BoE for a loan" caption="The infamous Northern Rock received its notoriety in 2007 when it became the first bank in 150 years to suffer a bank run after having to approach the BoE for a loan" attr="" >}}
 
 Lastly the Northern Rock sold last Thursday is not the same Northern Rock that was bought in 2008. The bank currently has just 45% of the staff on its books as it did when nationalised. It has been gutted of all the risky parts of the business, and now has a more stable financial structure meaning it is actually quite a good bank. In terms of its loan to deposit ratio (now standing at 73%) it holds more in deposits than it lends out in loans, making it a safe bank. Also banks are almost never sold at 100% of their held asset values, there is always some discount.
 

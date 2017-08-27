@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure
 date: "2011-10-27 23:16:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201110280015-felix-dscn2103.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110280015-felix-dscn2103.jpg"
 image_caption: "Getting to know a Himalayan local..."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Joshua Renken talks religion, writing, The School of Life, and pornography
 date: "2015-06-18 20:53:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201506182133-jyg11-features-1610.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506182133-jyg11-features-1610.jpg"
 image_caption: "“The gap between what we want the world to be and what it is should be filled with laughter.” – Alain de Botton talking at a TEDx Conference in Oxford. "
 headline: true
 featured: true

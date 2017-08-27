@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Switch made the news for its innovation but is it any good? Cale Tilford dishes on its performance
 date: "2017-03-17 17:31:54 +0000"
-image: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
 image_caption: "Technology: helping to put people either with each other or against each other"
 headline: true
 featured: true

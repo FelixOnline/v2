@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ross Gray explores apocalyptic wastelands through noise
 date: "2013-01-10 22:47:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
 headline: true
 featured: true
 imported: true

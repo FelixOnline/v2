@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Man want meat | Is society killing men?
 date: "2017-02-03 16:45:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702031645-felix-Burgers.jpg"
 headline: true
 featured: true
 imported: true

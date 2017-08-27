@@ -4,7 +4,7 @@ title: >
 subtitle: >
   On Monday night the most exclusive fashion event of the year took place in New York City, and its famous guests wowed us with their style.
 date: "2014-05-09 15:03:17 +0100"
-image: "http://felixonline.co.uk/img/upload/201405091605-jal08-zoe-saldana-met-gala-2014.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405091605-jal08-zoe-saldana-met-gala-2014.jpg"
 headline: true
 featured: true
 imported: true

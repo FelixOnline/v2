@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giacometti was much more than the spindly bronzes figures that made him famous
 date: "2017-06-07 08:14:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201706071011-im1413-T00774_9.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706071011-im1413-T00774_9.jpg"
 image_caption: "Alberto Giacometti- Bust of Diego 1955 displayed at the Tate. Photo: Tate, The Estate of Alberto Giacometti (Fondation Giacometti, Paris and ADAGP, Paris), licensed in the UK by ACS and DACS, London, 2017"
 headline: true
 featured: true

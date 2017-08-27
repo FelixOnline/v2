@@ -4,7 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson introduces the Chaplaincy – a welfare service for Imperial students
 date: "2011-11-10 22:03:33 +0000"
-image: "http://felixonline.co.uk/img/upload/201111102202-pk1811-chap-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111102202-pk1811-chap-1.jpg"
 image_caption: "Chaplaincy can help with ‘conversations about meaning’"
 headline: true
 featured: true
@@ -45,7 +45,7 @@ The other emerging conversation of our time is with those who describe themselve
 
 Good conversation is one that can bring change and growth to both conversation partners.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111102203-pk1811-chap-2.jpg" title="Chaplaincy provides opportunities for various world faiths" caption="Chaplaincy provides opportunities for various world faiths" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111102203-pk1811-chap-2.jpg" title="Chaplaincy provides opportunities for various world faiths" caption="Chaplaincy provides opportunities for various world faiths" attr="" >}}
 
 Conversations with students and colleagues from different religious and secular perspectives have shown me that my own faith is not about intellectual certainty but about deeper relationships of trust.
  In the Chaplaincy we are open for conversation. So if you want to talk about Nietzsche and the death of God, or you want to try Indian cooking with our Hindu Chaplain, or walk a labyrinth, or try interfaith discussion, or talk about medical or engineering ethics, or sing carols, or talk about your anatomy classes, or if you have a really weird dream and want to change career, or to find new ways to pray, or talk about someone who has died, or if you want to find out about the religion of the person you have just fallen in love with, or... as I say, we are open to conversation.

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First and Third place for Imperial
 date: "2013-05-02 12:16:08 +0100"
-image: "http://felixonline.co.uk/img/upload/201305021316-tna08-handball-pic-2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305021316-tna08-handball-pic-2.jpg"
 headline: true
 featured: true
 imported: true

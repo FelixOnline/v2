@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Samuel Gibbs reviews the latest case for the iPhone 4
 date: "2010-11-04 18:46:48 +0000"
-image: "http://felixonline.co.uk/img/upload/201011041830-ba108-TECHNOLO.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011041830-ba108-TECHNOLO.jpg"
 headline: true
 featured: true
 imported: true

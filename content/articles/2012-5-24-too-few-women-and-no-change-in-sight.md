@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Feroz Salam on how equality is a long way away in the world of ‘brogrammers’
 date: "2012-05-24 23:24:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205250026-mc4509-lego.png"
 headline: true
 featured: true
 imported: true
@@ -41,7 +41,7 @@ It’s because of this that it’s hard to believe that the fight for equality h
 
 The mission to motivate them into graduate technology is arguably not as vital, as they are obviously already motivated enough. Hiring the 35% already in the doors is easy, but fixing the reasons why there are only 35% is where the real problem lies.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201205250025-mc4509-w.png" title="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" caption="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201205250025-mc4509-w.png" title="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" caption="Startup Sqoot learnt a hard lesson the in consequences of advertising women as a ‘perk’" attr="" >}}
 
 Forcing an attitude change
 

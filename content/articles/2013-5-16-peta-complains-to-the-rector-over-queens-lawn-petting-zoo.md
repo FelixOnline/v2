@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
 headline: true
 featured: true
 imported: true

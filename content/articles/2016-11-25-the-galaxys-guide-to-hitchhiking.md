@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lara Bailey explains why the ‘Vela Supercluster’ could be the reason for why the Milky Way and surrounding galaxies are constantly on the move
 date: "2016-11-25 13:40:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201611251339-felix-milky-way-1684226_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201611251339-felix-milky-way-1684226_1920.jpg"
 headline: true
 featured: true
 imported: true

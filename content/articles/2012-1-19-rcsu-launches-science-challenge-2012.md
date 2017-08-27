@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Overall winner to receive tour of CERN, House of Lords reception and £2,000
 date: "2012-01-19 22:41:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192239-felix-aimg_0620.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192239-felix-aimg_0620.jpg"
 image_caption: "(Left to right) Peter Lacy, Lord Robert Winston, and Pallab Ghosh"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A look into the intriguing Blythe gallery display from LeoSoc and PhotoSoc
 date: "2017-02-24 15:34:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
 image_caption: "The exhibition came with a face painting stand!"
 headline: true
 featured: true

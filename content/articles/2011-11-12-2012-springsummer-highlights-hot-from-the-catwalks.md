@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Winter may have just begun, but the Fashion World already cannot wait for sunnier days. Saskia Verhagen and Alice Yang bring you the best from September’s catwalks
 date: "2011-11-12 17:25:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201111121725-felix-alexander-mcqueen-spring-2012-rtw-podium-010_runway.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111121725-felix-alexander-mcqueen-spring-2012-rtw-podium-010_runway.jpg"
 headline: true
 featured: true
 imported: true

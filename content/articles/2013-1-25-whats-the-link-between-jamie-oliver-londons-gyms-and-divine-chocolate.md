@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Hint: It’s not nakedness. (Though that could work too... sort of...) Caroline Wood introduces you to the world of Social Enterprise
 date: "2013-01-25 02:09:46 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250207-tna08-jamie-oliver.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250207-tna08-jamie-oliver.jpg"
 image_caption: "Anyone else thing he would be cooking naked?"
 headline: true
 featured: true
@@ -26,11 +26,11 @@ highlights:
 
 The term “social enterprise” was first coined during the late 70s. The idea is simple. A social enterprise is a business where social aims come first, and profit comes second. Yes, you read that right – social aim first, profit second. Social entrepreneurs are business minded people who are a little bit warm and fuzzy around the edge. Think Alan Sugar meets Mother Theresa, or Donald Trump meets Florence Nightingale. It’s all about business acumen being applied to doing good.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250208-tna08-trumpnight.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250208-tna08-trumpnight.jpg" title="" caption="" attr="" >}}
 
 Social enterprises have been popping up all over the place since the start of the new millennium. They are a growing trend that’s showing no sign of slowing, and for good reason. Since social enterprises generate their own income, and don’t rely on grants or donations (like charities do), they are often hailed as a more sustainable mechanism for social change. This means that when times get tough (hello ‘financial crisis’) and charities suffer from lowered levels of funding, a social enterprise can retain the ability to keep on solving social issues.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250208-tna08-teresasugar.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250208-tna08-teresasugar.jpg" title="" caption="" attr="" >}}
 
 There a loads of social enterprises around. You probably think of many as just normal businesses rather than social projects. Take Jamie Oliver’s restaurant Fifteen, for example. Here, unemployed young people are trained as chefs and are thereby given the chance to have a better future. Another good example is The Big Issue, where homeless people are given the opportunity to take some control of their lives and to re-join mainstream society by selling a magazine.
 
@@ -74,4 +74,4 @@ Imperial Hub is responsible for the social enterprise aspect of the competition.
 
 All you need to do is submit an idea bythe 28th January to www.icstartup.com/vc and then ICStartup will help you develop it! What are you waiting for?
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250205-tna08-socnt-poster.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250205-tna08-socnt-poster.jpg" title="" caption="" attr="" >}}

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A beautifully realised piece of historical fiction from David Mitchell
 date: "2011-05-06 13:15:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
 headline: true
 featured: true
 imported: true

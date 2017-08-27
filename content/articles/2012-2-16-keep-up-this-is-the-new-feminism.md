@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Veronica Gouvea comments on what feminism really means
 date: "2012-02-16 22:03:47 +0000"
-image: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
 image_caption: "Natasha Walter, author of Living Dolls: The Return of Sexism"
 headline: true
 featured: true

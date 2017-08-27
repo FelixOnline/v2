@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Charles Betts on the addictive music of Harry Connick Jr.
 date: "2011-02-28 21:31:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282130-ks607-harrycon.jpg"
 headline: true
 featured: true
 imported: true

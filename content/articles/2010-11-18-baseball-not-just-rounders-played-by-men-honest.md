@@ -4,7 +4,7 @@ title: >
 subtitle: >
   An introduction to the Imperial baseball team. By Hugh McDowell
 date: "2010-11-18 21:19:11 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182117-ks607-baseball.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182117-ks607-baseball.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Family continues to call for public enquiry into ongoing case
 date: "2012-05-10 18:55:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205101953-pk1811-ahmed-large.jpg"
 image_caption: "Ahmad was interviewed by the BBC in April "
 headline: true
 featured: true
@@ -45,7 +45,7 @@ In the campaign to free Babar Ahmad, an official government online petition was 
 
 Scotland Yard released a statement, which said: “The Metropolitan Police Service carried out their investigation strictly in accordance with UK law. This process involved close liaison with the Crown Prosecution Service. We completely reject any suggestion of impropriety.” They also stated, “All extradition requests made to the United Kingdom are subject to the Extradition Act and any other relevant legislation. The CPS acts as the representative of the requesting judicial authority in extradition proceedings.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201205101954-pk1811-ecthr.jpg" title="The European Court of Human Rights in Strasbourg" caption="The European Court of Human Rights in Strasbourg" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201205101954-pk1811-ecthr.jpg" title="The European Court of Human Rights in Strasbourg" caption="The European Court of Human Rights in Strasbourg" attr="" >}}
 
 Additionally, James Loy, the former US Deputy Secretary of Homeland Security said, “This is a new realm, this is a new era that demands international co-operation associated with crimes that have international implications. The Ahmad case is that case.”
 

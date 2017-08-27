@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Listen to an account. Step into his shoes, walk around in them. Don’t forget.
 date: "2013-01-18 00:03:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180000-tna08-berlin_holocaust_memorial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180000-tna08-berlin_holocaust_memorial.jpg"
 image_caption: "The Holocaust Memorial in Berlin"
 headline: true
 featured: true
@@ -35,7 +35,7 @@ Over six decades after the end of World War II, two generations have passed and 
 
 Hearing an account first-hand is not the same as reading history that has been watered down. As Professor Dinur, famously said “If we wish to live and bequeath life to our offspring, if we believe that we are to pave the way to the future, then we must first of all not forget”. He suggests that witnesses that survived ensure a certain moral strength and we cannot allow their decreasing numbers to create a moral, cultural and educational vacuum, particularly when genocidal ideologies and Holocaust denial persist.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301180002-tna08-1280px-auschwitzexecutionwall2006.jpg" title="Execution wall in Auschwitz I" caption="Execution wall in Auschwitz I" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301180002-tna08-1280px-auschwitzexecutionwall2006.jpg" title="Execution wall in Auschwitz I" caption="Execution wall in Auschwitz I" attr="" >}}
 
 The theme of this year’s Holocaust Memorial Day is “Communities Together: Build a Bridge”, to remind us that the strongest communities are those that respect difference and create connections, to stop the spread of hate in our own time.
 

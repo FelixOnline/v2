@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Former ICU President Alexander Kendall on the affordability of Imperial's postgraduate degrees - are the new price hikes justified?
 date: "2012-01-12 21:35:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201122136-cac111-mortar-board.jpg"
 image_caption: "MCap – Master of Captions. £9000"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial researcher moves closer to realising the dream of the quantum computer
 date: "2010-11-18 20:13:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182011-ks607-sciences.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182011-ks607-sciences.jpg"
 headline: true
 featured: true
 imported: true

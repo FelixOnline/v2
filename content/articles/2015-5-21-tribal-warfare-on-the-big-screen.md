@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is hooked by a brutal piece of cinema from Ukraine
 date: "2015-05-21 23:09:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201505220012-jmm311-the-tribe.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505220012-jmm311-the-tribe.jpg"
 headline: true
 featured: true
 imported: true

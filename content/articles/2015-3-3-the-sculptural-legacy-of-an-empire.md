@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores the Victorians’ love for statues at Tate Britain
 date: "2015-03-03 14:13:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031413-ps3110-screen-shot-2015-03-03-at-14.13.00.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031413-ps3110-screen-shot-2015-03-03-at-14.13.00.png"
 headline: true
 featured: true
 imported: true

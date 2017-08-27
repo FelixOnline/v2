@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Side Effects gets four stars
 date: "2013-03-15 02:18:44 +0000"
-image: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303150218-tna08-side2_2478602b.jpg"
 headline: true
 featured: true
 imported: true
@@ -30,7 +30,7 @@ But things become more complicated than that. To give more details on further pl
 
 Controversy surrounds Banks’ practising methods, and soon he finds himself in the middle of a much darker conspiracy than he anticipated. And with Law, Soderbergh finds himself a very convincing helpless victim but one who is not willing to go down without a fight. He’s an intelligent man who puts the pieces together quickly, which is a relief for the audience as the film gets on with its developments. And it gives our victim/protagonist plenty of time to set things right. Law does have the satisfying final laugh in the end, something we all end up supporting.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201303150218-tna08-side-effects-catherine-zeta-jones1.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201303150218-tna08-side-effects-catherine-zeta-jones1.jpg" title="" caption="" attr="" >}}
 
 Mara, hot off her Oscar-nominated success from David Fincher’s The Girl with the Dragon Tattoo, tackles yet another complex role with dominance. Hers is a particularly ambiguous and challenging one, but this new young talent very skilfully inhabits her duplicitous persona. Essentially the film’s biggest twist rests on this single performance, and she cleverly balances the two main sides to her fascinating lead character: the chilly, calculating, as well as the young and vulnerable.
 

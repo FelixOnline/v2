@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tate's exhibition on Art and the Empire more of the same.
 date: "2016-03-23 14:27:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201603231423-jc7413-queenvictoria.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603231423-jc7413-queenvictoria.jpg"
 image_caption: "Nigerian wood carving of Queen Victoria herself."
 headline: true
 featured: true

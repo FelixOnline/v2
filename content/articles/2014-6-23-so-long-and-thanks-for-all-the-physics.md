@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rory Fenton reminisces about his six years at IC
 date: "2014-06-23 13:09:58 +0100"
-image: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406121900-me1711-centrallib.jpg"
 headline: true
 featured: true
 imported: true

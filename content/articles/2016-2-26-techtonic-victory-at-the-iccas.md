@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The all-male A Cappella group is officially off to New York for the finals in April
 date: "2016-02-26 12:07:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602261206-felix-tt.jpg"
 image_caption: "The Techtonics with their award! "
 headline: true
 featured: true

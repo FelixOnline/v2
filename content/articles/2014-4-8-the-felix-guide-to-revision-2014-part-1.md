@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix breaks the exam panic with some useful revision tips!
 date: "2014-04-08 13:52:16 +0100"
-image: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
 image_caption: "Something to do with Fluid Mechanics maybe?"
 headline: true
 featured: true

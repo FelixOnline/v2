@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There's a time and a place for sexual imagery, and it's not the press conference of a major achievement in science
 date: "2014-11-20 21:17:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411202119-cj914-shirtgate.jpg"
 image_caption: "The concept of context is apparently lost on these people"
 headline: true
 featured: true

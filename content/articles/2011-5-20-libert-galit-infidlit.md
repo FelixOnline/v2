@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IMF chief arrest leaves French politics in turmoil
 date: "2011-05-20 06:00:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105200659-felix-dsk-handcuffed.jpg"
 headline: true
 featured: true
 imported: true

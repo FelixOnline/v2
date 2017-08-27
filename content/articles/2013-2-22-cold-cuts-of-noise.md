@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi reviews the mighty collaborative album Cuts
 date: "2013-02-22 01:20:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
 headline: true
 featured: true
 imported: true
@@ -28,7 +28,7 @@ This album, mastered by James Plotkin, sees him collaborating with Swedish saxop
 
 Therefore, it is great to see him working with one of the true heroes of modern free jazz in Mats Gustafsson. Although much younger, Gustafsson has been just as prolific and has notable projects such as Fire! and The Thing to show for it, as well as an extensive solo output. He’s from the Swedish town of Umeå, which has produced many notable artists, such as Meshuggah and Refused, and according to Gustafsson had a punk and hardcore scene running in parallel with free jazz, and perhaps Gustafsson could be viewed as a product of his environment. He is often known and, unfortunately, pigeonholed for the aggressive use of a squealing saxophone but in fact he has also been known to perform with live electronics too, something which is present in this album, and for another example of him breaking with this stereotype of his work, see the more measured and accessible album Exit! by Fire! Orchestra released earlier this year.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220120-tna08-cayv49mz.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220120-tna08-cayv49mz.jpg" title="" caption="" attr="" >}}
 
 Balázs Pándi has performed in an amazingvariety of projects, having worked with Venetian Snares, Italian noise-jazz-rock group Zu, personal favourites The Kilimanjaro Darkjazz Ensemble, for the past few years, been a live drummer for Merzbow. Unbeknownst to me, I actually saw them perform together at Supersonic last year, with Niko Wenner and Eugene Robinson from Oxbow also making appearances.
 
@@ -36,7 +36,7 @@ Although most people have focused on the interaction between Merzbow and free ja
 
 Merzbow’s role in all of this is arguably a lot more restrained than normal, with him and Gustafsson sharing the role that Merzbow usually occupies, and at times Merzbow’s sound even achieves some bassy tones while Gustafsson’s saxophone hits the high ends pretty hard. This restraint in Merzbow’s noise means that instead of the dominant force in the music, a wall of enveloping sound, it sits in the mix as merely another instrument, with much less of the entropy normally associated with a Merzbow release. This interpretation is confounded by the fact that sometimes it is hard to distinguish Merzbow and Gustafsson. A good example of their interplay is demonstrated in ‘Deep Lines. Cuts’ where they exchange noisy squeals like 2 shredding guitarists trading licks in a solo.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201302220120-tna08-pandi_balazs.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201302220120-tna08-pandi_balazs.jpg" title="" caption="" attr="" >}}
 
 One complaint, perhaps, is that the bassy end of the spectrum is not too well covered, with a gap in the mix only occasionally plugged by Merzbow, although it sounds great when he does. Other bands who have a similarly (yet also quite different) noisy jazz sound such as Supersilent cover this area pretty well, so this was one source of moderate disappointment for me.
 

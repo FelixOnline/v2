@@ -4,7 +4,7 @@ title: >
 subtitle: >
   felix boldly uses the lab experience acquired at this noble institution to probe the depths of SCOBYs, tea and Kombucha. Is it the elixir we’ve all been looking for, or just a another fad? More importantly, will it be drinkable at the end of it all? Place your bets, and read on.
 date: "2017-03-10 14:07:21 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101406-felix-IMG_2349 2.jpg"
 headline: true
 featured: true
 imported: true

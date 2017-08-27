@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Schaübuhne Berlin production of Shakespeare's Richard III adds in dark German absurdity
 date: "2017-02-17 22:00:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201702172156-ff712-02.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702172156-ff712-02.jpg"
 image_caption: "Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König"
 headline: true
 featured: true

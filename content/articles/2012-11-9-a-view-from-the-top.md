@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Alice Yang interivews Amanda Brumpton, CSC UK&IR, VP Sales
 date: "2012-11-09 11:46:28 +0000"
-image: "http://felixonline.co.uk/img/upload/201211091146-tna08-amanda-rgb.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211091146-tna08-amanda-rgb.jpg"
 headline: true
 featured: true
 imported: true
@@ -79,4 +79,4 @@ Women don’t push as hard, we don’t have conversations with our bosses about 
 Read more at:
 [www.title-mag.com](http://title-mag.com/amanda-brumpton/)
 
-{{< figure src="http://felixonline.co.uk/img/upload/201211131424-tna08-title.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201211131424-tna08-title.jpg" title="" caption="" attr="" >}}

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201411242038-ps3110-confectionery-close-for-website.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411242038-ps3110-confectionery-close-for-website.jpg"
 headline: true
 featured: true
 imported: true

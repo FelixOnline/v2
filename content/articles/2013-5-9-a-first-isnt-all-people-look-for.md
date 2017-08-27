@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lord Winston wants other human values as well as a first
 date: "2013-05-09 12:11:41 +0100"
-image: "http://felixonline.co.uk/img/upload/201305091311-tna08-robert-winston-webf.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305091311-tna08-robert-winston-webf.jpg"
 headline: true
 featured: true
 imported: true

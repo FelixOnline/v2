@@ -4,7 +4,7 @@ title: >
 subtitle: >
   People ask what keeps our surveys, such as the Felix Sex Survey, secure and private. The Felix Team behind the surveys explain how the magic works.
 date: "2015-02-08 21:55:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
 headline: true
 featured: true
 imported: true

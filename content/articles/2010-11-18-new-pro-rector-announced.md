@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Major personnel changes in Engineering and Medicine
 date: "2010-11-18 21:47:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182146-ks607-stevesmi.jpg"
 image_caption: "Professor Stephen Smith"
 headline: true
 featured: true

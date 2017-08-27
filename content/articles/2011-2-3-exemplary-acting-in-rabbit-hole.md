@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rabbit Hole involves an incredibly tough subject matter, and something that cannot be handled lightly. But, despite the difficult tone, it manages to still be a pleasant watch and the film’s perceptive look at a range of characters is impressive
 date: "2011-02-03 19:46:26 +0000"
-image: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102031944-nm1010-rabbbbbi.jpg"
 headline: true
 featured: true
 imported: true

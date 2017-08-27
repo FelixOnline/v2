@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli on the Erasmus experience
 date: "2013-10-11 23:00:21 +0100"
-image: "http://felixonline.co.uk/img/upload/201310122131-jal08-erasmus-logo.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310122131-jal08-erasmus-logo.png"
 headline: true
 featured: true
 imported: true

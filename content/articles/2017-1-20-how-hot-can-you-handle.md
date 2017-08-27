@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach looks at a study claiming that ‘spicing up your life’, could actually prolong it
 date: "2017-01-20 15:12:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201701201512-felix-chili-pepper-621890_1920.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201512-felix-chili-pepper-621890_1920.jpg"
 headline: true
 featured: true
 imported: true

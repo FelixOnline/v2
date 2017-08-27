@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sailors sail near Swansea and probably away again. It is Swansea, after all
 date: "2010-01-14 22:27:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201001142226-rsp07-Welshpho.jpg"
 headline: true
 featured: true
 imported: true

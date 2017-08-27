@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon reviews the ageing treaty
 date: "2012-11-22 23:17:38 +0000"
-image: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   IC fail to curry favour, losing to Royal Holloway last week
 date: "2015-11-20 09:46:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201511200945-ygr12-6.jpg"
 headline: true
 featured: true
 imported: true

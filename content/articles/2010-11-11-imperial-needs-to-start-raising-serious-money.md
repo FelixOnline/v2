@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Changes to university funding require Imperial to act fast
 date: "2010-11-11 21:50:35 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112148-ks607-endowmen.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112148-ks607-endowmen.jpg"
 image_caption: "That's one hell of an endowment..."
 headline: true
 featured: true

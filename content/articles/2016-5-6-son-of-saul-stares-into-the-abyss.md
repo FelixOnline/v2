@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The horror of the Holocaust is brought to life in László Nemes’ astonishing debut
 date: "2016-05-06 10:11:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
 image_caption: "Géza Röhrig brings incredible intensity to Son of Saul, described by Shoah director Claude Lanzmann as the ‘anti-Schindler’s List’. "
 headline: true
 featured: true

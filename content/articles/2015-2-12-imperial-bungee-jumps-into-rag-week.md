@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
-image: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
 image_caption: "RAG Chair Ben Fernando shaking a collection tin for the campus-wide charity week"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson finds out how students are relaxing during the exam period
 date: "2015-05-21 20:38:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505212137-kmw13-petting-zoo.jpeg"
 image_caption: "Students enjoy a few moments away from the stress of revision"
 headline: true
 featured: true

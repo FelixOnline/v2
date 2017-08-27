@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszeski reviews Ray Monk’s Oppenheimer biography
 date: "2013-01-18 00:43:20 +0000"
-image: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
-image: "http://felixonline.co.uk/img/upload/201205031904-ams111-bloc-lineup.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205031904-ams111-bloc-lineup.jpg"
 image_caption: "A small peak at this massive line-up"
 headline: true
 featured: true
@@ -54,7 +54,7 @@ Stubnitz
 
 This world-renowned arts institution (pictured bottom left) has been touring Europe since it was converted from a freeze & transport vessel in 1993, but this is its first ever London appearance. Presenting the whole spectrum from theatre to art to music, its presence at Bloc. is truly something to look forward to. If for nothing else, take a peek online at the inside of the ship – I’m not sure I can think of any cooler environment for some of the world’s most cutting edge electronic artists. Previous performers have included the phenomenal Chris Forsyth, who we reviewed in autumn term, and Bristol legends Bronnt Industries Kapital. This relatively small (despite its massive outside size) stage could really bring something new and special to the Bloc. environment. It’s not every day you get to hit a boat party (well, outside of Croatia). _- R_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201205031905-ams111-stubnitz-im-ruhigen-wasser-gr.jpg" title="The incredible Stubnitz party boat and charitable arts institution" caption="The incredible Stubnitz party boat and charitable arts institution" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201205031905-ams111-stubnitz-im-ruhigen-wasser-gr.jpg" title="The incredible Stubnitz party boat and charitable arts institution" caption="The incredible Stubnitz party boat and charitable arts institution" attr="" >}}
 
 Arpanet
 

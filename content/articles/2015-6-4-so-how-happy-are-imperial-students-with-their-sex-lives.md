@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
-image: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506050032-cj914-imperial.jpg"
 image_caption: "It’s like a giant game of Where’s Wanker?"
 headline: true
 featured: true

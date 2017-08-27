@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds ROH’s ballet in need of updating despite strong dancing
 date: "2015-03-25 13:27:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
 image_caption: "Natalia Osipova as Odette and Matthew Golding as Prince Siegfried. "
 headline: true
 featured: true

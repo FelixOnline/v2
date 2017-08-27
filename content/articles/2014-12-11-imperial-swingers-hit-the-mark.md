@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Ben Howitt on Imperial’s first Dance Open Day
 date: "2014-12-11 21:22:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112121-cj914-di.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112121-cj914-di.jpg"
 image_caption: "An action shot from the Hiphop class."
 headline: true
 featured: true

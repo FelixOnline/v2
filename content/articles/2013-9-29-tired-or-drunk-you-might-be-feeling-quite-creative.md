@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Science Editor Fiona Hartley explores the link between creativity and alcohol (and tiredness).
 date: "2013-09-29 14:05:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201309291502-jal08-drunkeness.jpg"
 image_caption: "Should you really be at the wheel?"
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Big Boi: Vicious Lies and Dangerous Rumours
 date: "2013-01-10 22:53:00 +0000"
-image: "http://felixonline.co.uk/img/upload/201301102252-csw09-bigboi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301102252-csw09-bigboi.jpg"
 headline: true
 featured: true
 imported: true

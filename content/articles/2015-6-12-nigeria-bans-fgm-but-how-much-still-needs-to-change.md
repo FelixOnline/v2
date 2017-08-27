@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
-image: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
 image_caption: "In some parts of the world, FGM is the norm, but while it is seen as so horrific in the UK, it is rarely mentioned."
 headline: true
 featured: true

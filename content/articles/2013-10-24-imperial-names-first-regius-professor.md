@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The President and Rector bestowed Imperial College's first Regius Professorship on Professor Chris Toumazou.
 date: "2013-10-24 23:29:59 +0100"
-image: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
 image_caption: "Regius Professor of Enginering, Professor Toumazou"
 headline: true
 featured: true

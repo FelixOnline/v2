@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular column on this week's documentary fave
 date: "2016-02-12 11:44:06 +0000"
-image: "http://felixonline.co.uk/img/upload/201602121143-felix-551215456.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602121143-felix-551215456.jpg"
 image_caption: "With dyed hair, Frederic Bourdin walks through a high school hallway as Nicolas Barcley."
 headline: true
 featured: true

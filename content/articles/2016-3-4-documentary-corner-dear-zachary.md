@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There’s sentimentality, for sure, but nothing is forced
 date: "2016-03-04 11:51:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
 image_caption: "Director Kurt Kuenne (left), at the graduation of friend Andrew Bagby, the subject of the film. "
 headline: true
 featured: true

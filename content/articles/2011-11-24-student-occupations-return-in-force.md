@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Further protests begin with sit-in protest at Cambridge
 date: "2011-11-24 22:08:36 +0000"
-image: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
 image_caption: "Universities Minister David Willetts"
 headline: true
 featured: true
@@ -39,7 +39,7 @@ Birmingham University said in a statement: “Students and staff have the right 
 
 Up to 100 students have taken part in a protest at the University of Warwick. University spokesman Peter Dunn said he was not concerned by the occupation, organised by the [National Campaign Against Fees and Cuts](http://anticuts.com/) (NCAFC), stating: “We’ve had occupations before. This is another one and I’m sure we’ll have occupations in the future.”
 
-{{< figure src="http://felixonline.co.uk/img/upload/201111242207-pk1811-lady-mitchell-hall.jpg" title="Lady Mitchell Hall, where David Willetts was due to give his speech" caption="Lady Mitchell Hall, where David Willetts was due to give his speech" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201111242207-pk1811-lady-mitchell-hall.jpg" title="Lady Mitchell Hall, where David Willetts was due to give his speech" caption="Lady Mitchell Hall, where David Willetts was due to give his speech" attr="" >}}
 
 The latest call to occupy universities across the country comes approximately one year after sit-ins at the University of Manchester and the University of Sussex. Students occupied a building at the University of Manchester, demanding access to the institution’s accounts to find out how cuts are likely affect their studies. Students at the University of Sussex in Brighton occupied a campus building in protest over proposed plans to cut 115 jobs and create 20 new posts.
 

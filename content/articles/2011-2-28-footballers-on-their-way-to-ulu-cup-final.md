@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First XI reach ULU Cup final for fourth time in five years
 date: "2011-02-28 20:54:18 +0000"
-image: "http://felixonline.co.uk/img/upload/201102282045-dr710-football.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102282045-dr710-football.jpg"
 headline: true
 featured: true
 imported: true

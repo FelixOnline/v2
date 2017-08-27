@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-02 17:46:49 +0100"
-image: "http://felixonline.co.uk/img/upload/201106021846-felix-face-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106021846-felix-face-1.jpg"
 image_caption: "Babar Ahmad pictured after his arrest in 2003"
 headline: true
 featured: true
@@ -62,7 +62,7 @@ At the time of writing, the jury were expected to have begun deliberations on Fr
 
 _The story of Babar Ahmad_
 
-{{< figure src="http://felixonline.co.uk/img/upload/201106021850-felix-img_4576.jpg" title="Felix reports raid on campus in December 2003" caption="Felix reports raid on campus in December 2003" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201106021850-felix-img_4576.jpg" title="Felix reports raid on campus in December 2003" caption="Felix reports raid on campus in December 2003" attr="" >}}
 
 Babar Ahmad was formerly a student and staff member at Imperial, working as an ICT support analyst in the Mechanical Engineering department. On December 2nd 2003, counter-terrorism police arrested him in a predawn raid at his home in Tooting, South London. During the arrest, he sustained 73 forensically recorded injuries including bleeding in his ear and urine. He alleges that he was beaten, choked, and subjected to religious verbal abuse. Although the IPCC initially refuted his claims, Met police commissioner, Sir Paul Stephenson, admitted in 2009 that he was submitted to “grave abuse tantamount to torture” during the arrest and he received compensation totalling £60,000.
 

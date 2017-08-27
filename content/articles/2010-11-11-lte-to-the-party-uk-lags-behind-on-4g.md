@@ -4,7 +4,7 @@ title: >
 subtitle: >
   It’s almost 2011 already. Where’s my super fast 4G?!
 date: "2010-11-11 20:34:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201011112033-ks607-3g3g33g3.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011112033-ks607-3g3g33g3.jpg"
 image_caption: "Now that's what I call 'fast'"
 headline: true
 featured: true

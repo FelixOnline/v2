@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
 image_caption: "Terry Crews doesn't have time for your hypermasculinity bullcrap."
 headline: true
 featured: true

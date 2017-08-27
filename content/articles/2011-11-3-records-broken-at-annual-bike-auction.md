@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Over £7000 raised for RAG from bargain bikes
 date: "2011-11-03 19:29:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201111031930-pk1811-img_6796-copy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111031930-pk1811-img_6796-copy.jpg"
 image_caption: "Deputy President (Welfare) Nicolas Massie shows his goods"
 headline: true
 featured: true

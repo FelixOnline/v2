@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
-image: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
 headline: true
 featured: true
 imported: true

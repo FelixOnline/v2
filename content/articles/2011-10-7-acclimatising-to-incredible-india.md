@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Follow the adventures of a backpacker across the mighty subcontinent, beginning with some sightseeing in the country’s brilliant capital city
 date: "2011-10-07 13:10:56 +0100"
-image: "http://felixonline.co.uk/img/upload/201110071409-felix-delhi.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071409-felix-delhi.jpg"
 image_caption: "Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to "
 headline: true
 featured: true

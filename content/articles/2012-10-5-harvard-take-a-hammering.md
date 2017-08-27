@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sean Baker retells the dominance of IC Rugby
 date: "2012-10-05 13:27:10 +0100"
-image: "http://felixonline.co.uk/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
 image_caption: "Ably watched by his teammates, Olisa charges on."
 headline: true
 featured: true

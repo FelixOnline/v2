@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Students receive emails from Departments about the smoke free areas
 date: "2013-03-01 00:45:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201303010044-tna08-cigarette-butt.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201303010044-tna08-cigarette-butt.jpg"
 headline: true
 featured: true
 imported: true

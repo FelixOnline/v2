@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on cricket’s continued success
 date: "2013-05-16 17:59:31 +0100"
-image: "http://felixonline.co.uk/img/upload/201305161856-tna08-942774_527955110594822_767625679_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305161856-tna08-942774_527955110594822_767625679_n.jpg"
 headline: true
 featured: true
 imported: true
@@ -39,7 +39,7 @@ On Wednesday the 24th April, the BUCS Outdoor Cricket season began. We had our f
 
 Jayanth Ganapathy and Shazad Ahmad opened up and kept it tight at the start. We got a breakthrough early on and we were on top. Their next partnership was a good one and it seemed like we were going to chase a large total if we did not get a breakthrough. Shazil Choukath, our 1st change medium pacer, was brought into the attack and caused a few problems initially with his pace but soon enough, the batsmen started enjoying the extra pace on a slow pitch. The spinners, Darshan Patel and Joe O’Gorman, were brought in and immediately troubled both the set batsmen. It only took a few overs for the spinners to strike dismissing the pair.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161857-tna08-944523_527955433928123_1756840228_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161857-tna08-944523_527955433928123_1756840228_n.jpg" title="" caption="" attr="" >}}
 
 More wickets fell and with the help of some tight bowling at the end of the innings we restricted Reading to 173-9 off 46 overs. Jayanth finished with excellent figures of 4 for 22 off 10 overs, Darshan with 2 for 20 off 9 overs, Shazad with 1 for 24 off 9 overs and Joe 2 for 36 off 9 overs. Imperial went in to bat after Tea needing 174 from 46 at around 3.8 runs per over.
 
@@ -51,7 +51,7 @@ IC 2nd XI’s second game of the season, and their first in BUCS, was against Ki
 
 Stand-in skipper Will Baker got off to a good start by assembling everyone at Putney Bridge station on time, before making the journey to Berrylands. With some glorious sunshine, and a flat pitch, IC made a strong start batting first. Chris Gayle Lomas Persadcracked a few unstoppable cover drives in typical Carribean fashion before being adjudged lbw on 28. Fellow opener Rohin Patel had a careful start before blazing his way to a match-winning 114. After successive boundaries, one of the opposition fielders remarked, “You can’t do anything about that, it’s just good batting.” He was in a hurry to get to somewhere after the game, and hopefully he got there. There was also good support from the middle order, with Hemant Morjaria’s 11 of 44 balls applauded by the skipper and dubbed as “the Samaraweera to Rohin’s Sangakkara”. Good contributions from Jai Patel, Will Baker, Johan Rekers, Cameron Currin and Umar Minhas led to an imposing total of 286.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201305161859-tna08-943048_527955187261481_484254461_n.jpg" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201305161859-tna08-943048_527955187261481_484254461_n.jpg" title="" caption="" attr="" >}}
 
 With morale high, IC set about trying to get quick wickets, however the opening pair started well with a 130-run partnership. After Will Baker slipped and bowled a delivery over 2nd Slip’s head, the game was slipping away. However Lomas, who had bowled well without much luck, finally knocked leg stump over. With a tight 10-over spell from debutant Priyank Shah with 2 wickets and run out, IC were right back in the game. One of the more comical catches happened when Shah dropped an absolute dolly of his own bowling, but the ball popped straight into Cameron Currin’s hands at short extra cover. With electric fielding and tight bowling by Chris Hong from one end, spinner Vignesh Venkataraman had the opposition all-at-sea with a brilliant spell of 5 overs, conceding 8 runs and picking up 4 wickets, with some brilliant keeping from Jai Patel. Further wickets from Umar Minhas and Johan Rekers completed the innings. The opposition were visibly shaken, writing ‘Yosn’ instead of ‘Johan’ in the scorebook. The umpires were also baffled about some strange noises being heard on the field. This had no relation to where Hemant Morjaria was fielding, obviously.
 

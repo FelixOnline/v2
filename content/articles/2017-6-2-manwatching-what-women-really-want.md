@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Manwatching was on at the Royal Court Theatre 10th to 20th May
 date: "2017-06-02 13:19:06 +0100"
-image: "http://felixonline.co.uk/img/upload/201706021518-felix-201705251403-im1413-helenmurray-Manwatching-Royal-Court-1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201706021518-felix-201705251403-im1413-helenmurray-Manwatching-Royal-Court-1.jpg"
 image_caption: "Manwatching- written by an anonymous woman, performed by a unprepared man"
 headline: true
 featured: true

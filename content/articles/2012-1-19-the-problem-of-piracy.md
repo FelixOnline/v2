@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Online piracy is a growing problem, but planned, potentially disastrous US legislation is not the way to tackle it. Laurence Pope discusses
 date: "2012-01-19 20:33:39 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
 headline: true
 featured: true
 imported: true
@@ -43,7 +43,7 @@ DRM (Digital Rights Management) is often used by media distribution companies su
 
 As mentioned previously people are clever. Pirates have found, and will continue to find ways around DRM restrictions, forcing companies to continually upgrade their protection if they want to stay ahead of the game. ‘Cracking’ DRM protection costs time – updating it costs both time and money and forces companies into a battle that they cannot possibly win. Another issue with DRM lies with format and standard changes. DRM-restricted content is not always perfect, and often content that the owner has paid for is lost in the changeover. It’s just not a good anti-piracy system, as proved by the now infamous game _Spore_.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201201192033-ams111-spore_logo_by_hakeryk2.jpg" title="The failure of Spore's anti-piracy protection does little to back up the case for increased usage of DRM technology" caption="The failure of Spore's anti-piracy protection does little to back up the case for increased usage of DRM technology" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201201192033-ams111-spore_logo_by_hakeryk2.jpg" title="The failure of Spore's anti-piracy protection does little to back up the case for increased usage of DRM technology" caption="The failure of Spore's anti-piracy protection does little to back up the case for increased usage of DRM technology" attr="" >}}
 
 _Spore_, a single player God-game, was released in 2008 by EA Games. The game featured an overly Draconian DRM system, requiring internet activation and a limit of only three installations. Any more than that and you had to contact EA for an added activation, which they were not obliged to grant you. The result? Hilariously, with over half a million downloads across various BitTorrent sites, _Spore_ became one the most pirated game in history. As if to rub salt on the wound _Spore_ also became one of the lowest rated games on Amazon, mostly down to its DRM system. If there’s ever a case for aggressive DRM failing to do its job, _Spore_ is the one.
 

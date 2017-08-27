@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah goes on pun overload as he asks the stand-up comedian/actor about everything from his university days to his ongoing tour
 date: "2012-03-02 01:48:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201203020216-felix-chris_addison.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203020216-felix-chris_addison.jpg"
 headline: true
 featured: true
 imported: true

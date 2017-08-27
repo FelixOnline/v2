@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Peter Quicke and Jamie Rickman share their Vietnamese food know-how
 date: "2011-03-01 21:19:05 +0000"
-image: "http://felixonline.co.uk/img/upload/201103012119-ks607-Apocalyp.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103012119-ks607-Apocalyp.jpg"
 headline: true
 featured: true
 imported: true

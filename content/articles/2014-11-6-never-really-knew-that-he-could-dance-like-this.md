@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Yasmin Malik and IC Belly Dancing gets close and personal with Sunny the Shake Boy
 date: "2014-11-06 21:04:07 +0000"
-image: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
 image_caption: "Sunny the Shake Boy at Arabic Night."
 headline: true
 featured: true

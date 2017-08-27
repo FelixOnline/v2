@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-03 09:23:26 +0100"
-image: "http://felixonline.co.uk/img/upload/201606031123-felix-esp-robot.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201606031123-felix-esp-robot.jpg"
 image_caption: "The Environmental Sample Processor being deployed in open water."
 headline: true
 featured: true

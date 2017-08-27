@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg interviews Vampire Diaries’ Michael Malarkey, as he releases his debut EP
 date: "2015-01-23 18:50:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
 image_caption: "Michael Malarkey wowing crowds Wilton's Music Hall"
 headline: true
 featured: true

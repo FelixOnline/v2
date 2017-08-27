@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Last Saturday, fundraising totals were announced for Charity Week 2013 (CW) at the annual round-off dinner, with Imperial College students raising just under a staggering £70,000 in one week.
 date: "2013-12-03 15:41:29 +0000"
-image: "http://felixonline.co.uk/img/upload/201312031545-jal08-news_charity_week.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201312031545-jal08-news_charity_week.jpg"
 image_caption: "Volunteers at Imperial's Charity Week"
 headline: true
 featured: true

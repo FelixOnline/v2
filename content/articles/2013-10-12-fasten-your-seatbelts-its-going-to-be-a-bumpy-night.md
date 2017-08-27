@@ -4,7 +4,7 @@ title: >
 subtitle: >
   There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic Rush. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as...
 date: "2013-10-12 12:02:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
 headline: true
 featured: true
 imported: true

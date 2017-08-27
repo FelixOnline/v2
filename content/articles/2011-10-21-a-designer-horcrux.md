@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Federica Amato and Saskia Verhagen discuss the curse of the designer handbag
 date: "2011-10-21 10:22:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201110211121-ak6309-beymen_2011_ss_002.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110211121-ak6309-beymen_2011_ss_002.jpg"
 image_caption: "Handbags – probably the best place to keep your sleeping pills"
 headline: true
 featured: true

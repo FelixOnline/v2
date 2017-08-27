@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Laura Huckins visits the fabled new restaurant sensation
 date: "2011-05-12 18:36:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105121936-felix-pate.jpg"
 image_caption: "Oh sweet delicious meat fruit..."
 headline: true
 featured: true

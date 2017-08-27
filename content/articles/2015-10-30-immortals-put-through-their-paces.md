@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The newbies took to the field
 date: "2015-10-30 15:29:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201510301521-ygr12-immort.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510301521-ygr12-immort.jpg"
 headline: true
 featured: true
 imported: true

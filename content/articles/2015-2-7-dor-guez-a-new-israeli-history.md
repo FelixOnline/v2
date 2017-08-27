@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland checks out one of the new shows at the ICA
 date: "2015-02-07 19:15:22 +0000"
-image: "http://felixonline.co.uk/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
 image_caption: "Dor Guez, Frame from The Painter, 2015. "
 headline: true
 featured: true

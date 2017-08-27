@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week I interviewed Abdulla Sheikh. He is a MSc student at Imperial who has recently started a business and is currently organising TedX Imperial as well as working on a number of other exciting projects.
 date: "2014-03-24 03:40:04 +0000"
-image: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403240340-jal08-whotter.jpg"
 headline: true
 featured: true
 imported: true

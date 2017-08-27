@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Or why your agave syrup isn’t really any better
 date: "2016-02-19 11:29:56 +0000"
-image: "http://felixonline.co.uk/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
 image_caption: "Eat sugar mice, and be at peace with the fact that you’re basically consuming pure sugar. "
 headline: true
 featured: true

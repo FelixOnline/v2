@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Deborah Shorley, Head of Imperial’s library, will take Britain’s biggest publishers to the edge if necessary
 date: "2011-02-17 18:54:41 +0000"
-image: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102171846-ks607-deborahs.jpg"
 headline: true
 featured: true
 imported: true

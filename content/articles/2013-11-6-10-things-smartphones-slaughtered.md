@@ -4,7 +4,7 @@ title: >
 subtitle: >
   After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones).
 date: "2013-11-06 17:20:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201311061720-me1711-tech_preciousjpg.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201311061720-me1711-tech_preciousjpg.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Anum Farooq on how getting your degree is just the beginning
 date: "2011-10-20 23:20:37 +0100"
-image: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110210020-sjw209-anum-cutout.jpg"
 headline: true
 featured: true
 imported: true

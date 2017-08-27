@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Much anticipated fim War Horse gets Lucy Wiles' approval
 date: "2012-01-19 20:29:30 +0000"
-image: "http://felixonline.co.uk/img/upload/201201192029-pk1811-war-horse-movie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201201192029-pk1811-war-horse-movie.jpg"
 image_caption: "Don’t worry, I’ll make sure you don’t end up like that one in The Godfather"
 headline: true
 featured: true

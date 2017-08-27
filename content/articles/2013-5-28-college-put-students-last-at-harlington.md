@@ -4,7 +4,7 @@ title: >
 subtitle: >
   By selling use of the sports grounds to the highest bidder, college is forgetting the families of the WWI dead who paid for them. A letter from a former Union President.
 date: "2013-05-28 14:52:07 +0100"
-image: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201305281552-tna08-56677701.jpg"
 headline: true
 featured: true
 imported: true

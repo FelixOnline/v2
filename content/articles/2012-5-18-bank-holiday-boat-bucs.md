@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Rowers take on Nottingham
 date: "2012-05-18 16:46:48 +0100"
-image: "http://felixonline.co.uk/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
 image_caption: "Tim Richards and Wilf Kimberley bask in the glory of BUCS"
 headline: true
 featured: true

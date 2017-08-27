@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Jiaqi Shi investigates Christie's
 date: "2013-10-18 21:49:13 +0100"
-image: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310182248-jal08-artsauctionhouse.jpg"
 image_caption: "No, it's the picture over there!"
 headline: true
 featured: true

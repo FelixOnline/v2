@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Dealing with stress and getting help are easier than you might have thought
 date: "2016-05-20 09:25:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201605201124-felix-lib.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605201124-felix-lib.jpg"
 image_caption: "Real talk."
 headline: true
 featured: true

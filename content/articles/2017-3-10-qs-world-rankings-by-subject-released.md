@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Imperial down to ninth place but Engineering still in top ten
 date: "2017-03-10 13:11:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
 headline: true
 featured: true
 imported: true

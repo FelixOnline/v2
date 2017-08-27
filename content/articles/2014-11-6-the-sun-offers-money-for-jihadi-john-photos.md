@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah on the paper offering money for bad taste costume photos
 date: "2014-11-06 18:43:32 +0000"
-image: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
 image_caption: "Two girls dressed as the World Trade Centre during 9/11, as reported in The Sun."
 headline: true
 featured: true

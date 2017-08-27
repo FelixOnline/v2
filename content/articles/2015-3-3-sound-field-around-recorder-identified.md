@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The complicated physics behind a rather simple instrument
 date: "2015-03-03 15:03:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201503031503-ps3110-recordersim1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503031503-ps3110-recordersim1.jpg"
 headline: true
 featured: true
 imported: true

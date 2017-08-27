@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A wise man once said that there is only one thing a man can do when he’s suffering from a spiritual and existential funk. Go to the zoo, flip off the monkeys? “No,” says Ron Burgundy, “buy new suits.” Saskia Verhagen and Alice Yang show you the ropes.
 date: "2012-02-02 20:32:58 +0000"
-image: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202081511-pk1811-dg-db.jpg"
 image_caption: "Dolce & Gabbana"
 headline: true
 featured: true
@@ -48,7 +48,7 @@ The Catwalk
 Almost ubiquitous at the menswear shows this season, the smart, gentlemanly double-breasted suit was pervasive especially amongst the Italian designers, with a subtle aubergine hue proving a favourite at Prada and Ferragamo. Colour and textural variation in general was prominent, with dark blues at Gucci, pinstripes at Alexander McQueen and wider stripes at Canali. The vibe overall was modern and young, reviving the traditional Bogartian DB with a spring in its swaggering step. -SV
 ## Three-Button Suit
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202081514-pk1811-viktor.jpg" title="Viktor & Rolf" caption="Viktor & Rolf" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202081514-pk1811-viktor.jpg" title="Viktor & Rolf" caption="Viktor & Rolf" attr="" >}}
 
 The Man
 
@@ -67,7 +67,7 @@ The Catwalk
 Protect from the cold whilst journeying to and from the office by adding winter accessories to your three-buttoned suit. Burberry Prorsum opted to liven up their grey suits with subtly patterned gloves and scarves layered under bulging puffa jackets and leather coats inspired by the great British countryside, whilst at Viktor & Rolf the models tackled the weather by layering fur over their chocolate suits matched with the warmer alternative of leather trousers. -AY
 ## Two-Button Suit
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202022031-ams111-gucci-2b-.jpg" title="Gucci" caption="Gucci" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202022031-ams111-gucci-2b-.jpg" title="Gucci" caption="Gucci" attr="" >}}
 
 The Man
 
@@ -86,7 +86,7 @@ The Catwalk
 Seen in almost every combination of tone, pattern and texture, the two-button suit also seems to have succumbed to the theme of certain striking colour choices. A jewel-toned velvet incarnation with contrasting trousers was seen at Burberry Prorsum, Prince of Wales check at Alexander McQueen, contrasting lapels at Louis Vuitton, and vivid, solid colour in an incredibly flattering slim cut at Gucci – it has to be said, Frida Giannini cuts a wicked suit. -SV
 ## One-Button Suit
 
-{{< figure src="http://felixonline.co.uk/img/upload/201202022033-ams111-1-lanvin.jpg" title="Lanvin" caption="Lanvin" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201202022033-ams111-1-lanvin.jpg" title="Lanvin" caption="Lanvin" attr="" >}}
 
 The Man
 

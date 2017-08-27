@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports on the red carpet sexism at the Cannes Film Festival
 date: "2015-05-21 23:19:04 +0100"
-image: "http://felixonline.co.uk/img/upload/201505220019-jmm311-emily-blunt-cannes.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505220019-jmm311-emily-blunt-cannes.jpg"
 headline: true
 featured: true
 imported: true

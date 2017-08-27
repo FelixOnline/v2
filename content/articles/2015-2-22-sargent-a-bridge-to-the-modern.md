@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Indira Mallik finds that Sargent was not all that he was painted to be
 date: "2015-02-22 17:39:10 +0000"
-image: "http://felixonline.co.uk/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
 image_caption: "Edouard and Marie-Louise Pailleron by John Singer Sargent, 1881. "
 headline: true
 featured: true

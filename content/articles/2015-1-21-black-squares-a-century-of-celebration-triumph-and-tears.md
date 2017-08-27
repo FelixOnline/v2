@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles heads down to the Whitechapel Gallery as they take an abstract adventure through the ages
 date: "2015-01-21 20:30:16 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212146-ps3110-d¢ra-maurer,-seven-rotations-1--6,-1979.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212146-ps3110-d¢ra-maurer,-seven-rotations-1--6,-1979.jpg"
 headline: true
 featured: true
 imported: true

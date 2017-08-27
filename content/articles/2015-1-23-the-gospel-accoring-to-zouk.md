@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Chris Richardson catches some house and techno heavyweights along Singapore’s coastline
 date: "2015-01-23 18:53:13 +0000"
-image: "http://felixonline.co.uk/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png"
 image_caption: "They don't have palm trees at Glastonbury"
 headline: true
 featured: true

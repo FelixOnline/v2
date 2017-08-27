@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The French teach us lessons in democracy, according to Bernhardt Kreuzweg-Burgheim
 date: "2011-11-03 21:05:42 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032105-pk1811-tocqueville_alexis_de.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032105-pk1811-tocqueville_alexis_de.jpg"
 image_caption: "Alexis de Tocqueville (1805-1859). What a lad!"
 headline: true
 featured: true

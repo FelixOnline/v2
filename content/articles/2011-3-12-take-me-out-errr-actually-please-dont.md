@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Simpson takes a look at last week's TV
 date: "2011-03-12 12:41:03 +0000"
-image: "http://felixonline.co.uk/img/upload/201103121235-ks607-takemeou.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103121235-ks607-takemeou.jpg"
 headline: true
 featured: true
 imported: true

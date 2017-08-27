@@ -4,7 +4,7 @@ title: >
 subtitle: >
   James Bezer asks whether they’ve achieved their lofty goals
 date: "2014-11-14 21:06:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142105-ps3110-mark_zuckerberg_at_the_37th_g8_summit_in_deauville_018_v1.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142105-ps3110-mark_zuckerberg_at_the_37th_g8_summit_in_deauville_018_v1.jpg"
 headline: true
 featured: true
 imported: true

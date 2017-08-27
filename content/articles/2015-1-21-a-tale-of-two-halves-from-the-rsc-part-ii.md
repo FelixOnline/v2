@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles reviews the Royal Shakespeare Company's production of Henry IV Part II at the Barbican Centre
 date: "2015-01-21 20:28:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201501212152-ps3110-2014-12-12-henryiv742.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501212152-ps3110-2014-12-12-henryiv742.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports on the awards night that celebrates achievements of Union clubs, societies and projects
 date: "2015-06-19 13:33:42 +0100"
-image: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506191433-ps3110-img_8134.jpg"
 headline: true
 featured: true
 imported: true

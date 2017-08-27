@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Felix’s deputy expert on the world’s favourite rockstar predicts the possible policies of the 2020 West Administration
 date: "2015-10-16 14:44:52 +0100"
-image: "http://felixonline.co.uk/img/upload/201510161544-ygr12-kanye.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201510161544-ygr12-kanye.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi reviews Nordic trumpetist Arve Henriksen’s latest effort
 date: "2014-03-26 16:49:55 +0000"
-image: "http://felixonline.co.uk/img/upload/201403261651-jal08-arve-henriksen_2009.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201403261651-jal08-arve-henriksen_2009.jpg"
 headline: true
 featured: true
 imported: true

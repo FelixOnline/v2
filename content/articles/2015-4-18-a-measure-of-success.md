@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles applauds the physicality of this Russian production of Measure for Measure
 date: "2015-04-18 08:06:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
 image_caption: "Alexander Matrosov, Peter Rykov, Alexander Arsentyev in Measure for Measure, Barbican, London."
 headline: true
 featured: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Gizmodo ends up with an iPhone prototype lost in a bar and spills the details
 date: "2010-04-30 11:23:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201004301218-srg03-iPhonePr.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201004301218-srg03-iPhonePr.jpg"
 headline: true
 featured: true
 imported: true

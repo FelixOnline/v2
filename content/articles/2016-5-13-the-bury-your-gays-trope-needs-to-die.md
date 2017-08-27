@@ -4,7 +4,7 @@ title: >
 subtitle: >
   LGBT fans deserve, and are demanding better from TV networks and producers
 date: "2016-05-13 08:55:29 +0100"
-image: "http://felixonline.co.uk/img/upload/201605131054-felix-web.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605131054-felix-web.jpg"
 image_caption: "This is not worthy of a death sentence. "
 headline: true
 featured: true

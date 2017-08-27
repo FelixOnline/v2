@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Scott Pilgrim vs. The World
 date: "2010-10-10 15:38:51 +0100"
-image: "http://felixonline.co.uk/img/upload/201010101637-ks607-ScottPil.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010101637-ks607-ScottPil.jpg"
 headline: true
 featured: true
 imported: true

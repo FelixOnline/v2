@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Grace Rahman reflects on Madame JoJo’s rich past and uncertain future
 date: "2014-12-04 19:21:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201412041921-cj914-alex.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412041921-cj914-alex.jpg"
 image_caption: "Dev Hynes and Alex Turner share the White Heat stage way back in 2008 for the Falling Off Lavender B"
 headline: true
 featured: true

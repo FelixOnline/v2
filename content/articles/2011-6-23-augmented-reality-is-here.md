@@ -4,7 +4,7 @@ title: >
 subtitle: >
   But Chris Bowers examines whether it is all that it is cracked up to be
 date: "2011-06-23 20:25:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
 headline: true
 featured: true
 imported: true

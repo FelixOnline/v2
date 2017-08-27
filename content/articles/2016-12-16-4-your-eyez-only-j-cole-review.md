@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The underlying narrative of the album tells the true story of the life of J. Cole’s late friend James McMillan
 date: "2016-12-16 14:58:25 +0000"
-image: "http://felixonline.co.uk/img/upload/201612161458-felix-4_Your_Eyes_Only.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161458-felix-4_Your_Eyes_Only.jpg"
 headline: true
 featured: true
 imported: true

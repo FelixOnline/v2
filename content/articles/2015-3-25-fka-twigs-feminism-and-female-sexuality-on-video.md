@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Fred Fyles compares the different approaches FKA twigs and Sia take when it comes to their controlling their public image in music videos
 date: "2015-03-25 12:21:15 +0000"
-image: "http://felixonline.co.uk/img/upload/201503251218-ff712-maxresdefault.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201503251218-ff712-maxresdefault.jpg"
 image_caption: "The steamy, sensual video for FKA twigs' Two Weeks, from 2014's LP1"
 headline: true
 featured: true

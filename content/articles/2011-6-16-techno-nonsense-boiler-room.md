@@ -4,7 +4,7 @@ title: >
 subtitle: >
   This week Simon Hunter looks at the rising star of London's underground music scene
 date: "2011-06-16 20:56:00 +0100"
-image: "http://felixonline.co.uk/img/upload/201106162158-felix-jamiexx.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106162158-felix-jamiexx.jpg"
 headline: true
 featured: true
 imported: true

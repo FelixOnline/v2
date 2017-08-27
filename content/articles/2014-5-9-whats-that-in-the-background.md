@@ -4,7 +4,7 @@ title: >
 subtitle: >
   What are paintings all about anyway?
 date: "2014-05-09 02:17:19 +0100"
-image: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201405090317-jal08-arts-ng.jpg"
 headline: true
 featured: true
 imported: true

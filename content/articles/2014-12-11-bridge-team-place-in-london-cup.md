@@ -4,7 +4,7 @@ title: >
 subtitle: >
   A great start to the year for bridge team
 date: "2014-12-11 21:25:23 +0000"
-image: "http://felixonline.co.uk/img/upload/201412112125-cj914-bridge.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201412112125-cj914-bridge.jpg"
 headline: true
 featured: true
 imported: true

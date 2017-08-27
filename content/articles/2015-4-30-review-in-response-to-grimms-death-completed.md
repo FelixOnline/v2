@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Results criticised by external academics: “Imperial doesn’t get it.”
 date: "2015-04-30 23:09:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201505010008-ps3110-newseventsimages.jpeg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201505010008-ps3110-newseventsimages.jpeg"
 image_caption: "Stefan Grimm, professor of toxiology at Imperial, was struggling to acquire funding"
 headline: true
 featured: true

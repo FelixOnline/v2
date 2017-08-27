@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Great results for both mens' and womans' teams that took part in annual race on the Thames
 date: "2014-11-14 21:25:02 +0000"
-image: "http://felixonline.co.uk/img/upload/201411142124-ps3110-pic-51.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411142124-ps3110-pic-51.jpg"
 headline: true
 featured: true
 imported: true

@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Sebastian Gonzato offers the green argument for nuclear power
 date: "2016-10-28 15:13:01 +0100"
-image: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
 headline: true
 featured: true
 imported: true
@@ -34,7 +34,7 @@ This is all well and good if it leads to more use in renewables, and in the case
 
 Germany’s Energiewende, or energy transition policy, has led to a tripling in the electricity provided by renewables in the last ten years to 31% of the total. Most of this comes from wind and solar photovoltaics (PV) rather than dubious renewables such as biomass, whose green credentials are questionable. It is hard to argue that this isn’t a step in the right direction, but that isn’t the whole story.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610281801-felix-Screen Shot 2016-10-28 at 17.58.47.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610281801-felix-Screen Shot 2016-10-28 at 17.58.47.png" title="" caption="" attr="" >}}
 
 The problem is that coal consumption in Germany has stayed constant thanks to its decision to phase out nuclear. In fact, its emissions actually increased some years and have stayed roughly constant since 2009.
 
@@ -42,7 +42,7 @@ A similar situation has occurred in Sweden, where a tax on nuclear power has all
 
 In short, going carbon free with only renewables is not possible. This is due principally to intermittency issues as mentioned earlier, but also because of the sheer amount of energy we consume. At last year’s Imperial Climate Change Symposium, Asad Rehman from Friends of the Earth stated that there’s more than enough wind and solar energy to satisfy the UK’s electricity demand, which is quite simply not true.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201610281801-felix-Screen Shot 2016-10-28 at 17.59.11.png" title="" caption="" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201610281801-felix-Screen Shot 2016-10-28 at 17.59.11.png" title="" caption="" attr="" >}}
 
 Sweden also claims to have 100% carbon free electricity production by 2040, which is simply not possible solely with renewables
 A report by Zero Carbon Britain in 2007 predicted that while total wind resources amount to 3,212, TWh/year, only around 14% of this could realistically be tapped. The UK’s energy consumption was 2,249 TWh in 2014, so even with other renewables sources, meeting this demand is impossible without converting vast swathes of the countryside into wind farms.

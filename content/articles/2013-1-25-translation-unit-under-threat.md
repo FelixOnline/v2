@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Petition to save Unit gets over 4,700 signatures in just one week Members of staff now unsure of their future
 date: "2013-01-25 01:04:24 +0000"
-image: "http://felixonline.co.uk/img/upload/201301250104-tna08-sherfield.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201301250104-tna08-sherfield.jpg"
 image_caption: "The Translation Studies Unit is in the Sherfield Building"
 headline: true
 featured: true
@@ -36,7 +36,7 @@ The plans have met with widespread opposition, with members of the Unit [creatin
 The petition attracted over 2,500 supporters in its first 48 hours and, at the time of going to print, was just over 260 signatures off meeting its target of 5,000. Signatories have praised the Units “unique contribution” to technical translation and have called it a “fundamental point of reference” of the field.
  It is unclear what would happen to PhD students in the middle of their degrees should the TSU close and these students have been particularly vocal in their concerns. Lindsay Bywood told Felix of her disappointment at how “PhD students and part-time MSc students are being cast adrift by the College in the middle of their courses”, asserting that “an award of an Imperial degree is pretty meaningless when I have no idea what sort of supervision, library, and facilities support I will receive for the next three years of my research”.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201301250103-tna08-petition.jpg" title="The petition on Thursday" caption="The petition on Thursday" attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201301250103-tna08-petition.jpg" title="The petition on Thursday" caption="The petition on Thursday" attr="" >}}
 
 This is a view shared by Renata Mliczak, who believes that “the plans of the Management Board at IC are truly inconsiderate of all the TSU students”. She added that while it was clear that “academics around the world see the importance of the work and research conducted by IC TSU scholars, it is a big shame that IC cannot see and appreciate it”. She asserts that the proposed closure acts “as a message to the world that IC is not interested in disseminating (through translation) the great research that is done here in medicine, engineering and natural sciences, but doing it for its own sake” with Soledad Zarate, another PhD student, further questioning how “an institution of such high calibre, home to students coming from all over the world, [does] not recognise that translation is vital for the transferral of knowledge and research between cultures worldwide”.
 

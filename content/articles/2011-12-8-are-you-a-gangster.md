@@ -4,7 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs tell us the story of a new kind of ‘gang warfare’ within the Social Media, and how it is bettering the work of young entrepreneurs
 date: "2011-12-08 20:32:43 +0000"
-image: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201112082017-cac111-butchcassidy.jpg"
 image_caption: "Butch Cassidy and the Sundance Kid gained notoriety holding-up banks...never young entrepreneurs"
 headline: true
 featured: true
@@ -36,7 +36,7 @@ Of course, the answers are not always right, and in fact, quite often they are t
 
 One could compare it to a cool consulting case study, or an engineering problem. Whatever you may call it, there are a few of things that make hold-ups very special indeed. Firstly, by working with real world businesses that pursue an ethical mission to tackle an environmental or a social problem – the definition of social enterprise – it offers a sense of real achievement. Secondly, it teaches participants to think in real business terms – a skill which most of us don’t get taught in the classroom. Lastly it also provides a point of contact with lots of ambitious people who are passionate about making a difference.
 
-{{< figure src="http://felixonline.co.uk/img/upload/201112082031-cac111-goodfellas.jpg" title="Wise guys (from left) Ray Liotta, Robert De Niro, Paul Sorvino and Joe Pesci play old-school gangsters in Scorsese’s GoodFellas (1990) " caption="Wise guys (from left) Ray Liotta, Robert De Niro, Paul Sorvino and Joe Pesci play old-school gangsters in Scorsese’s GoodFellas (1990) " attr="" >}}
+{{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201112082031-cac111-goodfellas.jpg" title="Wise guys (from left) Ray Liotta, Robert De Niro, Paul Sorvino and Joe Pesci play old-school gangsters in Scorsese’s GoodFellas (1990) " caption="Wise guys (from left) Ray Liotta, Robert De Niro, Paul Sorvino and Joe Pesci play old-school gangsters in Scorsese’s GoodFellas (1990) " attr="" >}}
 
 As MakeSense is growing and new members are adding up, more and more hold-ups are being organized around the world. In the past 6 months it grew from a small community of around 100 gangsters based in Paris, to more than 500 across London, Vienna, Berlin, San Francisco, Shanghai and even Melbourne. The gang recently reached the hallmark of 100 organized hold-ups, and is growing exponentially as I write. Indeed, right now, the Paris hub is leading six hold-ups simultaneously to help improve six unique social businesses.
 

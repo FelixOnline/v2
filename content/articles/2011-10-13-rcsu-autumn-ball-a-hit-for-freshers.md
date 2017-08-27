@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Organisers praised as students are drawn to Embankment by 'fantastic' drinks deal
 date: "2011-10-13 20:09:57 +0100"
-image: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110132115-felix-img_0322.jpg"
 image_caption: "There were way more girls there, honestly"
 headline: true
 featured: true

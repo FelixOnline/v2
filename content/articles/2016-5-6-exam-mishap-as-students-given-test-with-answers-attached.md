@@ -4,7 +4,7 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
-image: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201605061040-felix-THE ONE.jpg"
 headline: true
 featured: true
 imported: true

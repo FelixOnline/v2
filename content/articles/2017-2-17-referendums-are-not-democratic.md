@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Divyen Vanniasegaram condemns the votes as a replacement for effective democracy
 date: "2017-02-17 14:38:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
 headline: true
 featured: true
 imported: true

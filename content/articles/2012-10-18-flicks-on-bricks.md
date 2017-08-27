@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Emilie Beauchamp introduces you to an evening of cutting edge video art
 date: "2012-10-18 20:57:50 +0100"
-image: "http://felixonline.co.uk/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
 headline: true
 featured: true
 imported: true

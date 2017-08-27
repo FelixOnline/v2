@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-03 14:21:09 +0100"
-image: "http://felixonline.co.uk/img/upload/201106031520-felix-use.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106031520-felix-use.jpg"
 headline: true
 featured: true
 imported: true

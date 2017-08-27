@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mimi Li on the dangers of living in a polluted city.
 date: "2014-06-12 17:00:43 +0100"
-image: "http://felixonline.co.uk/img/upload/201406121800-me1711-london-pollution-011.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201406121800-me1711-london-pollution-011.jpg"
 headline: true
 featured: true
 imported: true

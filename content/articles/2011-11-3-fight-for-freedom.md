@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Mr Poppadom discusses a land of opportunity, “where people can think and act and worship any way they want”
 date: "2011-11-03 21:01:31 +0000"
-image: "http://felixonline.co.uk/img/upload/201111032101-pk1811-welfare_state.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032101-pk1811-welfare_state.jpg"
 image_caption: "Indeed, the world would be a happier place with no welfare whatsoever: a jungle in which those who d"
 headline: true
 featured: true

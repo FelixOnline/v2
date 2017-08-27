@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Film classic returns to its roots, with Jones in driving seat
 date: "2011-10-16 14:24:05 +0100"
-image: "http://felixonline.co.uk/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
 image_caption: "This is actually how Darth Vader steered the Death Star. Probably"
 headline: true
 featured: true

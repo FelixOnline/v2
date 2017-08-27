@@ -4,7 +4,7 @@ title: >
 subtitle: >
   When machines can do all the things you can do, then what’s the point of us?
 date: "2016-03-04 11:42:49 +0000"
-image: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603041142-felix-1435070799_humans.jpg"
 headline: true
 featured: true
 imported: true

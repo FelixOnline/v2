@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Facebook campaign established to combat £50
 date: "2012-03-02 00:58:34 +0000"
-image: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
 image_caption: "The St Mary’s mountain hut"
 headline: true
 featured: true

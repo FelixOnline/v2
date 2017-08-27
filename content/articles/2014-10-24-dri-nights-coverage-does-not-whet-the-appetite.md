@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Nick Farmer responds to Felix's article about the Union's inaugural non-alcoholic night
 date: "2014-10-24 13:43:03 +0100"
-image: "http://felixonline.co.uk/img/upload/201411021855-ps3110-img_0505.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411021855-ps3110-img_0505.jpg"
 headline: true
 featured: true
 imported: true

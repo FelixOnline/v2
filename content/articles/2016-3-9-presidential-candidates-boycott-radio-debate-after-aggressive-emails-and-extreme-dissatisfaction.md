@@ -4,7 +4,7 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
-image: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201603091910-felix-20160309_190618.jpg"
 image_caption: "Drama in the West Basement of Beit."
 headline: true
 featured: true
