@@ -7,21 +7,23 @@
 <div class="headline-section">
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
+
   {{ $firstHeadline := index $headlinePosts 0 }}
-  <a href="{{ $firstHeadline.Permalink }}">
-    <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image "https://" "" }}&w=400)"></div>
-  </a>
+  <div class="headline-main">
+    <a href="{{ $firstHeadline.Permalink }}">
+      <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image "https://" "" }}&w=400)"></div>
+    </a>
+  </div>
 
   <div class="headline-summaries">
     {{ range first 3 $headlinePosts }}
-      <div class="summary">
+      <div class="headline-summary">
         <div class="section">
           {{ if (ne (index .Params.categories 0) nil) }}
             {{ index .Params.categories 0 }}
           {{ else }}
             In the Current Issue
           {{ end }}
-
         </div>
          <div class="title">
           <a href="{{ .Permalink }}">{{ truncate $titleLength "..." .Title }}</a>
@@ -31,7 +33,7 @@
       </div>
     {{ end }}
   </div>
-  <hr class="style-circle"></hr>
+  <!-- <hr class="style-circle"></hr> -->
 </div>
 
 <div class="sections">
