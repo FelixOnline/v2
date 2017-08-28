@@ -137,7 +137,6 @@
   @include relative-font-size(0.9);
   color: $grey-color;
   margin-bottom: $spacing-unit / 4;
-
 }
 
 /////////////////////
@@ -202,4 +201,52 @@ hr.style-circle:after {
       border-top: 0.75px solid $grey-color-light;
     }
   }
+
+  .section {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  .section-header {
+    @include relative-font-size(1.6);
+  }
+
+  .section-posts-container {
+    grid-template-columns: 1fr;
+  }
+
+  .section-post {
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 1em;
+  }
+
+  .section-post-image {
+    grid-column: span 1;
+    height: 70px;
+  }
+
+  .section-post-info {
+    grid-column: span 3;
+  }
+
+  .section-post-title,
+  .section-post-subtitle,
+  .section-post-byline {
+    margin-bottom: $spacing-unit / 8;
+  }
+
+  .section-post-title {
+    @include relative-font-size(1);
+    line-height: $base-line-height * 0.9;
+    margin-top: -$spacing-unit / 8;
+  }
+
+  .section-post-subtitle {
+    @include relative-font-size(0.9);
+  }
+
+  .section-post-byline {
+    @include relative-font-size(0.8);
+  }
+
 }

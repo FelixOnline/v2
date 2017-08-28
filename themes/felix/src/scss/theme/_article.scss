@@ -2,6 +2,7 @@
 
 .post-title {
   @include relative-font-size(3);
+  line-height: $base-line-height * 0.9;
 }
 
 .post-subtitle {
@@ -49,7 +50,7 @@
   background-position: center;
 }
 
-.post-content p:first-child::first-letter {
+.post-content p:not(:only-child):first-child::first-letter {
   @include relative-font-size(5);
 
   float: left;
@@ -126,46 +127,38 @@
   @include relative-font-size(1.5);
 }
 
-/* More old styles */
-
-.post-header {
-  margin-bottom: $spacing-unit;
-}
-
-.post-title {
-  @include relative-font-size(2.625);
-  letter-spacing: -1px;
-  line-height: 1;
-
-  @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
-  }
-}
 
 .post-content {
   margin-bottom: $spacing-unit;
+}
 
-  h2 {
-    @include relative-font-size(2);
+/**
+ * Blockquotes
+ */
+ blockquote {
+  color: $grey-color;
+  border-left: 4px solid $grey-color-light;
+  padding-left: $spacing-unit / 2;
+  font-style: italic;
+  @include relative-font-size(1.1);
+}
 
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
+//////////////////////////////////
+
+@include media-query($on-palm) {
+  .post-title {
+    @include relative-font-size(1.7);
   }
 
-  h3 {
-    @include relative-font-size(1.625);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
-    }
-  }
-
-  h4 {
+  .post-subtitle {
     @include relative-font-size(1.25);
+  }
 
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
-    }
+  .post-authors a {
+    @include relative-font-size(1);
+  }
+
+  .post-image-container {
+    height: 300px;
   }
 }

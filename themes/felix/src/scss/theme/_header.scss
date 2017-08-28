@@ -5,7 +5,6 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: $spacing-unit * 2;
 
-    // NEW
     text-align: center;
   }
 
@@ -20,7 +19,6 @@
       color: $text-color;
     }
 
-    // NEW
     font-family: $heading-font-family;
   }
 
@@ -34,31 +32,50 @@
       line-height: $base-line-height * 0.8;
       font-weight: bold;
 
-      // NEW
-      @include relative-font-size(0.8);
+      @include relative-font-size(0.7);
 
       // Gaps between nav items, but not on the last one
       &:not(:last-child) {
-        margin-right: 33px;
+        margin-right: 20px;
       }
 
-      // NEW
       a {
         color: $text-color;
+        text-transform: capitalize;
       }
+
+      .icon {
+        height: 20px;
+        width: auto;
+
+        position: relative;
+        top: 7px;
+      }
+
     }
   }
 
   @include media-query($on-palm) {
-    // TEMP
     .site-nav {
       display: none;
     }
   }
 
-  .icon {
-    height: 30px;
-    width: 30px;
-    position: relative;
-    top: 11px;
+  @include media-query($on-laptop) {
+    .site-nav {
+
+      .page-link {
+        @include relative-font-size(0.6);
+
+        &:not(:last-child) {
+          margin-right: 10px;
+        }
+
+        .icon {
+          height: 15px;
+          top: 4px;
+        }
+      }
+
+    }
   }
