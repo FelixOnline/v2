@@ -38,6 +38,6 @@ So thank you, everyone, who took the time to share this information with us. We 
 
 So sit back and enjoy, and I hope you find this report as funny but informative to read as we found to write.
 
-_Read the results of the survey in their entirety from pages 25 to 32 in [this week's issue of Felix](http://felixonline.co.uk/archive/IC_2012/2012_1513_A.pdf). Alternatively, just [stare at the pretty infographics](https://f001.backblazeb2.com/file/felixonline/img/upload/201203021028-felix-sexsurvey2012.jpg)._
+_Read the results of the survey in their entirety from pages 25 to 32 in [this week's issue of Felix](http://felixonline.co.uk/archive/IC_2012/2012_1513_A.pdf). Alternatively, just [stare at the pretty infographics](http://felixonline.co.uk/img/upload/201203021028-felix-sexsurvey2012.jpg)._
 
 {{< figure src="https://f001.backblazeb2.com/file/felixonline/img/upload/201203021658-felix-sex2012.jpg" title="" caption="" attr="" >}}
