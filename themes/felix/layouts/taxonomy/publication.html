@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+{{ .Title }}
+
+<ul>
+ {{ range .Data.Pages }}
+   <li>
+     <a href="{{ .RelPermalink }}">
+       Issue {{ .Params.issue_number }} -
+       {{ dateFormat "Jan 2, 2006" .Date }}
+     </a>
+   </li>
+ {{ end }}
+<ul>
+
+{{ partial "footer.html" . }}
