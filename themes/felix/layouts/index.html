@@ -40,30 +40,31 @@
   {{ range $name := .Site.Params.displayCategories }}
     {{ $categoryPage := ($.Site.GetPage "taxonomyTerm" "categories" $name) }}
     <div class="section">
-      <h1>
+      <div class="section-header">
         <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">{{ $name }}</a>
-      </h1>
+      </div>
 
-      <div class="post-block-container">
+      <div class="section-posts-container">
         {{ $articlesWithPictures := where $categoryPage.Pages ".Params.image " "!=" "http://felixonline.co.uk/" }}
         {{ range first 4 (where $articlesWithPictures ".Params.featured" true) }}
-          <a href="{{ .RelPermalink }}">
-            <div class="post-block">
-              <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
-              <div class="info">
+          <div class="section-post">
+            <a href="{{ .RelPermalink }}">
+              <div class="section-post-image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+            </a>
+            <div class="section-post-info">
+              <div class="section-post-title">
                 <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
+              </div>
 
-                <div class="subtitle">
-                  {{ truncate $subtitleLength "..." .Params.subtitle }}
-                </div>
-                <div class="byline">
-                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-                  <span class="author">{{ $authorPage.Title }}</span>
-                  <span class="date">{{ .Date.Format "Monday Jan 2" }}</span>
-                </div>
+              <div class="section-post-subtitle">
+                {{ truncate $subtitleLength "..." .Params.subtitle }}
+              </div>
+              <div class="section-post-byline">
+                {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+                <span class="author">By {{ $authorPage.Title }}</span>
               </div>
             </div>
-          </a>
+          </div>
         {{ end }}
       </div>
     </div>
@@ -85,8 +86,8 @@
           {{ truncate $subtitleLength "..." $post.Params.subtitle }}
         </div>
         <div class="byline">
-          <span class="author">Fred Fyles</span>
-          <span class="date">bbbb</span>
+          <span class="author">By _</span>
+          <span class="date">{{ $post.Date.Format "Monday Jan 2" }}</span>
         </div>
       </div>
     </div>
