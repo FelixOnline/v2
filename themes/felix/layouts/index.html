@@ -18,17 +18,17 @@
   <div class="headline-summaries">
     {{ range first 3 $headlinePosts }}
       <div class="headline-summary">
-        <div class="section">
+        <div class="headline-section-name">
           {{ if (ne (index .Params.categories 0) nil) }}
             {{ index .Params.categories 0 }}
           {{ else }}
             In the Current Issue
           {{ end }}
         </div>
-         <div class="title">
+        <div class="headline-title">
           <a href="{{ .Permalink }}">{{ truncate $titleLength "..." .Title }}</a>
           {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-          <span class="author">{{ $authorPage.Title }}</span>
+          <span class="headline-author">By {{ $authorPage.Title }}</span>
         </div>
       </div>
     {{ end }}

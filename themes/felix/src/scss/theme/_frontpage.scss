@@ -1,129 +1,102 @@
 /* Front page styles */
 
+///////////////////////////
+/* Top headline sections */
+
 .headline-section {
+  /* Setup grid */
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 1em;
+
+  /* Set font */
+  font-family: $heading-font-family;
 }
 
+/* Main image should take up half */
 .headline-main {
   grid-column: 1 / 2;
 }
 
+/* Three headlines should take up other half */
 .headline-summaries {
   grid-column: 2 / 3;
 
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
 }
 
+/* Give borders to headlines */
+.headline-summary {
+  &:first-child {
+    border-top: 0.75px solid $text-color;
+  }
+
+  &:last-child {
+    border-bottom: 0.75px solid $grey-color-light;
+  }
+
+  border-top: 0.75px solid $grey-color-light;
+}
+
+/* Set main image to cover left column */
 .main-image {
   background-size: cover;
   height: 100%;
   width: 100%;
 }
 
-// .headline-section {
+.headline-section-name {
+  @include relative-font-size(0.9);
+  text-transform: capitalize;
+  font-style: italic;
 
-//     h1 {
-//       text-transform: uppercase;
-//     }
+  margin-top: $spacing-unit / 4;
+}
 
-//     @include media-query($on-palm) {
-//       h1 {
-//         margin-top: -10px;
-//       }
-//     }
+.headline-title {
+  @include relative-font-size(1.35);
 
-//     .main-image, .headline-summaries {
-//       height: $headline-section-height;
-//       float: left;
-//       width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-//       width:         calc(50% - (#{$spacing-unit} / 2));
-//     }
+  line-height: $base-line-height * 0.9;
+  margin-bottom: $spacing-unit / 4;
 
-//     @include media-query($on-palm) {
-//       .main-image, .headline-summaries {
-//         height: $headline-section-height * 0.75;
-//         float: none;
-//         width: 100%;
-//       }
+  a {
+    color: $text-color;
+  }
+}
 
-//       .main-image {
-//         height: 225px;
-//       }
-//     }
+.headline-author {
+  color: $grey-color;
+}
 
-//     .main-image {
-//       background-size: cover;
-//       margin-right: $spacing-unit / 1.1;
-//     }
+/////////////////////////
+/* Section most recent */
 
-//     .headline-summaries {
-//       .summary {
-//         border-top: 0.75px solid $grey-color-light;
-//         height: $headline-section-height / 3;
-//         font-family: $heading-font-family;
+///////////////////
+/* Mobile styles */
+///////////////////
 
-//         &:first-child {
-//           border-top: 0.75px solid $text-color;
-//         }
+@include media-query($on-palm) {
+  .headline-section {
+    /* Setup grid */
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px 1fr 1fr 1fr;
+    grid-column-gap: 0;
+  }
 
-//         &:last-child {
-//           border-bottom: 0.75px solid $grey-color-light;
-//         }
+  .headline-main {
+    grid-row: span 1;
+    grid-column: span 1;
 
-//         @include media-query($on-palm) {
-//           &:last-child {
-//             border-bottom: none;
-//           }
-//         }
+    margin-bottom: $spacing-unit / 2;
+  }
 
-//         .section {
-//           margin-top: 8px;
-//           font-style: italic;
-//           @include relative-font-size(0.9);
-//         }
+  .headline-summaries {
+    grid-column: span 1;
+    grid-row: span 3;
+  }
+}
 
-//         .title {
-//           @include relative-font-size(1.35);
-//         }
-
-//         .title a {
-//           color: $text-color;
-//         }
-
-//         .title span.author {
-//           margin-left: 4px;
-//           color: $grey-color;
-//         }
-
-//         @media (min-width: $on-palm) and (max-width: 960px) {
-//           .title span.author {
-//             margin-left: 0px;
-//           }
-//         }
-
-//         @include media-query($on-palm) {
-//           .title {
-//             @include relative-font-size(1);
-//             line-height: $base-line-height * 0.9;
-//           }
-
-//           .title span.author {
-//             margin-left: 0px;
-//             display: block;
-//           }
-//         }
-//       }
-
-//       @include media-query($on-palm) {
-//         .summary {
-//           height: $headline-section-height * 0.8 / 3;
-//         }
-//       }
-//     }
-//   }
 
 //   hr.style-circle {
 //     margin-top: 25px;
