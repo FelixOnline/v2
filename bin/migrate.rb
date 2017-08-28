@@ -5,9 +5,11 @@ require 'pp'
 require 'json'
 require 'nokogiri'
 
+IMAGE_HOST_URL="https://f001.backblazeb2.com/file/felixonline/"
+
 host     = ARGV[0] || "0.0.0.0"
 username = ARGV[1] || "root"
-password = ARGV[2] || "password"
+password = ARGV[2] || "pass"
 database = ARGV[3] || "felix"
 
 def format_username(username)
@@ -43,7 +45,7 @@ client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
   md = %w(---)
   md << "id: \"#{r["id"]}\""
   md << "title: #{r["name"]}"
-  image = "http://felixonline.co.uk/#{r["image"]}"
+  image = "#{IMAGE_HOST_URL}#{r["image"]}"
   all_referenced_images << image
   md << "image: \"#{image}\""
   md << "twitter: \"#{r["twitter"]}\""
@@ -66,7 +68,7 @@ SQL
 
 images = {}
 client.query(ALL_IMAGES_QUERY).each_with_index do |r, i|
-  images[r["id"].to_s] = "http://felixonline.co.uk/" + r["path"]
+  images[r["id"].to_s] = IMAGE_HOST_URL + r["path"]
 end
 
 ALL_ARTICLES_QUERY = <<~SQL
@@ -119,7 +121,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "date: \"#{r["article_date"]}\""
 
   unless r["image_path"].nil? || r["image_path"] == ""
-    image_url = "http://felixonline.co.uk/#{r["image_path"]}"
+    image_url = IMAGE_HOST_URL + r["image_path"]
     all_referenced_images << image_url
     md << "image: \"#{image_url}\""
     md << "image_caption: \"#{r["image_caption"].gsub('"', '')}\"" if r["image_caption"].to_s.length > 0
