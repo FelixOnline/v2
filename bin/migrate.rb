@@ -21,6 +21,72 @@ all_referenced_images = []
 
 `rm -rf content/authors/*`
 `rm -rf content/articles/*`
+`rm -rf content/issues/*`
+`rm -rf content/publications/*`
+
+ALL_PUBLICATIONS_QUERY = <<~SQL
+select name
+from archive_publication
+SQL
+
+client.query(ALL_PUBLICATIONS_QUERY).each_with_index do |r, i|
+  slug = r["name"].downcase.gsub(/\W+/, "-")
+  content = <<~MD
+    ---
+    title: #{r["name"]}
+    ---
+  MD
+
+  dir = "content/publications/#{slug}"
+  Dir.mkdir(dir) unless Dir.exists?(dir)
+  File.write("content/publications/#{slug}/_index.md", content)
+end
+
+ALL_ISSUES_QUERY = <<~SQL
+select
+  ai.id as issue_id,
+  ai.issue as issue_number,
+  ai.date as date,
+  ap.name as publication_name,
+  af.filename as filename
+from archive_issue as ai
+left join archive_publication as ap on ap.id=ai.publication
+left join archive_file as af on af.issue_id=ai.id and af.deleted=0
+where
+  ai.deleted=0 AND ai.inactive=0
+order by filename
+SQL
+
+issue_manifest = []
+thumbnail_manifest = []
+client.query(ALL_ISSUES_QUERY).each_with_index do |r, i|
+  publication_slug = r["publication_name"].downcase.gsub(/\W+/, "-")
+  issue_slug = "#{publication_slug}_#{r["issue_number"]}"
+  archive_key = r["filename"].gsub(/IC_\d{4}\//, "").gsub(".pdf", "").gsub(/_[^A]$/, "_A")
+
+  issue_manifest << "#{issue_slug} http://felixonline.co.uk/issuearchive/issue/#{r["issue_id"]}/download/"
+  thumbnail_manifest << "#{issue_slug} http://www.felixonline.co.uk/archive/thumbs/#{archive_key}.png"
+
+  content = <<~MD
+    ---
+    issue_number: #{r["issue_number"]}
+    date: #{r["date"]}
+
+    archive_key: #{archive_key}
+    archive_file: http://felixonline.co.uk/issuearchive/issue/#{r["issue_id"]}/download
+
+    publications:
+     - #{publication_slug}
+
+    aliases:
+     - /issuearchive/issue/#{r["issue_id"]}/download
+    ---
+  MD
+
+  File.write("content/issues/#{issue_slug}.md", content)
+end
+File.write("content/issue_manifest.txt", issue_manifest.sort.join("\n")+"\n")
+File.write("content/thumb_manifest.txt", thumbnail_manifest.sort.join("\n")+"\n")
 
 ALL_AUTHORS_QUERY = <<~SQL
 select
@@ -36,7 +102,6 @@ select
 from article_author
   left join user on user.user=author
   left join image as user_images on user.image=user_images.id
-
 SQL
 
 client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|

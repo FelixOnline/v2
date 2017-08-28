@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+{{ $publication := index .Params.publications 0 }}
+{{ $publicationPage := ($.Site.GetPage "taxonomyTerm" "publications" $publication) }}
+
+<h1>{{ $publicationPage.Title }} {{ .Params.issue_number }}</h1>
+<p>{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
+
+<a href="{{ .Params.archive_file }}">
+  <img alt="cover" src="http://www.felixonline.co.uk/archive/thumbs/{{ .Params.archive_key }}.png"/>
+</a>
+
+<p>
+  View all <a href="{{ $.Site.BaseURL }}publications/{{ $publication }}">{{ $publicationPage.Title }} issues</a>
+</p>
+
+{{ partial "footer.html" . }}
