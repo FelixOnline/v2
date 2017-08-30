@@ -16,6 +16,7 @@
 /* Main image should take up half */
 .headline-main {
   grid-column: 1 / 2;
+  height: 300px;
 }
 
 /* Three headlines should take up other half */
@@ -107,13 +108,45 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 1em;
+
+  height: 120px;
+}
+
+@supports (display: grid) {
+  .section-post {
+    height: auto;
+  }
 }
 
 .section-post-image {
-  height: 100%;
+  height: 100px;
+  width: 15%;
+  float: left;
+  margin-right: 2.5%;
+
   background-size: cover;
   background-position: center;
   background-color: $grey-color-light;
+}
+
+@supports (display: grid) {
+  .section-post-image {
+    float: none;
+    height: 150px;
+    width: auto;
+  }
+}
+
+.section-post-info {
+  float: left;
+  width: 80%;
+}
+
+@supports (display: grid) {
+  .section-post-info {
+    float: none;
+    width: auto;
+  }
 }
 
 .section-post-title {
@@ -161,13 +194,13 @@ hr.style-circle {
 }
 
 hr.style-circle:after {
-    content: "○";
-    display: inline-block;
-    position: relative;
-    top: -0.75em;
-    font-size: 1.5em;
-    padding: 0 0.25em;
-    background: white;
+  content: "○";
+  display: inline-block;
+  position: relative;
+  top: -0.75em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: white;
 }
 
 ///////////////////
@@ -187,6 +220,8 @@ hr.style-circle:after {
     grid-column: span 1;
 
     margin-bottom: $spacing-unit / 2;
+
+    height: 200px;
   }
 
   .headline-summaries {
@@ -200,6 +235,10 @@ hr.style-circle:after {
     &:first-child {
       border-top: 0.75px solid $grey-color-light;
     }
+  }
+
+  .headline-title {
+    @include relative-font-size(1.15);
   }
 
   .section {
@@ -218,15 +257,42 @@ hr.style-circle:after {
   .section-post {
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 1em;
+    height: 130px;
+    margin-bottom:  $spacing-unit / 4;
+  }
+
+  @supports (display: grid) {
+    .section-post {
+      display: grid;
+      height: auto;
+      margin-bottom: $spacing-unit / 2;
+    }
   }
 
   .section-post-image {
-    grid-column: span 1;
     height: 70px;
+    width: 25%;
+    margin-right: 5%;
+  }
+
+  @supports (display: grid) {
+    .section-post-image {
+      grid-column: span 1;
+      width: auto;
+      float: none;
+    }
   }
 
   .section-post-info {
-    grid-column: span 3;
+    width: 70%;
+  }
+
+  @supports (display: grid) {
+    .section-post-info {
+      grid-column: span 3;
+      width: auto;
+      float: none;
+    }
   }
 
   .section-post-title,
