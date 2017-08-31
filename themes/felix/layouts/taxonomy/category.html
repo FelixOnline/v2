@@ -5,7 +5,7 @@
 </div>
 
 <div class="category-articles">
-  {{ range (.Paginator 20).Pages }}
+  {{ range first 10 (.Paginator 20).Pages }}
     <div class="category-article">
       <div class="category-article-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
       <div class="category-article-title">
