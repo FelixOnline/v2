@@ -31,9 +31,9 @@
 
   .site-social {
     float: right;
-    position: relative;
+    position: absolute;
     top: $base-font-size * 1.5;
-    left: 1%;
+    right: 1.5%;
   }
 
   .site-social-logo {
@@ -81,10 +81,6 @@
   @include media-query($on-palm) {
     .site-nav {
       display: none;
-    }
-
-    .site-social {
-      left: 5px;
     }
   }
 
