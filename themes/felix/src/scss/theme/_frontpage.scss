@@ -251,13 +251,13 @@ hr.style-circle:after {
   }
 
   .section-posts-container {
-    grid-template-columns: 1fr;
+    display: block;
   }
 
   .section-post {
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 1em;
-    height: 130px;
+    height: 120px;
     margin-bottom:  $spacing-unit / 4;
   }
 
