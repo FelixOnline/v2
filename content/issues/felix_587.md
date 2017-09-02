@@ -2,9 +2,6 @@
 issue_number: 587
 date: 1981-06-05
 
-archive_key: 1981_0587_A
-archive_file: http://felixonline.co.uk/issuearchive/issue/518/download
-
 publications:
  - felix
 
