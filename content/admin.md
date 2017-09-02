@@ -3,6 +3,7 @@
 * [Authors](/authors)
 * [Categories (all sections)](/categories)
 * [Tags](/tags)
+* [Archive](/publications)
 
 # Tools
 

@@ -2,12 +2,20 @@
 
 {{ $publication := index .Params.publications 0 }}
 {{ $publicationPage := ($.Site.GetPage "taxonomyTerm" "publications" $publication) }}
+{{ $slug := printf "%v_%v" $publication .Params.issue_number }}
 
 <h1>{{ $publicationPage.Title }} {{ .Params.issue_number }}</h1>
 <p>{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
 
-<a href="{{ .Params.archive_file }}">
-  <img alt="cover" src="http://www.felixonline.co.uk/archive/thumbs/{{ .Params.archive_key }}.png"/>
+<p>
+  <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
+    View Issue PDF
+  </a>
+</p>
+
+<a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
+  <img style="border: 1px solid black" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png"/>
+  <img style="border: 1px solid black" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_large.png"/>
 </a>
 
 <p>

@@ -6,7 +6,9 @@ All Publications
 <ul>
   {{ range $name, $pages := .Site.Taxonomies.publications }}
     <li>
-      <a href="{{ $path }}{{ $name }}">{{ $name }}</a>
+      <a href="{{ $path }}{{ $name }}">{{ $name }}</a><br>
+      {{ $slug := printf "%v_%v" $name (index $pages 0).Params.issue_number }}
+      <img style="border: 1px solid black" width="100" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png"/>
     </li>
   {{ end }}
 </ul>
