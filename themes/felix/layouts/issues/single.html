@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 
+{{ $imageProxy := .Site.Params.imageProxy }}
 {{ $publication := index .Params.publications 0 }}
 {{ $publicationPage := ($.Site.GetPage "taxonomyTerm" "publications" $publication) }}
 {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
@@ -14,8 +15,8 @@
 </p>
 
 <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
-  <img style="border: 1px solid black" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png"/>
-  <img style="border: 1px solid black" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_large.png"/>
+  <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=200"/>
+  <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_large.png&w=500"/>
 </a>
 
 <p>

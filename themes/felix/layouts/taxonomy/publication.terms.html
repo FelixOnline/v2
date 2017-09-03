@@ -1,3 +1,5 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
+
 {{ partial "header.html" . }}
 
 All Publications
@@ -8,7 +10,7 @@ All Publications
     <li>
       <a href="{{ $path }}{{ $name }}">{{ $name }}</a><br>
       {{ $slug := printf "%v_%v" $name (index $pages 0).Params.issue_number }}
-      <img style="border: 1px solid black" width="100" alt="cover" src="https://f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png"/>
+      <img style="border: 1px solid black" width="100" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
     </li>
   {{ end }}
 </ul>
