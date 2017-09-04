@@ -1,3 +1,5 @@
+{{ $subtitleLength := 50 }}
+
 {{ partial "header.html" . }}
 
 <div class="category-header">
@@ -6,23 +8,23 @@
 
 <div class="category-articles">
   {{ range first 10 (.Paginator 20).Pages }}
-    <div class="category-article">
+    <div class="section-post">
       <a href="{{ .RelPermalink }}">
-        <div class="category-article-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+        <div class="section-post-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
       </a>
-      <div class="category-article-info">
-        <div class="category-article-title">
+      <div class="section-post-info">
+        <div class="section-post-title">
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </div>
-        <div class="category-article-subtitle">
-            {{ .Params.subtitle }}
+        <div class="section-post-subtitle">
+            {{ truncate $subtitleLength "..." .Params.subtitle }}
         </div>
         <div class="category-article-date">
           <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
             {{ .Date.Format "Monday, Jan 2, 2006" }}
           </time>
         </div>
-        <div class="category-article-byline">
+        <div class="section-post-byline">
           {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
           <span class="author">By {{ $authorPage.Title }}</span>
         </div>

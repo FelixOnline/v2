@@ -1,31 +1,60 @@
+{{ $subtitleLength := 50 }}
+
 {{ partial "header.html" . }}
 
-<section id="main">
-  <div>
-   <h1>{{ .Title }}</h1>
+<div class="author-name">{{ .Title }}</div>
 
-   <h2>Profile</h2>
-   {{ if (not (eq .Params.image "")) }}
-     <img width="100" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=100"/>
-   {{ end }}
-
-   <ul>
-     {{ if (ne .Params.twitter "") }}
-       <li>Twitter: <a href="https://twitter.com/{{.Params.twitter}}">{{ .Params.twitter }}</a></li>
-     {{ end }}
-     {{ if (ne .Params.facebook "") }}
-       <li>Facebook: <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a></li>
-     {{ end }}
-     {{ if (ne .Params.website_url "") }}
-       <li>Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></li>
-     {{ end }}
-   </ul>
-
-   <h2>Articles</h2>
-   {{ range .Data.Pages }}
-     <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> </li>
-   {{ end }}
+<div class="author-profile">
+  <div class="author-profile-header">
+    {{ if (not (eq .Params.image "")) }}
+      <img width="100" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=100"/>
+    {{ end }}
   </div>
-</section>
+
+  <ul class="author-profile-social">
+    {{ if (ne .Params.twitter "") }}
+      <li>Twitter: <a href="https://twitter.com/{{.Params.twitter}}">{{ .Params.twitter }}</a></li>
+    {{ end }}
+    {{ if (ne .Params.facebook "") }}
+      <li>Facebook: <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a></li>
+    {{ end }}
+    {{ if (ne .Params.website_url "") }}
+      <li>Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+
+<div class="author-header">Articles</div>
+
+<div class="author-articles">
+{{ range first 10 (.Paginator 20).Pages }}
+  <div class="section-post">
+    <a href="{{ .RelPermalink }}">
+      <div class="section-post-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+    </a>
+    <div class="section-post-info">
+      <div class="section-post-title">
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </div>
+      <div class="section-post-subtitle">
+          {{ truncate $subtitleLength "..." .Params.subtitle }}
+      </div>
+      <div class="category-article-date">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
+          {{ .Date.Format "Monday, Jan 2, 2006" }}
+        </time>
+      </div>
+      <div class="section-post-byline">
+        {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+        <span class="author">By {{ $authorPage.Title }}</span>
+      </div>
+    </div>
+  </div>
+{{ end }}
+</div>
+
+<div class="pagination-container">
+  {{ template "_internal/pagination.html" . }}
+</div>
 
 {{ partial "footer.html" . }}
