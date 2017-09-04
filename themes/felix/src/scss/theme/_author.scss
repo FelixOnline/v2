@@ -8,6 +8,36 @@
   grid-row-gap: 1em;
 
   margin-bottom: $spacing-unit;
+  margin-top: $spacing-unit / 2;
+}
+
+.author-profile {
+  text-align: center;
+}
+
+.author-name {
+  @include relative-font-size(2);
+  font-family: $heading-font-family;
+
+  margin-bottom: $spacing-unit / 4;
+}
+
+.author-profile-header, .author-profile-social {
+  margin-bottom: $spacing-unit / 4;
+}
+
+.social-link {
+  margin-top: $spacing-unit / 8;
+}
+
+.social-link-website {
+  display: none;
+}
+
+.author-header {
+  text-transform: uppercase;
+  @include relative-font-size(2);
+  font-family: $heading-font-family;
 }
 
 ///////////////////
@@ -16,5 +46,14 @@
 @include media-query($on-palm) {
   .author-articles {
     display: block;
+  }
+
+  .author-header, .author-name {
+    @include relative-font-size(1.6);
+  }
+
+  .author-profile {
+    margin-top: -$spacing-unit / 2;
+    margin-bottom: $spacing-unit;
   }
 }

@@ -1,27 +1,34 @@
+{{ $titleLength := 60 }}
 {{ $subtitleLength := 50 }}
 
 {{ partial "header.html" . }}
 
-<div class="author-name">{{ .Title }}</div>
-
 <div class="author-profile">
+  <div class="author-name">{{ .Title }}</div>
+
   <div class="author-profile-header">
     {{ if (not (eq .Params.image "")) }}
       <img width="100" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=100"/>
     {{ end }}
   </div>
 
-  <ul class="author-profile-social">
+  <div class="author-profile-social">
     {{ if (ne .Params.twitter "") }}
-      <li>Twitter: <a href="https://twitter.com/{{.Params.twitter}}">{{ .Params.twitter }}</a></li>
+      <div class="social-link">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter.svg">
+        <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a>
+      </div>
     {{ end }}
     {{ if (ne .Params.facebook "") }}
-      <li>Facebook: <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a></li>
+      <div class="social-link">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook.svg">
+        <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a>
+      </div>
     {{ end }}
     {{ if (ne .Params.website_url "") }}
-      <li>Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></li>
+      <div class="social-link-website">Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></div>
     {{ end }}
-  </ul>
+  </div>
 </div>
 
 <div class="author-header">Articles</div>
@@ -34,7 +41,7 @@
     </a>
     <div class="section-post-info">
       <div class="section-post-title">
-          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
       </div>
       <div class="section-post-subtitle">
           {{ truncate $subtitleLength "..." .Params.subtitle }}

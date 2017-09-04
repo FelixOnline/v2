@@ -1,3 +1,4 @@
+{{ $titleLength := 60 }}
 {{ $subtitleLength := 50 }}
 
 {{ partial "header.html" . }}
@@ -14,7 +15,7 @@
       </a>
       <div class="section-post-info">
         <div class="section-post-title">
-            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
         </div>
         <div class="section-post-subtitle">
             {{ truncate $subtitleLength "..." .Params.subtitle }}
