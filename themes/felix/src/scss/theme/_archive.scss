@@ -1,0 +1,121 @@
+/* Archive styles */
+
+.publications-header {
+  text-align: center;
+  text-transform: uppercase;
+  @include relative-font-size(2);
+  font-family: $heading-font-family;
+}
+
+.publication-list-container {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit / 2;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.publication {
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+
+@supports (display: grid) {
+  .publication {
+    width: auto;
+    float: none;
+  }
+}
+
+.publication-link {
+  margin-bottom: $spacing-unit / 4;
+}
+
+/* Archive list styles */
+
+.publication-above {
+  text-align: center;
+  @include relative-font-size(0.9);
+}
+
+.publication-header {
+  text-transform: uppercase;
+  @include relative-font-size(2);
+  font-family: $heading-font-family;
+
+  text-align: center;
+}
+
+.publication-issue-list {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+
+  text-align: center;
+}
+
+.publication-issue {
+  width: 50%;
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+}
+
+@supports (display: grid) {
+  .publication-issue {
+    width: auto;
+    float: none;
+    margin-bottom: none;
+  }
+}
+
+.publication-issue-info {
+  margin-top: $spacing-unit / 8;
+}
+
+/* Issue styles */
+
+.issue-title, .issue-date {
+  margin-bottom: $spacing-unit / 4;
+}
+
+.issue-title {
+  @include relative-font-size(2);
+}
+
+.issue-link {
+  margin-bottom: $spacing-unit / 2;
+}
+
+.issue-image {
+  margin-bottom: $spacing-unit / 2;
+}
+
+///////////////////
+/* Mobile styles */
+
+@include media-query($on-palm) {
+  .publications-header {
+    margin-top: -$spacing-unit / 2;
+  }
+
+  .publication-list-container {
+    display: block;
+    margin-top: $spacing-unit / 2;
+  }
+
+  .publication {
+    width: 50%;
+    float: left;
+    margin-bottom: $spacing-unit / 4;
+  }
+
+  .publication-issue-info {
+    @include relative-font-size(0.7);
+  }
+}
+

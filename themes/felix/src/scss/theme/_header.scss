@@ -45,6 +45,15 @@
     }
   }
 
+  .site-social-logo-bigger {
+    margin-left: -5px;
+    height: $base-font-size * 1.2;
+
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
   .site-nav {
     line-height: $base-line-height * $base-font-size * 2;
 

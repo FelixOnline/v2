@@ -2,17 +2,19 @@
 
 {{ partial "header.html" . }}
 
-All Publications
+<div class="publications-header">Publications</div>
 
 {{ $path := .RelPermalink }}
-<ul>
+<div class="publication-list-container">
   {{ range $name, $pages := .Site.Taxonomies.publications }}
-    <li>
-      <a href="{{ $path }}{{ $name }}">{{ $name }}</a><br>
+    <div class="publication">
+      <div class="publication-link">
+        <a href="{{ $path }}{{ $name }}">{{ $name }}</a>
+      </div>
       {{ $slug := printf "%v_%v" $name (index $pages 0).Params.issue_number }}
       <img style="border: 1px solid black" width="100" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
-    </li>
+    </div>
   {{ end }}
-</ul>
+</div>
 
 {{ partial "footer.html" . }}

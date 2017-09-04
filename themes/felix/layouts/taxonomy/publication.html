@@ -1,16 +1,29 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
+
 {{ partial "header.html" . }}
 
-{{ .Title }}
+<div class="publication-above">Publication</div>
+<div class="publication-header">{{ .Title }}</div>
 
-<ul>
- {{ range .Data.Pages }}
-   <li>
-     <a href="{{ .RelPermalink }}">
-       Issue {{ .Params.issue_number }} -
-       {{ dateFormat "Jan 2, 2006" .Date }}
-     </a>
-   </li>
+<div class="publication-issue-list">
+ {{ range (.Paginator 20).Pages }}
+   <div class="publication-issue">
+    {{ $publication := index .Params.publications 0 }}
+    {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
+      <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+      <div class="publication-issue-info">
+        <a href="{{ .RelPermalink }}">
+          Issue {{ .Params.issue_number }}
+          <br/>
+          {{ dateFormat "Jan 2, 2006" .Date }}
+        </a>
+      </div>
+    </div>
  {{ end }}
-<ul>
+</div>
+
+<div class="pagination-container">
+  {{ template "_internal/pagination.html" . }}
+</div>
 
 {{ partial "footer.html" . }}

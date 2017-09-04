@@ -5,22 +5,23 @@
 {{ $publicationPage := ($.Site.GetPage "taxonomyTerm" "publications" $publication) }}
 {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
 
-<h1>{{ $publicationPage.Title }} {{ .Params.issue_number }}</h1>
-<p>{{ .Date.Format "Monday, Jan 2, 2006" }}</p>
+<div class="issue-title">{{ $publicationPage.Title }} {{ .Params.issue_number }}</div>
+<div class="issue-date">{{ .Date.Format "Monday, Jan 2, 2006" }}</div>
 
-<p>
+<div class="issue-link">
   <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
     View Issue PDF
   </a>
-</p>
+</div>
 
-<a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
-  <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=200"/>
-  <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_large.png&w=500"/>
-</a>
+<div class="issue-image">
+  <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
+    <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_large.png&w=500"/>
+  </a>
+</div>
 
-<p>
+<div class="issue-publication-return">
   View all <a href="{{ $.Site.BaseURL }}publications/{{ $publication }}">{{ $publicationPage.Title }} issues</a>
-</p>
+</div>
 
 {{ partial "footer.html" . }}

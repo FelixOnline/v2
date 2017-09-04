@@ -7,7 +7,7 @@
 <div class="tag-header">{{ .Title }}</div>
 
 <div class="tag-articles">
-  {{ range first 10 (.Paginator 20).Pages }}
+  {{ range (.Paginator 20).Pages }}
     <div class="section-post">
       <a href="{{ .RelPermalink }}">
         <div class="section-post-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
