@@ -6,6 +6,11 @@
     min-height: $spacing-unit * 2;
 
     text-align: center;
+
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+
+    color: white;
+    background-color: black;
   }
 
   .site-title {
@@ -16,7 +21,7 @@
 
     &,
     &:visited {
-      color: $text-color;
+      color: white;
     }
 
     font-family: $heading-font-family;
@@ -55,10 +60,11 @@
   }
 
   .site-nav {
+    background-color: #2b2b2b;
     line-height: $base-line-height * $base-font-size * 2;
 
     // NEW
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid #2b2b2b;
 
     .page-link {
       line-height: $base-line-height * 0.8;
@@ -72,7 +78,7 @@
       }
 
       a {
-        color: $text-color;
+        color: white;
         text-transform: capitalize;
       }
 
