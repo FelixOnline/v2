@@ -7,13 +7,9 @@
 
     <div class="post-authors">
       By
-      {{ range first 1 .Params.authors }}
+      {{ range .Params.authors }}
         {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
         <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a>
-      {{ end }}
-      {{ range after 1 .Params.authors }}
-        {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
-        and <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a>
       {{ end }}
     </div>
 

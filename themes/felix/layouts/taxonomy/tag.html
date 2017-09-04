@@ -1,12 +1,40 @@
+{{ $titleLength := 60 }}
+{{ $subtitleLength := 50 }}
+
 {{ partial "header.html" . }}
 
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Data.Pages }}
-      <li><a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a> </li>
-    {{ end }}
-  </div>
-</section>
+<div class="tag-above">Articles tagged with</div>
+<div class="tag-header">{{ .Title }}</div>
+
+<div class="tag-articles">
+  {{ range first 10 (.Paginator 20).Pages }}
+    <div class="section-post">
+      <a href="{{ .RelPermalink }}">
+        <div class="section-post-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+      </a>
+      <div class="section-post-info">
+        <div class="section-post-title">
+            <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
+        </div>
+        <div class="section-post-subtitle">
+            {{ truncate $subtitleLength "..." .Params.subtitle }}
+        </div>
+        <div class="category-article-date">
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
+            {{ .Date.Format "Monday, Jan 2, 2006" }}
+          </time>
+        </div>
+        <div class="section-post-byline">
+          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+          <span class="author">By {{ $authorPage.Title }}</span>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+<div class="pagination-container">
+  {{ template "_internal/pagination.html" . }}
+</div>
 
 {{ partial "footer.html" . }}
