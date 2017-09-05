@@ -20,8 +20,10 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-// NEW
 $headline-section-height: 300px;
+
+// Header variables
+$header-height: $spacing-unit * 3;
 
 // Width of the content area
 $content-width:    1000px !default;
@@ -57,5 +59,6 @@ $on-laptop:        800px !default;
   "theme/category",
   "theme/author",
   "theme/tag",
-  "theme/archive"
+  "theme/archive",
+  "theme/shared"
 ;

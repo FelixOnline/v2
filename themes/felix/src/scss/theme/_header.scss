@@ -6,110 +6,122 @@ $header-text-color: #ffffff;
  * Site header
  */
  .site-header {
-    min-height: $spacing-unit * 2;
+  height: $header-height;
 
-    text-align: center;
+  text-align: center;
 
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+  color: $header-text-color;
+  background-color: $header-main-color;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
 
+  /* Fix position of header */
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+  z-index: 999;
+}
+
+.site-title {
+  @include relative-font-size(2.4);
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.6;
+  letter-spacing: 3px;
+
+  &,
+  &:visited {
     color: $header-text-color;
-    background-color: $header-main-color;
   }
 
-  .site-title {
-    @include relative-font-size(2.4);
-    font-weight: 300;
-    line-height: $base-line-height * $base-font-size * 2.6;
-    letter-spacing: 3px;
+  font-family: $heading-font-family;
+}
 
-    &,
-    &:visited {
-      color: $header-text-color;
-    }
+.site-logo {
+  margin-left: 5px;
+  height: $base-font-size * 2.4;
+  position: relative;
+  top: -$base-font-size / 2;
+}
 
-    font-family: $heading-font-family;
+.site-social {
+  float: right;
+  position: absolute;
+  top: $base-font-size * 1.5;
+  right: 1.5%;
+}
+
+.site-social-logo {
+  margin-right: 5px;
+  height: $base-font-size;
+
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
+.site-social-logo-bigger {
+  margin-left: -5px;
+  height: $base-font-size * 1.2;
+
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
+.site-nav {
+  background-color: $header-secondary-color;
+  line-height: $base-line-height * $base-font-size * 2;
+
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
+}
+
+.page-link {
+  line-height: $base-line-height * 0.8;
+  font-weight: bold;
+
+  @include relative-font-size(0.7);
+
+  // Gaps between nav items, but not on the last one
+  &:not(:last-child) {
+    margin-right: 20px;
   }
 
-  .site-logo {
-    margin-left: 5px;
-    height: $base-font-size * 2.4;
+  a {
+    color: $header-text-color;
+    text-transform: capitalize;
+  }
+
+  .icon {
+    height: 20px;
+    width: auto;
+
     position: relative;
-    top: -$base-font-size / 2;
+    top: 7px;
   }
 
-  .site-social {
-    float: right;
-    position: absolute;
-    top: $base-font-size * 1.5;
-    right: 1.5%;
-  }
+}
 
-  .site-social-logo {
-    margin-right: 5px;
-    height: $base-font-size;
-
-    &:hover {
-      opacity: 0.75;
-    }
-  }
-
-  .site-social-logo-bigger {
-    margin-left: -5px;
-    height: $base-font-size * 1.2;
-
-    &:hover {
-      opacity: 0.75;
-    }
-  }
-
+@include media-query($on-palm) {
   .site-nav {
-    background-color: $header-secondary-color;
-    line-height: $base-line-height * $base-font-size * 2;
+    display: none;
   }
 
+  .site-header {
+    height: $header-height * 2/3;
+  }
+}
+
+@include media-query($on-laptop) {
   .page-link {
-    line-height: $base-line-height * 0.8;
-    font-weight: bold;
+    @include relative-font-size(0.6);
 
-    @include relative-font-size(0.7);
-
-    // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
-    }
-
-    a {
-      color: $header-text-color;
-      text-transform: capitalize;
+      margin-right: 10px;
     }
 
     .icon {
-      height: 20px;
-      width: auto;
-
-      position: relative;
-      top: 7px;
-    }
-
-  }
-
-  @include media-query($on-palm) {
-    .site-nav {
-      display: none;
+      height: 15px;
+      top: 4px;
     }
   }
-
-  @include media-query($on-laptop) {
-    .page-link {
-      @include relative-font-size(0.6);
-
-      &:not(:last-child) {
-        margin-right: 10px;
-      }
-
-      .icon {
-        height: 15px;
-        top: 4px;
-      }
-    }
-  }
+}
