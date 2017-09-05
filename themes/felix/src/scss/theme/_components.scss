@@ -1,0 +1,32 @@
+/* Pagination styles */
+
+.pagination-container ul {
+  list-style-type: none;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pagination li {
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+
+  a {
+    color: $text-color;
+  }
+}
+
+.pagination .active {
+  text-decoration: underline;
+}
+
+.pagination .disabled a {
+  color: $grey-color;
+}
+
+@include media-query($on-palm) {
+  .pagination li {
+    padding: 8px;
+    @include relative-font-size(0.8);
+  }
+}

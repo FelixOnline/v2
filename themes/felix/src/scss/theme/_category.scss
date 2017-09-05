@@ -23,22 +23,6 @@
   display: none;
 }
 
-.pagination-container ul {
-  list-style-type: none;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.pagination li {
-  display: inline-block;
-  text-align: center;
-  padding: 10px;
-
-  a {
-    color: $text-color;
-  }
-}
-
 
 ///////////////////
 /* Mobile styles */
@@ -54,10 +38,5 @@
 
   .category-articles {
     display: block;
-  }
-
-  .pagination li {
-    padding: 8px;
-    @include relative-font-size(0.8);
   }
 }

@@ -18,16 +18,16 @@ taxonomies:
 params:
   imageProxy: "//images.weserv.nl/?url="
   displayCategories:
-    - arts
-    - books
-    - comment
-    - film
-    - food
-    - games
-    - music
     - news
+    - comment
     - science
-    - sport
-    - tech
-    - travel
+    - arts
+    - film
     - tv
+    - music
+    - games
+    - tech
+    - food
+    - travel
+    - sport
+    # - books

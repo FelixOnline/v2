@@ -1,16 +1,19 @@
+$header-main-color: #000000;
+$header-secondary-color: #121212;
+$header-text-color: #ffffff;
+
 /**
  * Site header
  */
  .site-header {
-    border-bottom: 1px solid $grey-color-light;
     min-height: $spacing-unit * 2;
 
     text-align: center;
 
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
 
-    color: white;
-    background-color: black;
+    color: $header-text-color;
+    background-color: $header-main-color;
   }
 
   .site-title {
@@ -21,7 +24,7 @@
 
     &,
     &:visited {
-      color: white;
+      color: $header-text-color;
     }
 
     font-family: $heading-font-family;
@@ -60,37 +63,34 @@
   }
 
   .site-nav {
-    background-color: #2b2b2b;
+    background-color: $header-secondary-color;
     line-height: $base-line-height * $base-font-size * 2;
+  }
 
-    // NEW
-    border-top: 1px solid #2b2b2b;
+  .page-link {
+    line-height: $base-line-height * 0.8;
+    font-weight: bold;
 
-    .page-link {
-      line-height: $base-line-height * 0.8;
-      font-weight: bold;
+    @include relative-font-size(0.7);
 
-      @include relative-font-size(0.7);
-
-      // Gaps between nav items, but not on the last one
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-
-      a {
-        color: white;
-        text-transform: capitalize;
-      }
-
-      .icon {
-        height: 20px;
-        width: auto;
-
-        position: relative;
-        top: 7px;
-      }
-
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
     }
+
+    a {
+      color: $header-text-color;
+      text-transform: capitalize;
+    }
+
+    .icon {
+      height: 20px;
+      width: auto;
+
+      position: relative;
+      top: 7px;
+    }
+
   }
 
   @include media-query($on-palm) {
@@ -100,20 +100,16 @@
   }
 
   @include media-query($on-laptop) {
-    .site-nav {
+    .page-link {
+      @include relative-font-size(0.6);
 
-      .page-link {
-        @include relative-font-size(0.6);
-
-        &:not(:last-child) {
-          margin-right: 10px;
-        }
-
-        .icon {
-          height: 15px;
-          top: 4px;
-        }
+      &:not(:last-child) {
+        margin-right: 10px;
       }
 
+      .icon {
+        height: 15px;
+        top: 4px;
+      }
     }
   }

@@ -34,7 +34,11 @@
         <span class="page-link">
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
             <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
-            {{ $name }}
+            {{ if eq $name "tv" }}
+              TV
+            {{ else }}
+              {{ $name }}
+            {{ end }}
           </a>
         </span>
       {{ end }}
