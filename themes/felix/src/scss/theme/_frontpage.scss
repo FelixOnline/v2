@@ -9,14 +9,12 @@
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 1.5em;
 
-  /* Set font */
-  font-family: $heading-font-family;
+  font-family: $serif-font-family;
 }
 
 /* Main image should take up half */
 .headline-main {
   grid-column: 1 / 2;
-  height: 300px;
 }
 
 /* Three headlines should take up other half */
@@ -49,7 +47,7 @@
 }
 
 .headline-section-name {
-  @include relative-font-size(0.9);
+  @include relative-font-size(0.8);
   text-transform: capitalize;
   font-style: italic;
 
@@ -57,9 +55,6 @@
 }
 
 .headline-title {
-  @include relative-font-size(1.35);
-
-  line-height: $base-line-height * 0.9;
   margin-bottom: $spacing-unit / 4;
 
   a {
@@ -69,6 +64,7 @@
 
 .headline-author {
   color: $grey-color;
+  display: block;
 }
 
 //////////////
@@ -82,7 +78,7 @@
 .section-header {
   text-transform: uppercase;
   @include relative-font-size(2);
-  font-family: $heading-font-family;
+  font-family: $sans-serif-font-family;
 
   a {
     color: $text-color;
@@ -100,7 +96,7 @@
 }
 
 .section-post {
-  font-family: $heading-font-family;
+  font-family: $serif-font-family;
 
   grid-column: span 1;
   grid-row: span 1;
@@ -132,7 +128,7 @@
 @supports (display: grid) {
   .section-post-image {
     float: none;
-    height: 150px;
+    height: 140px;
     width: auto;
   }
 }
@@ -150,8 +146,7 @@
 }
 
 .section-post-title {
-  @include relative-font-size(1.2);
-
+  @include relative-font-size(1);
   a {
     color: $text-color;
   }
@@ -160,14 +155,14 @@
 }
 
 .section-post-subtitle {
-  @include relative-font-size(1);
+  @include relative-font-size(0.9);
   font-style: italic;
 
   margin-bottom: $spacing-unit / 4;
 }
 
 .section-post-byline {
-  @include relative-font-size(0.9);
+  @include relative-font-size(0.8);
   color: $grey-color;
   margin-bottom: $spacing-unit / 4;
 }

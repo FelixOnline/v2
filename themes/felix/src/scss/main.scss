@@ -2,7 +2,10 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Arial, sans-serif !default;
+$serif-font-family: 'Merriweather', serif !default;
+$sans-serif-font-family: 'PT Sans', sans-serif !default;
+
+$base-font-family: $sans-serif-font-family;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;

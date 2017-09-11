@@ -1,5 +1,5 @@
 $header-main-color: #000000;
-$header-secondary-color: #121212;
+$header-secondary-color: #191919;
 $header-text-color: #ffffff;
 
 /**
@@ -79,7 +79,7 @@ $header-text-color: #ffffff;
   line-height: $base-line-height * 0.8;
   font-weight: bold;
 
-  @include relative-font-size(0.7);
+  @include relative-font-size(0.8);
 
   // Gaps between nav items, but not on the last one
   &:not(:last-child) {
@@ -92,7 +92,7 @@ $header-text-color: #ffffff;
   }
 
   .icon {
-    height: 20px;
+    height: 22px;
     width: auto;
 
     position: relative;
