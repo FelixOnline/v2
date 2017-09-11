@@ -30,14 +30,15 @@
     </div>
 
     <div class="site-nav">
-      {{ range $name := .Site.Params.displayCategories }}
+      {{ range $category := .Site.Params.displayCategories }}
+        {{ $name := $category.Name }}
         <span class="page-link">
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
             <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
-            {{ if eq $name "tv" }}
-              TV
+            {{ if eq $category.Display nil }}
+              {{ $name  }}
             {{ else }}
-              {{ $name }}
+              {{ $category.Display }}
             {{ end }}
           </a>
         </span>

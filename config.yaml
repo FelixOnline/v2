@@ -18,16 +18,53 @@ taxonomies:
 params:
   imageProxy: "//images.weserv.nl/?url="
   displayCategories:
-    - news
-    - comment
-    - science
-    - arts
-    - film
-    - tv
-    - music
-    - games
-    - tech
-    - food
-    - travel
-    - sport
+    - name: news
+      tags:
+        - foo
+        - bar
+    - name: comment
+      tags:
+        - foo
+        - bar
+    - name: science
+      tags:
+        - foo
+        - bar
+    - name: arts
+      tags:
+        - foo
+        - bar
+    - name: film
+      tags:
+        - foo
+        - bar
+    - name: tv
+      display: TV
+      tags:
+        - foo
+        - bar
+    - name: music
+      tags:
+        - foo
+        - bar
+    - name: games
+      tags:
+        - foo
+        - bar
+    - name: tech
+      tags:
+        - foo
+        - bar
+    - name: food
+      tags:
+        - foo
+        - bar
+    - name: travel
+      tags:
+        - foo
+        - bar
+    - name: sport
+      tags:
+        - foo
+        - bar
     # - books # we don't really have enough content for this section at the moment

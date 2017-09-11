@@ -36,7 +36,8 @@
 </div>
 
 <div class="sections">
-  {{ range $name := .Site.Params.displayCategories }}
+  {{ range $category := .Site.Params.displayCategories }}
+    {{ $name := $category.Name }}
     {{ $categoryPage := ($.Site.GetPage "taxonomyTerm" "categories" $name) }}
     <div class="section">
       <div class="section-header">
