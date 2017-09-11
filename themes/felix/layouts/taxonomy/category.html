@@ -1,41 +1,49 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
 {{ $titleLength := 60 }}
 {{ $subtitleLength := 50 }}
 
 {{ partial "header.html" . }}
 
 <div class="category-header">
-    {{ .Title }}
+  {{ .Title }}
 </div>
 
-<div class="category-articles">
-  {{ range (.Paginator 20).Pages }}
-    <div class="section-post">
-      <a href="{{ .RelPermalink }}">
-        <div class="section-post-image" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
-      </a>
-      <div class="section-post-info">
-        <div class="section-post-title">
-            <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
-        </div>
-        <div class="section-post-subtitle">
-            {{ truncate $subtitleLength "..." .Params.subtitle }}
-        </div>
-        <div class="category-article-date">
-          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
-            {{ .Date.Format "Monday, Jan 2, 2006" }}
-          </time>
-        </div>
-        <div class="section-post-byline">
-          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-          <span class="author">By {{ $authorPage.Title }}</span>
-        </div>
+<div class="sections">
+  {{ $category := (index (where $.Site.Params.displayCategories "name" (lower .Title)) 0) }}
+  {{ $categoryPages := .Pages }}
+
+  {{ range $subsection := $category.tags }}
+    <div class="section">
+      <div class="section-header">
+        <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ $subsection }}</a>
+      </div>
+
+      <div class="section-posts-container">
+        {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
+        {{ range first 4 (where $articles ".Params.featured" true) }}
+          <div class="section-post">
+            <a href="{{ .RelPermalink }}">
+              <div class="section-post-image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+            </a>
+            <div class="section-post-info">
+              <div class="section-post-title">
+                <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
+              </div>
+
+              <div class="section-post-subtitle">
+                {{ truncate $subtitleLength "..." .Params.subtitle }}
+              </div>
+              <div class="section-post-byline">
+                {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+                <span class="author">By {{ $authorPage.Title }}</span>
+              </div>
+            </div>
+          </div>
+        {{ end }}
       </div>
     </div>
+    <hr class="style-circle"></hr>
   {{ end }}
-</div>
-
-<div class="pagination-container">
-  {{ template "_internal/pagination.html" . }}
 </div>
 
 {{ partial "footer.html" . }}

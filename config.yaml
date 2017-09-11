@@ -20,51 +20,51 @@ params:
   displayCategories:
     - name: news
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: comment
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: science
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: arts
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: film
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: tv
       display: TV
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: music
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: games
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: tech
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: food
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: travel
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     - name: sport
       tags:
-        - foo
-        - bar
+        - imported
+        - image
     # - books # we don't really have enough content for this section at the moment
