@@ -30,4 +30,4 @@ params:
     - food
     - travel
     - sport
-    # - books
+    # - books # we don't really have enough content for this section at the moment
