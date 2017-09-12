@@ -9,7 +9,7 @@
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ index .Site.Data.css.hash "main.css" }}">
   {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
-  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i|PT+Sans:400,400i,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|PT+Sans:400,400i,700" rel="stylesheet">
 </head>
 <body>
 

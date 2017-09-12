@@ -76,8 +76,9 @@
 }
 
 .section-header {
-  text-transform: uppercase;
   @include relative-font-size(2);
+  font-weight: 700;
+  text-transform: uppercase;
   font-family: $sans-serif-font-family;
 
   a {
@@ -147,17 +148,16 @@
 
 .section-post-title {
   @include relative-font-size(1);
+  margin-bottom: $spacing-unit / 4;
+
   a {
     color: $text-color;
   }
-
-  margin-bottom: $spacing-unit / 4;
 }
 
 .section-post-subtitle {
   @include relative-font-size(0.9);
   font-style: italic;
-
   margin-bottom: $spacing-unit / 4;
 }
 
@@ -186,6 +186,14 @@ hr.style-circle {
   border-right: none;
   color: $grey-color-light;
   text-align: center;
+}
+
+hr.style-circle.black-style {
+  margin-top: 40px;
+  margin-bottom: 5px;
+  border-top: 0px $text-color;
+  color: $text-color;
+  background-color: black;
 }
 
 hr.style-circle:after {
