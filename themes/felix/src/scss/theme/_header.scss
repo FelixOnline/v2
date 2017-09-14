@@ -49,6 +49,13 @@ $header-text-color: #ffffff;
   right: 5%;
 }
 
+.site-nav-side-button {
+  float: left;
+  position: absolute;
+  top: $base-font-size * 2;
+  left: 5%;
+}
+
 .site-social-logo {
   margin-right: 5px;
   height: $base-font-size;
@@ -100,11 +107,67 @@ $header-text-color: #ffffff;
 
 }
 
+/////////////////
+/* Header Menu */
+/////////////////
+
+.hamburger-line {
+  width: 20px;
+  height: 3px;
+  background-color: #ffffff;
+  margin: 3px 0;
+}
+
+.site-nav-side-button {
+  display: none;
+}
+
+.site-nav-side {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: $header-secondary-color; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.site-nav-side a {
+  padding: 8px 8px 8px 32px;
+  display: block;
+  transition: 0.3s;
+
+  font-weight: 700;
+  color: $header-text-color;
+  text-transform: capitalize;
+}
+
+.site-nav-side .closebtn {
+  color: #ffffff;
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#site-body {
+  transition: margin-left .5s;
+}
+
+
 ///////////////////
 /* Mobile styles */
 ///////////////////
 
 @include media-query($on-palm) {
+  .site-nav-side-button {
+    display: block;
+  }
+
   .site-nav {
     display: none;
   }
