@@ -1,0 +1,31 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
+{{ $publication := index (split .Permalink "/") 5 }}
+
+{{ partial "header.html" . }}
+
+<div class="publication-above">Publication Year</div>
+<div class="publication-header">{{ $publication }} - {{ .Params.year }}</div>
+<p><a href="..">Index</a></p>
+
+{{ $publicationPages := where .Site.Pages ".Params.publications" "intersect" (slice $publication) }}
+{{ $group := (where ($publicationPages.GroupByDate "2006") ".Key" (printf "%v" .Params.year)) }}
+
+<div class="publication-issue-list">
+  {{ range $group }}
+    {{ range .Pages.Reverse }}
+      <a href="{{ .RelPermalink }}">
+        <div class="publication-issue">
+          {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
+          <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+          <div class="publication-issue-info">
+            Issue {{ .Params.issue_number }}
+            <br/>
+            {{ dateFormat "Jan 2, 2006" .Date }}
+          </div>
+        </div>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
