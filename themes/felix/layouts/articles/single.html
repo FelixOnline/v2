@@ -50,6 +50,13 @@
       {{ end }}
     </div>
 
+    <div class="post-social">
+      <a href="https://twitter.com/share" style="vertical-align: text-top;" class="twitter-share-button" data-via="feliximperial" data-size="large" data-related="feliximperial" data-dnt="true">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+      <div class="fb-like" data-href="{{ .Permalink }}" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+    </div>
+
     <div class="post-comments">
       {{ if (ne .Params.comments nil) }}
         Imported Comments:

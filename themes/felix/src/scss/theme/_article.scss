@@ -88,6 +88,10 @@
   background: black;
 }
 
+.post-social * {
+  vertical-align: text-top;
+}
+
 .post-comments {
   margin-bottom: $spacing-unit;
 }
