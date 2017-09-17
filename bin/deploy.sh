@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "Building CSS"
+gulp scss --production
+
 echo "Deleting old publication"
 rm -rf public
 mkdir public
