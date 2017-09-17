@@ -15,11 +15,9 @@
 
     <div class="post-meta">
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
-        {{ if eq (now.Format "2006") (.Date.Format "2006") }}
-          {{ .Date.Format "Monday January 2" }}
-        {{ else }}
-          {{ .Date.Format "Monday, January 2 2006" }}
-        {{ end }}
+        {{ .Date.Format "Monday" }},
+        {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day }}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }}
+        {{ .Date.Format "January 2006" }}
       </time>
     </div>
   </header>
