@@ -70,9 +70,6 @@
     ga('create', 'UA-106573298-1', 'auto');
     ga('send', 'pageview');
   </script>
-</head>
-<body>
-
   <script>
     function openNav() {
       document.getElementById("sidenav").style.width = "250px";
@@ -84,7 +81,8 @@
       document.getElementById("site-body").style.marginLeft = "0";
     }
   </script>
-
+</head>
+<body>
   <div id="sidenav" class="site-nav-side">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     {{ range $category := .Site.Params.displayCategories }}
