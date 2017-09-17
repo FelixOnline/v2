@@ -13,36 +13,38 @@
   {{ $categoryPages := .Pages }}
 
   {{ range $subsection := $category.tags }}
-    <div class="section">
-      <div class="section-header">
-        <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ $subsection }}</a>
-      </div>
+    {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
+    {{ if ne (len $articles) 0 }}
+      <div class="section">
+        <div class="section-header">
+          <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ $subsection }}</a>
+        </div>
 
-      <div class="section-posts-container">
-        {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
-        {{ range first 4 (where $articles ".Params.featured" true) }}
-          <div class="section-post">
-            <a href="{{ .RelPermalink }}">
-              <div class="section-post-image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
-            </a>
-            <div class="section-post-info">
-              <div class="section-post-title">
-                <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
-              </div>
+        <div class="section-posts-container">
+          {{ range first 4 (where $articles ".Params.featured" true) }}
+            <div class="section-post">
+              <a href="{{ .RelPermalink }}">
+                <div class="section-post-image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
+              </a>
+              <div class="section-post-info">
+                <div class="section-post-title">
+                  <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
+                </div>
 
-              <div class="section-post-subtitle">
-                {{ truncate $subtitleLength "..." .Params.subtitle }}
-              </div>
-              <div class="section-post-byline">
-                {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-                <span class="author">By {{ $authorPage.Title }}</span>
+                <div class="section-post-subtitle">
+                  {{ truncate $subtitleLength "..." .Params.subtitle }}
+                </div>
+                <div class="section-post-byline">
+                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+                  <span class="author">By {{ $authorPage.Title }}</span>
+                </div>
               </div>
             </div>
-          </div>
-        {{ end }}
+          {{ end }}
+        </div>
       </div>
-    </div>
-    <hr class="style-circle"></hr>
+      <hr class="style-circle"></hr>
+    {{ end }}
   {{ end }}
 </div>
 
