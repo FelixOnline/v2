@@ -2,6 +2,7 @@
 
 echo "Building CSS"
 gulp scss --production
+gulp js --production
 
 echo "Deleting old publication"
 rm -rf public

@@ -44,7 +44,15 @@ gulp.task("js", function () {
 });
 
 gulp.task("watch", ["scss", "js"], function () {
-  gulp.watch(["themes/felix/src/scss/**/*.*", "gulpfile.js"], ["scss", "js"])
+  gulp.watch([
+    "themes/felix/src/scss/**/*.*",
+    "gulpfile.js"
+  ], ["scss"])
+
+  gulp.watch([
+    "themes/felix/src/js/**/*.*",
+    "gulpfile.js"
+  ], ["js"])
 })
 
 gulp.task("default", ["watch"])

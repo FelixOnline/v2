@@ -1,0 +1,12 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
+{{ $titleLength := 60 }}
+{{ $subtitleLength := 50 }}
+
+{{ partial "header.html" . }}
+
+<input id="search" type="text" placeholder="Search"/>
+
+<div id="results">
+</div>
+
+{{ partial "footer.html" . }}
