@@ -70,22 +70,29 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-tags a {
-  color: white;
-  @include relative-font-size(0.75);
-}
-
-.post-tags span {
+.post-tag-title {
   font-weight: bold;
   margin-right: 5px;
 }
 
-.post-tags div.tag {
-  display: inline;
-  border-radius: 10px;
-  margin-left: 5px;
-  padding: 2px 10px;
-  background: black;
+.post-tag {
+  @include relative-font-size(0.75);
+  text-align: center;
+  text-decoration: none;
+
+  border: none;
+  background-color: $button-color;
+  padding: 5px 10px;
+  display: inline-block;
+  border-radius: 5px;
+
+  a {
+    color: white;
+  }
+}
+
+.post-tag:hover {
+  background-color: $button-hover-color;
 }
 
 .post-social * {
@@ -95,9 +102,6 @@
 .post-comments {
   margin-bottom: $spacing-unit;
 }
-
-
-/* Original styles */
 
 .page-heading {
   @include relative-font-size(1.25);
@@ -127,9 +131,8 @@
   margin-bottom: $spacing-unit / 4;
 }
 
-/**
- * Blockquotes
- */
+/* Block Quotes */
+
  blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;

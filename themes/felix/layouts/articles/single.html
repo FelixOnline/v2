@@ -41,9 +41,9 @@
   <div class="post-footer">
     <div class="post-tags">
       {{ if (gt (len .Params.tags) 0) }}
-        <span>Tags</span>
+        <span class="post-tag-title">Tags</span>
         {{ range .Params.tags }}
-          <div class="tag">
+          <div  class="post-tag">
             <a href="{{ $.Site.BaseURL }}tags/{{ . }}">{{ . }}</a>
           </div>
         {{ end }}

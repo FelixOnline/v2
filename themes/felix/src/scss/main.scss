@@ -1,7 +1,6 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
-
+// Main fonts
 $serif-font-family: 'Merriweather', serif !default;
 $sans-serif-font-family: 'PT Sans', sans-serif !default;
 
@@ -22,6 +21,20 @@ $brand-color:      #2a7ae2 !default;
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
+
+// Button colors
+$button-color: #000000;
+$button-hover-color: #262626;
+
+// Header colors
+$header-main-color: #000000;
+$header-secondary-color: #262626;
+$header-text-color: #ffffff;
+
+// Footer colors
+$footer-main-color: #000000;
+$footer-secondary-color: #262626;
+$footer-text-color: #ffffff;
 
 // Header variables
 $header-height: $spacing-unit * 4;
