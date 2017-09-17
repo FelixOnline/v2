@@ -50,6 +50,15 @@
   background-position: center;
 }
 
+.post-content {
+  margin-bottom: $spacing-unit / 4;
+}
+
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .post-content p:not(:only-child):first-child::first-letter {
   @include relative-font-size(5);
 
@@ -60,10 +69,6 @@
   line-height: $base-line-height / 2;
   font-style: normal;
   font-family: $serif-font-family;
-}
-
-.post-content p:not(:first-child) {
-  text-indent: 15px;
 }
 
 .post-tags {
@@ -124,11 +129,6 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
-}
-
-
-.post-content {
-  margin-bottom: $spacing-unit / 4;
 }
 
 /* Block Quotes */
