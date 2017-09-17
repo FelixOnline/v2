@@ -1,0 +1,10 @@
+[
+  {{ range $i, $e := where .Site.Pages "Type" "articles" }}
+    {{ if $i }}, {{ end }}
+    {
+      "title": "{{ trim .Title "\n" }}",
+      "subtitle": "{{ trim .Params.subtitle "\n" }}",
+      "link": "{{ .Permalink }}"
+    }
+  {{ end }}
+]
