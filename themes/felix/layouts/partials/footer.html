@@ -7,6 +7,31 @@
         Keep the cat free
       </div>
       <div class="footer-sitemap">
+        <a href="{{ $.Site.BaseURL }}publications">
+          <span class="archive-logo">A</span>
+          Archive
+        </a>
+
+        <ul>
+          {{ range $.Site.Params.displayCategories }}
+            <li>
+              {{ $name := (index . "name") }}
+              <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">
+                <object class="icon" width="20" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+                {{ $name  }}
+              </a>
+              <ul>
+              {{ range (index . "tags") }}
+                <li>
+                  <a href="{{ $.Site.BaseURL }}tags/{{ . }}">
+                    {{ . }}
+                  </a>
+                </li>
+              {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+        </ul>
       </div>
     </footer>
 
