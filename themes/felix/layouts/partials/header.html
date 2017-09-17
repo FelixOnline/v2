@@ -59,29 +59,11 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ index (index .Site.Data.css.styles "styles") 0 }}">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|PT+Sans:400,400i,700" rel="stylesheet">
 
-  {{ if .RSSLink -}}
+  {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
-  {{- end }}
+  {{ end }}
 
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-106573298-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <script>
-    function openNav() {
-      document.getElementById("sidenav").style.width = "250px";
-      document.getElementById("site-body").style.marginLeft = "250px";
-    }
-
-    function closeNav() {
-      document.getElementById("sidenav").style.width = "0";
-      document.getElementById("site-body").style.marginLeft = "0";
-    }
-  </script>
+  <script src="{{ .Site.BaseURL }}js/{{ index (index .Site.Data.js.scripts "scripts") 0 }}"></script>
 </head>
 <body>
   <div id="sidenav" class="site-nav-side">
