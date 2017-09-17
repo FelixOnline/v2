@@ -159,7 +159,7 @@
 /* Mobile styles */
 ///////////////////
 
-@include media-query($on-palm) {
+@include media-query($on-laptop) {
   .site-nav-side-button {
     display: block;
   }
@@ -181,17 +181,17 @@
   }
 }
 
-@include media-query($on-laptop) {
-  .page-link {
-    @include relative-font-size(0.6);
+// @include media-query($on-laptop) {
+//   .page-link {
+//     @include relative-font-size(0.6);
 
-    &:not(:last-child) {
-      margin-right: 10px;
-    }
+//     &:not(:last-child) {
+//       margin-right: 10px;
+//     }
 
-    .icon {
-      height: 15px;
-      top: 4px;
-    }
-  }
-}
+//     .icon {
+//       height: 15px;
+//       top: 4px;
+//     }
+//   }
+// }
