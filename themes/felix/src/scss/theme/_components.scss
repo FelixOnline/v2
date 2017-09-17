@@ -30,3 +30,58 @@
     @include relative-font-size(0.8);
   }
 }
+
+//////////////
+/* HR lines */
+
+hr.style-circle {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  height: 1px;
+  border-top: 0px $grey-color-light;
+  border-left: none;
+  border-right: none;
+  color: $grey-color-light;
+  text-align: center;
+}
+
+hr.style-circle.black-style {
+  margin-top: 40px;
+  margin-bottom: 5px;
+  border-top: 0px $text-color;
+  color: $text-color;
+  background-color: black;
+}
+
+hr.style-circle:after {
+  content: "○";
+  display: inline-block;
+  position: relative;
+  top: -0.75em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: white;
+}
+
+/* Logo version */
+
+hr.logo {
+  border-top: 0px #000;
+  border-left: none;
+  border-right: none;
+  height: 1px;
+  background-color: #000;
+  margin: 50px 0;
+}
+
+hr.logo:after {
+  content: url("../icons/cat.svg");
+  background: #fff;
+  height: 30px;
+  width: 30px;
+  left: 50%;
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+  padding-left: 5px;
+  padding-right: 10px;
+}

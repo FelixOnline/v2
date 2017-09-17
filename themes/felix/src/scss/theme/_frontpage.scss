@@ -174,38 +174,6 @@
   display: none;
 }
 
-//////////////
-/* HR lines */
-
-hr.style-circle {
-  margin-top: 25px;
-  margin-bottom: 10px;
-  height: 1px;
-  border-top: 0px $grey-color-light;
-  border-left: none;
-  border-right: none;
-  color: $grey-color-light;
-  text-align: center;
-}
-
-hr.style-circle.black-style {
-  margin-top: 40px;
-  margin-bottom: 5px;
-  border-top: 0px $text-color;
-  color: $text-color;
-  background-color: black;
-}
-
-hr.style-circle:after {
-  content: "○";
-  display: inline-block;
-  position: relative;
-  top: -0.75em;
-  font-size: 1.5em;
-  padding: 0 0.25em;
-  background: white;
-}
-
 ///////////////////
 /* Mobile styles */
 ///////////////////

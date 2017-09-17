@@ -157,24 +157,3 @@
     height: 300px;
   }
 }
-
-////////////////////////////////////
-
-hr.logo {
-  border-top: solid #000 1px;
-  margin: 50px 0;
-}
-
-hr.logo:after {
-  content: url("../icons/cat.svg");
-  height: 30px;
-  width: 30px;
-  /* Controls the position of the logo */
-  left: 50%;
-  position: absolute;
-  transform: translateY(-50%) translateX(-50%);
-  /* Controls the whitespace around the symbol */
-  padding-left: 5px;
-  padding-right: 10px;
-  background: #fff;
-}
