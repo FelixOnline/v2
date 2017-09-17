@@ -37,6 +37,19 @@
 
 <hr class="style-circle black-style"></hr>
 
+<h2>Latest Issue</h2>
+{{ $latestIssue := index (index .Site.Taxonomies.publications "felix") 0 }}
+{{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
+<a href="issues/felix_{{ $latestIssue.Params.issue_number }}">
+  <div>
+    Felix {{ $latestIssue.Params.issue_number }}
+  </div>
+  {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
+  <img style="border: 1px solid black" width="100" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+</a>
+<br>
+<a href="publications/felix">View Archive</a>
+
 <div class="sections">
   {{ range $category := .Site.Params.displayCategories }}
     {{ $name := $category.Name }}
