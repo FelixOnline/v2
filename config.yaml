@@ -17,6 +17,7 @@ taxonomies:
 
 params:
   imageProxy: "//images.weserv.nl/?url="
+  description: Felix Online is the online companion to Felix, the student newspaper of Imperial College London.
   displayCategories:
     - name: news
       tags:

@@ -4,12 +4,63 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {{ if .Page.Keywords }}
+    <meta name="keywords" content="{{ .Page.Keywords }}"/>
+  {{ else }}
+    <meta name="keywords" content="felix, student news, student newspaper, felix online, imperial college union, imperial college, felixonline"/>
+  {{ end }}
+
   <title>{{ .Title }}</title>
-  {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+  {{ if .Page.Plain }}
+    {{ with .Page.Plain }}
+      <meta name="description" content="{{ . | truncate 150 }}">
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@feliximperial" />
+      <meta name="twitter:title" content="{{ trim $.Title "\n" }}" />
+      <meta name="twitter:description" content="{{ . | truncate 150 }}" />
+      {{ if $.Params.image }}
+        <meta name="twitter:image" content="{{ $.Site.Params.imageProxy }}{{ replace $.Params.image "https://" "" }}&w=1000" />
+      {{ end }}
+
+      <meta property="og:url" content="{{ $.Permalink }}" />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content="{{ trim $.Title "\n" }}" />
+      <meta property="og:description" content="{{ . | truncate 150 }}" />
+      {{ if $.Params.image }}
+        <meta property="og:image" content="{{ $.Site.Params.imageProxy }}{{ replace $.Params.image "https://" "" }}&w=1000" />
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ with .Site.Params.description }}
+      <meta name="description" content="{{ . }}">
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@feliximperial" />
+      <meta name="twitter:title" content="Felix Newspaper" />
+      <meta name="twitter:description" content="{{ . }}" />
+      <meta name="twitter:image" content="{{ $.Site.BaseURL }}icons/cat.png" />
+
+      <meta property="og:url"                content="{{ $.Permalink }}" />
+      <meta property="og:type"               content="website" />
+      <meta property="og:title"              content="Felix Newspaper" />
+      <meta property="og:description"        content="{{ . }}" />
+      <meta property="og:image"              content="{{ $.Site.BaseURL }}icons/cat.png" />
+    {{ end }}
+  {{ end }}
+
+  {{ with .Params.authors }}
+    <meta name="author" content="{{ range . }}{{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}{{ $authorPage.Title }},{{ end }}">
+  {{ end }}
+
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ index .Site.Data.css.hash "main.css" }}">
-  {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|PT+Sans:400,400i,700" rel="stylesheet">
+
+  {{ if .RSSLink -}}
+    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
+  {{- end }}
 </head>
 <body>
 
