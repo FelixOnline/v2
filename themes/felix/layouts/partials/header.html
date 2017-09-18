@@ -70,13 +70,16 @@
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     {{ range $category := .Site.Params.displayCategories }}
       {{ $name := $category.Name }}
-        <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
-          {{ if eq $category.Display nil }}
-            {{ $name  }}
-          {{ else }}
-            {{ $category.Display }}
-          {{ end }}
-        </a>
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+          <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
+            {{ if eq $category.Display nil }}
+              {{ $name  }}
+            {{ else }}
+              {{ $category.Display }}
+            {{ end }}
+          </a>
+        </div>
     {{ end }}
   </div>
 

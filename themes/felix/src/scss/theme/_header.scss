@@ -136,14 +136,27 @@
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
 
-.site-nav-side a {
-  padding: 8px 8px 8px 32px;
-  display: block;
+.site-nav-side-link {
+  margin-left: $spacing-unit;
+}
+
+.site-nav-side-link a {
+  padding: 8px;
+  display: inline-block;
   transition: 0.3s;
 
   font-weight: 700;
   color: $header-text-color;
   text-transform: capitalize;
+}
+
+.site-nav-side-link .icon {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+
+  height: 22px;
+  width: auto;
 }
 
 .site-nav-side .closebtn {
@@ -162,7 +175,6 @@
 #site-body {
   transition: margin-left .5s;
 }
-
 
 ///////////////////
 /* Mobile styles */
