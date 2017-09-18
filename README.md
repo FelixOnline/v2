@@ -33,3 +33,15 @@ Project Structure:
 * `_prose.yml` - file that configures the prose UI
 * `content` - directory for articles and author details, any new pages go here
 * `themes/felix` - contains the source used to build the various pages
+
+## Build a production version of the site
+
+1. Install [node and npm](https://nodejs.org/en/download/) & ensure that
+   installed packages are in the PATH (for gulp etc).
+1. Install the node modules `npm install`
+1. Run:
+    ```
+    gulp scss --production
+    gulp js --production
+    bin/hugo
+    ```
