@@ -21,43 +21,74 @@ params:
   displayCategories:
     - name: news
       tags:
+        - on-campus
+        - higher-education
+        - wider-world
         - imported
         - image
     - name: comment
       tags:
+        - politics
+        - world-affairs
+        - personal
+        - health-&-mental-health
+        - on-campus
         - imported
         - image
     - name: science
       tags:
+        - engineering
+        - natural-science
+        - medicine
+        - interviews
         - imported
         - image
     - name: arts
       tags:
+        - review
+        - comment
+        - feature
+        - theatre
+        - visual-art
+        - opera-&-ballet
         - imported
         - image
     - name: film
       tags:
+        - review
+        - feature
+        - opinion
+        - festivals
         - imported
         - image
     - name: tv
       display: TV
       tags:
+        - review
+        - feature
+        - opinion
         - imported
         - image
     - name: music
       tags:
+        - review
+        - feature
+        - demo-dump
+        - opinion
         - imported
         - image
     - name: games
       tags:
-        - imported
-        - image
-    - name: tech
-      tags:
+        - review
+        - feature
+        - opinion
         - imported
         - image
     - name: food
       tags:
+        - out-&-about
+        - recipe
+        - feature
         - imported
         - image
     - name: travel
@@ -66,6 +97,8 @@ params:
         - image
     - name: sport
       tags:
+        - match-report
+        - tours
         - imported
         - image
     # - books # we don't really have enough content for this section at the moment

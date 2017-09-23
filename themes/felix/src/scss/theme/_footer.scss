@@ -16,3 +16,74 @@
   padding: $spacing-unit;
   background-color: $footer-secondary-color;
 }
+
+.footer-sitemap .wrapper {
+  padding-bottom: $spacing-unit / 2;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.section-links-container {
+  grid-column: span 4;
+
+  column-count: 4;
+  column-gap: 1em;
+}
+
+.other-info {
+  border-top: 1px solid white;
+  padding-top: $spacing-unit / 2;
+  margin-top: 4px;
+  font-family: $serif-font-family;
+}
+
+.other-info .title {
+  @include relative-font-size(1.1);
+}
+
+.other-info .contact,
+.other-info .copyright {
+  font-family: $sans-serif-font-family;
+  @include relative-font-size(0.7);
+  margin-top: $spacing-unit / 2;
+}
+
+.other-info .copyright {
+  color: #B4B4B4;
+}
+
+.section-links {
+  display: inline-block;
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-transform: capitalize;
+}
+
+.section-links-title a {
+  color: white;
+  font-weight: 700;
+}
+
+.section-links-title object {
+  position: relative;
+  top: 4px;
+}
+
+.section-links-subsections a {
+  color: white;
+  @include relative-font-size(0.8);
+}
+
+.section-links-subsections a:hover {
+  text-decoration: underline;
+}
+
+@include media-query($on-palm) {
+  .section-links-container {
+    display: none;
+  }
+
+  .footer-sitemap .wrapper {
+    display: block;
+  }
+}

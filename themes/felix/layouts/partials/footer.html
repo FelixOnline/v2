@@ -3,35 +3,44 @@
 
 
     <footer class="site-footer">
-      <div class="footer-slogan">
-        Keep the cat free
-      </div>
-      <div class="footer-sitemap">
-        <a href="{{ $.Site.BaseURL }}publications">
-          <span class="archive-logo">A</span>
-          Archive
-        </a>
-
-        <ul>
-          {{ range $.Site.Params.displayCategories }}
-            <li>
-              {{ $name := (index . "name") }}
-              <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">
-                <object class="icon" width="20" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
-                {{ $name  }}
-              </a>
-              <ul>
-              {{ range (index . "tags") }}
-                <li>
-                  <a href="{{ $.Site.BaseURL }}tags/{{ . }}">
-                    {{ . }}
-                  </a>
-                </li>
+        <div class="footer-slogan">
+          Keep the cat free
+        </div>
+        <div class="footer-sitemap">
+          <div class="wrapper">
+            <div class="section-links-container">
+              {{ range $.Site.Params.displayCategories }}
+                <div class="section-links">
+                  <div class="section-links-title">
+                    {{ $name := (index . "name") }}
+                    <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">
+                      <object class="icon" width="20" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+                      {{ if eq (index . "display") nil }}
+                        {{ $name }}
+                      {{ else }}
+                        {{ index . "display" }}
+                      {{ end }}
+                    </a>
+                  </div>
+                  {{ range (index . "tags") }}
+                    {{ if not (in "imported image" .) }}
+                      <div class="section-links-subsections">
+                        <a href="{{ $.Site.BaseURL }}tags/{{ . }}">
+                          {{ replace . "-" " " }}
+                        </a>
+                      </div>
+                    {{ end }}
+                  {{ end }}
+                </div>
               {{ end }}
-              </ul>
-            </li>
-          {{ end }}
-        </ul>
+            </div>
+            <div class="other-info">
+              <div class="title">Felix Online</div>
+              <div class="contact">Felix, Beit Quad, Prince Consort Road, London, SW7 2BB. Tel: 020 7594 8072.</div>
+              <div class="copyright">Copyright © Felix Imperial. Registered newspaper ISSN 1040-0711.</div>
+            </div>
+          </div>
+        </div>
       </div>
     </footer>
 
