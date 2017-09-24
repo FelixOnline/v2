@@ -17,7 +17,7 @@
     {{ if ne (len $articles) 0 }}
       <div class="section">
         <div class="section-header">
-          <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ $subsection }}</a>
+          <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ replace $subsection "-" " " }}</a>
         </div>
 
         <div class="section-posts-container">
