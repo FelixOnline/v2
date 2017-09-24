@@ -11,3 +11,9 @@
     margin-top: ($header-height * 2/3) + $spacing-unit / 4;
   }
 }
+
+@include media-query($on-palm) {
+  .page-content {
+    margin-top: ($header-height / 2) + $spacing-unit / 4;
+  }
+}

@@ -115,11 +115,13 @@
         <span class="page-link">
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
             <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
-            {{ if eq $category.Display nil }}
-              {{ $name  }}
-            {{ else }}
-              {{ $category.Display }}
-            {{ end }}
+            <span>
+              {{ if eq $category.Display nil }}
+                {{ trim $name " " }}
+              {{ else }}
+                {{ $category.Display }}
+              {{ end }}
+            </span>
           </a>
         </span>
       {{ end }}

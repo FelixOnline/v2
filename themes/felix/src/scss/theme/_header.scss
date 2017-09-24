@@ -24,7 +24,6 @@
   line-height: $base-line-height * $base-font-size * 3;
   letter-spacing: 3px;
 
-
   &,
   &:visited {
     color: $header-text-color;
@@ -88,11 +87,6 @@
     margin-right: 20px;
   }
 
-  a {
-    color: $header-text-color;
-    text-transform: capitalize;
-  }
-
   .icon {
     height: 22px;
     width: auto;
@@ -100,7 +94,15 @@
     position: relative;
     top: 7px;
   }
+}
 
+.page-link a {
+  color: $header-text-color;
+  text-transform: capitalize;
+}
+
+.page-link a span:hover {
+  text-decoration: underline;
 }
 
 /////////////////
@@ -148,6 +150,10 @@
   font-weight: 700;
   color: $header-text-color;
   text-transform: capitalize;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .site-nav-side-link .icon {
@@ -198,17 +204,26 @@
   }
 }
 
-// @include media-query($on-laptop) {
-//   .page-link {
-//     @include relative-font-size(0.6);
+@include media-query($on-palm) {
+  .site-header {
+    height: $header-height / 2;
+  }
 
-//     &:not(:last-child) {
-//       margin-right: 10px;
-//     }
+  .site-title {
+    @include relative-font-size(2);
+    line-height: $base-line-height * $base-font-size * 2.5;
+  }
 
-//     .icon {
-//       height: 15px;
-//       top: 4px;
-//     }
-//   }
-// }
+  .site-logo {
+    height: $base-font-size * 2;
+    top: -$base-font-size / 2;
+  }
+
+  .site-social {
+    top: $base-font-size * 1.1;
+  }
+
+  .site-nav-side-button {
+    top: $base-font-size * 1.25;
+  }
+}
