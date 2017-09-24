@@ -1,0 +1,61 @@
+/* Styles for the widget section */
+
+.widget-section {
+  margin-top: $spacing-unit;
+  display: grid;
+  grid-template-columns: 2fr 3fr 3fr;
+  grid-column-gap: 2em;
+}
+
+.widget-most-recent {
+  background-color: transparentize($grey-color-light, 0.7);
+}
+
+.widget-latest-issue {
+  background-color: transparentize($grey-color-light, 0.7);
+  padding-top: $spacing-unit / 1.5;
+  padding-left: $spacing-unit / 1.5;
+  padding-right: $spacing-unit / 1.5;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.issue-info {
+  text-align: right;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.widget-issue-image img:hover {
+  opacity: 0.5;
+}
+
+.issue-info-title {
+  font-weight: 700;
+  @include relative-font-size(1.2);
+  text-transform: uppercase;
+}
+
+.issue-number a {
+  @include relative-font-size(3);
+  font-weight: 700;
+  color: black;
+}
+
+.issue-view-archive-link a {
+  color: black;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.widget-newsletter {
+  background-color: transparentize($grey-color-light, 0.7);
+}
+
+@include media-query($on-palm) {
+  .widget-section {
+    display: block;
+  }
+}

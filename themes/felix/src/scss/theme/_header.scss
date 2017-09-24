@@ -15,7 +15,7 @@
   top: 0;
   width: 100%;
 
-  z-index: 999;
+  z-index: 998;
 }
 
 .site-title {
@@ -127,10 +127,10 @@
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
+  z-index: 999; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: $header-secondary-color; /* Black*/
+  background-color: transparentize(black, 0.1); /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -170,10 +170,6 @@
 
 .site-nav-side .closebtn:hover {
   opacity: 0.5;
-}
-
-#site-body {
-  transition: margin-left .5s;
 }
 
 ///////////////////
