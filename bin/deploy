@@ -17,7 +17,7 @@ if [ $CIRCLE_BRANCH = 'master' ]; then
   git config --global user.name "Circle CI"
   git init
   git add . > /dev/null
-  git commit -m "Deploy to Github Pages" > /dev/null
+  git commit -m "Circle CI Deploy Commit [ci skip]" > /dev/null
   git push --force --quiet "https://github.com/FelixOnline/v2.git" master:gh-pages > /dev/null
 else
   echo "Skipping deploy - only runs on master"
