@@ -1,0 +1,16 @@
+/* Styles for imported comments */
+
+/* Hide comments for now */
+.post-comments {
+  display: none;
+}
+
+.post-comments-title {
+  @include relative-font-size(1.5);
+  font-weight: bold;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.post-comments-comment {
+  margin-bottom: $spacing-unit / 4;
+}
