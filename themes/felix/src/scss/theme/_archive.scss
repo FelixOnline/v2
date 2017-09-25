@@ -1,10 +1,11 @@
 /* Archive styles */
 
 .publications-header {
-  text-align: center;
   text-transform: uppercase;
   @include relative-font-size(2);
   font-family: $sans-serif-font-family;
+  font-weight: 700;
+  text-align: center;
 }
 
 .publication-list-container {
@@ -21,6 +22,14 @@
   float: left;
 }
 
+.publication-list-container:hover img {
+  filter: blur(3px);
+}
+
+.publication-list-container .publication:hover img {
+  filter: blur(0);
+}
+
 @supports (display: grid) {
   .publication {
     width: auto;
@@ -29,7 +38,9 @@
 }
 
 .publication-link {
+  margin-top: $spacing-unit / 2;
   margin-bottom: $spacing-unit / 4;
+  color: $text-color;
 }
 
 .archive-logo {
@@ -44,18 +55,36 @@
 
 .publication-above {
   text-align: center;
-  @include relative-font-size(0.9);
 }
 
 .publication-header {
   text-transform: uppercase;
   @include relative-font-size(2);
   font-family: $sans-serif-font-family;
+  font-weight: 700;
+  text-align: center;
 
+  margin-bottom: $spacing-unit;
+}
+
+.publication-back {
   text-align: center;
 }
 
-.publication-issue-list {
+.publication-back:before {
+  content: '←';
+  margin-right: 2px;
+}
+
+.publication-back a {
+  color: $text-color;
+}
+
+.publication-back a:hover {
+  text-decoration: underline;
+}
+
+.publication-year-list, .publication-issue-list {
   margin-top: $spacing-unit / 2;
   margin-bottom: $spacing-unit / 2;
 
@@ -67,14 +96,22 @@
   text-align: center;
 }
 
-.publication-issue {
+.publication-year-list:hover img {
+  filter: blur(3px);
+}
+
+.publication-year-list .publication-year:hover img {
+  filter: blur(0);
+}
+
+.publication-issue, .publication-year {
   width: 50%;
   float: left;
   margin-bottom: $spacing-unit / 2;
 }
 
 @supports (display: grid) {
-  .publication-issue {
+  .publication-issue, .publication-year {
     width: auto;
     float: none;
     margin-bottom: none;
@@ -82,7 +119,21 @@
 }
 
 .publication-issue-info {
-  margin-top: $spacing-unit / 8;
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 4;
+  color: $text-color;
+}
+
+.publication-issue-list:hover img {
+  filter: blur(3px);
+}
+
+.publication-issue-list .publication-issue:hover img {
+  filter: blur(0);
+}
+
+.issue-date {
+  @include relative-font-size(0.8);
 }
 
 /* Issue styles */

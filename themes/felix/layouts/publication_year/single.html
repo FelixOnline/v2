@@ -5,7 +5,6 @@
 
 <div class="publication-above">Publication Year</div>
 <div class="publication-header">{{ $publication }} - {{ .Params.year }}</div>
-<p><a href="..">Index</a></p>
 
 {{ $publicationPages := where .Site.Pages ".Params.publications" "intersect" (slice $publication) }}
 {{ $group := (where ($publicationPages.GroupByDate "2006") ".Key" (printf "%v" .Params.year)) }}
@@ -13,21 +12,19 @@
 <div class="publication-issue-list">
   {{ range $group }}
     {{ range .Pages.Reverse }}
-      <a href="{{ .RelPermalink }}">
+      {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
+      <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
         <div class="publication-issue">
-          {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
-          <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
-            <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
-          </a>
-          <div class="publication-issue-info">
-            Issue {{ .Params.issue_number }}
-            <br/>
-            {{ dateFormat "Jan 2, 2006" .Date }}
-          </div>
+          <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+          <div class="publication-issue-info">Issue {{ .Params.issue_number }}<br/><span class="issue-date">{{ dateFormat "Jan 2, 2006" .Date }}</span></div>
         </div>
       </a>
     {{ end }}
   {{ end }}
+</div>
+
+<div class="publication-back">
+  <a href="..">All Years</a>
 </div>
 
 {{ partial "footer.html" . }}

@@ -9,11 +9,9 @@
   {{ range $name, $pages := .Site.Taxonomies.publications }}
     <a href="{{ $path }}{{ $name }}">
       <div class="publication">
-        <div class="publication-link">
-          {{ ($.Site.GetPage "taxonomy" "publications" $name).Title }}
-        </div>
         {{ $slug := printf "%v_%v" $name (index $pages 0).Params.issue_number }}
-        <img style="border: 1px solid black" width="100" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+        <img style="border: 1px solid black" height="150" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&h=150"/>
+        <div class="publication-link">{{ ($.Site.GetPage "taxonomy" "publications" $name).Title }}</div>
       </div>
     </a>
   {{ end }}
