@@ -1,0 +1,8 @@
+cache: yarn
+
+before_script:
+  - npm install -g gulp-cli
+  - npm install -g yarn
+  - yarn install
+
+script: bin/deploy.sh

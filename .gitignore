@@ -3,5 +3,8 @@ node_modules
 
 themes/felix/static/css/*
 themes/felix/static/js/*
+
 data/css/*
 data/js/*
+!data/css/.keep
+!data/js/.keep
