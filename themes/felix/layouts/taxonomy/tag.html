@@ -3,8 +3,7 @@
 
 {{ partial "header.html" . }}
 
-<div class="tag-above">Articles tagged with</div>
-<div class="tag-header">{{ .Title }}</div>
+<div class="section-header">{{ .Title }}</div>
 
 <div class="tag-articles">
   {{ range (.Paginator 20).Pages }}

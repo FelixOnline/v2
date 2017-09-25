@@ -3,6 +3,8 @@
 .site-footer {
   background-color: $footer-main-color;
   color: $footer-text-color;
+
+  margin-top: $spacing-unit * 1.7;
 }
 
 .footer-slogan {
@@ -85,5 +87,11 @@
 
   .footer-sitemap .wrapper {
     display: block;
+  }
+}
+
+@include media-query($on-laptop) {
+  .site-footer {
+    margin-top: 0;
   }
 }

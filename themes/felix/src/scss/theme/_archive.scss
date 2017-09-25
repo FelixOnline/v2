@@ -14,8 +14,6 @@
 
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-
-  margin-bottom: $spacing-unit * 2;
 }
 
 .publication {
@@ -177,11 +175,5 @@
 
   .publication-issue-info {
     @include relative-font-size(0.7);
-  }
-}
-
-@include media-query($on-laptop) {
-  .publication-list-container {
-    margin-bottom: 0;
   }
 }
