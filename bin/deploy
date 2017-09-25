@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+echo "Building JS"
+gulp js --production
+
+echo "Building CSS"
+gulp scss --production
+
+echo "Building Site"
+bin/hugo
+
+if [ $CIRCLE_BRANCH = 'master' ]; then
+  echo "Deploying site"
+  ls
+  cd public
+  git config user.email "circleci@example.com"
+  git config user.name "Circle CI"
+  git init
+  git add . > /dev/null
+  git commit -m "Deploy to Github Pages" > /dev/null
+  git push --force --quiet "https://github.com/FelixOnline/v2.git" master:gh-pages > /dev/null
+else
+  echo "Skipping deploy - only runs on master"
+fi

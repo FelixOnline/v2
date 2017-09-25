@@ -1,0 +1,25 @@
+version: 2
+general:
+  branches:
+    ignore:
+      - gh-pages
+jobs:
+  build:
+    docker:
+      - image: circleci/node:7.10
+    working_directory: ~/felixonline
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "package.json" }}
+          - v1-dependencies-
+      - run: sudo npm install -g gulp-cli
+      - run: sudo npm install -g yarn
+      - run: yarn install
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - run: bin/deploy
