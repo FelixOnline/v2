@@ -1,19 +1,28 @@
 /* Styles for article pages */
 
+article.post {
+  padding: 0 $spacing-unit;
+}
+
 .post-title {
-  @include relative-font-size(3);
-  line-height: $base-line-height * 0.9;
+  @include relative-font-size(2.5);
+  line-height: $base-line-height * 0.8;
+  font-weight: 700;
+  margin-bottom: $spacing-unit / 4;
 }
 
 .post-subtitle {
+  @include relative-font-size(1.5);
+  line-height: $base-line-height * 0.9;
   font-style: italic;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .post-authors {
   margin-bottom: $spacing-unit / 2;
   padding: ($spacing-unit / 4) 0;
-  border-top: solid black;
-  border-bottom: solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
   white-space: nowrap;
   width: 120px;
 }
@@ -31,6 +40,7 @@
 }
 
 .post-image {
+  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
@@ -73,11 +83,14 @@
 
 .post-tags {
   margin-bottom: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  border-bottom: 1px solid $grey-color-light;
 }
 
 .post-tag-title {
+  @include relative-font-size(1.5);
   font-weight: bold;
-  margin-right: 5px;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .post-tag {
@@ -131,6 +144,13 @@
   @include relative-font-size(1.5);
 }
 
+.post-footnotes {
+  margin-top:  $spacing-unit;
+  margin-bottom: $spacing-unit / 2;
+  @include relative-font-size(0.8);
+  color: $grey-color;
+}
+
 //////////////////////////////////
 /* Block Quotes */
 
@@ -158,6 +178,10 @@
 //////////////////////////////////
 
 @include media-query($on-palm) {
+  article.post {
+    padding: 0 $spacing-unit / 4;
+  }
+
   .post-title {
     @include relative-font-size(1.7);
   }

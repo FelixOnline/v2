@@ -39,7 +39,7 @@
   <div class="post-footer">
     <div class="post-tags">
       {{ if (gt (len .Params.tags) 0) }}
-        <span class="post-tag-title">Tags</span>
+        <div class="post-tag-title">More</div>
         {{ range .Params.tags }}
           <div  class="post-tag">
             <a href="{{ $.Site.BaseURL }}tags/{{ . }}">{{ . }}</a>
@@ -65,26 +65,25 @@
         </ul>
       {{ end }}
     </div>
+  </div>
 
-    <div class="post-footnotes">
-      {{ if (eq .Params.imported true) }}
-        <div>
-          This article was imported from Felix Online V1.
-          <a href="http://felixonline.co.uk{{ index .Params.aliases 0 }}">Original Article</a>
-        </div>
-      {{ end }}
-    </div>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
+
+  <div class="post-footnotes">
+    {{ if (eq .Params.imported true) }}
+      <div>
+        This article was imported from an earlier version of Felix Online - see the original article <a href="http://felixonline.co.uk{{ index .Params.aliases 0 }}">here</a>.
+      </div>
+    {{ end }}
   </div>
 </article>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
 
 {{ partial "footer.html" . }}
