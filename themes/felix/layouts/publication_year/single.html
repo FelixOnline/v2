@@ -16,7 +16,9 @@
       <a href="{{ .RelPermalink }}">
         <div class="publication-issue">
           {{ $slug := printf "%v_%v" $publication .Params.issue_number }}
-          <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+          <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
+            <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+          </a>
           <div class="publication-issue-info">
             Issue {{ .Params.issue_number }}
             <br/>
