@@ -4,13 +4,14 @@
 
 {{ partial "header.html" . }}
 
-<div class="category-header">
+{{ $category := (index (where $.Site.Params.displayCategories "name" (lower .Title)) 0) }}
+{{ $categoryPages := .Pages }}
+
+<div class="category-header" style="color: #{{ $category.colour }}">
   {{ .Title }}
 </div>
 
 <div class="sections">
-  {{ $category := (index (where $.Site.Params.displayCategories "name" (lower .Title)) 0) }}
-  {{ $categoryPages := .Pages }}
 
   {{ range $subsection := $category.tags }}
     {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
