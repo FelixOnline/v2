@@ -11,14 +11,25 @@
   {{ .Title }}
 </div>
 
+<div class="category-subsection-links">
+  {{ range $category.tags }}
+    {{ if not (in "imported image" .) }}
+      <div class="category-subsection-link">
+        <a href="{{ $.Site.BaseURL }}tags/{{ . }}" style="color: #{{ $category.colour }}">{{ replace . "-" " " }}</a>
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+
 <div class="sections">
 
   {{ range $subsection := $category.tags }}
     {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
+    {{ $subsectionName := replace $subsection "-" " " }}
     {{ if ne (len $articles) 0 }}
       <div class="section">
-        <div class="section-header">
-          <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ replace $subsection "-" " " }}</a>
+        <div class="section-header" id="{{ $subsectionName }}">
+          <a href="{{ $.Site.BaseURL }}tags/{{ $subsection }}">{{ $subsectionName }}</a>
         </div>
 
         <div class="section-posts-container">

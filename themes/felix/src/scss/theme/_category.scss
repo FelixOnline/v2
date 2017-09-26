@@ -5,6 +5,23 @@
   @include relative-font-size(4);
   font-family: $sans-serif-font-family;
   font-weight: 700;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.category-subsection-links {
+  text-align: center;
+  margin-bottom: $spacing-unit / 2;
+}
+.category-subsection-link {
+  display: inline;
+  text-transform: uppercase;
+  margin-left: $spacing-unit / 4;
+  margin-right: $spacing-unit / 4;
+}
+
+.category-subsection-link a:hover {
+  text-decoration: underline;
 }
 
 .category-articles {
