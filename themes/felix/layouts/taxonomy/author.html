@@ -12,6 +12,10 @@
     {{ end }}
   </div>
 
+  {{ if (ne .Params.position "") }}
+    <p>Position: {{ .Params.position }}</p>
+  {{ end }}
+
   <div class="author-profile-social">
     {{ if (ne .Params.twitter "") }}
       <div class="social-link">
