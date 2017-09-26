@@ -21,26 +21,27 @@
   {{ end }}
 </div>
 
-<div>
-  <h4>{{ .Title }} Editors</h4>
-  <ul>
+<div class="category-editors">
+  <div class="category-editors-title">Edited By</div>
+  <div class="category-editors-list">
     {{ range $editor := $category.editors }}
       {{ $editorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
-      <li>
-        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $editorPage.Title }}</a>
+      <div class="category-editor">
         <img width="50" src="{{ $imageProxy }}{{ replace $editorPage.Params.image "https://" "" }}&w=100"/>
-      </li>
+        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $editorPage.Title }}</a>
+      </div>
     {{ end }}
-  </ul>
+  </div>
   {{ if ne $category.email nil }}
-    <p>
-      Email: <a href="mailto:{{ $category.email }}">{{ $category.email }}</a>
-    </p>
+    <div class="category-email">
+      <a href="mailto:{{ $category.email }}">{{ $category.email }}</a>
+    </div>
   {{ end }}
   {{ if ne $category.twitter nil }}
-    <p>
-      Twitter: <a href="https://twitter.com/{{ $category.twitter }}">{{ $category.twitter }}</a>
-    </p>
+    <div class="social-link">
+      <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter-black.png">
+      <a href="https://twitter.com/{{ $category.twitter }}">@<span class="u-name">{{ $category.twitter }}</span></a>
+    </div>
   {{ end }}
 </div>
 
