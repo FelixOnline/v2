@@ -81,10 +81,13 @@
 
 <div class="widget-section">
   <div class="widget-most-recent">
-    {{ range first 3 .Site.Pages }}
-      <div class="">
-      </div>
-    {{ end }}
+    <ul>
+      {{ range first 3 (where (where .Site.Pages.ByDate.Reverse ".Section" "articles") ".Kind" "page") }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
+        </li>
+      {{ end }}
+    </ul>
   </div>
 
   <div class="widget-latest-issue">
