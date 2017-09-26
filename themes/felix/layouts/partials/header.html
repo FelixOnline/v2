@@ -93,7 +93,9 @@
       <form class="site-search" action="{{ $.Site.BaseURL }}search" method="get">
         <input type="text" placeholder="Search..." name="q"><br>
       </form>
-      <a class="site-search-link" href="{{ .Site.BaseURL }}search">Search</a>
+      <a class="site-search-link" href="{{ .Site.BaseURL }}search">
+        <img class="site-search-icon" src="{{ .Site.BaseURL }}/icons/search.png">
+      </a>
 
       <div class="site-nav-side-button">
         <div onclick="openNav()">

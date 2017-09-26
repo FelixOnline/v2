@@ -80,6 +80,34 @@
   text-decoration: underline;
 }
 
+.site-social {
+  margin-top: $spacing-unit / 2;
+}
+
+.site-social-logo {
+  margin-right: 5px;
+  height: $base-font-size;
+
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
+.site-search-icon {
+  height: $base-font-size * 2;
+  position: relative;
+  bottom: $spacing-unit / 3;
+}
+
+.site-social-logo-bigger {
+  margin-left: -5px;
+  height: $base-font-size * 1.2;
+
+  &:hover {
+    opacity: 0.75;
+  }
+}
+
 @include media-query($on-palm) {
   .section-links-container {
     display: none;
