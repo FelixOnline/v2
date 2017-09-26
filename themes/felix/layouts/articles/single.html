@@ -7,9 +7,11 @@
 
     <div class="post-authors">
       By
-      {{ range .Params.authors }}
-        {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
-        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a>
+      {{ $authorCount := len .Params.authors }}
+      {{ range $index, $author := .Params.authors }}
+        {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
+        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a><!--
+        -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
       {{ end }}
     </div>
 
