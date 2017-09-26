@@ -21,8 +21,30 @@
   {{ end }}
 </div>
 
-<div class="sections">
+<div>
+  <h4>{{ .Title }} Editors</h4>
+  <ul>
+    {{ range $editor := $category.editors }}
+      {{ $editorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
+      <li>
+        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $editorPage.Title }}</a>
+        <img width="50" src="{{ $imageProxy }}{{ replace $editorPage.Params.image "https://" "" }}&w=100"/>
+      </li>
+    {{ end }}
+  </ul>
+  {{ if ne $category.email nil }}
+    <p>
+      Email: <a href="mailto:{{ $category.email }}">{{ $category.email }}</a>
+    </p>
+  {{ end }}
+  {{ if ne $category.twitter nil }}
+    <p>
+      Twitter: <a href="https://twitter.com/{{ $category.twitter }}">{{ $category.twitter }}</a>
+    </p>
+  {{ end }}
+</div>
 
+<div class="sections">
   {{ range $subsection := $category.tags }}
     {{ $articles := (where $categoryPages ".Params.tags" "intersect" (slice $subsection)) }}
     {{ $subsectionName := replace $subsection "-" " " }}

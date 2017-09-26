@@ -12,15 +12,17 @@ taxonomies:
   highlight: "highlights"
   publication: "publications"
 
-# ignoreFiles:
-#   - data
-
 params:
   imageProxy: "//images.weserv.nl/?url="
   description: Felix Online is the online companion to Felix, the student newspaper of Imperial College London.
   displayCategories:
     - name: news
       colour: "cd1619"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - on-campus
         - higher-education
@@ -29,6 +31,11 @@ params:
         - image
     - name: comment
       colour: "00a7d3"
+      # email: hello@felixonline.co.uk
+      # twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - politics
         - world-affairs
@@ -39,6 +46,11 @@ params:
         - image
     - name: science
       colour: "005722"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - engineering
         - natural-science
@@ -48,6 +60,11 @@ params:
         - image
     - name: arts
       colour: "54166b"
+      email: hello@felixonline.co.uk
+      # twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - review
         - comment
@@ -59,6 +76,11 @@ params:
         - image
     - name: film
       colour: "7a0040"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - review
         - feature
@@ -69,6 +91,11 @@ params:
     - name: tv
       display: TV
       colour: "007e50"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - review
         - feature
@@ -77,6 +104,11 @@ params:
         - image
     - name: music
       colour: "0051a0"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - review
         - feature
@@ -86,6 +118,11 @@ params:
         - image
     - name: games
       colour: "00546c"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - review
         - feature
@@ -94,6 +131,11 @@ params:
         - image
     - name: food
       colour: "e5c700"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - out-&-about
         - recipe
@@ -102,11 +144,21 @@ params:
         - image
     - name: travel
       colour: "000000"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - imported
         - image
     - name: sport
       colour: "159632"
+      email: hello@felixonline.co.uk
+      twitter: feliximperial
+      editors:
+        - ff712
+        - cet13
       tags:
         - match-report
         - tours
