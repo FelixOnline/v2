@@ -12,20 +12,16 @@
     {{ end }}
   </div>
 
-  {{ if (ne .Params.position "") }}
-    <p>Position: {{ .Params.position }}</p>
-  {{ end }}
-
   <div class="author-profile-social">
     {{ if (ne .Params.twitter "") }}
       <div class="social-link">
-        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter.svg">
-        <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a>
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter-black.png">
+        <a href="https://twitter.com/{{.Params.twitter}}">@<span class="u-name">{{ .Params.twitter }}</span></a>
       </div>
     {{ end }}
     {{ if (ne .Params.facebook "") }}
       <div class="social-link">
-        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook.svg">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook-black.png">
         <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a>
       </div>
     {{ end }}
@@ -33,9 +29,15 @@
       <div class="social-link-website">Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></div>
     {{ end }}
   </div>
+
+  <div class="author-position">
+    {{ if (ne .Params.position "") }}
+      {{ .Params.position }}
+    {{ end }}
+  </div>
 </div>
 
-<div class="author-header">Articles</div>
+<div class="section-header">Articles</div>
 
 <div class="author-articles">
 {{ range (.Paginator 20).Pages }}

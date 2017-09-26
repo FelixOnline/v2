@@ -17,9 +17,10 @@
 
 .author-name {
   @include relative-font-size(2);
+  font-weight: 700;
   font-family: $sans-serif-font-family;
 
-  margin-bottom: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .author-profile-header, .author-profile-social {
@@ -35,17 +36,26 @@
 }
 
 .social-link {
-  margin-top: $spacing-unit / 8;
+  margin-top: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 4;
+}
+
+.social-link a {
+  color: $text-color;
+}
+
+.author-position {
+  margin-top: $spacing-unit / 2;
+  @include relative-font-size(1.4);
+  font-weight: 700;
+}
+
+.social-link a:hover .u-name {
+  text-decoration: underline;
 }
 
 .social-link-website {
   display: none;
-}
-
-.author-header {
-  text-transform: uppercase;
-  @include relative-font-size(2);
-  font-family: $sans-serif-font-family;
 }
 
 ///////////////////
@@ -56,8 +66,18 @@
     display: block;
   }
 
-  .author-header, .author-name {
+  .author-name {
     @include relative-font-size(1.6);
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  .author-position {
+    @include relative-font-size(1.2);
+  }
+
+  .author-profile-header img {
+    height: 75px;
+    width: 75px;
   }
 
   .author-profile {
