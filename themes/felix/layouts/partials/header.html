@@ -89,17 +89,12 @@
     <div class="wrapper">
       <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
       <img class="site-logo" src="{{ .Site.BaseURL }}/icons/cat-white.png">
-      <div class="site-social">
-        <a href="https://www.facebook.com/FelixImperial">
-          <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook.png">
-        </a>
-        <a href="https://twitter.com/feliximperial">
-          <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter.png">
-        </a>
-        <a href="{{ $.Site.BaseURL }}publications">
-          <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/archive.png">
-        </a>
-      </div>
+
+      <form class="site-search" action="{{ $.Site.BaseURL }}search" method="get">
+        <input type="text" placeholder="Search..." name="q"><br>
+      </form>
+      <a class="site-search-link" href="{{ .Site.BaseURL }}search">Search</a>
+
       <div class="site-nav-side-button">
         <div onclick="openNav()">
           <div class="hamburger-line"></div>

@@ -44,6 +44,29 @@
   right: 5%;
 }
 
+.site-search, .site-search-link {
+  float: right;
+  position: absolute;
+  top: $base-font-size * 1.5;
+  right: 5%;
+}
+
+.site-search {
+  input {
+    padding: 3px;
+    font-size: 15px;
+  }
+}
+
+.site-search-link {
+  color: white;
+  display: none;
+
+  &:visited {
+    color: white;
+  }
+}
+
 .site-nav-side-button {
   float: left;
   position: absolute;
@@ -201,6 +224,14 @@
 
   .site-social {
     top: $base-font-size * 2;
+  }
+
+  .site-search {
+    display: none;
+  }
+
+  .site-search-link {
+    display: block;
   }
 }
 

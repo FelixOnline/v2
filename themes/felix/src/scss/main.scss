@@ -64,17 +64,18 @@ $on-laptop:        1000px !default;
 
 // Import partials.
 @import
-  "theme/base",
-  "theme/components",
+  "theme/archive",
   "theme/article",
-  "theme/header",
+  "theme/author",
+  "theme/base",
+  "theme/category",
+  "theme/comments",
+  "theme/components",
   "theme/footer",
   "theme/frontpage",
-  "theme/category",
-  "theme/author",
-  "theme/tag",
-  "theme/archive",
+  "theme/header",
+  "theme/search",
   "theme/shared",
-  "theme/widgets",
-  "theme/comments"
+  "theme/tag",
+  "theme/widgets"
 ;
