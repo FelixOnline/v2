@@ -22,14 +22,6 @@
   float: left;
 }
 
-.publication-list-container:hover img {
-  filter: blur(3px);
-}
-
-.publication-list-container .publication:hover img {
-  filter: blur(0);
-}
-
 @supports (display: grid) {
   .publication {
     width: auto;
@@ -94,14 +86,6 @@
   grid-row-gap: 1em;
 
   text-align: center;
-}
-
-.publication-year-list:hover img {
-  filter: blur(3px);
-}
-
-.publication-year-list .publication-year:hover img {
-  filter: blur(0);
 }
 
 .publication-issue, .publication-year {
