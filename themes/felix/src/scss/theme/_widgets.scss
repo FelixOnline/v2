@@ -5,10 +5,33 @@
   display: grid;
   grid-template-columns: 2fr 3fr 3fr;
   grid-column-gap: 2em;
+  grid-row-gap: 2em;
 }
 
 .widget-most-recent {
   background-color: transparentize($grey-color-light, 0.7);
+  padding: $spacing-unit / 1.5;
+}
+
+.widget-most-recent-title {
+  font-weight: 700;
+  @include relative-font-size(1.2);
+  text-transform: uppercase;
+  margin-bottom: $spacing-unit / 4;
+}
+
+.article-number {
+  margin-right: $spacing-unit / 4;
+  font-weight: 700;
+}
+
+.widget-article-link a {
+  color: $text-color;
+  @include relative-font-size(0.8);
+}
+
+.widget-article-link a:hover {
+  text-decoration: underline;
 }
 
 .widget-latest-issue {
@@ -16,14 +39,13 @@
   padding-top: $spacing-unit / 1.5;
   padding-left: $spacing-unit / 1.5;
   padding-right: $spacing-unit / 1.5;
+  padding-bottom: $spacing-unit / 2;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
 
 .issue-info {
   text-align: right;
-  display: grid;
-  grid-template-rows: repeat(3, 1fr);
 }
 
 .widget-issue-image img:hover {
@@ -37,7 +59,7 @@
 }
 
 .issue-number a {
-  @include relative-font-size(3);
+  @include relative-font-size(2.5);
   font-weight: 700;
   color: black;
 }
