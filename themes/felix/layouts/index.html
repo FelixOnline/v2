@@ -4,6 +4,11 @@
 
 {{ partial "header.html" . }}
 
+<form action="{{ $.Site.BaseURL }}search" method="get">
+  Search: <input type="text" name="q"><br>
+  <input type="submit" value="Submit">
+</form>
+
 <div class="headline-section">
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
