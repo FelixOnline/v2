@@ -45,3 +45,16 @@ Project Structure:
     gulp js --production
     bin/hugo
     ```
+## Sync the changes to the site
+
+First build a production version of the site.
+
+Then connect to the VPN.
+
+Then run something like this to rsync up the files:
+
+```
+USER=imperialUser
+SERVER=something.ic.ac.uk
+rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --delete --progress public/ $USER@$SERVER:/website/media/felix/v2test/
+```
