@@ -3,7 +3,6 @@
 
 {{ partial "header.html" . }}
 
-<div class="publication-above">Publication Year</div>
 <div class="publication-header">{{ $publication }} - {{ .Params.year }}</div>
 
 {{ $publicationPages := where .Site.Pages ".Params.publications" "intersect" (slice $publication) }}

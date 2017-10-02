@@ -108,14 +108,6 @@
   color: $text-color;
 }
 
-.publication-issue-list:hover img {
-  filter: blur(3px);
-}
-
-.publication-issue-list .publication-issue:hover img {
-  filter: blur(0);
-}
-
 .issue-date {
   @include relative-font-size(0.8);
 }
