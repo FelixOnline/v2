@@ -5,6 +5,8 @@
 
 <div class="publication-header">{{ $publication }} - {{ .Params.year }}</div>
 
+<div class="acknowledgement">The issue archive was made possible through kind donations from Imperial College Union and the IC Trust.</div>
+
 {{ $publicationPages := where .Site.Pages ".Params.publications" "intersect" (slice $publication) }}
 {{ $group := (where ($publicationPages.GroupByDate "2006") ".Key" (printf "%v" .Params.year)) }}
 

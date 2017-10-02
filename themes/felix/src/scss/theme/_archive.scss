@@ -56,7 +56,7 @@
   font-weight: 700;
   text-align: center;
 
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit / 4;
 }
 
 .publication-back {
@@ -128,6 +128,12 @@
 
 .issue-image {
   margin-bottom: $spacing-unit / 2;
+}
+
+.acknowledgement {
+  text-align: center;
+  margin-top: $spacing-unit / 4;
+  margin-bottom: $spacing-unit;
 }
 
 ///////////////////
