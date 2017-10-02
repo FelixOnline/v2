@@ -53,15 +53,6 @@
   }
 }
 
-.site-search-link {
-  color: white;
-  display: none;
-
-  &:visited {
-    color: white;
-  }
-}
-
 .site-nav-side-button {
   float: left;
   position: absolute;
@@ -205,12 +196,17 @@
     line-height: $base-line-height * $base-font-size * 3.2;
   }
 
-  .site-search {
+  .site-search.desktop {
     display: none;
   }
 
-  .site-search-link {
+  .site-search {
+    position: initial;
+    float: none;
     display: block;
+    margin-left: $spacing-unit;
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
   }
 }
 

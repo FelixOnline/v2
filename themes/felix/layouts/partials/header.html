@@ -68,6 +68,9 @@
 <body>
   <div id="sidenav" class="site-nav-side">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <form class="site-search" action="{{ $.Site.BaseURL }}search" method="get">
+      <input type="text" placeholder="Search..." name="q"><br>
+    </form>
     {{ range $category := .Site.Params.displayCategories }}
       {{ $name := $category.Name }}
         <div class="site-nav-side-link">
@@ -90,12 +93,9 @@
       <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
       <img class="site-logo" src="{{ .Site.BaseURL }}/icons/cat-white.png">
 
-      <form class="site-search" action="{{ $.Site.BaseURL }}search" method="get">
+      <form class="site-search desktop" action="{{ $.Site.BaseURL }}search" method="get">
         <input type="text" placeholder="Search..." name="q"><br>
       </form>
-      <a class="site-search-link" href="{{ .Site.BaseURL }}search">
-        <img class="site-search-icon" src="{{ .Site.BaseURL }}/icons/search.png">
-      </a>
 
       <div class="site-nav-side-button">
         <div onclick="openNav()">
