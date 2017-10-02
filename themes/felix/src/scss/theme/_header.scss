@@ -46,8 +46,10 @@
 
 .site-search {
   input {
-    padding: 3px;
+    padding: 5px;
     font-size: 15px;
+    border-radius: 5px;
+    border-style: none;
   }
 }
 
