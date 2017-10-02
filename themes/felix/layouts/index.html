@@ -74,66 +74,6 @@
   {{ end }}
 </div>
 
-<div class="widget-section">
-  <div class="widget-most-recent">
-    <div class="widget-most-recent-title">Most Recent</div>
-    {{ range $index, $article := first 3 (where (where .Site.Pages.ByDate.Reverse ".Section" "articles") ".Kind" "page") }}
-      <div class="widget-article-link">
-        <span class="article-number">{{ add $index 1 }}.</span><a href="{{ $article.RelPermalink }}">{{ truncate $titleLength "..." $article.LinkTitle }}</a>
-      </div>
-    {{ end }}
-    </ul>
-  </div>
-
-  <div class="widget-latest-issue">
-    {{ $latestIssue := index (index .Site.Taxonomies.publications "felix") 0 }}
-    {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
-    <div class="widget-issue-image">
-      {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
-      <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
-        <img style="border: 1px solid black" width="150" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
-      </a>
-    </div>
-    <div class="issue-info">
-      <div class="issue-info-title">
-        Latest Issue
-      </div>
-      <div class="issue-number">
-        <a href="issues/felix_{{ $latestIssue.Params.issue_number }}">
-          {{ $latestIssue.Params.issue_number }}
-        </a>
-      </div>
-      <div class="issue-view-archive-link">
-        <a href="publications/felix">View Archive</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="widget-newsletter">
-  </div>
-</div>
-
-<!-- this is hidden for now -->
-<div class="highlight-section">
-  {{ range $name, $pages := .Site.Taxonomies.highlights }}
-    <div class="highlight-post-block">
-      <h2>{{ $name }}</h2>
-
-      {{ $post := index $pages 0 }}
-      <div class="image" style="background-image: url({{ $imageProxy }}{{ replace $post.Params.image "https://" "" }}&w=200)"></div>
-      <div class="info">
-        <a href="{{ $post.RelPermalink }}">{{ truncate $titleLength "..." $post.Title }}</a>
-
-        <div class="subtitle">
-          {{ truncate $subtitleLength "..." $post.Params.subtitle }}
-        </div>
-        <div class="byline">
-          <span class="author">By _</span>
-          <span class="date">{{ $post.Date.Format "Monday Jan 2" }}</span>
-        </div>
-      </div>
-    </div>
-  {{ end }}
-</div>
+{{ partial "widgets.html" }}
 
 {{ partial "footer.html" . }}
