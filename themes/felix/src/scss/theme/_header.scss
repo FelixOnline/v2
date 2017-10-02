@@ -38,10 +38,10 @@
 }
 
 .site-search, .site-search-link {
-  float: right;
+  float: left;
   position: absolute;
   top: $base-font-size * 1.5;
-  right: 5%;
+  left: 5%;
 }
 
 .site-search {
