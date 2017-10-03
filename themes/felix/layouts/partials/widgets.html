@@ -2,40 +2,40 @@
 {{ $titleLength := 60 }}
 
 <div class="widget-section">
-    <div class="widget-most-recent">
-      <div class="widget-most-recent-title">Most Recent</div>
-      {{ range $index, $article := first 3 (where (where .Site.Pages.ByDate.Reverse ".Section" "articles") ".Kind" "page") }}
-        <div class="widget-article-link">
-          <span class="article-number">{{ add $index 1 }}.</span><a href="{{ $article.RelPermalink }}">{{ truncate $titleLength "..." $article.LinkTitle }}</a>
-        </div>
-      {{ end }}
-      </ul>
-    </div>
+  <div class="widget-most-recent">
+    <div class="widget-most-recent-title">Most Recent</div>
+    {{ range $index, $article := first 3 (where (where $.Site.Pages.ByDate.Reverse ".Section" "articles") ".Kind" "page") }}
+      <div class="widget-article-link">
+        <span class="article-number">{{ add $index 1 }}.</span><a href="{{ $article.RelPermalink }}">{{ truncate $titleLength "..." $article.LinkTitle }}</a>
+      </div>
+    {{ end }}
+    </ul>
+  </div>
 
-    <div class="widget-latest-issue">
-      {{ $latestIssue := index (index .Site.Taxonomies.publications "felix") 0 }}
+  <div class="widget-latest-issue">
+    {{ $latestIssue := index (index $.Site.Taxonomies.publications "felix") 0 }}
+    {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
+    <div class="widget-issue-image">
       {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
-      <div class="widget-issue-image">
-        {{ $slug := printf "%v_%v" "felix" $latestIssue.Params.issue_number }}
-        <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
-          <img style="border: 1px solid black" width="150" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+      <a href="https://f001.backblazeb2.com/file/felixonline/issues/pdfs/{{ $slug }}.pdf">
+        <img style="border: 1px solid black" width="150" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+      </a>
+    </div>
+    <div class="issue-info">
+      <div class="issue-info-title">
+        Latest Issue
+      </div>
+      <div class="issue-number">
+        <a href="issues/felix_{{ $latestIssue.Params.issue_number }}">
+          {{ $latestIssue.Params.issue_number }}
         </a>
       </div>
-      <div class="issue-info">
-        <div class="issue-info-title">
-          Latest Issue
-        </div>
-        <div class="issue-number">
-          <a href="issues/felix_{{ $latestIssue.Params.issue_number }}">
-            {{ $latestIssue.Params.issue_number }}
-          </a>
-        </div>
-        <div class="issue-view-archive-link">
-          <a href="publications/felix">View Archive</a>
-        </div>
+      <div class="issue-view-archive-link">
+        <a href="publications/felix">View Archive</a>
       </div>
     </div>
-
-    <div class="widget-newsletter">
-    </div>
   </div>
+
+  <div class="widget-newsletter">
+  </div>
+</div>
