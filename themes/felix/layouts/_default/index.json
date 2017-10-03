@@ -1,5 +1,5 @@
 [
-  {{ range $i, $e := where .Site.Pages "Type" "articles" }}
+  {{ range $i, $e := union (where .Site.Pages "Type" "authors") (where .Site.Pages "Type" "articles") }}
     {{ if $i }}, {{ end }}
     {
       "title": {{ jsonify (trim .Title "\n") }},
@@ -14,7 +14,8 @@
         "authors": "",
       {{ end }}
       "link": "{{ .Permalink }}",
-      "image": "{{ .Params.image }}"
+      "image": "{{ .Params.image }}",
+      "type": "{{ .Type }}"
     }
   {{ end }}
 ]

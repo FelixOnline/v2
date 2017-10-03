@@ -1,6 +1,6 @@
 if (document.location.pathname.includes("search")) {
   var search = {
-    buildArticleResult: function(article) {
+    buildPageResult: function(page) {
       var result = document.createElement("div");
       result.className = "section-post";
 
@@ -11,18 +11,20 @@ if (document.location.pathname.includes("search")) {
       title.className = "section-post-title";
 
       var link = document.createElement("a");
-      link.href = article.link;
-      link.innerHTML = article.title;
+      link.href = page.link;
+      link.innerHTML = page.title;
       link.setAttribute("target", "_blank")
       title.appendChild(link);
 
       var image = document.createElement("div");
       image.className = "section-post-image";
-      image.setAttribute("style", "background-image: url(//images.weserv.nl/?url=" + encodeURIComponent(article.image.replace("https://", "")) + "&w=200");
+      image.setAttribute("style", "background-image: url(//images.weserv.nl/?url=" + encodeURIComponent(page.image.replace("https://", "")) + "&w=200");
 
       var subtitle = document.createElement("p");
       subtitle.className = "section-post-subtitle";
-      subtitle.innerHTML = article.subtitle.substring(0, 50) + "...";
+      if (page.subtitle) {
+        subtitle.innerHTML = page.subtitle.substring(0, 50) + "...";
+      }
 
       info.appendChild(title);
       info.appendChild(subtitle);
@@ -38,20 +40,41 @@ if (document.location.pathname.includes("search")) {
     },
 
     perform: function() {
-      search.resultsList.innerHTML = "";
+      search.authorResultsList.innerHTML = "";
+      search.articleResultsList.innerHTML = "";
+
       if (search.inputBox.value.length < 3) { return }
 
-      var results = [];
-      for (var i in search.articles) {
-        if (search.matchArticle(search.inputBox.value.toLowerCase(), search.articles[i])) {
-          results.push(search.articles[i]);
-          if (results.length > 20) {
-            break;
+      var authorResults = [];
+      var articleResults = [];
+      for (var i in search.pages) {
+        if (search.pages[i].type == "authors") {
+          if (search.matchAuthor(search.inputBox.value.toLowerCase(), search.pages[i])) {
+            authorResults.push(search.pages[i]);
+          }
+        } else if (search.pages[i].type == "articles") {
+          if (search.matchArticle(search.inputBox.value.toLowerCase(), search.pages[i])) {
+            articleResults.push(search.pages[i]);
           }
         }
       }
-      for (var i in results) {
-        search.resultsList.appendChild(search.buildArticleResult(results[i]));
+
+      for (var i in articleResults) {
+        search.articleResultsList.appendChild(search.buildPageResult(articleResults[i]));
+      }
+      for (var i in authorResults) {
+        search.authorResultsList.appendChild(search.buildPageResult(authorResults[i]));
+      }
+
+      if (authorResults.length === 0) {
+        search.authorResultsList.style.display = "none";
+      } else {
+        search.authorResultsList.style.display = "grid";
+      }
+      if (articleResults.length === 0) {
+        search.articleResultsList.style.display = "none";
+      } else {
+        search.articleResultsList.style.display = "grid";
       }
     },
 
@@ -70,11 +93,27 @@ if (document.location.pathname.includes("search")) {
       return match;
     },
 
+    matchAuthor: function(query, author) {
+      var authorString = author.title.toLowerCase();
+      var words = query.split(" ");
+
+      var match = true;
+      for (var i in words) {
+        if (!authorString.includes(words[i])) {
+          match = false;
+          break;
+        }
+      }
+
+      return match;
+    },
+
     init: function() {
       ajax().get('/v2/site_index/index.json').then(function (data, xhr) {
-        search.articles = data;
+        search.pages = data;
         search.inputBox = document.getElementById("search");
-        search.resultsList = document.getElementById("results");
+        search.authorResultsList = document.getElementById("authorResults");
+        search.articleResultsList = document.getElementById("articleResults");
 
         search.inputBox.oninput = search.perform;
 
