@@ -40,6 +40,9 @@ if (document.location.pathname.includes("search")) {
     },
 
     perform: function() {
+      search.authorBlock.style.display = "none";
+      search.articleBlock.style.display = "none";
+
       search.authorResultsList.innerHTML = "";
       search.articleResultsList.innerHTML = "";
 
@@ -67,14 +70,14 @@ if (document.location.pathname.includes("search")) {
       }
 
       if (authorResults.length === 0) {
-        search.authorResultsList.style.display = "none";
+        search.authorBlock.style.display = "none";
       } else {
-        search.authorResultsList.style.display = "grid";
+        search.authorBlock.style.display = "block";
       }
       if (articleResults.length === 0) {
-        search.articleResultsList.style.display = "none";
+        search.articleBlock.style.display = "none";
       } else {
-        search.articleResultsList.style.display = "grid";
+        search.articleBlock.style.display = "block";
       }
     },
 
@@ -112,8 +115,12 @@ if (document.location.pathname.includes("search")) {
       ajax().get('/v2/site_index/index.json').then(function (data, xhr) {
         search.pages = data;
         search.inputBox = document.getElementById("search");
+
         search.authorResultsList = document.getElementById("authorResults");
         search.articleResultsList = document.getElementById("articleResults");
+
+        search.authorBlock = document.getElementById("authors");
+        search.articleBlock = document.getElementById("articles");
 
         search.inputBox.oninput = search.perform;
 
