@@ -27,6 +27,9 @@
         </div>
         <div class="headline-title">
           <a href="{{ .Permalink }}">{{ truncate $titleLength "..." .Title }}</a>
+          <div class="headline-subtitle">
+            {{ truncate $subtitleLength "..." .Params.subtitle }}
+          </div>
           {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
           <span class="headline-author">By {{ $authorPage.Title }}</span>
         </div>
@@ -57,7 +60,6 @@
               <div class="section-post-title">
                 <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
               </div>
-
               <div class="section-post-subtitle">
                 {{ truncate $subtitleLength "..." .Params.subtitle }}
               </div>

@@ -62,6 +62,13 @@
   }
 }
 
+.headline-subtitle {
+  margin-top: $spacing-unit / 8;
+  margin-bottom: $spacing-unit / 8;
+  @include relative-font-size(0.9);
+  font-style: italic;
+}
+
 .headline-author {
   color: $grey-color;
   display: block;
