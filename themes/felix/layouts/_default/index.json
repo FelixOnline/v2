@@ -4,6 +4,15 @@
     {
       "title": {{ jsonify (trim .Title "\n") }},
       "subtitle": {{ jsonify (trim .Params.subtitle "\n") }},
+      {{ if (ne .Params.authors nil) }}
+        {{ range $_, $author := .Params.authors }}
+          {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
+          {{ $.Scratch.Add $e.Permalink (slice $authorPage.Title) }}
+        {{ end }}
+        "authors": {{ jsonify (delimit ($.Scratch.Get $e.Permalink) ", ") }},
+      {{ else }}
+        "authors": "",
+      {{ end }}
       "link": "{{ .Permalink }}",
       "image": "{{ .Params.image }}"
     }

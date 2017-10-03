@@ -1,17 +1,3 @@
-//<div class="section-post">
-  //<a href="{{ .RelPermalink }}">
-    //<div class="section-post-image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "https://" "" }}&w=200)"></div>
-  //</a>
-  //<div class="section-post-info">
-    //<div class="section-post-title">
-      //<a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
-    //</div>
-    //<div class="section-post-subtitle">
-      //{{ truncate $subtitleLength "..." .Params.subtitle }}
-      //</div>
-  //</div>
-//</div>
-
 if (document.location.pathname.includes("search")) {
   var search = {
     buildArticleResult: function(article) {
@@ -57,9 +43,9 @@ if (document.location.pathname.includes("search")) {
 
       var results = [];
       for (var i in search.articles) {
-        if (search.articles[i].title.toLowerCase().includes(search.inputBox.value.toLowerCase())) {
+        if (search.matchArticle(search.inputBox.value.toLowerCase(), search.articles[i])) {
           results.push(search.articles[i]);
-          if (results.length > 10) {
+          if (results.length > 20) {
             break;
           }
         }
@@ -67,6 +53,21 @@ if (document.location.pathname.includes("search")) {
       for (var i in results) {
         search.resultsList.appendChild(search.buildArticleResult(results[i]));
       }
+    },
+
+    matchArticle: function(query, article) {
+      var articleString = (article.title + " " + article.authors).toLowerCase();
+      var words = query.split(" ");
+
+      var match = true;
+      for (var i in words) {
+        if (!articleString.includes(words[i])) {
+          match = false;
+          break;
+        }
+      }
+
+      return match;
     },
 
     init: function() {
