@@ -23,6 +23,8 @@ params:
       editors:
         - ff712
         - cet13
+        - ff712
+        - cet13
       tags:
         - on-campus
         - higher-education
