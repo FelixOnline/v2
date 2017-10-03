@@ -71,7 +71,7 @@
   line-height: $base-line-height * 0.8;
   font-weight: 700;
 
-  @include relative-font-size(0.8);
+  // @include relative-font-size(0.8);
 
   // Gaps between nav items, but not on the last one
   &:not(:last-child) {
@@ -83,7 +83,7 @@
     width: auto;
 
     position: relative;
-    top: 7px;
+    top: 5px;
   }
 }
 
