@@ -6,7 +6,8 @@
     <div class="widget-most-recent-title">Most Recent</div>
     {{ range $index, $article := first 3 (where (where $.Site.Pages.ByDate.Reverse ".Section" "articles") ".Kind" "page") }}
       <div class="widget-article-link">
-        <span class="article-number">{{ add $index 1 }}.</span><a href="{{ $article.RelPermalink }}">{{ truncate $titleLength "..." $article.LinkTitle }}</a>
+        <div class="article-number">{{ add $index 1 }}</div>
+        <a href="{{ $article.RelPermalink }}">{{ $article.LinkTitle }}</a>
       </div>
     {{ end }}
     </ul>

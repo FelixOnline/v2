@@ -3,7 +3,7 @@
 .widget-section {
   margin-top: $spacing-unit;
   display: grid;
-  grid-template-columns: 2fr 3fr 3fr;
+  grid-template-columns: 1fr 1fr;
   grid-column-gap: 2em;
   grid-row-gap: 2em;
 }
@@ -17,17 +17,23 @@
   font-weight: 700;
   @include relative-font-size(1.2);
   text-transform: uppercase;
-  margin-bottom: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.widget-article-link {
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+  grid-row-gap: 2em;
+  margin-top: $spacing-unit / 4;
 }
 
 .article-number {
-  margin-right: $spacing-unit / 4;
   font-weight: 700;
+  @include relative-font-size(1.5);
 }
 
 .widget-article-link a {
   color: $text-color;
-  @include relative-font-size(0.8);
 }
 
 .widget-article-link a:hover {
@@ -74,6 +80,7 @@
 
 .widget-newsletter {
   background-color: transparentize($grey-color-light, 0.7);
+  display: none;
 }
 
 @include media-query($on-palm) {
