@@ -9,7 +9,7 @@ IMAGE_HOST_URL="https://f001.backblazeb2.com/file/felixonline/"
 
 host     = ARGV[0] || "0.0.0.0"
 username = ARGV[1] || "root"
-password = ARGV[2] || "pass"
+password = ARGV[2] || "felix"
 database = ARGV[3] || "felix"
 
 def format_username(username)
@@ -41,52 +41,6 @@ client.query(ALL_PUBLICATIONS_QUERY).each_with_index do |r, i|
   Dir.mkdir(dir) unless Dir.exists?(dir)
   File.write("content/publications/#{slug}/_index.md", content)
 end
-
-ALL_ISSUES_QUERY = <<~SQL
-select
-  ai.id as issue_id,
-  ai.issue as issue_number,
-  ai.date as date,
-  ap.name as publication_name,
-  af.filename as filename
-from archive_issue as ai
-left join archive_publication as ap on ap.id=ai.publication
-left join archive_file as af on af.issue_id=ai.id and af.deleted=0
-where
-  ai.deleted=0 AND ai.inactive=0
-order by filename
-SQL
-
-issue_manifest = []
-thumbnail_manifest = []
-client.query(ALL_ISSUES_QUERY).each_with_index do |r, i|
-  publication_slug = r["publication_name"].downcase.gsub(/\W+/, "-")
-  issue_slug = "#{publication_slug}_#{r["issue_number"]}"
-  archive_key = r["filename"].gsub(/IC_\d{4}\//, "").gsub(".pdf", "").gsub(/_[^A]$/, "_A")
-
-  issue_manifest << "#{issue_slug} http://felixonline.co.uk/issuearchive/issue/#{r["issue_id"]}/download/"
-  thumbnail_manifest << "#{issue_slug} http://www.felixonline.co.uk/archive/thumbs/#{archive_key}.png"
-
-  content = <<~MD
-    ---
-    issue_number: #{r["issue_number"]}
-    date: #{r["date"]}
-
-    archive_key: #{archive_key}
-    archive_file: http://felixonline.co.uk/issuearchive/issue/#{r["issue_id"]}/download
-
-    publications:
-     - #{publication_slug}
-
-    aliases:
-     - /issuearchive/issue/#{r["issue_id"]}/download
-    ---
-  MD
-
-  File.write("content/issues/#{issue_slug}.md", content)
-end
-File.write("content/issue_manifest.txt", issue_manifest.sort.join("\n")+"\n")
-File.write("content/thumb_manifest.txt", thumbnail_manifest.sort.join("\n")+"\n")
 
 ALL_AUTHORS_QUERY = <<~SQL
 select
