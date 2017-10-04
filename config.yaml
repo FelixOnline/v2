@@ -18,13 +18,9 @@ params:
   displayCategories:
     - name: news
       colour: "cd1619"
-      email: hello@felixonline.co.uk
-      twitter: feliximperial
+      email: news.felix@imperial.ac.uk
       editors:
-        - ff712
-        - cet13
-        - ff712
-        - cet13
+        - jmw216
       tags:
         - on-campus
         - higher-education
@@ -33,11 +29,9 @@ params:
         - image
     - name: comment
       colour: "00a7d3"
-      # email: hello@felixonline.co.uk
-      # twitter: feliximperial
+      email: hello@felixonline.co.uk
       editors:
         - ff712
-        - cet13
       tags:
         - politics
         - world-affairs
@@ -49,10 +43,9 @@ params:
     - name: science
       colour: "005722"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - cr709
+        - htb08
       tags:
         - engineering
         - natural-science
@@ -63,10 +56,10 @@ params:
     - name: arts
       colour: "54166b"
       email: hello@felixonline.co.uk
-      # twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - adamgellatly14
+        - im1413
+        - jc7413
       tags:
         - review
         - comment
@@ -79,10 +72,11 @@ params:
     - name: film
       colour: "7a0040"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - ashluckyram
+        - mikhaildemtchenko
+        - markaduol
+        - michaelpurdy14
       tags:
         - review
         - feature
@@ -94,10 +88,8 @@ params:
       display: TV
       colour: "007e50"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - andrewmelville
       tags:
         - review
         - feature
@@ -107,10 +99,10 @@ params:
     - name: music
       colour: "0051a0"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - adrianlamoury
+        - he915
+        - andydjaba
       tags:
         - review
         - feature
@@ -121,10 +113,8 @@ params:
     - name: games
       colour: "00546c"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
         - ff712
-        - cet13
       tags:
         - review
         - feature
@@ -133,11 +123,11 @@ params:
         - image
     - name: food
       colour: "e5c700"
-      email: hello@felixonline.co.uk
-      twitter: feliximperial
+      email: food.felix@imperial.ac.uk
       editors:
-        - ff712
-        - cet13
+        - alicedavage
+        - aib116
+        - chunyuanhii
       tags:
         - out-&-about
         - recipe
@@ -147,23 +137,27 @@ params:
     - name: travel
       colour: "000000"
       email: hello@felixonline.co.uk
-      twitter: feliximperial
       editors:
-        - ff712
-        - cet13
+        - editapileckyte
       tags:
         - imported
         - image
     - name: sport
       colour: "159632"
-      email: hello@felixonline.co.uk
-      twitter: feliximperial
+      email: sport.felix@imperial.ac.uk
       editors:
-        - ff712
-        - cet13
+        - imrajsingh
       tags:
         - match-report
         - tours
         - imported
         - image
-    # - books # we don't really have enough content for this section at the moment
+    - name: books
+      email: books.felix@imperial.ac.uk
+      editors:
+        - jc7413
+        - alicepeberdy
+    - name: tech
+      email: tech.felix@imperial.ac.uk
+      editors:
+        - tommrazek
