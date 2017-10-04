@@ -19,8 +19,10 @@ tags:
  - imported
  - image
  - imported_comments
+ - multi-author
 authors:
  - felix
+ - ea3211
 highlights:
  - comment
  - longread

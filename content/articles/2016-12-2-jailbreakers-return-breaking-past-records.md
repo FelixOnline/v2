@@ -16,8 +16,10 @@ categories:
 tags:
  - imported
  - image
+ - multi-author
 authors:
  - felix
+ - ea3211
 highlights:
  - photos
 ---

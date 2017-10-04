@@ -11,14 +11,18 @@ imported: true
 aliases:
  - /science/5871/this-weeks-science-picture
 comments:
+ - value: >
+     gVLNco http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 categories:
  - science
 tags:
  - imported
  - image
+ - imported_comments
 authors:
  - nk1515
 highlights:
+ - comment
 ---
 
 From space, Earth is a sensational sight often hard to grasp because seeing where all of human history has occurred, can be quite emotional and very impactful. As time goes by, visible signs of climate change start to appear. Those on land may notice air pollution, deforestation, or even rises in temperature and sea level. However astronauts are the only ones to bear witness to the mighty destruction of Earth, macroscopically.
