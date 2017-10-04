@@ -29,7 +29,7 @@ params:
         - image
     - name: comment
       colour: "00a7d3"
-      email: hello@felixonline.co.uk
+      email: comment.felix@imperial.ac.uk
       editors:
         - ff712
       tags:
@@ -42,7 +42,7 @@ params:
         - image
     - name: science
       colour: "005722"
-      email: hello@felixonline.co.uk
+      email: science.felix@imperial.ac.uk
       editors:
         - cr709
         - htb08
@@ -55,7 +55,7 @@ params:
         - image
     - name: arts
       colour: "54166b"
-      email: hello@felixonline.co.uk
+      email: arts.felix@imperial.ac.uk
       editors:
         - adamgellatly14
         - im1413
@@ -71,7 +71,7 @@ params:
         - image
     - name: film
       colour: "7a0040"
-      email: hello@felixonline.co.uk
+      email: film.felix@imperial.ac.uk
       editors:
         - ashluckyram
         - mikhaildemtchenko
@@ -87,7 +87,7 @@ params:
     - name: tv
       display: TV
       colour: "007e50"
-      email: hello@felixonline.co.uk
+      email: tv.felix@imperial.ac.uk
       editors:
         - andrewmelville
       tags:
@@ -98,7 +98,7 @@ params:
         - image
     - name: music
       colour: "0051a0"
-      email: hello@felixonline.co.uk
+      email: music.felix@imperial.ac.uk
       editors:
         - adrianlamoury
         - he915
@@ -112,7 +112,7 @@ params:
         - image
     - name: games
       colour: "00546c"
-      email: hello@felixonline.co.uk
+      email: games.felix@imperial.ac.uk
       editors:
         - ff712
       tags:
@@ -136,7 +136,7 @@ params:
         - image
     - name: travel
       colour: "000000"
-      email: hello@felixonline.co.uk
+      email: travel.felix@imperial.ac.uk
       editors:
         - editapileckyte
       tags:
