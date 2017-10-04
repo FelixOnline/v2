@@ -1,16 +1,15 @@
 ---
 title: >
-  La La Land
+  LFF: La La Land
 subtitle: >
   The highly aticipated modern day musical which draws inspiration from the old classics is as amazing as the hype has made it out to be.
-date: "2017-01-13 14:30:25 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131429-felix-LalalandPic1.jpg"
-draft: true
+date: "2017-08-05 20:30:50 +0100"
+image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201612161447-felix-la-la-land-ryan-gosling-emma-stone.jpg"
 headline: true
 featured: true
 imported: true
 aliases:
- - /film/6642/la-la-land
+ - /film/7079/lff-la-la-land
 comments:
 categories:
  - film

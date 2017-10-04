@@ -1,25 +1,22 @@
 ---
 title: >
-  A Monster Calls
+  LFF: A Monster Calls
 subtitle: >
-  A Monster Calls breaks promise leaving audiences disappointed.
-date: "2017-01-13 14:32:22 +0000"
+  A Monster Calls breaks promise, leaving audiences disappointed.
+date: "2017-08-05 20:27:28 +0100"
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701131432-felix-AMonsterCalls_Trailer (1).jpg"
 headline: true
 featured: true
 imported: true
 aliases:
- - /film/6643/a-monster-calls
+ - /film/7078/lff-a-monster-calls
 comments:
 categories:
  - film
 tags:
  - imported
  - image
- - multi-author
 authors:
- - felix
- - ff712
  - ma7512
 highlights:
 ---

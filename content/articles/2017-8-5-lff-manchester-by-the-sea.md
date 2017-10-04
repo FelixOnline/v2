@@ -1,30 +1,28 @@
 ---
 title: >
-  Manchester by the Sea
+  LFF: Manchester by the Sea
 subtitle: >
   A restrained exploration of grief, with exceptionally strong performances from Michelle Williams and Casey Affleck, Manchester by the Sea is the most moving film of the year.
-date: "2017-01-20 15:27:20 +0000"
+date: "2017-08-05 20:37:55 +0100"
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201701201527-felix-16121513_10210543447115332_177439220_o.jpg"
-draft: true
 headline: true
 featured: true
 imported: true
 aliases:
- - /film/6671/manchester-by-the-sea
+ - /film/7081/lff-manchester-by-the-sea
 comments:
 categories:
  - film
 tags:
  - imported
  - image
- - multi-author
 authors:
- - felix
  - ts2915
 highlights:
 ---
 
 If you were to rely on the list of previous winners of the Best Actor Oscar as a definitive list of cinema history’s greatest performances, you would probably have one clear go-to when thinking of acting techniques for a sure-fire win (apart from being white): shouting. It has seemed throughout the years that the only performances by leading actors that really catch awards committees’ attention are the ones that go off with a flash and a bang – nuance and subtlety be damned. In fact, Leonardo DiCaprio’s landmark win last year for his role in The Revenant saw him in a performance that featured more yelling and exasperated grunting than actual speech.
+
 So upon hearing the amount of Oscar buzz currently orbiting Casey Affleck for his performance in Manchester by the Sea, you might be led to believe, as I was, that this year might end up no different. Imagine my shock when by the time the movie was over I had counted just one scene – a very short one at that, and only about ten minutes into the 137-minute runtime – in which Affleck raised his voice. Where a different actor may have put on a grand gesture, we see instead a slight furrowing of the brow; pursed lips and downward-looking eyes appear where we would usually expect an immense emotional outpouring. And yet this is no shortcoming: the immense delicacy of every movement, turn of phrase, and pained facial expression (and believe me, they are pained) adds up to a masterclass in restraint and subtlety in a performance that conjures the likes of Laurence Olivier or Marlon Brando in his later years. It’s a masterwork inside another masterwork – the film itself.
 
 Manchester by the Sea begins as Lee Chandler (Affleck) – a quiet, bitter, calcified janitor in Quincy, Massachusetts with a knack for starting fights – receives a phone call informing him of the death of his brother Joe (Kyle Chandler). He travels to the small town of Manchester-by-the-Sea to break the news to Joe’s teenage son Patrick (Lucas Hedges), but learns upon examining his brother’s will that he has been named as Patrick’s guardian. As fragments of the family’s past begin to appear in flashback, and we learn more and more about the troubles Lee and Joe have faced, we understand the deep grief that sits coiled at the heart of this film. I’m going to avoid details as much as possible, but you should be warned now: Manchester by the Sea is devastating to watch.
