@@ -2,4 +2,14 @@
   display: block;
   font-size: 20px;
   padding: 5px;
+  margin-bottom: $spacing-unit;
+}
+
+.search-posts-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+
+  margin-top: $spacing-unit / 2;
 }
