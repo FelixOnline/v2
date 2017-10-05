@@ -1,6 +1,7 @@
 /* Pagination styles */
 
 .pagination-container ul {
+  text-align: center;
   list-style-type: none;
   margin: 0 auto;
   text-align: center;
@@ -27,7 +28,7 @@
 @include media-query($on-palm) {
   .pagination li {
     padding: 8px;
-    @include relative-font-size(0.8);
+    @include relative-font-size(0.7);
   }
 }
 
