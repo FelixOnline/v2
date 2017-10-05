@@ -11,6 +11,16 @@
 .widget-most-recent {
   background-color: transparentize($grey-color-light, 0.7);
   padding: $spacing-unit / 1.5;
+
+  float: left;
+  width: 44%;
+}
+
+@supports (display: grid) {
+  .widget-most-recent {
+    width: auto;
+    float: none;
+  }
 }
 
 .widget-most-recent-title {
@@ -30,6 +40,9 @@
 .article-number {
   font-weight: 700;
   @include relative-font-size(1.5);
+
+  display: inline-block;
+  margin-right: $spacing-unit / 4;
 }
 
 .widget-article-link a {
@@ -40,6 +53,13 @@
   text-decoration: underline;
 }
 
+@supports (display: grid) {
+  .article-number {
+    display: block;
+    margin-right: none;
+  }
+}
+
 .widget-latest-issue {
   background-color: transparentize($grey-color-light, 0.7);
   padding-top: $spacing-unit / 1.5;
@@ -48,10 +68,36 @@
   padding-bottom: $spacing-unit / 2;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+
+  float: right;
+  width: 44%;
+}
+
+@supports (display: grid) {
+  .widget-latest-issue {
+    width: auto;
+    float: none;
+  }
 }
 
 .issue-info {
   text-align: right;
+
+  float: right;
+}
+
+.widget-issue-image {
+  display: inline-block;
+}
+
+@supports (display: grid) {
+  .issue-info {
+    float: none;
+  }
+
+  .widget-issue-image {
+    display: block;
+  }
 }
 
 .widget-issue-image img:hover {
@@ -86,5 +132,10 @@
 @include media-query($on-palm) {
   .widget-section {
     display: block;
+  }
+
+  .widget-most-recent, .widget-latest-issue  {
+    width: auto;
+    float: none;
   }
 }
