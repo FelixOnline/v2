@@ -59,12 +59,16 @@ prose_form: &prose_form
       element: "text"
       help: "This image will be displayed at the top of the article. It will also be the thumbnail"
       placeholder: "image url, e.g. https://images.com/my_image.jpg"
-  - name: "author"
+  - name: "authors"
     field:
-      label: "Author"
-      element: "text"
-      placeholder: "e.g. ff712"
+      element: "multiselect"
+      label: "Authors"
+      placeholder: "Choose Authors"
+      alterable: true
       help: "Enter an author id - id's must be unique. Authors must have an author page for the article to be linked correctly."
+      options:
+        - ff712
+        - cet13
   - name: "draft"
     field:
       label: "Draft"
@@ -75,15 +79,15 @@ prose_form: &prose_form
     field:
       element: "text"
       label: "Published Date"
-      placeholder: "Published Date"
-      help: "Enter the article's publication date in the format: YYYY-MM-DD HH:MM"
-      value: "CURRENT_DATETIME"
-  - name: "category"
+      placeholder: "Published Date: e.g. 2017-05-02 01:19:28"
+      help: "Enter the article's publication date in the format: YYYY-MM-DD HH:MM:SS"
+  - name: "categories"
     field:
-      element: "select"
-      label: "Section"
-      placeholder: "Choose Section"
-      help: "Choose a section from the list. (category)"
+      element: "multiselect"
+      label: "Category"
+      placeholder: "Choose Category"
+      alterable: false
+      help: "Choose a category"
       options:
         *sections
   - name: "tags"
