@@ -61,7 +61,7 @@ prose_form: &prose_form
       placeholder: "image url, e.g. https://images.com/my_image.jpg"
   - name: "author"
     field:
-      label: "author"
+      label: "Author"
       element: "text"
       placeholder: "e.g. ff712"
       help: "Enter an author id - id's must be unique. Authors must have an author page for the article to be linked correctly."
