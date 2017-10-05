@@ -243,7 +243,7 @@
   }
 
   .site-nav-side {
-    margin-top: $spacing-unit;
+    margin-top: 0;
   }
 
   .site-nav-side-button {
@@ -251,15 +251,21 @@
   }
 
   .site-header .site-social-logo,
+
   .site-social-logo {
     height: $base-font-size * 0.8;
   }
 
   .site-nav-side-link a {
     @include relative-font-size(1);
+    padding: 0px;
   }
 
   .site-nav-side-link .icon {
     height: 22px;
+  }
+
+  .site-search {
+    margin-top: -$spacing-unit;
   }
 }
