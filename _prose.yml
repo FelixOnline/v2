@@ -65,12 +65,6 @@ prose_form: &prose_form
       options:
         - ff712
         - cet13
-  - name: "draft"
-    field:
-      label: "Draft"
-      help: "Check this if the article is not ready to go live."
-      element: "checkbox"
-      value: false
   - name: "date"
     field:
       element: "text"
