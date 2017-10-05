@@ -39,10 +39,6 @@ tags: &tags
   - corbyn
 
 prose_form: &prose_form
-  - name: "layout"
-    field:
-      element: "hidden"
-      value: "post"
   - name: "title"
     field:
       element: "text"
