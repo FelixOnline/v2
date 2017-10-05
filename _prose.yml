@@ -53,18 +53,24 @@ prose_form: &prose_form
       element: "text"
       help: "The subtitle is like a title but more sub"
       placeholder: "Subtitle"
+  - name: "image"
+    field:
+      label: "Article Main Image"
+      element: "text"
+      help: "This image will be displayed at the top of the article. It will also be the thumbnail"
+      placeholder: "image url, e.g. https://images.com/my_image.jpg"
   - name: "author"
     field:
       label: "author"
       element: "text"
-      placeholder: "e.g. name@example.com"
-      help: "Enter an author id - id's must be unique."
-  - name: "published"
+      placeholder: "e.g. ff712"
+      help: "Enter an author id - id's must be unique. Authors must have an author page for the article to be linked correctly."
+  - name: "draft"
     field:
-      label: "Published"
-      help: "Leave unchecked while article is a draft"
+      label: "Draft"
+      help: "Check this if the article is not ready to go live."
       element: "checkbox"
-      value: true
+      value: false
   - name: "date"
     field:
       element: "text"
