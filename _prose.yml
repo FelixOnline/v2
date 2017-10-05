@@ -65,6 +65,12 @@ prose_form: &prose_form
       options:
         - ff712
         - cet13
+  - name: "published"
+    field:
+      label: "Published"
+      help: "Check this if the article is ready to appear online"
+      element: "checkbox"
+      value: false
   - name: "date"
     field:
       element: "text"
