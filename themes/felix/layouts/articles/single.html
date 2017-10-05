@@ -40,12 +40,14 @@
 
   <div class="post-footer">
     <div class="post-tags">
-      {{ if (gt (len .Params.tags) 0) }}
-        <div class="post-tag-title">More</div>
-        {{ range .Params.tags }}
-          <div  class="post-tag">
-            <a href="{{ $.Site.BaseURL }}tags/{{ . }}">{{ . }}</a>
-          </div>
+      {{ if ne .Params.tags nil }}
+        {{ if gt (len .Params.tags) 0 }}
+          <div class="post-tag-title">More</div>
+          {{ range .Params.tags }}
+            <div  class="post-tag">
+              <a href="{{ $.Site.BaseURL }}tags/{{ . }}">{{ . }}</a>
+            </div>
+          {{ end }}
         {{ end }}
       {{ end }}
     </div>

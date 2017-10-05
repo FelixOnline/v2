@@ -1,7 +1,5 @@
 ---
-layout: post
-draft: false
-date: '2017-10-05 10:21:56'
+date: '2017-10-05 10:21:56 +0100'
 headline: true
 featured: false
 title: Should antifascists use violence as a tactic?
