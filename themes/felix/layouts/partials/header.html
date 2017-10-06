@@ -53,7 +53,7 @@
   {{ end }}
 
   {{ with .Params.authors }}
-    <meta name="author" content="{{ range . }}{{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}{{ $authorPage.Title }},{{ end }}">
+    <meta name="author" content="{{ range . }}{{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}{{ $authorPage.Params.name }},{{ end }}">
   {{ end }}
 
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ index (index .Site.Data.css.styles "styles") 0 }}">

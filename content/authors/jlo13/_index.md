@@ -1,6 +1,6 @@
 ---
 id: "jlo13"
-title: Joshua L O'Donnell
+name: Joshua L O'Donnell
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "ad4010"
-title: Amanda Diez
+name: Amanda Diez
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -4,7 +4,7 @@
 {{ partial "header.html" . }}
 
 <div class="author-profile">
-  <div class="author-name">{{ .Title }}</div>
+  <div class="author-name">{{ .Params.name }}</div>
 
   <div class="author-profile-header">
     {{ if (not (eq .Params.image "")) }}
@@ -59,7 +59,7 @@
       </div>
       <div class="section-post-byline">
         {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-        <span class="author">By {{ $authorPage.Title }}</span>
+        <span class="author">By {{ $authorPage.Params.name }}</span>
       </div>
     </div>
   </div>

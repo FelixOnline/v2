@@ -1,6 +1,6 @@
 ---
 id: "ak6309"
-title: Alexander Karapetian
+name: Alexander Karapetian
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 twitter: "AlexKara15"
 facebook: "http://www.facebook.com/alexkara15"

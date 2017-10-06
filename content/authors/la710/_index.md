@@ -1,6 +1,6 @@
 ---
 id: "la710"
-title: Lisa Ashari
+name: Lisa Ashari
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

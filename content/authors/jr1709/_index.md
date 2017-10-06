@@ -1,6 +1,6 @@
 ---
 id: "jr1709"
-title: Jamie-Li Rickman
+name: Jamie-Li Rickman
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

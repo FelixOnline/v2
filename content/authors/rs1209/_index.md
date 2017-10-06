@@ -1,6 +1,6 @@
 ---
 id: "rs1209"
-title: Rory Sullivan
+name: Rory Sullivan
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

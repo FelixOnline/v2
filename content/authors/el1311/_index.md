@@ -1,6 +1,6 @@
 ---
 id: "el1311"
-title: Ernest Lo
+name: Ernest Lo
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "jp1911"
-title: Jack Peacock
+name: Jack Peacock
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

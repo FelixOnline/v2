@@ -1,6 +1,6 @@
 ---
 id: "sm1208"
-title: Sophie Middleton
+name: Sophie Middleton
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

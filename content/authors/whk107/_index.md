@@ -1,6 +1,6 @@
 ---
 id: "whk107"
-title: Wei Kheng
+name: Wei Kheng
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

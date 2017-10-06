@@ -1,6 +1,6 @@
 ---
 id: "rt1810"
-title: Robert Treasure
+name: Robert Treasure
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

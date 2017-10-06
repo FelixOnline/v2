@@ -163,7 +163,7 @@ prose:
           element: "text"
           placeholder: "Author ID"
           help: "Used when referencing author from article page"
-      - name: "title"
+      - name: "name"
         field:
           element: "text"
           label: "Author Full Name"

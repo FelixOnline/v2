@@ -1,6 +1,6 @@
 ---
 id: "ap1702"
-title: Ankoor Patel
+name: Ankoor Patel
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

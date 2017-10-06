@@ -1,6 +1,6 @@
 ---
 id: "gy107"
-title: Gabriella Yongue
+name: Gabriella Yongue
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

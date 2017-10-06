@@ -1,6 +1,6 @@
 ---
 id: "oar09"
-title: Olivia Ribeiro
+name: Olivia Ribeiro
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "rp1313"
-title: Rosamund Pearce
+name: Rosamund Pearce
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

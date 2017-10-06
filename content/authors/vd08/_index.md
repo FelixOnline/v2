@@ -1,6 +1,6 @@
 ---
 id: "vd08"
-title: Victor Du Mesnil Du Buisson
+name: Victor Du Mesnil Du Buisson
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

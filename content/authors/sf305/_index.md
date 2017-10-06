@@ -1,6 +1,6 @@
 ---
 id: "sf305"
-title: Samuel Furse
+name: Samuel Furse
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111110952-felix-sam-furse.jpg"
 twitter: "SamuelFurse"
 facebook: ""

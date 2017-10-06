@@ -1,6 +1,6 @@
 ---
 id: "hc1409"
-title: Hannah Cox
+name: Hannah Cox
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

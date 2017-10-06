@@ -1,6 +1,6 @@
 ---
 id: "eaf09"
-title: Edward Fitzpatrick
+name: Edward Fitzpatrick
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

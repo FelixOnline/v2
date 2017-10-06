@@ -7,7 +7,7 @@
       {{ if (ne .Params.authors nil) }}
         {{ range $_, $author := .Params.authors }}
           {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
-          {{ $.Scratch.Add $e.Permalink (slice $authorPage.Title) }}
+          {{ $.Scratch.Add $e.Permalink (slice $authorPage.Params.name) }}
         {{ end }}
         "authors": {{ jsonify (delimit ($.Scratch.Get $e.Permalink) ", ") }},
       {{ else }}

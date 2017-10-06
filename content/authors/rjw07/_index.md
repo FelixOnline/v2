@@ -1,6 +1,6 @@
 ---
 id: "rjw07"
-title: Robert Wright
+name: Robert Wright
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

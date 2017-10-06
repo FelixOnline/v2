@@ -1,6 +1,6 @@
 ---
 id: "lh513"
-title: Lauren Hoskin-Parr
+name: Lauren Hoskin-Parr
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

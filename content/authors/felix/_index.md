@@ -1,6 +1,6 @@
 ---
 id: "felix"
-title: Lef Apostolakis  - Felix Editor
+name: Lef Apostolakis  - Felix Editor
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201610031803-felix-IMG_0035.JPG"
 twitter: "feliximperial"
 facebook: "http://www.facebook.com/FelixImperial"

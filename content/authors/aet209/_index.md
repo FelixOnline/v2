@@ -1,6 +1,6 @@
 ---
 id: "aet209"
-title: Arthur Turrell
+name: Arthur Turrell
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

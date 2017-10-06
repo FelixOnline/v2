@@ -1,6 +1,6 @@
 ---
 id: "jeg07"
-title: James Goldsack
+name: James Goldsack
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

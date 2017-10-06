@@ -1,6 +1,6 @@
 ---
 id: "cg708"
-title: Cecily Goodwin
+name: Cecily Goodwin
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

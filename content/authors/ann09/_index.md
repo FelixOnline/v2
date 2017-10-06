@@ -1,6 +1,6 @@
 ---
 id: "ann09"
-title: Alexandra Nowbar
+name: Alexandra Nowbar
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
 twitter: ""
 facebook: ""

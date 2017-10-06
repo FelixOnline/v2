@@ -1,6 +1,6 @@
 ---
 id: "ak1107"
-title: Arun Krishnan
+name: Arun Krishnan
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

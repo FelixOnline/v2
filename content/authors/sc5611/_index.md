@@ -1,6 +1,6 @@
 ---
 id: "sc5611"
-title: Simon Carnochan
+name: Simon Carnochan
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

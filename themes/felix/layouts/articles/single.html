@@ -10,7 +10,7 @@
       {{ $authorCount := len .Params.authors }}
       {{ range $index, $author := .Params.authors }}
         {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
-        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Title }}</a><!--
+        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
         -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
       {{ end }}
     </div>

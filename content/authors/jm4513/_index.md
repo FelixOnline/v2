@@ -1,6 +1,6 @@
 ---
 id: "jm4513"
-title: James McComish
+name: James McComish
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

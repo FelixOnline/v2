@@ -1,6 +1,6 @@
 ---
 id: "eoy05"
-title: Edward Yoxall
+name: Edward Yoxall
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

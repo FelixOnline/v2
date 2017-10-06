@@ -1,6 +1,6 @@
 ---
 id: "jag07"
-title: Joshua Graham
+name: Joshua Graham
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

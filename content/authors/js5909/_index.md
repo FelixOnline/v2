@@ -1,6 +1,6 @@
 ---
 id: "js5909"
-title: Jiaqi Shi
+name: Jiaqi Shi
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

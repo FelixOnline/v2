@@ -1,6 +1,6 @@
 ---
 id: "et1214"
-title: Elizaveta Tchebaniouk
+name: Elizaveta Tchebaniouk
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "jr2514"
-title: Joshua Renken
+name: Joshua Renken
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

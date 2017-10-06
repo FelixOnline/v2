@@ -1,6 +1,6 @@
 ---
 id: "sl3810"
-title: Sangjin Lee
+name: Sangjin Lee
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

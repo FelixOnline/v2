@@ -1,6 +1,6 @@
 ---
 id: "nch09"
-title: Nils Hanwahr
+name: Nils Hanwahr
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

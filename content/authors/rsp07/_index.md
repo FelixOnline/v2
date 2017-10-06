@@ -1,6 +1,6 @@
 ---
 id: "rsp07"
-title: Ravi S Pall
+name: Ravi S Pall
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

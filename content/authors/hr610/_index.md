@@ -1,6 +1,6 @@
 ---
 id: "hr610"
-title: Hayley Rigby
+name: Hayley Rigby
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

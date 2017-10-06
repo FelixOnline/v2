@@ -1,6 +1,6 @@
 ---
 id: "ey112"
-title: Emmilyn Yeoh
+name: Emmilyn Yeoh
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

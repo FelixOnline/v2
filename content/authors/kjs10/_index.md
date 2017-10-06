@@ -1,6 +1,6 @@
 ---
 id: "kjs10"
-title: Kirsty Seager
+name: Kirsty Seager
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

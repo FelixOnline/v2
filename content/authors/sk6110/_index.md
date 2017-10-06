@@ -1,6 +1,6 @@
 ---
 id: "sk6110"
-title: Saber King
+name: Saber King
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

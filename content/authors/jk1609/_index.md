@@ -1,6 +1,6 @@
 ---
 id: "jk1609"
-title: Jonathan Kingsley
+name: Jonathan Kingsley
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

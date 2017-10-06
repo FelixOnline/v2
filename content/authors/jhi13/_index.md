@@ -1,6 +1,6 @@
 ---
 id: "jhi13"
-title: Julian H Iacoponi
+name: Julian H Iacoponi
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "gib13"
-title: Giacomo I Boscaini-Gilroy
+name: Giacomo I Boscaini-Gilroy
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

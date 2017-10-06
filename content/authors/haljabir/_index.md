@@ -1,6 +1,6 @@
 ---
 id: "haljabir"
-title: Hussain Al-Jabir
+name: Hussain Al-Jabir
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

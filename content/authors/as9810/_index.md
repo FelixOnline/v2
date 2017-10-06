@@ -1,6 +1,6 @@
 ---
 id: "as9810"
-title: Alexander Soloviev
+name: Alexander Soloviev
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

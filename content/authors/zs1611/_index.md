@@ -1,6 +1,6 @@
 ---
 id: "zs1611"
-title: Zara Shubber
+name: Zara Shubber
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

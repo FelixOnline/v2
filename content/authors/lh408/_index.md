@@ -1,6 +1,6 @@
 ---
 id: "lh408"
-title: Lindsay Hennah
+name: Lindsay Hennah
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

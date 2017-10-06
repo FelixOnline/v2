@@ -1,6 +1,6 @@
 ---
 id: "wh1013"
-title: William Hunter
+name: William Hunter
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

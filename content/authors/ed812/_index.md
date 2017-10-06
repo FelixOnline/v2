@@ -1,6 +1,6 @@
 ---
 id: "ed812"
-title: Emiel de Lange
+name: Emiel de Lange
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: "emiel_delange"
 facebook: ""

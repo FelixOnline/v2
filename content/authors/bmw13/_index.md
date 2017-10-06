@@ -1,6 +1,6 @@
 ---
 id: "bmw13"
-title: Bruce M R Weaver
+name: Bruce M R Weaver
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

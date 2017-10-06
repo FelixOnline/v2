@@ -1,6 +1,6 @@
 ---
 id: "cv410"
-title: cv410
+name: cv410
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

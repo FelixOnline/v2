@@ -1,6 +1,6 @@
 ---
 id: "glc09"
-title: Gareth Campbell
+name: Gareth Campbell
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

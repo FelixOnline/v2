@@ -1,6 +1,6 @@
 ---
 id: "jr1911"
-title: Jash Rughani
+name: Jash Rughani
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

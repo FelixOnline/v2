@@ -1,6 +1,6 @@
 ---
 id: "ck2513"
-title: Christy Kelly
+name: Christy Kelly
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

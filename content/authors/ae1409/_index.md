@@ -1,6 +1,6 @@
 ---
 id: "ae1409"
-title: Anastasia Eleftheriou
+name: Anastasia Eleftheriou
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

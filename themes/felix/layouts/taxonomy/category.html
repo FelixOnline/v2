@@ -28,7 +28,7 @@
       {{ $editorPage := ($.Site.GetPage "taxonomyTerm" "authors" .) }}
       <div class="category-editor">
         <img width="50" src="{{ $imageProxy }}{{ replace $editorPage.Params.image "https://" "" }}&w=100"/>
-        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $editorPage.Title }}</a>
+        <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $editorPage.Params.name }}</a>
       </div>
     {{ end }}
   </div>
@@ -62,7 +62,7 @@
           </div>
           <div class="section-post-byline">
             {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-            <span class="author">By {{ $authorPage.Title }}</span>
+            <span class="author">By {{ $authorPage.Params.name }}</span>
           </div>
         </div>
       </div>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="section-post-byline">
                   {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-                  <span class="author">By {{ $authorPage.Title }}</span>
+                  <span class="author">By {{ $authorPage.Params.name }}</span>
                 </div>
               </div>
             </div>

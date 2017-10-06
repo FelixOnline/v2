@@ -1,6 +1,6 @@
 ---
 id: "tab08"
-title: Thomas Beales Ferguson
+name: Thomas Beales Ferguson
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

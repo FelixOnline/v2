@@ -1,6 +1,6 @@
 ---
 id: "oh106"
-title: Omar Hafeez-Bore
+name: Omar Hafeez-Bore
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "cmc111"
-title: Che Muhammad Farhan Che Abdullah
+name: Che Muhammad Farhan Che Abdullah
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

@@ -1,6 +1,6 @@
 ---
 id: "hr208"
-title: Haran Rajkumar
+name: Haran Rajkumar
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

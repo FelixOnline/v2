@@ -1,6 +1,6 @@
 ---
 id: "ol913"
-title: Owen Leech
+name: Owen Leech
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

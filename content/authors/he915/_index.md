@@ -1,6 +1,6 @@
 ---
 id: "he915"
-title: Henry Eshbaugh
+name: Henry Eshbaugh
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

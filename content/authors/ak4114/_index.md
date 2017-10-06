@@ -1,6 +1,6 @@
 ---
 id: "ak4114"
-title: Anisha Kadri
+name: Anisha Kadri
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

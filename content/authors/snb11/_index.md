@@ -1,6 +1,6 @@
 ---
 id: "snb11"
-title: Stephen Ball
+name: Stephen Ball
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201411062051-snb11-20141028_225253.jpg"
 twitter: ""
 facebook: ""

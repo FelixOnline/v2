@@ -1,6 +1,6 @@
 ---
 id: "rjp114"
-title: Rachel Paley
+name: Rachel Paley
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

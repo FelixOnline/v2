@@ -1,6 +1,6 @@
 ---
 id: "ag4611"
-title: Amrita Ghosh
+name: Amrita Ghosh
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

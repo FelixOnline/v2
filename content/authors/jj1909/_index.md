@@ -1,6 +1,6 @@
 ---
 id: "jj1909"
-title: Jack Jelfs
+name: Jack Jelfs
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

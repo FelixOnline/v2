@@ -1,6 +1,6 @@
 ---
 id: "cc3511"
-title: Cloudy Carnegie
+name: Cloudy Carnegie
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

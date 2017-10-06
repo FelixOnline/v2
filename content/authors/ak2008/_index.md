@@ -1,6 +1,6 @@
 ---
 id: "ak2008"
-title: Alexander Khanin
+name: Alexander Khanin
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

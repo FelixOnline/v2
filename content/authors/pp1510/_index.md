@@ -1,6 +1,6 @@
 ---
 id: "pp1510"
-title: Poppy Pinnock
+name: Poppy Pinnock
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

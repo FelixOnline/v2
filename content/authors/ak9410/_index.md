@@ -1,6 +1,6 @@
 ---
 id: "ak9410"
-title: Amarandaas Kaluvan
+name: Amarandaas Kaluvan
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

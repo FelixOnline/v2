@@ -1,6 +1,6 @@
 ---
 id: "lm2912"
-title: Luke McCrone
+name: Luke McCrone
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

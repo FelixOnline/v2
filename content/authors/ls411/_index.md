@@ -1,6 +1,6 @@
 ---
 id: "ls411"
-title: Luke Sheldon
+name: Luke Sheldon
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111172137-felix-luke-sheldon.jpg"
 twitter: ""
 facebook: ""

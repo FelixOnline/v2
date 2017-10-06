@@ -31,7 +31,7 @@
             {{ truncate $subtitleLength "..." .Params.subtitle }}
           </div>
           {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-          <span class="headline-author">By {{ $authorPage.Title }}</span>
+          <span class="headline-author">By {{ $authorPage.Params.name }}</span>
         </div>
       </div>
     {{ end }}
@@ -65,7 +65,7 @@
               </div>
               <div class="section-post-byline">
                 {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-                <span class="author">By {{ $authorPage.Title }}</span>
+                <span class="author">By {{ $authorPage.Params.name }}</span>
               </div>
             </div>
           </div>

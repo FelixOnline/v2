@@ -1,6 +1,6 @@
 ---
 id: "rg2112"
-title: Robert Garside
+name: Robert Garside
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

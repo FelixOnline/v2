@@ -1,6 +1,6 @@
 ---
 id: "ci107"
-title: Charlotte E Ivison
+name: Charlotte E Ivison
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

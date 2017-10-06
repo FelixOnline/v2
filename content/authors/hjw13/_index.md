@@ -1,6 +1,6 @@
 ---
 id: "hjw13"
-title: Harry J A Wilkinson
+name: Harry J A Wilkinson
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""

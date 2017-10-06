@@ -1,6 +1,6 @@
 ---
 id: "km1308"
-title: Kishan Manani
+name: Kishan Manani
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111180008-sjw209-kishan-manani.jpg"
 twitter: ""
 facebook: ""

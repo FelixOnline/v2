@@ -1,6 +1,6 @@
 ---
 id: "dofe"
-title: HRH the Duke of Edinburgh
+name: HRH the Duke of Edinburgh
 image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
