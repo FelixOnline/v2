@@ -130,6 +130,10 @@ prose:
     content/articles:
       *article_form
     content/issues:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
       - name: "issue_number"
         field:
           element: "text"
@@ -143,7 +147,17 @@ prose:
           options:
             - felix
             - another_castle
+      - name: "date"
+        field:
+          element: "text"
+          label: "Published Date"
+          placeholder: "Published Date: e.g. 2017-05-02 01:19:28"
+          help: "Enter the issue's publication date in the format: YYYY-MM-DD HH:MM:SS"
     content/authors:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true
       - name: "id"
         field:
           element: "text"
