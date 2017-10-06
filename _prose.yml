@@ -151,8 +151,8 @@ prose:
         field:
           element: "text"
           label: "Published Date"
-          placeholder: "Published Date: e.g. 2017-05-02 01:19:28"
-          help: "Enter the issue's publication date in the format: YYYY-MM-DD HH:MM:SS"
+          placeholder: "Published Date: e.g. 2017-05-02"
+          help: "Enter the issue's publication date in the format: YYYY-MM-DD"
     content/authors:
       - name: "published"
         field:
