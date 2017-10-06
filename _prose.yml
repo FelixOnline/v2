@@ -38,7 +38,7 @@ tags: &tags
   - business
   - corbyn
 
-prose_form: &prose_form
+article_form: &article_form
   - name: "title"
     field:
       element: "text"
@@ -128,4 +128,59 @@ prose:
 
   metadata:
     content/articles:
-      *prose_form
+      *article_form
+    content/issues:
+      - name: "issue_number"
+        field:
+          element: "text"
+          label: "Issue Number"
+          placeholder: "Issue Number, e.g. 1551 or 890"
+      - name: "publications"
+        field:
+          element: "multiselect"
+          label: "Publications"
+          placeholder: "Choose Publication"
+          options:
+            - felix
+            - another_castle
+    content/authors:
+      - name: "id"
+        field:
+          element: "text"
+          placeholder: "Author ID"
+          help: "Used when referencing author from article page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Author Full Name"
+          placeholder: "Joe Bloggs"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Author Profile"
+          placeholder: "http://images.com/profile_of_author.jpg"
+      - name: "twitter"
+        field:
+          element: "text"
+          label: "Twitter Username"
+          placeholder: "Username without @"
+      - name: "facebook"
+        field:
+          element: "text"
+          label: "Facebook page link"
+          placeholder: "https:/facebook.com/..."
+      - name: "website_url"
+        field:
+          element: "text"
+          label: "Website URL"
+          placeholder: "https:/joe.com/..."
+      - name: "website_title"
+        field:
+          element: "text"
+          label: "Website Title/Name"
+          placeholder: "e.g. Bob's Blog"
+      - name: "position"
+        field:
+          element: "text"
+          label: "Position"
+          placeholder: "Optional"
