@@ -3,6 +3,7 @@
   font-size: 20px;
   padding: 5px;
   margin-bottom: $spacing-unit;
+  border-radius: 5px;
 }
 
 .search-posts-container {
@@ -12,4 +13,10 @@
   grid-row-gap: 1em;
 
   margin-top: $spacing-unit / 2;
+}
+
+@include media-query($on-palm) {
+  .search-posts-container {
+    display: block;
+  }
 }
