@@ -4,7 +4,8 @@ headline: false
 featured: true
 title: People get very angry about changes to lager
 subtitle: ANGERY REACTS ONLI
-image: 'https://f001.backblazeb2.com/file/felixonline/img/upload/Picture1.jpg'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201709151405-ff712-Picture1.png
 authors:
   - ff712
 date: '2017-10-06 09:00:00'
@@ -27,6 +28,3 @@ It wasn’t all bad news though: one student claimed that Bud Light made a much 
 Blackett told _Felix_: “We constantly change the offering in our bars with no student consultation, as it is not always appropriate and timely for feedback from students to be garnered.” He explained that the decision on the change needed to be made within two days of the offer being recieved, and his being elected on a manifesto point to “keep price increases down” meant he had “sufficient mandate” to make the decision.
 
 As part of their “Our promises to you” section, Imperial College Union, which is a not-for-profit charity, states that “the range of products we offer will be regularly reviewed to ensure we are providing you with the products you want”. They also promise that “prices will be competitive”, and they will “regularly let you have a say in the products we sell”.
-
-
-
