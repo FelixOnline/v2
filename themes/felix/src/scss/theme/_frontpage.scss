@@ -15,6 +15,18 @@
 /* Main image should take up half */
 .headline-main {
   grid-column: 1 / 2;
+
+  width: 48%;
+  height: 36vh;
+  float: left;
+}
+
+@supports (display: grid) {
+  .headline-main {
+    width: auto;
+    height: auto;
+    float: none;
+  }
 }
 
 /* Three headlines should take up other half */
@@ -23,6 +35,18 @@
 
   display: grid;
   grid-template-rows: repeat(3, 1fr);
+
+  width: 48%;
+  float: left;
+  padding-left: 2%;
+}
+
+@supports (display: grid) {
+  .headline-summaries {
+    width: auto;
+    height: auto;
+    float: none;
+  }
 }
 
 /* Give borders to headlines */
