@@ -109,6 +109,7 @@
     <div class="site-nav">
       {{ range $category := .Site.Params.displayCategories }}
         {{ $name := $category.Name }}
+        {{ if not (eq $category.Navbar false) }}
         <span class="page-link">
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
             <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
@@ -120,6 +121,7 @@
             </span>
           </a>
         </span>
+        {{ end }}
       {{ end }}
     </div>
 
@@ -136,5 +138,28 @@
     </div>
   </header>
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+  {{ if in .Params.categories "longread" }}
+    <div class="longread-post-image-container" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=1000)">
+      <div class="longread-info">
+        <div class="wrapper">
+          <h1 class="longread-title" itemprop="name headline">{{ .Title }}</h1>
+          <h2 class="longread-subtitle">{{ .Params.subtitle }}</h2>
+
+          <div class="longread-authors">
+            By
+            {{ $authorCount := len .Params.authors }}
+            {{ range $index, $author := .Params.authors }}
+              {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
+              <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
+              -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <main class="page-content-no-margin" aria-label="Content">
+        <div class="wrapper">
+  {{ else }}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+  {{ end }}
