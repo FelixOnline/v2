@@ -1,7 +1,15 @@
 {{ partial "header.html" . }}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  {{ if not (in .Params.categories "longread") }}
+  {{ if in .Params.categories "longread" }}
+    <div class="post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
+        {{ .Date.Format "Monday" }},
+        {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day }}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }}
+        {{ .Date.Format "January 2006" }}
+      </time>
+    </div>
+  {{ else }}
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
       <h2 class="post-subtitle">{{ .Params.subtitle }}</h2>

@@ -142,17 +142,20 @@
     <div class="longread-post-image-container" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=1000)">
       <div class="longread-info">
         <div class="wrapper">
-          <h1 class="longread-title" itemprop="name headline">{{ .Title }}</h1>
-          <h2 class="longread-subtitle">{{ .Params.subtitle }}</h2>
+          <div class="longread-info-inner-wrapper">
+            <div class="longread-top">Long Read</div>
+            <h1 class="longread-title" itemprop="name headline">{{ .Title }}</h1>
+            <h2 class="longread-subtitle">{{ .Params.subtitle }}</h2>
 
-          <div class="longread-authors">
-            By
-            {{ $authorCount := len .Params.authors }}
-            {{ range $index, $author := .Params.authors }}
-              {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
-              <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
-              -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
-            {{ end }}
+            <div class="longread-authors">
+              By
+              {{ $authorCount := len .Params.authors }}
+              {{ range $index, $author := .Params.authors }}
+                {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
+                <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
+                -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
+              {{ end }}
+            </div>
           </div>
         </div>
       </div>
