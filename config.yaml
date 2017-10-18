@@ -161,10 +161,10 @@ params:
       email: tech.felix@imperial.ac.uk
       editors:
         - tommrazek
-    - name: longread
-      colour: "000000"
-      email: felix@imperial.ac.uk
-      display: Long Read
-      editors:
-        - ff712
-      navbar: false
+    #- name: longread
+    #  colour: "000000"
+    #  email: felix@imperial.ac.uk
+    #  display: Long Read
+    #  editors:
+    #    - ff712
+    #  navbar: false
