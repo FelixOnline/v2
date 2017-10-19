@@ -14,7 +14,7 @@
                   <div class="section-links-title">
                     {{ $name := (index . "name") }}
                     <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">
-                      <object class="icon" width="20" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+                      <object class="icon" width="20" type="image/png" data="{{ $.Site.BaseURL }}images/png/{{ $name }}1.png"></object>
                       {{ if eq (index . "display") nil }}
                         {{ $name }}
                       {{ else }}
@@ -40,13 +40,13 @@
               <div class="copyright">Copyright © Felix Imperial. Registered newspaper ISSN 1040-0711.</div>
               <div class="site-social">
                 <a href="https://www.facebook.com/FelixImperial">
-                  <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook.png">
+                  <img class="site-social-logo" src="{{ .Site.BaseURL }}images/facebook.png">
                 </a>
                 <a href="https://twitter.com/feliximperial">
-                  <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter.png">
+                  <img class="site-social-logo" src="{{ .Site.BaseURL }}images/twitter.png">
                 </a>
                 <a href="{{ $.Site.BaseURL }}publications">
-                  <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/archive.png">
+                  <img class="site-social-logo" src="{{ .Site.BaseURL }}images/archive.png">
                 </a>
               </div>
             </div>

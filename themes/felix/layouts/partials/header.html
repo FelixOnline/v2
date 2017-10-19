@@ -42,13 +42,13 @@
       <meta name="twitter:site" content="@feliximperial" />
       <meta name="twitter:title" content="Felix Newspaper" />
       <meta name="twitter:description" content="{{ . }}" />
-      <meta name="twitter:image" content="{{ $.Site.BaseURL }}icons/cat-black.png" />
+      <meta name="twitter:image" content="{{ $.Site.BaseURL }}images/cat-black.png" />
 
       <meta property="og:url"                content="{{ $.Permalink }}" />
       <meta property="og:type"               content="website" />
       <meta property="og:title"              content="Felix Newspaper" />
       <meta property="og:description"        content="{{ . }}" />
-      <meta property="og:image"              content="{{ $.Site.BaseURL }}icons/cat-black.png" />
+      <meta property="og:image"              content="{{ $.Site.BaseURL }}images/cat-black.png" />
     {{ end }}
   {{ end }}
 
@@ -74,7 +74,7 @@
     {{ range $category := .Site.Params.displayCategories }}
       {{ $name := $category.Name }}
         <div class="site-nav-side-link">
-          <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+          <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}images/png/{{ $name }}1.png"></object>
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
             {{ if eq $category.Display nil }}
               {{ $name  }}
@@ -91,7 +91,7 @@
   <header class="site-header" role="banner">
     <div class="wrapper">
       <a class="site-title" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-      <img class="site-logo" src="{{ .Site.BaseURL }}/icons/cat-white.png">
+      <img class="site-logo" src="{{ .Site.BaseURL }}/images/cat-white.png">
 
       <form class="site-search desktop" action="{{ $.Site.BaseURL }}search" method="get">
         <input type="text" placeholder="Search..." name="q"><br>
@@ -112,7 +112,7 @@
         {{ if not (eq $category.Navbar false) }}
         <span class="page-link">
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
-            <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+            <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}images/png/{{ $name }}1.png"></object>
               {{ if eq $category.Display nil }}
                 <span>{{ trim $name " " }}</span>
               {{ else }}
@@ -127,13 +127,13 @@
 
     <div class="site-social-nav">
       <a href="https://www.facebook.com/FelixImperial">
-        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/facebook.png">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/images/facebook.png">
       </a>
       <a href="https://twitter.com/feliximperial">
-        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/twitter.png">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/images/twitter.png">
       </a>
       <a href="{{ $.Site.BaseURL }}publications">
-        <img class="site-social-logo" src="{{ .Site.BaseURL }}/icons/archive.png">
+        <img class="site-social-logo" src="{{ .Site.BaseURL }}/images/archive.png">
       </a>
     </div>
   </header>
