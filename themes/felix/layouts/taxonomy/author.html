@@ -13,25 +13,25 @@
   </div>
 
   <div class="author-profile-social">
-    {{ if (ne .Params.twitter "") }}
+    {{ if .Params.twitter }}
       <div class="social-link">
         <img class="site-social-logo" src="{{ .Site.BaseURL }}/images/twitter-black.png">
         <a href="https://twitter.com/{{.Params.twitter}}">@<span class="u-name">{{ .Params.twitter }}</span></a>
       </div>
     {{ end }}
-    {{ if (ne .Params.facebook "") }}
+    {{ if .Params.facebook  }}
       <div class="social-link">
         <img class="site-social-logo" src="{{ .Site.BaseURL }}/images/facebook-black.png">
         <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a>
       </div>
     {{ end }}
-    {{ if (ne .Params.website_url "") }}
+    {{ if .Params.website_url }}
       <div class="social-link-website">Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></div>
     {{ end }}
   </div>
 
   <div class="author-position">
-    {{ if (ne .Params.position "") }}
+    {{ if .Params.position }}
       {{ .Params.position }}
     {{ end }}
   </div>
