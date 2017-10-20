@@ -4,6 +4,11 @@ headline: false
 featured: true
 title: Student taken to hospital following post-sports night altercation
 subtitle: The incident occurred following a sports night at Reynolds Bar.
+authors:
+  - ff712
+date: '2017-10-20 12:00:00'
+categories:
+  - news
 ---
 An Imperial student had to be taken to hospital last week, following an altercation after sports night.
 
