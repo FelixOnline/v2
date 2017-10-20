@@ -1,6 +1,7 @@
 # Felix
 
-This is the repository for the Felix newspaper website.
+This is the repository for the [Felix newspaper
+website](http://felixonline.co.uk).
 
 ## Create an article
 
