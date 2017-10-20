@@ -20,7 +20,7 @@ tags:
  - image
  - imported_comments
 authors:
- - andydjaba
+ - andy_djaba
 highlights:
  - comment
  - longread

@@ -73,7 +73,7 @@ params:
       colour: "7a0040"
       email: film.felix@imperial.ac.uk
       editors:
-        - ashluckyram
+        - ashley_luckyram
         - mikhaildemtchenko
         - markaduol
         - michaelpurdy14
@@ -89,7 +89,7 @@ params:
       colour: "007e50"
       email: tv.felix@imperial.ac.uk
       editors:
-        - andrewmelville
+        - andrew_melville
       tags:
         - review
         - feature
@@ -100,9 +100,9 @@ params:
       colour: "0051a0"
       email: music.felix@imperial.ac.uk
       editors:
-        - adrianlamoury
+        - adrian_lamoury
         - he915
-        - andydjaba
+        - andy_djaba
       tags:
         - review
         - feature
