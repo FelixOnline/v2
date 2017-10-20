@@ -59,3 +59,14 @@ USER=imperialUser
 SERVER=something.ic.ac.uk
 rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --delete --progress public/ $USER@$SERVER:/website/media/felix/v2test/
 ```
+
+## CircleCI Setup
+
+The repo is configured witch CircleCI. We as using this as a continuous
+deployment service for the site.
+
+When a new commit is pushed to the master branch, Circle will pick up the job
+and build the site before pushing it to the gh-pages branch.
+
+For this process to work there needs to be a deploy key added to Github, follow
+[this guide](https://circleci.com/docs/1.0/adding-read-write-deployment-key/).
