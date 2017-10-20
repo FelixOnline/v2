@@ -6,7 +6,7 @@ title: Slowdive prove to be worth the wait
 subtitle: A triumphant show at the Roundhouse shows Slowdive never went away
 authors:
   - hannah_cudmore
-date: '2017_10_20 12:00:00'
+date: '2017-10-20 12:00:00'
 categories:
   - music
 tags:

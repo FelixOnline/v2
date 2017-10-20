@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_music_jcole.jpg
 authors:
   - andy_djaba
-date: '2017_10_20 12:00:00'
+date: '2017-10-20 12:00:00'
 categories:
   - music
 tags:
