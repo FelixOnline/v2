@@ -14,6 +14,8 @@ categories:
 tags:
   - review
   - theatre
+authors:
+  - waleed_el_geresy
 ---
 There is more death in that kind of life and more life in that kind of death. That is the message of Saint George in reference to a life lived under the rule of the despotic dragon. On the face of things these two characters should be at the heart of an epic tale of heroism versus evil, but Rory Mullarkey’s play is not simply a classic heroic legend – it is a commentary on the people of England. The day of the hero is gone and we must all band together to overcome the new dragons of capitalist greed, bureaucracy, and indifference: a powerful and insightful message, although its delivery in this production had a subtlety more akin to that of George’s great three-headed nemesis than the damsel in distress.
 
@@ -29,5 +31,3 @@ Lyndsey Turner’s production is speckled with humour throughout, keeping the mo
 The scenery and technical aspects of the performance were brilliant. This was especially true for all manner of things relating to fire. Things were constantly spontaneously igniting, crackling or exploding all over the stage to the extent that I began to question whether there was indeed an actual dragon crouched behind the scenes. Despite the technical brilliance – and in part because of it – I felt slightly short changed watching the battle between George and the dragon. What we had all been expectantly awaiting turned out to be more of a radio commentary by the villagers of a supposedly nail-biting fight in the invisible sky above us. Admittedly recreating a battle involving a three headed dragon may have been fairly technically challenging, but given the excellency of the other scenery I wouldn’t put it past the crew to have pulled it off. The lack of a convincing battle scene was partially compensated for by the pyrotechnically heavy display of three dragon heads exploding as they crashed into the ground.
 
 It would have been better if the message hadn’t been so obvious in its structured three-part delivery, but I thought that it was unique and very relevant. The characters are almost all referred to by job title rather than name, perhaps for a reason: in our everyday lives we ourselves see here the butcher, there the driver, and the town crier. Mullarkey is trying to tell us that these people do not represent us, they are us – each and every one of us must be prepared to be heroic in our own way.
-
-
