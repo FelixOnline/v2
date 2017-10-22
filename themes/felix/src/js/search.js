@@ -112,7 +112,7 @@ if (document.location.pathname.includes("search")) {
     },
 
     init: function() {
-      ajax().get('/v2/site_index/index.json').then(function (data, xhr) {
+      ajax().get('/site_index/index.json').then(function (data, xhr) {
         search.pages = data;
         search.inputBox = document.getElementById("search");
 
