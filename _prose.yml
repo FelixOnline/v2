@@ -120,7 +120,6 @@ article_form: &article_form
 
 prose:
   rooturl: content
-  siteurl: ""
   ignore:
     - config.yaml
     - .gitignore
