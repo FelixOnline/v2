@@ -23,6 +23,8 @@ sections: &sections
     value: "sport"
   - name: "Clubs & Socs"
     value: "clubs-and-socs"
+  - name: "Longread"
+    value: "longread"
 highlights: &highlights
   - name: "Longread"
     value: "longread"
