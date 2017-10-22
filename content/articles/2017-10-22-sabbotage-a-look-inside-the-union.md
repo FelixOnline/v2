@@ -9,11 +9,11 @@ image: >-
 authors:
   - ff712
 date: '2017-10-22 12:00:00'
-categories:
-  - clubs-and-socs
 tags:
   - union
   - longread
+categories:
+  - clubs-and-socs
 ---
 It is Welcome Week, and the Union offices are humming with a combination of activity and mild panic. Several thousand new students are about to descend on Imperial, and the offices have become the nerve centre of the operation to acclimatise them to university life. Located across two floors of Beit Hall, which designed by Aston Webb at the turn of the 20th Century, the offices are awash with branded hoodies, Freshers’ Fair maps, and harried employees.
 
