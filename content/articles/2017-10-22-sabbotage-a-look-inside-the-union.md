@@ -23,7 +23,7 @@ As all freshers are told when they first come to this university, when you arriv
 
 As with any large organisation, there is a complex structure. Union Council are the policy-making body of students, but on top of this there are also management groups, constituent unions, and endless committees, all jostling for the attention of the students at Imperial. It could perhaps best be described as ‘intricate’, although a less kind word may be ‘labyrinthine’.
 
-And this is before we add in the sabbatical officers – students who take a year out of their studies, or extend the period of time between their degree finishing and entry to the ‘real world’. For the past decade or so, there have been seven: five officer trustees – President and Deputy President (Welfare/Clubs and Societies/Finances and Services/Education) – and two other sabbatical roles – Imperial College School of Medicine Student Union (ICSMSU) President, and yours truly, the Felix Editor. What do they all get up to? Let’s find out.
+And this is before we add in the sabbatical officers – students who take a year out of their studies, or extend the period of time between their degree finishing and entry to the ‘real world’. For the past decade or so, there have been seven: five officer trustees – President and Deputy President (Welfare/Clubs and Societies/Finances and Services/Education) – and two other sabbatical roles – Imperial College School of Medicine Student Union (ICSMSU) President, and yours truly, the _Felix_ Editor. What do they all get up to? Let’s find out.
 
 ![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/long_reads/sabbotage/Chippy.jpg)
 
@@ -80,7 +80,7 @@ One way Matt is planning on earning back some brownie points is with the introdu
 
 In a large number of cases, those who take on the sabbatical roles do so because they have been frustrated by problems they faced in the past. “I experienced a lot of these issues myself,” says Tom Bacarese-Hamilton, Deputy President (Clubs & Societies), of his plans to reconfigure training, “the clubs training was relevant but boring, a lot of stuff that was in the training guide. It was too simple, I wanted a bit more.”
 
-In his officer trustee role, Tom is the one who ensures that the clubs are running as they should be – all 370 of them (including Felix – membership is free, please join!). Like several other sabbatical officers, he viewed his degree as an inconvenience, one that was getting in the way of his Union roles: “I got frustrated that I couldn’t get all the little things I wanted to do into motion because I was doing a degree”, he laughs.
+In his officer trustee role, Tom is the one who ensures that the clubs are running as they should be – all 370 of them (including _Felix_ – membership is free, please join!). Like several other sabbatical officers, he viewed his degree as an inconvenience, one that was getting in the way of his Union roles: “I got frustrated that I couldn’t get all the little things I wanted to do into motion because I was doing a degree”, he laughs.
 
 Tom ran with that oldest of political techniques: an acronym. The T was for ‘Training’, which he wants to develop further, incorporating ‘masterclasses’ that teach students skills beyond those they need to ensure their club remains in the black.The M was for ‘Management’ - room bookings, minibus use etc. – like most students running clubs, the issue of the room booking system weight heavy on his mind.
 
@@ -126,11 +126,11 @@ One thing that becomes apparent over my conversations with the sabbatical office
 
 While this may be true, there are issues with how the Union communicates this fact with students. For the average student, who’s going from lab project to the library and back again, each hour that the Union spends gathering data and writing up strategy can seem like an hour where the opportunity to create tangible change is lost.
 
-It’s a fine balance to achieve, and a difficult one. In an article published anonymously in Felix last year, one writer argued that “students who meet the criteria that qualify them as a strong sabbatical candidate are being thrown into the pressure cooker environment of the Union”, who were accused of leaving the sabbs “high and dry when it comes to receiving any kind of support through the process.”
+It’s a fine balance to achieve, and a difficult one. [In an article published anonymously](http://felixonline.co.uk/articles/2017-2-17-is-being-a-sabb-bad-for-your-health/) in _Felix_ last year, one writer argued that “students who meet the criteria that qualify them as a strong sabbatical candidate are being thrown into the pressure cooker environment of the Union”, who were accused of leaving the sabbs “high and dry when it comes to receiving any kind of support through the process.”
 
 Sometimes it can be tempting to forget that the people inhabiting the sabbatical roles are students, and that – once their tenure this year is finished – the vast majority will return to their regular academic life. It is much easier, instead, to see them as mere transparent entities, whose purpose it is to refract and focus the views of students, as flat and benign as the Union Building screens from which their images gently wave. Indeed, for many students, this will be the closest they will get to a sabbatical officer – they will remain on the other side of the screen.
 
-While the student body, and by extension Felix itself, does need to continue to hold them to account, it is important to remember that the sabbatical officer’s lives don’t begin and end with their positions. They have existences beyond the Union offices, which stretch beyond the Imperial sphere. Just like you and me.
+While the student body, and by extension _Felix_ itself, does need to continue to hold them to account, it is important to remember that the sabbatical officer’s lives don’t begin and end with their positions. They have existences beyond the Union offices, which stretch beyond the Imperial sphere. Just like you and me.
 
 ~~~
 
