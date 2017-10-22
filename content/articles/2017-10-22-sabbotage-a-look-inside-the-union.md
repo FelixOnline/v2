@@ -131,3 +131,7 @@ It’s a fine balance to achieve, and a difficult one. In an article published a
 Sometimes it can be tempting to forget that the people inhabiting the sabbatical roles are students, and that – once their tenure this year is finished – the vast majority will return to their regular academic life. It is much easier, instead, to see them as mere transparent entities, whose purpose it is to refract and focus the views of students, as flat and benign as the Union Building screens from which their images gently wave. Indeed, for many students, this will be the closest they will get to a sabbatical officer – they will remain on the other side of the screen.
 
 While the student body, and by extension Felix itself, does need to continue to hold them to account, it is important to remember that the sabbatical officer’s lives don’t begin and end with their positions. They have existences beyond the Union offices, which stretch beyond the Imperial sphere. Just like you and me.
+
+~~~
+
+Illustrations by Amy Mather and Nate Macabuag
