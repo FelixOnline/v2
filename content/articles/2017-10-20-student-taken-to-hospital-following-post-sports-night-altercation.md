@@ -14,7 +14,7 @@ An Imperial student had to be taken to hospital last week, following an altercat
 
 _Felix_ have heard reports than one Imperial student punched another in the jaw following sports night at Reynolds Bar, on Charing Cross campus. The event reportedly occurred in the small hours of Thursday morning, the 12th October. Witnesses to the incident say that the attack was “unprovoked”.
 
-According to witnesses, the victim was taken to Accident and Emergency after contacting the police. After taking statements from witnesses, the police reportedly travelled to the assailant’s house, possibly to take them into custody.
+According to witnesses, the victim was taken to Accident and Emergency after contacting the police.
 
 In a statement, an Imperial College Union representative told _Felix_: “Imperial College Union takes the safety and wellbeing of its members extremely seriously. Abusive or violent behaviour of any kind is entirely unacceptable and will not be tolerated. We would always encourage anyone who has witnessed – or been the victim of – violent or abusive behaviour to report it to the police or a member of Union or College staff. We were very concerned to learn of allegations made against one of our members last week, and we have suspended the individual from any positions of responsibility they hold pending investigation.”
 
