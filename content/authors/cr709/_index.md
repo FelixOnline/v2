@@ -1,9 +1,8 @@
 ---
-id: "cr709"
+published: true
+id: cr709
 name: Christopher Richardson
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
-twitter: ""
-facebook: ""
-website_url: ""
-website_title: ""
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/author_headshots/chris_richardson_headshot.jpg
+twitter: citybawls
 ---
