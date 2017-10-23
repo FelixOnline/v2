@@ -15,7 +15,7 @@ tags:
   - review
   - theatre
 authors:
-  - waleed_el_geresy
+  - wbe15
 ---
 There is more death in that kind of life and more life in that kind of death. That is the message of Saint George in reference to a life lived under the rule of the despotic dragon. On the face of things these two characters should be at the heart of an epic tale of heroism versus evil, but Rory Mullarkey’s play is not simply a classic heroic legend – it is a commentary on the people of England. The day of the hero is gone and we must all band together to overcome the new dragons of capitalist greed, bureaucracy, and indifference: a powerful and insightful message, although its delivery in this production had a subtlety more akin to that of George’s great three-headed nemesis than the damsel in distress.
 
