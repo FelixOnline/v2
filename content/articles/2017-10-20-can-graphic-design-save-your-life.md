@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_science_graphic.jpg
 authors:
   - meesha_patel
-  - henry_bennie
+  - htb08
 date: '2017-10-20 12:00:00'
 categories:
   - science
