@@ -8,11 +8,11 @@ subtitle: >-
   removal of SCR cooked breakfasts
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_news_campussurvey.jpg
-authors:
-  - joanna_wormald
 date: '2017-10-20 12:00:00'
 categories:
   - news
+authors:
+  - jmw216
 ---
 A survey of campus services has been launched by Imperial College Union following “significant changes” to Imperial’s catering and dining facilities. The move comes more than two months after the College’s Campus Services implemented changes without consulting staff or students. 
 The changes are largely cost-cutting measures. These include reducing menu options, portion sizes, and opening hours, in addition to replacing F-EAST in the Junior Common Room with Japanese outlet Tanpopo. 
@@ -31,5 +31,4 @@ In a statement from the Union, a representative said that “With a good respons
 
 Launching the feedback survey is a step in the right direction. Aside from gathering demographic information, it asks student which outlets they use and when, as well as when they would like to use the outlets. There are no mentions of other issues raised by staff and students – such as the changes to Ethos’ opening hours – although a comment box is provided at the end of the survey.
 
-The survey is available at: http://www.imperialcollegeunion.org/CSFeedback. 
-
+The survey is available at: http://www.imperialcollegeunion.org/CSFeedback.
