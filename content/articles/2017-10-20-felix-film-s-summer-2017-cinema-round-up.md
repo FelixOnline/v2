@@ -6,11 +6,11 @@ title: Felix Film’s Summer 2017 cinema round-up
 subtitle: How we fell out of love with the Hollywood blockbuster.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_film_atomic.jpg
-authors:
-  - mark_aduol
 date: '2017-10-20 12:00:00'
 categories:
   - film
+authors:
+  - markaduol
 ---
 Depending on who you are, the summer movie season was either a blessing or a disaster.
 For film studio executives, it was unquestionably dismal. There was little comfort in watching each new release miss its box office targets. On Labour Day Weekend – the long summer weekend in the United States where film studios often expect major ticket sales – the U.S. box office had its worst performance in 17 years: the top twelve films grossed a combined $51.5 million and you have to go back to 2000, when the top twelve grossed $47 million, to find a worse performance. No doubt some film studio executives have already began questioning their tentative summer 2018 releases, wondering whether some of those big budget productions might need a few re-writes, lest they suffer the same fate as some of this year’s box office flops.
@@ -32,7 +32,7 @@ _Pirates of the Caribbean: Dead Men Tell No Tales_ suffered the lowest North Ame
 
 Universal’s reboot of _The Mummy_ didn’t fare much better: the film grossed $80.1 million in North America and $329 million in other territories for a worldwide total of $409.1 million, against a combined production and advertising budget of around $345 million. And of course, due to the thinner profits from foreign markets, Universal will likely lose in excess of $75 million from their investment in this film. 
 
-![ _Atomic Blonde_ (left), _Baby Driver_ (right) // Universal/Sony Pictures]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_film_atomic.jpg)
+![ _Atomic Blonde_ (left), _Baby Driver_ (right) // Universal/Sony Pictures](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_film_atomic.jpg)
 
 It doesn’t end there: the co-produced Warner Bros. and Legendary Pictures epic, _Kong: Skull Island_, grossed $168 million in North America and $398.6 million in foreign markets for a worldwide total of $566.6 million. Made on a production budget of $185 million and fuelled by a $136 million marketing campaign, this franchise reboot needed to make at least $450-500 million worldwide for Warner Bros. and Legendary Pictures to break even.
 
