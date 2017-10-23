@@ -1,5 +1,5 @@
 {{ $imageProxy := .Site.Params.imageProxy }}
-{{ $publication := index (split .Permalink "/") 4 }}
+{{ $publication := index (sort (split .Permalink "/")) 2 }}
 
 {{ partial "header.html" . }}
 
