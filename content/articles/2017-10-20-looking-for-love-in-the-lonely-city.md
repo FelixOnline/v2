@@ -11,11 +11,11 @@ subtitle: >-
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_arts_beginnings.jpg
 date: '2017-10-20 12:00:00'
-categories:
-  - arts
 tags:
   - theatre
   - review
+categories:
+  - arts
 ---
 Olivia Laing in her exceptional book, _The Lonely City_, remarks, “So much of the pain of loneliness is about concealment. But...what’s so shameful about wanting?”. Loneliness, and the barriers we set up even as we try to forge new connections are at the centre of David Eldridge’s new play. In _Beginning_, we meet Laura and Danny at the end of a housewarming party. She is a 38-year-old managing director who, despite professional success, is looking for a catalyst to settle down, and he is friend of a friend who stays behind after everyone has left despite his impulses to run.  Both are hiding their fear of being alone, tipsy, and yearning; they dance around each other (sometimes literally), wanting very much to be seen, and at the same time, terrified of being exposed.
 
