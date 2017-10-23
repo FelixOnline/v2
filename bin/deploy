@@ -11,6 +11,7 @@ gulp scss --production
 echo "Building Site"
 hugo || bin/hugo
 
+if [ $CIRCLE_BRANCH = 'master' ]; then
   echo "Deploying site"
   ls
   cd public
@@ -20,3 +21,6 @@ hugo || bin/hugo
   git add . > /dev/null
   git commit -m "Circle CI Deploy Commit [ci skip]" > /dev/null
   git push --force --quiet "https://github.com/FelixOnline/v2.git" master:gh-pages > /dev/null
+else
+  echo "Skipping deploy - only runs on master"
+fi
