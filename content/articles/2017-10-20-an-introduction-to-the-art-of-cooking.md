@@ -8,13 +8,13 @@ subtitle: >-
   yourselves.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_food_ramen.jpg
-authors:
-  - andrada_balmez
 date: '2017-10-20 12:00:00'
 categories:
   - food
 tags:
   - recipes
+authors:
+  - aib116
 ---
 Writing Food is so difficult when you don’t have anyone suggesting “maybe you want to write about that?”, or when you just don’t feel inspired to write about their suggestions. So, while I struggled with finding a topic for this page, I realised that I did not say “Hi!” to you this year. So, here I am! So good to see you again this year! Oh, you missed me? That’s so nice of you. Of course, I missed you too. But we don’t want to talk about me too much straight from the beginning, do we? I mean, I think you are here to enjoy your first term back at uni. Yey – very enthusiastic ‘yey’ – just so it’s clear I am not sarcastic here.
 
@@ -57,5 +57,3 @@ You will need...
 1. In a separate stockpot, place the remaining garlic cloves, soy sauce, and olive oil. Add the slices of ginger, chilli powder, and the beef stock (or the water with the stock cube). Bring to the boil, then reduce to simmer for 5 minutes. 
 1. In a soup bowl, arrange the noodles . On top of it arrange the beef and the veggies, along with half a boiled egg. Add the stock in the bowl and finally sprinkle with spring onions on top. 
 1. Now you can call your mom and tell her you’ve made the best soup in the world (or acknowledge that you are a failure who cannot even make a simple soup).
-
-
