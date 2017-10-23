@@ -6,11 +6,11 @@ title: Here’s what I’m up to at the moment!
 subtitle: Liberation Officer Chimdi Igwe explains what he's been doing
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/DSC_0257.jpg
-authors:
-  - chimdi_igwe
 date: '2017-10-20 12:00:00'
 tags:
   - liberation
+authors:
+  - cji14
 ---
 It’s rather tricky to run for a position that isn’t well defined – earlier this year, while campaigning for the role of BME Officer, more often than not I’d have to explain what the whole acronym meant (for those of you who still don’t know, that’s Black and Minority Ethnic); even then I’d have to try to explain what this role is meant to be.
 
