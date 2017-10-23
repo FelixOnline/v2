@@ -12,7 +12,7 @@ date: '2017-10-20 12:00:00'
 tags:
   - liberation
 authors:
-  - chimdi_igwe
+  - cji14
 ---
 Just last week, the government released its sixty-odd page Race Disparity Report, commissioned by the Prime Minister Theresa May early on in her tenure. The main takeaway, as the report’s name handily notes, was the general trend of disparity between minority experiences across the board: from education and housing to employment and health.
 
