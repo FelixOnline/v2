@@ -49,7 +49,6 @@ It’s an issue that Chippy also touches on, with a manifesto promise to provide
 
 Given the number of changes occurring at the Union, with the introduction of the Wellbeing Representative Network, it’s unsurprising that Fintan describes this point in time as ‘critical’. As well as overseeing the introduction of the new Network, he wants to overhaul the personal tutor system, which he has described as “a lucky dip”, citing a “lack of uniformity in the support available.”
 
-
 There are also plans to tackle sexual violence on campus, with active bystander training – which helps people challenge problematic behaviour – and sexual violence liaison officers on the horizon. I ask him why there is this emphasis on sexual violence, and – as always – Fintan chooses his words incredibly carefully: “When you see the extent to which so few cases actually get resolved fully, through, for example, the police, it’s just not good enough. I remember quite early on in my university experience when this dawned on me. It really shocked me, and I felt we had a duty to better.”
 
 The issue of welfare on-campus is an emotive one, and one that impacts nearly every person at Imperial. As Fintan says, “everybody at Imperial will know people who struggle with mental health, sexual violence, representation, identity... all these issues come under DPW, and in that way I think there is nobody who isn’t touched by my role.”
@@ -68,7 +67,7 @@ However, the survey highlighted slightly more esoteric issues, namely the lack o
 
 ![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/long_reads/sabbotage/Blackett.jpg)
 
-There’s a running joke among the sabbatical officers about how often Matt Blackett will refer to the fact that he went spent a year at the Business School. But perhaps this experience is for the best, since – as Deputy President (Finances & Services) – he is responsible for the finances of the Union. He sits at the top of a chain of fiscal command that takes in everything from claiming the money back for those Freshers’ Fair celebrations, to paying for a tour to China.
+There’s a running joke among the sabbatical officers about how often Matt Blackett will refer to the fact that he spent a year at the Business School. But perhaps this experience is for the best, since – as Deputy President (Finances & Services) – he is responsible for the finances of the Union. He sits at the top of a chain of fiscal command that takes in everything from claiming the money back for those Freshers’ Fair celebrations, to paying for a tour to China.
 
 When I meet Matt, however, he has other things on his mind: “I’m drowning in sponsorship contracts,” he says, referring to the sheets of paper across his desk, “I didn’t put this in my manifesto, but I want to make them a lot easier next year”.
 
