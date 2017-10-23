@@ -20,4 +20,4 @@ With the wind in their backs, the second half looked more promising for the boys
 
 Although the comeback looked promising, Reading eventually ran away with the win, scoring 2 tries in quick succession and bringing the game to a close. Final score : 36-13. Despite the loss, a very promising start to the season for an inexperienced squad, still learning to find each other. Notable performances included Ben Jones’ demon carries, Oli Wangchai’s quick pace and Michael “Nice smile” Radigan’s side line intimidation tactics. _In Sylvia…_
   
-_To keep up to date with Imperial Rugby, follow us on Instagram: @ICrugby_
+_To keep up to date with Imperial Rugby, follow us on Instagram: [@ICrugby](www.instagram.com/ICrugby)_
