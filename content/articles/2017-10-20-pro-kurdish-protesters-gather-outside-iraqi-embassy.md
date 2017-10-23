@@ -6,11 +6,11 @@ title: Pro-Kurdish protesters gather outside Iraqi Embassy
 subtitle: Last Monday protesters gathered outside the embassy in a pro-Kurdish protest
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_news_kurdistan.jpg
-authors:
-  - joanna_wormald
 date: '2017-10-20 12:00:00'
 categories:
   - news
+authors:
+  - jmw216
 ---
 Protesters gathered outside the Iraqi embassy on Queen’s Gate earlier this week in reaction to Iraq’s seizure of the city of Kirkuk from Kurdish forces who had occupied it for the past three years.
 
