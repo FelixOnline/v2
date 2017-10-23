@@ -3,6 +3,7 @@ published: true
 id: adrian_lamoury
 name: Adrian LaMoury
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg
+  https://f001.backblazeb2.com/file/felixonline/img/author_headshots/adrian_lamoury_headshot.jpeg
 twitter: adrianlamoury
+website_url: 'https://www.instagram.com/adrianlamoury/'
 ---
