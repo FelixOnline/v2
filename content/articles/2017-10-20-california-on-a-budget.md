@@ -10,13 +10,13 @@ date: '2017-10-20 12:00:00'
 categories:
   - travel
 authors:
-  - edita_pileckyte
+  - editapileckyte
 ---
 After a draining year at Imperial, and quite possibly an internship-packed summer, most of us crave a vacation, preferably outside London. While coming back home is often enjoyable, going somewhere completely new can be even more appealing. One of the most popular travel destinations is the United States, which has so much to offer for tourists, from majestic busy cities to fascinating natural wonders. If you’ve never visited the US, you might have heard it’s very large, but make no mistake – it’s actually even bigger than you think!
 
 I spent 2 weeks in California, with a short detour to Las Vegas, and it still wasn’t enough. To fully explore the magnificence of even a small part of the country requires a lot of time and – you’ve guessed it – money! The good news is that nowadays it’s more than possible to travel on a budget, so here are some tips based on my first-hand experience.
 
-![Natural beauty is only enhanced by saving lots of dough! // Edita Pileckyte]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_GrandCanyon.jpg)
+![Natural beauty is only enhanced by saving lots of dough! // Edita Pileckyte](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_GrandCanyon.jpg)
 
 ## ACCOMMODATION
 
@@ -28,7 +28,7 @@ That being said, this doesn’t happen all the time – we were just extremely l
 
 Nonetheless, if you opt for Couchsurfing, there are several important things to remember: check the references from previous guests to make sure your potential host is trustworthy and their home is suitable for you; always be careful, especially if travelling alone; as trivial as it sounds, be polite and respectful – some travellers feel that they can do whatever they please, like come back drunk at 3am, leave a complete mess after their visit, or not even bother interacting with their host; though the hosts don’t expect any money for your stay, a good thank you gift could be cooking them a meal, sending a postcard from your home country, or even just spending some time chatting and getting to know them; start sending requests early – you’ll likely get rejected a lot since the best places are also the most popular ones, so don’t leave it to the last minute; and finally ask your friends to leave references for you about their experience staying at your place – this will complete your profile and hosts will be more likely to trust you.
 
-![‘Siri, play the Fresh Prince of Bel-Air theme” // Edita Pileckyte]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_HollywoodHills.jpg)
+![‘Siri, play the Fresh Prince of Bel-Air theme” // Edita Pileckyte](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_HollywoodHills.jpg)
 
 ## TRANSPORT WITHIN CITIES
 
@@ -48,7 +48,7 @@ To reiterate, renting a car is probably the best option, which will allow you to
 
 Moreover, a trip to California would not be complete without visiting the national parks, such as Death Valley, Yosemite, or Grand Canyon. Of course, as you may have guessed, they are quite far away from the main cities (2-4h drive). So if you decide to travel such a distance, it’s best to spend at least two days there so you can hike and explore the places at your own pace. Plus, park entrance fees ($20-30 for 7 days) are charged per vehicle so splitting the cost between a group of travellers offers a very affordable trip. Alternatively, you can book 1-day bus tours but they are quite pricey (e.g. around $200 per person for Death Valley) and don’t give you enough time to explore the area. Having said that, travelling with a guide is probably safer since they take you to tourist-friendly places and you don’t have to worry about things like cars breaking down or getting lost. So if you opt to drive by yourself, find out the safest way to travel around and be prepared, e.g. take plenty of water and wear appropriate clothes.
 
-![Palm trees in balmy Malibu // Edita Pileckyte]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_Malibu.jpg)
+![Palm trees in balmy Malibu // Edita Pileckyte](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_travel_Malibu.jpg)
 
 Finally, the most expensive part of long-distance trips is usually flight tickets but luckily there are a few budget airlines offering transfer between the US and Europe for as little as $400 both ways. They don’t provide meals and allow limited baggage, but are still a good way to save money. For instance, Norwegian Airlines offer direct flights, 2 hand luggage pieces, and an on-board entertainment system with films and TV shows. Another affordable option is WOW Airlines, though they don’t offer direct flights or in-flight entertainment, so be sure to bring a book on board!
 
