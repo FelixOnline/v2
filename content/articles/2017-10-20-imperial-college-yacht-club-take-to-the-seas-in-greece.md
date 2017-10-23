@@ -26,7 +26,7 @@ Moored up stern to, right by the town, we ventured into Lefkada for our first di
 After a good night’s sleep and a Greek coffee the next morning, we could sense that we had a great week lined up. When we got to unfurl the sails the yahct was surprisingly agile and light for its size. Lito was a joy to sail and easy for even our less experienced crew to handle.
 Throughout the week we stopped off at other islands – Kastos, Ithaca, and Kefalonia. Kastos was a tiny island of only 40 residents during the summer and fewer in the winter when the facilities close. We went ashore and enjoyed a drink in at a table alongside an old windmill and then went swimming from a rocky beach nearby.
 
-![The yacht was the one taking the photo // ICYC]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_sport_yacht2.jpg)
+![The yacht was the one taking the photo // ICYC](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/1672_sport_yacht2.jpg)
 
 At Ithaca we had several stops. A larger island than Kastos but still only just over 3000 inhabitants. Again great food, refreshing swimming but also an archaeological museum with ancient Greek items that have been found on the island. Naturally, touring the Greek Islands with a local free-diver led us to some absolutely beautiful swimming locations, both under and above the water. The icing on the cake was watching Elias go down and spear our dinner which he prepared on board (later in the trip we took another catch to a restaurant who cooked it for us).
 
