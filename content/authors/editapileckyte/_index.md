@@ -1,9 +1,8 @@
 ---
-id: "tommrazek"
-name: Tom Mrazek
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201102092131-jk708-FelixPro.jpg"
-twitter: ""
-facebook: ""
-website_url: ""
-website_title: ""
+published: true
+id: edita_pileckyte
+name: Edita Pileckyte
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/author_headshots/edita_pileckyte_headshot.jpg
+website_url: 'http://instagram.com/edita044'
 ---
