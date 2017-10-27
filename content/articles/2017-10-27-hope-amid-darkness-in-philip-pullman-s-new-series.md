@@ -20,9 +20,13 @@ In this new volume, the theory of dust from His Dark Materials makes a reappeara
 
 This exciting new trilogy is the unexpected prequel to _His Dark Materials_. The original was famously known for its beloved heroine, Lyra Belacqua, who makes a comeback in the new series as a baby. This latest novel has a more elementary – or as Philip described it, “watery” – feel which is tangled with the issues of the environment and inequality in a fiercer tone than before.
 
+![Philip Pullman makes his triumphant return to the world he created in His Dark Materials // Caspar Stevens](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1673/1673_books_pullman_cerys.jpg)
+
 The fact that it was his birthday made the evening’s atmosphere more magical as the audience’s singing echoed in the hall. The viewers’ awe was palpable when Philip read an extract of _La Belle Sauvage_. Discussions ranged from Philip’s “waywardish” university days to his journeys to the Arctic within the pages of books of the Bodleian Library, at Oxford University. We find how his roots in Oxford inspired a range of settings for _His Dark Materials_ and _La Belle Sauvage_ as well as the influence of the more exotic scenes from books he’s read.
 
 The most intriguing part of Pullman’s discussion was the use of rhythm in his sentences and how he needs silence in order to focus on the rhythms of following sentences. In addition, he also touched on children’s style of learning and reading – he believes imagination begins when children are read stories by their parents or guardians, which encourages the seeking of adventures and ideas within books. He expressed disappointment at the current educational system, which ranks children and forces youngsters to form opinions and express them aloud to the teacher – opinions and analysis of poems should remain within the heart of the child, he said, so they can look back and remember the naturality of their own opinion. His stand on the “original sin”, which is mentioned in his previous trilogy, is that it is “almost blasphemous” to call it a sin, because knowledge and the seeking of it is what makes us human. A round of applause followed with bouts of cheering.
+
+> “The latest novel is tangled with the issues of the environment and inequality”
 
 The evening’s discussion touched on a wide range of topics and themes; was the darker tone due to the growing cynicism of the author? Does it reflect on the growing cynicism of adults in the modern world? When asked this, he replied that adults don’t become more cynical, only more aware, but amongst the darkness of it all there is always hope – interspersed in the darkness of the book, just like in our reality.
 
