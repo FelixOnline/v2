@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: Hope amid darkness in Philip Pullman’s new series
