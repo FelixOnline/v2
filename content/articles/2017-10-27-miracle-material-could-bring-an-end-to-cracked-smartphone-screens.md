@@ -22,6 +22,8 @@ By combining super-thin and stable graphene with a substance known as hexagonal 
 
 So how does one go about creating a material from scratch? “To me it’s like you are in a very sunny place, like a sunny Spain or sunny Malaga, and you look up at the sky and there’s nothing there,” says Santos. “I got the idea and then the theory and then did simulations. After several months those simulations worked well so then I suggested to a few colleagues in Berkeley and Stanford to try to make it and they did – that simple!”
 
+> “As well as making more durable screens, the material could allow smart devices to become solar powered”
+
 “One of the applications that people got very excited about was essentially to try to replace some of the components you have in the iPhone, for instance,” he adds. “In several of the iPhones they use different kinds of glass, kinds of sapphire glasses, or other kinds of polymers. Those polymers or those glasses are expensive and very fragile but if you replaced some of those components, and then include the material, you could get so many features and one of those is unbreakable screens.”
  
 As well as making more durable screens, the new material could allow smartphones and smart devices to become solar powered and therefore rechargeable on the go.
@@ -29,12 +31,16 @@ As well as making more durable screens, the new material could allow smartphones
 “We thought let’s create a material that harvests energy and solar electricity and then you can just charge your battery while you just drink your beer in Piccadilly,” says Santos. “You can catalyse the electric current in the battery so you connect the screen to the battery. I know prototypes in the market with different materials that are doing that. So it’s not far away from reality at the moment.”
  
 However one potential problem with a widespread use of graphene and graphene-based materials is possible effects on our health. Only discovered in 2004, the toxicity of graphene is still under investigation.
+
+![No more asking around for an iPhone charger // Flickr/Solución Individual](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1673/1673_science_charging.jpg)
  
 “Potentially it could be harmful,” explains graphene expert Professor Owen Guy, Director of the Centre for Nanohealth at Swansea University’s College of Engineering. “Types of graphene which are particulate could potentially get into the body more easily, and there is the possibility there could be toxic as with carbon nanotubes but I think there’s probably not enough data or enough studies on that yet.”
  
 In terms of environmental impacts, using graphene on a large scale should be safe. “You know graphene’s organic,” notes Santos, “it’s a carbon material, so I would say essentially it’s environmentally friendly.”
  
 Whilst the new material has huge potential, it still needs tweaking before it can be put into use as it lacks an essential feature known as the band gap. The band gap is needed to give electronics like smartphones an on-off switching function.
+
+> “When might this material reach smartphones? Elton Santos reckons it’s not too far away”
  
 “Graphene is what they call a 0 band gap semiconductor,” explains Guy. “In a normal semiconductor you have what they call a band gap between the valence band, the band which contains electrons, and the conductor band, the empty band. In order to get conduction you have to have either a hole or electrons and they have to be able to flow. In pure pristine graphene there is no gap between the valence band and the conduction band but when you modify it in some way then you can introduce a band gap.”
 
