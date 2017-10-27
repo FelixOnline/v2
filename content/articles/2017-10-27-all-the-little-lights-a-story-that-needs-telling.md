@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: 'All the Little Lights: A Story That Needs Telling'
