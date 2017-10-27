@@ -23,3 +23,5 @@ In this album, the guitar is used less as the focus of harmony, more providing s
 My only issue with this album is that Hiatus Kaiyote’s _Choose your Weapon_, from which most of the covers come, is a lot more complete and holds many more interesting details musically than this one. And to be fair, the whole album could appear a bit self-conceited; it pretty much replicates her existing work, but now with three fewer people. However, Needle Paw is more for herself and her fans, giving us an introspective take on her already established compositions. I can imagine that this is how she hears her songs in her head, millions of beautiful voices piled on top of each other, constantly changing their direction. And even in a stripped back form, the songs hold power under her unaccompanied, masterful control.
 
 So overall I’m happy with what she’s come out with, and can’t wait for Nai Palm to drop even more fire.
+
+**Artist**: Nai Palm. **Label**: Sony Music. **Top Tracks**: Crossfire/So Into You; Blackstar/Pyramid Song/Breathing Underwater. **For Fans Of**: Hiatus Kalyote; Snarky Puppy; Moses Boyd. _58 minutes_
