@@ -69,6 +69,6 @@ Currently, 5 of the 10 richest men in the world as per Forbes owe their wealth t
 ~~~
 
 Words by Avirup Banarjee
-Illustrations by Raymond Yip
+Illustrations by [Raymond Yip](https://www.instagram.com/raymondyipart/)
  
 
