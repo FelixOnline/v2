@@ -1,26 +1,26 @@
 ---
-title: >
-  Who are the DUP?
-subtitle: >
-  Ratan Gor tries to clear up some post-election head-scratching
-date: "2017-07-28 16:41:22 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201707281841-felix-Screen Shot 2017-07-28 at 18.40.39.png"
+title: Who are the DUP?
+subtitle: Ratan Gor tries to clear up some post-election head-scratching
+date: '2017-07-28 16:41:22 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201707281841-felix-Screen
+  Shot 2017-07-28 at 18.40.39.png
 headline: true
 featured: true
 imported: true
 aliases:
- - /comment/7060/who-are-the-dup
-comments:
+  - /comment/7060/who-are-the-dup
+comments: null
 categories:
- - comment
+  - comment
 tags:
- - imported
- - image
- - multi-author
+  - imported
+  - image
+  - multi-author
 authors:
- - felix
- - ratangor
-highlights:
+  - ratangor
+highlights: null
+published: true
 ---
 
 Last week’s general election marked a momentous occasion. The youth, generally considered docile and apathetic when it comes to politics and voting, went out in their droves to flex their muscle. The main battleground for the election was social media. The weapons of choice: memes and parody videos ranging from the naughty corn-field memes of Theresa May – which gained a Harambe-like following – to Jeremy Corbyn’s face superimposed onto Stormzy’s Shut-up video.
