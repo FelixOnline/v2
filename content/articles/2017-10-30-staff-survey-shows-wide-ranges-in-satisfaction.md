@@ -24,7 +24,7 @@ Fewer than half of those surveyed felt there was effective leadership from Facul
 
 In terms of overall leadership, only 40% of staff felt that the College leaders showed effective leadership, and 45% felt they provided a clear direction for the College’s future.
 
-One of the questions eliciting the lowest scores asked whether changes made are made for the better, with only 34% of staff agreeing. The Departments of Aeronautics, Computing, and Physics were the least likely to agree, with less than a quarter of staff feeling that changes were an improvement. Staff in the Faculties of Medicine and Natural Science, and in the Union, were also unlikely to think changes made things better. 
+One of the questions eliciting the lowest scores asked whether changes made are made for the better, with only 34% of staff agreeing. The Departments of Aeronautics, Computing, and Physics were the least likely to agree, with less than a quarter of staff feeling that changes were an improvement. Staff in the Faculties of Medicine and Natural Science, and in the Union, were also unlikely to think changes made things better.
 Somewhat surprisingly, the overall response of 34% still places Imperial second out of the ten universities used as a benchmark.
 
 It could be argued that a contributor to this divide between College leadership and staff is the result of issues with communications: only 45% of staff agreed that the communications received helped them understand College-level decisions, while just over half felt sufficiently involved in decisions impacting their role.
@@ -56,6 +56,14 @@ Aeronautics staff were among those to have the worst opinion of their own Depart
 The Department of Computing also scored poorly, with 50 questions below the Imperial average. It was the department with the least positive opinions of College senior leadership, and staff were among those least likely to feel valued at College: only 37% felt that their pay was fair, and under half thought that their contributions were valued. A number of staff felt Imperial did not care about their welfare, with only 31% agreeing that the College cared about their health and wellbeing.
 The results obtained from Imperial College Union staff, half of whom completed the survey, seemed to reveal a sense of feeling under-recognised, with only 39% feeling that their work was recognised as a contribution to College. Union staff also had among the lowest opinions of the College senior leadership.
 
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+<script src="https://rawgit.com/FelixOnline/interactives/master/1673/staff-survey/heatmap-iii/1673-heatmap.js"></script>
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/FelixOnline/interactives/master/1673/staff-survey/heatmap-iii/1673-heatmap.css">
+<div id="departmentHeatmap">
+  <svg width="960" height="500"></svg>
+</div>
+
 ![Feedback for each question varied widely, with 'Your Faculty' and 'College Senior Leadership' coming under particular fire](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1673/1673_news_staff2.jpg)
 
 In a statement to _Felix_, a Union representative stated that while the Union participates in the survey, “it is important to note that we are an independently-led organisation distinct from College, with our own strategic plan, management structure and Board of Trustees,” which “explains why they are less likely to consider themselves to be contributing to College’s strategy.”
@@ -77,7 +85,7 @@ However, among the departments scoring lowest in the survey, there seemed to be 
 
 One of the most sensitive questions in the survey asked respondents whether they had experienced bullying or harassment during the last twelve months at Imperial. Overall, only 81% of staff were able to deny they had experienced any such harassment or bullying, which places Imperial 15th out of 18 in a benchmark comparison with other universities surveyed.
 
-This is an increase on the last two iterations of the survey: in 2014, when asked about harassment or bullying, 86% of staff were able to confirm they had experienced neither within the last three years. 
+This is an increase on the last two iterations of the survey: in 2014, when asked about harassment or bullying, 86% of staff were able to confirm they had experienced neither within the last three years.
 Several departments scored concerningly high on the question: in the Department of Aeronautical Engineering, the Centre for Environmental Policy, and the Dyson School of Design Engineering, 14% of staff said that they had been bullied or harassed within the last year. For the Department of Earth Science and Engineering, and College’s ICT department, the proportion was 13%. In the majority of cases, the bullying or harassment appears to have been carried out by a colleague, the individual’s line manager, or another manager within their department.
 
 > "In the Department of Aeronautical Engineering, the Centre for Environmental Policy, and the Dyson School of Design Engineering, 14% of staff said that they had been bullied or harassed within the last year"
@@ -88,7 +96,7 @@ Another possibly controversial question asked respondents whether they believed 
 
 Women were less likely than men to feel career progression was fair, and were less likely to know what career progression opportunities were available. Imperial College was also a founder member of the Athena SWAN Charter, which was established to “encourage and recognise commitment to advancing the careers of women in STEM employment”. On their website, Imperial make it clear that, as a public body, they have a legal duty to ensure they take appropriate action to “advance quality of opportunity” for all staff.
 
-The numbers reflect a decline since the last survey, which asked whether staff feel they had the opportunity for progression regardless of age, gender etc. In the last iteration, 85% of staff agreed that they had fair opportunities for career progression, against a UK average of 63%. 
+The numbers reflect a decline since the last survey, which asked whether staff feel they had the opportunity for progression regardless of age, gender etc. In the last iteration, 85% of staff agreed that they had fair opportunities for career progression, against a UK average of 63%.
 
 **Comparison**
 

@@ -42,9 +42,13 @@
     {{ end }}
   {{ end }}
 
-  <div class="post-content" itemprop="articleBody">
+  <div class="post-content" id="postContent" itemprop="articleBody">
     {{ .Content }}
   </div>
+
+  <script>
+    var width = document.getElementById('postContent').getBoundingClientRect().width;
+  </script>
 
   <hr class="logo">
 
