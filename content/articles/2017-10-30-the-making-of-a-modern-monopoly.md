@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 headline: false
 featured: true
 title: The making of a modern monopoly
@@ -70,5 +70,3 @@ Currently, 5 of the 10 richest men in the world as per Forbes owe their wealth t
 
 Words by Avirup Banarjee
 Illustrations by [Raymond Yip](https://www.instagram.com/raymondyipart/)
- 
-
