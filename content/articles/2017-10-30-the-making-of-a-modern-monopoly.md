@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: The making of a modern monopoly
