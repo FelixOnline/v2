@@ -6,8 +6,6 @@ title: Mindhunter – true crime binge TV
 subtitle: >-
   Producer David Fincher’s influences are enough to keep this gritty cross
   section of 70s police culture moving    forward.
-authors:
-  - james_t_smith
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_tv_mindhunter.jpg
 date: '2017-11-03 12:00:00'
@@ -15,6 +13,8 @@ categories:
   - tv
 tags:
   - review
+authors:
+  - james_t_smith
 ---
 _Mindhunter_ is a gritty 10 part Netflix crime drama set in 1977, based on John E. Douglas and Mark Olshaker’s book of the same name. Listing Charlize Theron and David Fincher among its producers, the show takes tips from both stars’ previous work, most notably the camera work and atmosphere, which were perfect in Fincher’s _Zodiac_. Jonathan Groff plays Holden Ford, an FBI agent who is motivated to understand why it is that criminals act the way they do, and the motivations of serial killers in particular. This leads to Ford joining up with the behavioural sciences solo unit at the FBI, run by Bill Tench (Holt McCallany). Agents Ford and Tench want to expand the unit from being just  “profiling road school” to a scientific inquiry of what causes these random killings. There is constant internal scrutiny from the FBI about the worth of this unit from their boss, Shepard (Cotter Smith). The series then follows these characters try to learn why ‘spree killers’ exist, and to understand the psychology of their actions by interviewing them in prison. Subsequently, the team expands, with the unit hiring Wendy (Anna Torv), a Boston University social sciences professor, and further characters appearing later in the series. There is an over-arching plot at the beginning of every episode showing an unknown serial killer (well, unknown to agent Ford and Tench), preparing to commit the murders, displaying the show’s ambition to have enough plot to last several seasons.
 
