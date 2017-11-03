@@ -22,6 +22,6 @@ Representatives of CGCU issued the following statement to _Felix_: “It was onl
 
 The practice of stealing other CU mascots is known as ‘mascotry’. Last year [a Union Council paper](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/16-17/Union_Council/file/3769) was passed updating the rules governing mascotry, including that a capture must not contravene UK law, that the mascot should be returned promptly following ransom demands being met, and that ransom demands must not be against the law.
 
-_Felix_ will report more on this story as it develops.
+~~~
 
-
+_Update: CGCU's possession of the mascots was short lived. RSM managed to steal back the Davy Lamp, as well as the CGCU's Spanner, but the CGCU then reclaimed their Spanner. RCSU have stolen CGCU's Bolt, but CGCU retain possession of Theta. Felix does not really know what is happening._
