@@ -22,7 +22,7 @@ Readers and non-readers alike may describe books as dull; some refuse to approac
  
 Each of these descriptions  veil a common criticism: difficulty. To say a book is dull is to say that it is harder to absorb yourself in reading than in other media. Many old books are dated. Dickens’ vocabulary is unusual, his settings Victorian, and his ghosts are far from frightening but his stories resonate today as they did one hundred and ninety years ago – _A Christmas Carol_ was even adapted into a movie by _The Muppets_! So datedness is not in itself a criticism but instead hides the fear that it is too difficult to distill Dickens’ stories from his language. Many modern classics are overcomplicated. Authors like Pynchon have written books that stretch the definitions of a novel but these are often books where difficulty is necessary in their aims.
 
-![Even The Muppets can take on Dickens – why shouldn’t you? // L. B. Lippincott Co.;Penguin Books;Disney]({{site.baseurl}}/https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_books_muppets.png)
+![Even The Muppets can take on Dickens – why shouldn’t you? // L. B. Lippincott Co.;Penguin Books;Disney](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_books_muppets.png)
  
 There are bad books but in many cases the difficult book is not written poorly.  The fault often lies with us in our approach to reading these books. For this I return to my angry Pynchon review which ends with:
  
