@@ -8,7 +8,7 @@ subtitle: >-
   leftover of Impressionism?
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_arts_cezanne1.jpg
-date: '2017_11_03 12:00:00'
+date: '2017-11-03 12:00:00'
 categories:
   - arts
 tags:
