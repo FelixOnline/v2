@@ -8,7 +8,7 @@ subtitle: >-
   their behaviour and relationships?
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_science_data.jpg
-date: '2017_11_03 12:00:00'
+date: '2017-11-03 12:00:00'
 categories:
   - science
 authors:
