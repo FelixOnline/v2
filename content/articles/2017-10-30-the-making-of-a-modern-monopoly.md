@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: The making of a modern monopoly
 authors:
