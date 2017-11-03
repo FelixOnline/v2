@@ -11,9 +11,6 @@ image: >-
 date: '2017-11-03 12:00:00'
 categories:
   - news
-tags:
-  - union
-  - college
 authors:
   - ff712
 ---
