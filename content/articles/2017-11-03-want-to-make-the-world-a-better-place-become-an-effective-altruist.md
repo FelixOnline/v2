@@ -8,11 +8,11 @@ subtitle: >-
   your impact on your charitable goals
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_comment_charity.jpg
-authors:
-  - louie_terrill
 date: '2017-11-03 12:00:00'
 categories:
   - comment
+authors:
+  - louie_terrell
 ---
 Most of us want to make a difference and have a positive impact. Even the most selfish, money-and-status-seeking student has issues they care about. However, in such a complicated world it’s hard to know where to start. You may have a good heart, but without direction you might end up donating to the first charity fundraiser who approaches you on the street. While this is definitely well-intended, it’s not always the best option, as some charities can do far more good than others.
 
@@ -38,4 +38,4 @@ If you think animal lives are also worth preserving and improving, then you may 
 
 On the other hand, if you think the lives of people in the future are also worth considering, in addition to everyone alive today, a common conclusion is that it is very important to preserve human civilisation. Depending on your evaluation of the different threats and your own talents, this could involve working with emerging technologies in order to guide their development, finding a job in government where you can improve prevention and responses to pandemics, or limiting catastrophic climate change through policy work. 
 
-In order to do the most good you possibly can, you must first decide on your goals. Once you’ve done that, using scientific evidence effectively to inform your decisions can make a big difference in how much good you do, whether it’s by considering which career paths can have the most impact, or by comparing the charities that attempt to achieve your goals. The effective altruism movement can allow you to save more lives and help more people than you could ever have managed otherwise. 
+In order to do the most good you possibly can, you must first decide on your goals. Once you’ve done that, using scientific evidence effectively to inform your decisions can make a big difference in how much good you do, whether it’s by considering which career paths can have the most impact, or by comparing the charities that attempt to achieve your goals. The effective altruism movement can allow you to save more lives and help more people than you could ever have managed otherwise.
