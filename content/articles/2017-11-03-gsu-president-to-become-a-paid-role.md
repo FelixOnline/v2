@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: GSU President to become a paid role
 subtitle: >-
