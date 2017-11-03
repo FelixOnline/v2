@@ -11,6 +11,8 @@ image: >-
 date: '2017_11_03 12:00:00'
 categories:
   - science
+authors:
+  - henry_alman
 ---
 In 2014, the State Council of China announced the development of a digital ‘citizen rating system’ to determine each citizen, company, and local government’s “trustworthiness”, with the intent of building social trust and crushing China’s rampant counterfeiting and fraud issues.
 
