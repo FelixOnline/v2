@@ -8,14 +8,14 @@ subtitle: >-
   £10,000, funded by the Graduate School.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_news_gsu.png
-authors:
-  - ff712
 date: '2017-11-03 12:00:00'
 categories:
   - news
 tags:
   - union
   - college
+authors:
+  - ff712
 ---
 The President of the Graduate Students’ Union (GSU) is to be remunerated for undertaking the role, the Graduate School [announced earlier this week](http://wwwf.imperial.ac.uk/blog/postgraduatenoticeboard/2017/10/31/gsu-president-role-to-be-remunerated-in-future).
 
