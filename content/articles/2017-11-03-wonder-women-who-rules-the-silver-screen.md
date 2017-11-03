@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: 'Wonder Women: who rules the silver screen?'
 authors:
@@ -67,4 +67,3 @@ English Watts struggled to gain any traction in the entertainment industry until
 Born in Italy, American Amy Adams’ entire filmography is from the 21st century, with her first major role coming in Spielberg’s _Catch Me If You Can_. However, she became unemployed a year later, and her breakthrough role didn’t arrive until 2005’s _Junebug_, for which she garnered his first Oscar nomination. Since then, these nods have been a regular occurrence, and yet for some reason the Academy seems to hate the extremely likeable Adams. Five nominations and no wins. And she wasn’t even nominated for a terrific performance in Arrival last year while Meryl Streep was once again invited to the Dolby Theatre for singing badly in _Florence Foster Jenkins_, a film where she was heavily outshone by Hugh Grant. To be fair, she has always been up against solid opposition, losing to the likes of Cate Blanchett, Penelope Cruz, Rachel Weisz, and Melissa Leo. That being said, she should surely have won for her tremendously controlled performance in The Master ahead of Anne Hathaway in _Les Miserables_. Though Adams has dabbled in blockbuster fayre in her role as Lois Lane in the _Superman_ films, she has largely stuck to working with artistic auteurs, such as Paul Thomas Anderson, David O. Russell, Spike Jonze, Mike Nichols, Denis Villeneuve, and Tom Ford. So long as she continues this career path, surely she will one day get up on stage to collect a golden statue. Her next opportunity will come in Adam McKay’s 2018 Dick Cheney biopic _Backseat_, starring Christian Bale.
 
 _We will be concluding our countdown of the greatest actresses working today in next week’s issue of Felix_
-
