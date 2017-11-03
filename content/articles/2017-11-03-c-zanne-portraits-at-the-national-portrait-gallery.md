@@ -2,20 +2,20 @@
 published: true
 headline: false
 featured: true
-title: Cézanne Portraits at the National Portrait Gallery
+title: Cezanne Portraits at the National Portrait Gallery
 subtitle: >-
   Does the collection provide insight into a pioneering genius, or an overrated
   leftover of Impressionism?
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_arts_cezanne1.jpg
-authors:
-  - sandra_engardt
 date: '2017_11_03 12:00:00'
 categories:
   - arts
 tags:
   - review
   - visual_art
+authors:
+  - sandra_engardt
 ---
 To be honest, I’ve never really understood the greatness of Cézanne. Another big male artist, but with an Impressionist style not as fairy-like as Monet and a technique not as cubistic as Picasso. An in between – someone who never really dedicated himself to any specific style. 
 
