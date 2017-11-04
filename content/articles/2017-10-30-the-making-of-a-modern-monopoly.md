@@ -3,8 +3,6 @@ published: true
 headline: true
 featured: true
 title: The making of a modern monopoly
-authors:
-  - avirupbanarjee
 subtitle: >-
   How the tech industry exemplifies the danger of monopolies – and what lessons
   history can teach us
@@ -13,6 +11,8 @@ image: >-
 date: '2017-10-27 12:00:00'
 categories:
   - longread
+authors:
+  - avirup_banerjee
 ---
 In 1858, the British Crown bailed out and nationalised the most powerful company in human history. A company that had a standing army of 280,000 men, which it used to enslave a 6th of humanity and rule over an area in excess of 5 million km2. In fact, such was the power and influence of the British East India Company that even the Acts of Union of 1707 that merged the Kingdoms of England and Scotland were only made possible by bribing Scottish MPs with company shares. The East India Company was a behemoth – its power stemming from its legislated monopoly over all international trade to and from India, culminating in 15% of all British exports having to go through the Company. However, the Indian Mutiny of 1857, which was caused by the Company’s bigoted policies, almost brought down Britain’s colonial experiment in South Asia, and served as a warning to halls of Westminster. It was then understood the danger of an all-powerful corporation controlling the levers of power and the need for legislative oversight. Therefore, the Government of India Act of 1858 represented the first major corporate monopoly crackdown.
  
