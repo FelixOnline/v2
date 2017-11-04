@@ -12,7 +12,7 @@ date: '2017-11-03 12:00:00'
 categories:
   - comment
 authors:
-  - louie_terrell
+  - louie_terrill
 ---
 Most of us want to make a difference and have a positive impact. Even the most selfish, money-and-status-seeking student has issues they care about. However, in such a complicated world it’s hard to know where to start. You may have a good heart, but without direction you might end up donating to the first charity fundraiser who approaches you on the street. While this is definitely well-intended, it’s not always the best option, as some charities can do far more good than others.
 
