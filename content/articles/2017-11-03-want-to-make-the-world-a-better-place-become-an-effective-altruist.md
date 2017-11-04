@@ -26,7 +26,7 @@ A key theme here is that in order to do the most good, one must first ask how mu
 
 For example, if you care about improving people’s health, it’s much easier to prevent well-understood conditions, and much cheaper to focus on doing so in the developing world where cheap medicine and health care aren’t already widely available.
 
-For these reasons, the Schistosomiasis Control Initiative (SCI) here at Imperial is considered by many charity evaluators to be one of the most cost-effective charities in the world – 1000s of times more cost-effective than the average charity. They provide deworming pills donated by pharmaceutical manufacturers to the regions that suffer the most from this neglected tropical disease. This intervention has been the subject of multiple studies, and the SCI are committed to rigorously evaluating its effectiveness.
+For these reasons, the [Schistosomiasis Control Initiative (SCI)](https://www.imperial.ac.uk/schistosomiasis-control-initiative) here at Imperial is considered by many charity evaluators to be one of the most cost-effective charities in the world – 1000s of times more cost-effective than the average charity. They provide deworming pills donated by pharmaceutical manufacturers to the regions that suffer the most from this neglected tropical disease. This intervention has been the subject of multiple studies, and the SCI are committed to rigorously evaluating its effectiveness.
 
 That’s not to say that donating to SCI is definitely the best way to do good: for example, the Against Malaria Foundation is also believed to have cost-effectiveness in the same order of magnitude, but it’s challenging to make these estimates precise and reliable enough to tell which charity is definitively better. 
 
