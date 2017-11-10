@@ -30,3 +30,7 @@ The entire film is told through the eyes of 7-year-old Loung, but despite that, 
 With _First They Killed My Father_, Angelina Jolie and Loung Ung have put together a five-star cast and crafted a tour de force that is undoubtedly one of the best films of the year. Jolie’s decision to focus on the eyes and raw facial expressions of Loung and her siblings, raises a mirror to boundless cruelty of the Khmer Rouge, and paints a captivating yet agonising portrait of the devastation that war inflicts on children. Loung’s confusion as her family is driven out of Phnom Penh; her sorrow when her father is dragged away; and her fear when cautiously navigating a minefield, earnestly reflect the endless life-defining challenges that millions of Cambodians faced under the callous savagery of the Khmer Rouge. _First They Killed My Father_ is a tale of intense hardship and miraculous survival; a tale that honours both those who died and those who survived during the Cambodian genocide. It is a strikingly honest and visceral account of a story that needs to be heard, and one that hopefully, will inspire others to tell similarly important stories in the future.
 
 _First They Killed My Father has been selected as the official Cambodian entry for “Best Foreign Language Film” at the 90th Academy Awards, and is currently streaming on Netflix._
+
+**5 Stars**
+
+_Dir_: Angelina Jolie. _Script_: Loung Ung; Angelina Jolie. _Starring_: Sreymoch Sareum; Kompheak Phoeung; Socheata Sveng. _136 minutes_
