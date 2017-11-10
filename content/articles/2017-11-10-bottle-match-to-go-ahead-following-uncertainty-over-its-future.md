@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: 'Bottle Match to go ahead, following uncertainty over its future'
 subtitle: >-
