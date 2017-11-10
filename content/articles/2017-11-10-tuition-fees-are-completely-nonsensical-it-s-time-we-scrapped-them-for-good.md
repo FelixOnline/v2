@@ -13,6 +13,8 @@ image: >-
 date: '2017-11-10 12:00:00'
 tags:
   - politics
+categories:
+  - comment
 ---
 There is no more obvious hot-button issue for UK students at the moment than tuition fees. Their trebling in the past few years was met with a wave of [student anger](https://en.wikipedia.org/wiki/2010_United_Kingdom_student_protests#London_march), and Labour’s position at the last election – [abolishing fees, though not cancelling past debt](http://www.independent.co.uk/news/uk/politics/jeremy-corbyn-labour-student-loans-debt-manifesto-pledge-amnesty-cancel-tuition-fees-a7856161.html) – doubtless helped them curry favour with students (though it would be ridiculous to assert this was the sole reason for their electoral success among younger demographics). It’s obvious why students might oppose fees – they’re the ones who end up saddled with debt. However, there are many strong moral and economic arguments against them: reasons to oppose tuition fees on the grounds of principle rather than self-interest.
 
@@ -33,4 +35,3 @@ The arguments made thus far have rested on pragmatism, but other points are rele
 Arguments for tuition fees are rested in the fallacious ‘fact’ that education is only a benefit to the holder of the degree and not to the rest of society. Examining things holistically makes tuition fees much harder to defend. Based on the effect of debt and the benefit an educated population has for the economy, it should be argued not that we can’t afford to abolish tuition fees, but that we can’t afford not to. 
 
 If you agree with this article, or want to berate me for my naïveté, why not join us at the [Free Education Demo next week](https://www.facebook.com/events/188473621719855/?notif_t=plan_user_associated&notif_id=1510185788974598). See you there!
-
