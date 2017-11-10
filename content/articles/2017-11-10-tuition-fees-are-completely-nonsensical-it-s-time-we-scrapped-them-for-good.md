@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: 'Tuition fees are completely nonsensical: it’s time we scrapped them, for good'
 subtitle: >-
   Everybody benefits from having a well-educated population, but why baulk at
