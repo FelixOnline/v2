@@ -42,6 +42,8 @@ The Union added: “The doors from Metric (leading) directly to the quad are rea
 
 The Union also said: “The safety of our members is paramount to Imperial College Union and we would simply never operate a venue or event that posed a risk to our guests. All of the relevant authorities are confident that Metric is a safe venue with effective crowd management.”
 
+_Felix_ has heard reports that several 'near miss' incidents relating to the doors have been logged on Salus, the College's system for monitoring health and safety. The College defines a near miss as ["any undesired event where no injury occurs"](http://www.imperial.ac.uk/safety/safety-by-topic/accidents--incidents/), including observation of unsafe conditions and non-compliance with health and safety. _Felix_ understands that these reports were discussed at Union Trustee Board at their meeting on the 26th October.
+
 Discussions, which began before inquiries by _Felix_, are underway between the Union, Estates Facilities, and other College teams to find ways to “permanently upgrade our abilities to manage Metric’s access and egress capacity”. Suggestions include reviewing where security staff are located throughout the evening and expanding the Metric doors. According to the Union, “the Fire Office is clear that Metric has enough doors to significantly exceed the legal requirements for safety.”
 
 _Names have been changed._
