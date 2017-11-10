@@ -1,6 +1,6 @@
 ---
 published: true
-headline: true
+headline: false
 featured: true
 title: 'Tuition fees are completely nonsensical: it’s time we scrapped them, for good'
 subtitle: >-
@@ -13,8 +13,6 @@ image: >-
 date: '2017-11-10 12:00:00'
 tags:
   - politics
-categories:
-  - comment
 ---
 There is no more obvious hot-button issue for UK students at the moment than tuition fees. Their trebling in the past few years was met with a wave of [student anger](https://en.wikipedia.org/wiki/2010_United_Kingdom_student_protests#London_march), and Labour’s position at the last election – [abolishing fees, though not cancelling past debt](http://www.independent.co.uk/news/uk/politics/jeremy-corbyn-labour-student-loans-debt-manifesto-pledge-amnesty-cancel-tuition-fees-a7856161.html) – doubtless helped them curry favour with students (though it would be ridiculous to assert this was the sole reason for their electoral success among younger demographics). It’s obvious why students might oppose fees – they’re the ones who end up saddled with debt. However, there are many strong moral and economic arguments against them: reasons to oppose tuition fees on the grounds of principle rather than self-interest.
 
