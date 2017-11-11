@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: Ewe look familiar
@@ -29,4 +29,4 @@ All good for the sheep, but why is this research useful to us? Researchers say i
 
 Many diseases, such as Huntington’s and Parkinson’s, impair face perception, as do some psychiatric disorders such as autism spectrum disorder and schizophrenia.
 
-Huntington’s disease has been modelled in sheep, but higher order behavioural and cognitive processes, such as face recognition, have not been tested in sheep with Huntington’s disease. The same face recognition experiment could be repeated on sheep with Huntington’s to study the cognitive decline associated with the disease. 
+Huntington’s disease has been modelled in sheep, but higher order behavioural and cognitive processes, such as face recognition, have not been tested in sheep with Huntington’s disease. The same face recognition experiment could be repeated on sheep with Huntington’s to study the cognitive decline associated with the disease.
