@@ -23,6 +23,10 @@ sections: &sections
     value: "sport"
   - name: "Clubs & Socs"
     value: "clubs-and-socs"
+  - name: "politics"
+    value: "Politics"
+  - name: "liberation"
+    value: "Liberation"
   - name: "Longread"
     value: "longread"
 highlights: &highlights

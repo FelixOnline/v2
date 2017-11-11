@@ -75,6 +75,7 @@
     </form>
     {{ range $category := .Site.Params.displayCategories }}
       {{ $name := $category.Name }}
+      {{ if not (eq $category.Navbar false) }}
         <div class="site-nav-side-link">
           <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}images/png/{{ $name }}1.png"></object>
           <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
@@ -85,6 +86,7 @@
             {{ end }}
           </a>
         </div>
+      {{ end }}
     {{ end }}
   </div>
 
