@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  {{ if in .Params.categories "longread" }}
+  {{ if and (isset .Params "categories") (in .Params.categories "longread") }}
     <div class="post-meta">
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
         {{ .Date.Format "Monday" }},
@@ -14,15 +14,17 @@
       <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
       <h2 class="post-subtitle">{{ .Params.subtitle }}</h2>
 
-      <div class="post-authors">
-        By
-        {{ $authorCount := len .Params.authors }}
-        {{ range $index, $author := .Params.authors }}
-          {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
-          <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
-          -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
-        {{ end }}
-      </div>
+      {{ if isset .Params "authors" }}
+        <div class="post-authors">
+          By
+          {{ $authorCount := len .Params.authors }}
+          {{ range $index, $author := .Params.authors }}
+            {{ $authorPage := ($.Site.GetPage "taxonomyTerm" "authors" $author) }}
+            <a href="{{ $.Site.BaseURL }}authors/{{ . }}">{{ $authorPage.Params.name }}</a><!--
+            -->{{ if eq $index (sub $authorCount 2) }} and {{ else if lt $index (sub $authorCount 1) }}, {{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
 
       <div class="post-meta">
         <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
