@@ -165,10 +165,6 @@ params:
       email: tech.felix@imperial.ac.uk
       editors:
         - tommrazek
-    - name: politics
-      email: politics.felix@imperial.ac.uk
-      editors:
-        - ff712
     - name: liberation
       email: liberation.felix@imperial.ac.uk
       editors:
