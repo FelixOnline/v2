@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: false
+featured: true
 title: An aktual-ly good album this week
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1675/1675_music_ash.jpg
