@@ -1,22 +1,21 @@
 ---
-title: >
-  The real benefit cheats
-subtitle: >
-  The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base
-date: "2011-11-18 00:55:44 +0000"
+title: The real benefit cheats
+subtitle: The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base
+date: '2011-11-18 00:55:44 +0000'
 headline: true
 featured: true
 imported: true
 aliases:
- - /comment/1800/the-real-benefit-cheats
-comments:
+  - /comment/1800/the-real-benefit-cheats
+comments: null
 categories:
- - comment
+  - comment
 tags:
- - imported
+  - imported
+highlights: null
+published: true
 authors:
- - jm3309
-highlights:
+  - icanon
 ---
 
 Welfare can be a controversial issue these days, invoking heated debate.
