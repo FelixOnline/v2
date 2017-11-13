@@ -11,8 +11,8 @@ image: >-
 authors:
   - aida_manzano_kharman
 date: '2017-11-03 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 When people hear about Palestine and Israel, they usually know ‘something’s going on there’ but few seem to understand what exactly is happening, and most importantly how the conflict originated. There are many factors, but it is widely agreed that the Palestinian-Israeli conflict can be traced back to the Balfour Declaration, which was signed 100 years ago this week. And so, with a century passing since the beginning of a long and tragically painful conflict, it might be about time to actually take a step back and understand the repercussions of this three-paragraph long document and what it meant for world history and settler colonialism.
 
@@ -31,4 +31,3 @@ Despite the lack of awareness with which this situation was handled, this declar
 > “100 years on, we have failed to carry out a meaningful reflection”
 
 Jewish people have been through years of unjust persecution, and it is because of this that the Zionist ideology blossomed. However, this persecution does not justify the Israeli government’s occupation of Palestine, and the resulting ethnic cleansing and human rights violations that have been reported by the United Nations, as well as by Humans Right Watch. We let down both Palestinians and Jewish people fleeing persecution by failing to address the issue of anti-Semitism, and by partitioning Palestine in such an unaware manner. A century later, we have failed to carry out any sort of meaningful reflection on the situation, and the conflict remains in a painful status quo. How many more anniversaries will pass before we take action?
- 
