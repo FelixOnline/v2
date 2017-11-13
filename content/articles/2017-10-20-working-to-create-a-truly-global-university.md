@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: Working to create a truly global university
 subtitle: >-
   Last week’s Race Disparity Report revealed how BME students are being let down
