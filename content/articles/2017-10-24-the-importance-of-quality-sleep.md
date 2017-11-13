@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: The importance of quality sleep
 subtitle: >-
   Connor Qiu, ICU's Campaigns Officer, and Patrick Zhang explain why sleeping
