@@ -7,8 +7,8 @@ subtitle: Campaigns Officer Connor Qiu talks about his plans for the year
 authors:
   - connor_qiu
 date: '2017-10-27 12:00:00'
-tags:
-  - liberation
+categories:
+  - Liberation
 ---
 Earlier this year when I ran to become your Campaigns Officer, I spoke about the ways in which previous campaigns have changed the very fabric of the Imperial that we know and love. I referenced the way in which we lobbied for quality affordable accommodation for all our students, and for free universal healthcare coverage for our international student community – success or failure, over the years there have been many excellent campaigns that have had a profound impact on our university experience.
 
