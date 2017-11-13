@@ -12,8 +12,8 @@ subtitle: >-
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1675/1675_politics_jerusalem.jpg
 date: '2017-11-10 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 In today’s 140-character world, it’s all too easy to blur the line between fact and fiction, and apply false assumptions leading to fallacious beliefs. When I opened last week’s edition of _Felix_, I was greeted by an article entitled “[The Balfour Declaration: A Century On](http://felixonline.co.uk/articles/2017-11-03-the-balfour-declaration-a-century-on/)”. I was eager to read on: an opinion most likely opposing my own, and written by an Imperial student – thus presumably logically thought out and supported by evidence. What better way of challenging one’s own beliefs? Unfortunately, I got as far as the second sentence, before I began to find unsubstantiated arguments and sweeping generalizations.
 
