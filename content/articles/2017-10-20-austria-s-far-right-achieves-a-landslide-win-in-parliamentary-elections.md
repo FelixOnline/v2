@@ -11,8 +11,8 @@ image: >-
 authors:
   - clemens_jakubec
 date: '2017-10-20 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 It was a long Sunday for those eagerly awaiting the outcome of Austria’s 26th parliamentary elections. When the results started to come in during early afternoon, the winner was clear: the right wing, above all Sebastian Kurz and his conservative Österreichische Volkspartei (ÖVP) with 31.5% of the votes – 7.6% more than they received in the last elections. The social democratic party (SPÖ) under Christian Kern came second with 26.9%, just ahead of the right-wing nationalist freedom party (FPÖ), which got 26.0% (an increase of 5.5%). The neoliberal NEOS came fourth with 5.2%, followed by Liste Pilz with 4.4%. The Green Party came last with only 3.8% (down 8.7%).
 
@@ -33,4 +33,4 @@ At the time of writing, with 3.9% of votes yet to be counted, the future of the 
 Who will form the next government is still an open question. Strache is hungry for power and wants to see his party in the government. The odds on a far-right coalition between the ÖVP and FPÖ are good. The parties became considerably closer on the campaign trail and frequently agree on policy. 
 The SPÖ, meanwhile, is split into two wings. One favours a coalition with the FPÖ, while the other, led by influential mayor of Vienna Michael Häupl, is strictly against talks with the ÖVP.
 
-In any case it would be hard to justify another coalition between ÖVP and SPÖ, since this combination has been proven to be dysfunctional more than once and has been the main reason for early re-elections this year. At the moment all signs point to the nightmare of many people on the left in Austria: a right-wing coalition between ÖVP and FPÖ. 
+In any case it would be hard to justify another coalition between ÖVP and SPÖ, since this combination has been proven to be dysfunctional more than once and has been the main reason for early re-elections this year. At the moment all signs point to the nightmare of many people on the left in Austria: a right-wing coalition between ÖVP and FPÖ.
