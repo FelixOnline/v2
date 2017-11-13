@@ -1,29 +1,33 @@
 ---
-title: >
-  Digital books kindle unease
-subtitle: >
-  I see people using Kindles and worry they’re giving away their birthright
-date: "2011-02-17 20:07:00 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104230143-felix-kindle-2-front1.jpeg"
-image_caption: "Do e-book readers make it harder to protect freedom of speech?"
+title: Digital books kindle unease
+subtitle: I see people using Kindles and worry they’re giving away their birthright
+date: '2011-02-17 20:07:00 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201104230143-felix-kindle-2-front1.jpeg
+image_caption: Do e-book readers make it harder to protect freedom of speech?
 headline: true
 featured: true
 imported: true
 aliases:
- - /comment/833/digital-books-kindle-unease-
+  - /comment/833/digital-books-kindle-unease-
 comments:
- - value: >
-     With the bases laoedd you struck us out with that answer!,ZtAnJS <a href="http://gxlyxqyxvbgg.com/">gxlyxqyxvbgg</a>, <a href="http://www.prednisone-online.com/">prednisone</a> cxgmut <a href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a> 233115
+  - value: >
+      With the bases laoedd you struck us out with that answer!,ZtAnJS <a
+      href="http://gxlyxqyxvbgg.com/">gxlyxqyxvbgg</a>, <a
+      href="http://www.prednisone-online.com/">prednisone</a> cxgmut <a
+      href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a>
+      233115
 categories:
- - comment
+  - comment
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - jm3309
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
+  - comment
+published: true
+authors:
+  - icanon
 ---
 
 Tyrants and autocrats have always understood that literacy, learning, books and newspapers are potentially dangerous. They can put independent and even rebellious ideas in the heads of their subjects.
