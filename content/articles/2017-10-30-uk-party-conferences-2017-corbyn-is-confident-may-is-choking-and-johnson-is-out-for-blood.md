@@ -11,8 +11,8 @@ subtitle: Ratan Gor gives his round-up of what went down at this year's conferen
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1673/1673_politics_tory_protest.jpg
 date: '2017-10-27 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 Taking place each autumn, political party conferences are essentially  like festivals where loyal groupies go en masse to cheer on their favourite stateswomen and men. Politicians take to the stage to discuss the current state of the party, set out their ambitions for the following year, and physically demonstrate that they understand the UK stretches beyond its capitals.
 
