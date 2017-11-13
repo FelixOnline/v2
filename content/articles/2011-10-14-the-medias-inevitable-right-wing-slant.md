@@ -1,26 +1,36 @@
 ---
-title: >
-  The media's inevitable right wing slant
-subtitle: >
-  Jakov Marelic provides his view on media politics in the modern world
-date: "2011-10-14 10:35:57 +0100"
+title: The media's inevitable right wing slant
+subtitle: A view on media politics in the modern world
+date: '2011-10-14 10:35:57 +0100'
 headline: true
 featured: true
 imported: true
 aliases:
- - /politics/1543/the-medias-inevitable-right-wing-slant
+  - /politics/1543/the-medias-inevitable-right-wing-slant
 comments:
- - value: >
-     It is really dsitppoinaing that after so long in development PTC still does not seem to recognise the need for a drawing tool in what is claimed to be an engineering calculation program. Why this continuing omission? We have been maintaining the Mathcad subscription in the hope that the drawings tool would appear with the next release of Prime, as indeed we were promised by our reseller at last year's renewal, but from the above comment this now appears to be a forlorn hope. Without this tool the program is missing a vital link to explain the work, and we now regretfully must reconsider the value of our continuing investment in this package for future work.,That's really <a href="http://fakawljvfr.com">thnkniig</a> at a high level,That's really <a href="http://fakawljvfr.com">thnkniig</a> at a high level
+  - value: >
+      It is really dsitppoinaing that after so long in development PTC still
+      does not seem to recognise the need for a drawing tool in what is claimed
+      to be an engineering calculation program. Why this continuing omission? We
+      have been maintaining the Mathcad subscription in the hope that the
+      drawings tool would appear with the next release of Prime, as indeed we
+      were promised by our reseller at last year's renewal, but from the above
+      comment this now appears to be a forlorn hope. Without this tool the
+      program is missing a vital link to explain the work, and we now
+      regretfully must reconsider the value of our continuing investment in this
+      package for future work.,That's really <a
+      href="http://fakawljvfr.com">thnkniig</a> at a high level,That's really <a
+      href="http://fakawljvfr.com">thnkniig</a> at a high level
 categories:
- - politics
+  - politics
 tags:
- - imported
- - imported_comments
-authors:
- - jm3309
+  - imported
+  - imported_comments
 highlights:
- - comment
+  - comment
+published: true
+authors:
+  - icanon
 ---
 
 We live in democracies where we hold those in power to account using elections. To help us make informed choices about our society there are many kinds of media on the market whose job it is to tell us all the bad stuff and to suggest solutions to them. The idea is that this will build a public support base, which will propel a good representative to electoral victory and kick out bad representatives.
