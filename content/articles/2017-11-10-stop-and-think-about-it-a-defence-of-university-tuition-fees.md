@@ -12,6 +12,8 @@ subtitle: >-
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1675/1675_politics_education.jpg
 date: '2017-11-10 12:00:00'
+categories:
+  - Politics
 ---
 Since the General Election of 2010 we have seen tuition fees rise under a coalition government to £9,000 per year. We have heard no end of complaining, by students and politicians alike, about the gross injustice of University tuition fees. Frankly, I am appalled by their clamours, and shocked that anyone has the gall to pretend as if University fees in this country are a “neoliberal assault on education”.
 
@@ -27,4 +29,4 @@ This may unfortunately turn out to be the case, but, if that happens, guess what
 
 To give you an example of just how low the repayments end up being, consider the following student: they graduates from a globally-leading university, say, Imperial College, and have total tuition debt of £29,485, including interest accrued during studies. They get a great job at the Imperial average graduate salary at £37,006 a year. This means that they are paying back roughly £120 a month, or £1,440 a year. Assuming, extremely conservatively, that their earnings don’t increase at all, they will pay back the entirety of their tuition in these small instalments after a little over 20 years. In all likelihood, of course, Imperial graduates will get jobs in high-trajectory fields, and earnings will hopefully be rising of the course of their careers. If so, they will pay off their debt even sooner – in the region of just over 10 years.
 
-Hopefully, it is clear that the size of the total fees, and the extraordinarily favourable conditions under which we repay them, provide all students in this country with an unparalleled opportunity to pursue a higher education, should they choose to do so. Consistently jumping on the socialist bandwagon, and demanding more and more at someone else’s expense, reflects an attitude of entitlement, and frankly total ingratitude for the privilege we are being offered by our Government and educational system. I implore you, therefore, not to go to the aforementioned rally, and to appreciate the fortune with which you have been bestowed by our University system. 
+Hopefully, it is clear that the size of the total fees, and the extraordinarily favourable conditions under which we repay them, provide all students in this country with an unparalleled opportunity to pursue a higher education, should they choose to do so. Consistently jumping on the socialist bandwagon, and demanding more and more at someone else’s expense, reflects an attitude of entitlement, and frankly total ingratitude for the privilege we are being offered by our Government and educational system. I implore you, therefore, not to go to the aforementioned rally, and to appreciate the fortune with which you have been bestowed by our University system.
