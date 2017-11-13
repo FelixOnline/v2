@@ -9,8 +9,8 @@ subtitle: Care Quality Commission shows young people are waiting months for trea
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1674/1674_news_brain.jpg
 date: '2017-11-03 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 The government has been accused of ‘neglecting’ children’s mental health, following a report revealing some children were waiting up to 18 months for treatment.
 
@@ -32,4 +32,3 @@ The full report, requested by the PM in January 2017, was officially released la
 Dr Bernadka Dubicka, chair of the child and adolescent faculty of the Royal College of Psychiatrists, said that “Although there has been some additional investment, money is not reaching the frontline, demand is increasing, and children are being pushed into crises. Every day children and young people are being let down”
 
 Barbara Keeley MP, Labour’s Shadow Cabinet Minister for Mental Health, said: “This report reveals the Tory Government’s abject failure of children and young people in urgent need of mental health treatment…Labour will continue to call on the Tory Government to invest in and ring-fence mental health budgets as Labour pledged at the General Election, so that money reaches the underfunded services on the front line."
-
