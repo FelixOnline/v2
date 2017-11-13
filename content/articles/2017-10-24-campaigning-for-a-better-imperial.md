@@ -1,7 +1,7 @@
 ---
 published: false
 headline: false
-featured: true
+featured: false
 title: Campaigning for a better Imperial
 subtitle: Campaigns Officer Connor Qiu lets us know what he's been up to.
 image: >-
