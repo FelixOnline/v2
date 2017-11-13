@@ -12,8 +12,8 @@ authors:
   - connor_qiu
   - patrick_zhang
 date: '2017-10-13 12:00:00'
-tags:
-  - liberation
+categories:
+  - Liberation
 ---
 In today’s elite academic institutions and high-performing workplaces, sleep is often downgraded to a status of secondary importance. The thrill of instant gratification takes precedence over the dull and laborious wait that inevitably precedes the onset of sleep. When time is limited, our attention becomes a commodity – and it is this commodification that has heralded in the era of ubiquitous computing. Saying “yes” to our smartphone is saying “no” to sleep. Chronic sleep loss is commonplace in today’s society, yet even among the brightest of individuals, we are unaware of the potential health effects of habitual sleep restriction. 
 
