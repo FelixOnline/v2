@@ -11,8 +11,8 @@ subtitle: >-
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1673/1673_politics_babis.jpg
 date: '2017-10-27 12:00:00'
-tags:
-  - politics
+categories:
+  - Politics
 ---
 Last week’s legislative elections in the Czech Republic were record-breaking in many ways – most candidates and parties standing; most fragmented Chamber of Deputies to date, with  nine parties crossing the 5% mark; and the first time in the country’s history that neither Civic Democrats (ODS) nor Social Democrats (ČSSD) won. These changes mark a shift in Czech voting tendencies, mirroring those found all across Europe.
 
