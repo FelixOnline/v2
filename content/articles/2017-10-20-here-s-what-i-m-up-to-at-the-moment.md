@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: Here’s what I’m up to at the moment!
 subtitle: Liberation Officer Chimdi Igwe explains what he's been doing
 image: >-
