@@ -9,10 +9,10 @@ subtitle: >-
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1672/BME+Photo.jpg
 date: '2017-10-20 12:00:00'
-tags:
-  - liberation
 authors:
   - cji14
+categories:
+  - Liberation
 ---
 Just last week, the government released its sixty-odd page Race Disparity Report, commissioned by the Prime Minister Theresa May early on in her tenure. The main takeaway, as the report’s name handily notes, was the general trend of disparity between minority experiences across the board: from education and housing to employment and health.
 
