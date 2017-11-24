@@ -1,0 +1,28 @@
+---
+published: true
+headline: false
+featured: true
+title: 'A New Hope: Zimbabwe’s new birth of freedom … or more of the same?'
+subtitle: >-
+  How significant is the fall of Robert Mugabe’s 37 year brutal regime, and is
+  there any light at the end of the tunnel for Zimbabwe
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1677/1677_politics_mugabe.png
+authors:
+  - dean_posthuma
+date: '2017-11-24 12:00:00'
+categories:
+  - Politics
+---
+After 37 years, Robert Mugabe is no longer the president of president of Zimbabwe. Many people, including myself (having lived there for the first year of my life), had stopped wondering if this day would ever come until events began to rapidly unfold last week. Almost overnight, the Zimbabwean military had put the Mugabe family under house arrest, taken control of the state broadcaster and of the streets of Harare, limiting access to government buildings. The military questionably claimed that this was not a coup. Following this, massive demonstrations encouraged by the army, opposition parties and even Mugabe’s own party ZANU-PF led to Mugabe resigning on Tuesday to prevent him from being impeached.
+
+The straw that broke the camel’s back was Emmerson Mnangagwa being sacked as vice-president on the 6th November, a move that was almost certainly orchestrated by Mugabe’s incredibly unpopular wife, “Gucci” Grace. Those loyal to and high up within ZANU-PF who were once Mugabe’s cronies now felt betrayed by her increasing influence and decided to finally intervene. Mugabe is now 93 so contention for his successor has recently been growing with Mnangagwa “the Crocodile” expected to take this role, however Grace Mugabe’s desire to acquire power when her husband dies has stimulated her to systematically remove anyone who is in her way. Not only is she hated by a majority of the country, she is 41 years younger than Mugabe and the view that she didn’t play a part in the war for independence is key to why those leading the ‘Coup de Grace’ want both of them removed.
+Looking back over the past 37 years of Zimbabwe as a country, it is shocking that Mugabe had been able to abuse his authority which has brought sustained deterioration and inequality to what was once the breadbasket of Africa for so long. 
+
+> “Mnangagwa being sacked as Vice-President was likely orchestrated by Mugabe’s wife, ‘Gucci’ Grace”
+
+He became leader of Zimbabwe as a widely supported liberator when the white minority rule of the colonial Republic of Rhodesia, Zimbabwe’s previous name, was taken over after years of civil war by winning the 1980 election. Initially he worked towards co-operation between former white oppressors and improving the lives of the poorer Africans, allowing the country to prosper. This didn’t last long, as after just a few years he used brutal assaults to target any challenge to his dominance, which was followed by continued corruption throughout his party. In 1983 Mugabe used the notorious Fifth Brigade trained by North Korea to torture, rape and massacre the Ndebele tribe who supported his main rival during the election. In 1999 trade unions formed an opposition which included support of farmers originally responsible for the country’s earlier success, causing him to allow supposed war veterans and his supporters to seize farms and evict the farmers by any means. Most people are familiar with the hyperinflation that followed (500 million% according to the IMF) as the country lost its income and tried to solve the problem by printing money. In 2008 when another party defeated him in elections, his party used violence to force them into submission.
+
+It is no surprise then that on the day Mugabe’s resignation was announced, the streets of Zimbabwe were filled with people celebrating - but this is dangerously misleading. The take-over led by General Chiwenga isn’t a revolution - the likes of Mnangagwa who will succeed Mugabe want to keep the country in hands of the kleptocratic elite who aren’t interested in democratisation or developing a fairer system. Essentially all that will happen is a change of powers within ZANU-PF and more importantly stabilisation of the party before the next election in September 2018. This is crucial if government fat-cats want to keep control of lucrative resources in farming, mining and foreign currency. Learning from the past, it seems inevitable that while the people at the top fight over their self-interests, the needs of people are left forgotten once again.
+
+It is clear that immense reforms and new ideas are needed, including dismissal of the apparent divine right to lead based on contribution to the war of independence allowing those in power to be held accountable and those in disagreement not being rejected as “counter-revolutionary”. The current opposition to ZANU-PF is unorganised and disjointed, the main figure Morgan Tsvangarai was discredited and taken advantage of after beating Mugabe in the 2008 elections. There are others such as Joice Mujuru, Simba Makoni and Nkosana Moyo who look promising in supporting real change. There is also hope in Mnangagwa’s future as leader despite him being just as evil as his former master; he recognises that help from international donors and aid as well as re-establishing the commercial farmers and using their skills is required to rebuild Zimbabwe from its severely bankrupt state. Now that Mugabe has been toppled, the wheel is turning, thus making it easier for a rotation of leaders. The people of Zimbabwe are as hungry as ever, eager to see whether this thunder will bring a fresh start during this year’s rainy season.
