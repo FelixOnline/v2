@@ -6,14 +6,14 @@ title: Cory Henry brought the funk back to London last week
 subtitle: Cory and his band impress with tight funk licks.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1677/1677_music_henry.jpg
-authors:
-  - Jack_pearson
 date: '2017-11-24 12:00:00'
 categories:
   - music
 tags:
   - live
   - review
+authors:
+  - jack_pearson
 ---
 Hosted at KOKO, the venue’s atmosphere was perpendicular to that of the typical Friday night. An empty smoking area and non-sticky floors paid tribute to the multi-layered theater environment as an ideal place to host a gig (though drinks prices were unfortunately the same as any regular Saturday, without the bulk deals.)
 
