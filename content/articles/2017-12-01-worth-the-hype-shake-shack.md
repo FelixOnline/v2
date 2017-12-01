@@ -6,12 +6,13 @@ title: Worth the Hype? Shake Shack
 authors:
   - blaithin_dockery
 subtitle: 'Another American food giant trying to take over the UK? '
-date: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1678/1678_food_shake_shack.jpg
+date: '2017-12-01 12:00:00'
 categories:
   - food
 tags:
   - worth_the_hype
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1678/1678_food_shake_shack.jpg
 ---
 When you think of the United States of America what do you imagine? Towering skyscrapers? Sunny Beaches? Famous faces? How about a good ol’ American cheeseburger? The burger is an iconic American food, even recently honoured in the movie _The Founder_ telling the story of how McDonald’s came to be. But don’t worry, I won’t be reviewing McDonald’s today (that hype is way out of my league), instead I’ll be taking a look at a more recent import: Shake Shack.
 
