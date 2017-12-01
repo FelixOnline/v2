@@ -32,5 +32,6 @@ One of the main issues with this film, however, is the fact that there are no re
 
 Warner Bros. are clearly trying to catch up to Marvel Studios and reach that level of success before the superhero movie bubble bursts. With _Justice League_, they were trying to do a course correction from _Batman V Superman_ as well as make audiences care enough about these characters to want to see more of them. While the film mostly succeeds in these objectives and is at least somewhat entertaining, it does so in a sloppy and flawed execution that leaves one frustrated for something more.
 
-**Dir**: Zach Snyder. **Script**: Chris Terrio, Joss Whedon. **Story by**: Chris Terrio, Zack Snyder. **Starring**: Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot. _120 minutes_
+**2.5 Stars**
 
+**Dir**: Zach Snyder. **Script**: Chris Terrio, Joss Whedon. **Story by**: Chris Terrio, Zack Snyder. **Starring**: Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot. _120 minutes_
