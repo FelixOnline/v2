@@ -1,10 +1,13 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: Here’s what I’m up to at the moment!
 authors:
   - rhidianthomas
+date: '2017-12-01 12:00:00'
+categories:
+  - Liberation
 ---
 As Ethics and Environment Officer, my job is to support and facilitate campaigns to make our university fairer, greener, and more sustainable. Below are some things I’ve been up to so far this term; if you think that there’s something I’ve missed, or that I could help you with, email me at icu-environmental@ic.ac.uk
 
