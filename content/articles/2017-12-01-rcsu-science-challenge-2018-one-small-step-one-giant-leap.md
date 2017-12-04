@@ -11,6 +11,8 @@ authors:
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1678/1678+-+SciChal+banner.png
 date: '2017-12-01 12:00:00'
+categories:
+  - science
 ---
 The Science Challenge is an annual science communication competition run by the RCSU. It is your chance to submit an entry communicating your passion for science, and to win up to £1000. Choose to enter in one of the four categories, answering one of the questions chosen by our panel of judges according to the theme. The theme for this year, chosen with help of a student vote, is “One Small Step, One Giant Leap”.
 
