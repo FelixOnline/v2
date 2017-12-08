@@ -1,0 +1,37 @@
+---
+published: true
+headline: false
+featured: true
+title: Epic battle sees 1st XV score bonus point win against BARTS
+subtitle: >-
+  Imperial’s 1st XV took on BARTS in a thrilling match, snatching victory early
+  on in the game, despite heavy opposition.
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1679/1679_sports_rugby.jpg
+authors:
+  - aoz15
+date: '2017-12-08 12:00:00'
+categories:
+  - sport
+---
+Last Wednesday saw a vital match for Imperial 1st XV against fellow bottom-of-the-league dwellers BARTS. Still searching for our first win of the season at the end of November, this was a must-win occasion, and a loss would almost certainly subject us to relegation at the end of the season. An experienced XV, devoid of freshers after injuries and U20 world cups in Hong Kong (classic), jogged out to meet this challenge. The shadow of DNS’s curse hanging heavily over us, we knew the test that stood before us. 
+
+Kick off. The match started and BARTS instantly rolled out their game plan: hard running lines from heavy lads. Run after run, tackle after tackle, they bore down on our line, edging ever closer. After repelling several waves, the ball went wide and our try line was breached. 7-0 to BARTS. However, the team stayed clam. We knew that today was our day. Once again the BARTS barrage resumed, but their game plan had no variation; the defence adapted and soon the gain line was being breached less and less, the tackles becoming more and more dominant. Farmer Aynsley, tired of being the lesser known housemate to agricultural manure expert Simpson, ran up and dump tackled BARTS’ main runner. The attack was shaken, and the tide began to turn. With ball in hand, we were looking more dangerous, and suddenly we were camped in their 22, trying to level the scores. Several attempts came tantalisingly close, only to be thrown away due to an overly optimistic out-the-back offload attempt (our no. 8 really needs to learn to pass off his left hand). However, we knew we were close. A yellow card for the opposition came in handy as we finally whipped the ball wide from a scrum, fly half James Field (clearly jealous of Zaboronsky’s reputation as the offload king) popped a no-look backhand offload to the grateful hands of Josh Pope, who galloped his way over the line to finally touchdown for Imperial. With Field adding the extras, we were tied at 7 apiece. The momentum was with us. However, just before half-time was reached, the team’s morale was tested. Recently self-elected Captain of Morale Tuleu, whose shoulder stability and self-confidence were already low after a recent bench press competition with his longstanding girlfriend Louisa, suffered a shoulder dislocation and was subjected to the side-line for the rest of the match. Shortly afterwards, it was half-time. At 7-7, there was everything to play for.
+
+> “An experienced XV, devoid of freshers after injuries, jogged out to meet this challenge”
+
+The second half kicked off, and the team hit their rhythm; the heaviest menage a trois in recorded history, consisting of big T, big Nate and recently dethroned megs-master Chopper, were carrying hard, the lineout was firing on all cylinders, the backline was tearing holes in the opposition every other play and the passes were going to hand. The wind was now against us, but nonetheless a kick went out in the corner and we had a lineout 15 metres from their line. The move worked seamlessly and the resulting driving maul chugged its way forwards. The maul rolled around, the ball being passed from forward to forward until McGrail finally dribbled his way over. The conversion was good. 14-7 to us. From the kick-off, Polish cultural expert Hallett smashed up a carry to get the team moving forward. Scrum half Blackett then passed the ball blind to wannabe fly-half Allingham, who drew the man and popped to winger Parker. After skinning his opposition winger, Parker went for the chip-and-chase over the next defender, the opposition nine. The kick was low, and ricocheted off his back straight back into Parker’s hands, who then went on to race down the touchline and score the most memorable debut try for the 1st team in living history. 19-7. Shuz, disappointed that he was yet to be involved in this try-scoring flurry as this season’s top try scorer (how did we let this happen?) smashed over the line several phases later, giving us a commanding 24-7 lead with 20 minutes to go and securing the four-try bonus point.
+
+> “Run after run, tackle after tackle, they bore down on our line, edging ever closer”
+
+However, the game was not yet won. Big Nate, weighed down by the pressure of not adding to his sc coefficient with the Captain of Morale watching him closely from the side-line, buckled and went off with a knee injury. Blackett tried to keep the momentum going with a quick tap penalty, but Toby Simpson had other ideas, tackling his own teammate to prevent this. BARTS, sensing the opportunity for blood, attacked with renewed vigour. The game proceeded to our half, where our try line defence came under pressure. The referee, having penalised us on several occasions already, sin binned prop Martin Head for having forgotten to pay his transport fees. Due to having no uninjured front row replacements left, we were down to 13 men with a scrum on our own five metre line. Scrums went uncontested and backs were drafted into the scrum. Brady tried to navigate his way into the second row, took the wrong exit and ended up in Sainsbury’s an hour later. Once the game resumed, IC battled to keep BARTS from scoring whilst two men down. With two-man tackles used to full effect and a shed load of effort, the try line was miraculously kept clear for 9 minutes. However, not to feel left out from all the sin-binning, Toby Simpson bubble-wrapped his hand around a ball in the middle of a ruck, only to be socked by the ref and sent for a 10 minute opportunity to reflect on whether we’d ever win a game. Down to 12 men, even the grittiest defence became insufficient and BARTS ran in a try out wide several phases later. Conversion successful, it was 24-14.
+
+> “A yellow card for the opposition came in handy as we finally whipped the ball wide from a scrum for a touchdown”
+
+The initial sin bin was now over, and so we were back to 14 men; the one man disadvantage felt like nothing. We were back on the front foot as fresher Nick burst through the line for a 40 yard break. His pass found a meandering trolley, who tried his best to run it in, but simply lacked the legs to finish the job. Shouldn’t have missed that Monday gym session for your lab report, mate. However, the attack continued and, several phases later, the ball was passed wide to Aleksei Zaboronsky (who played the whole match at no. 8 by the way, mum and dad). He subsequently ignored an easy two on one and instead went for the line himself, barely making his way over for the try and hence completing the KES boy hattrick (shout out to Richard Mahony). We now led 29-14. With a minute remaining, on came Toby Simpson and we were back to 15 men. However, for pride BARTS continued to press and scored a consolation try in the final play of the match. Full time score 29-21 to Imperial.
+
+It didn’t matter, the match was won. RIP the DNS era: 10/03/12 - 29/11/17 (unconfirmed).
+
+Sylvia. Is. Awake.
+
+_To keep up to date with the team, follow us on Twitter @ICrugby_
