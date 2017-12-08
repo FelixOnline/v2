@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: 'Some of the biggest tech announcements of 2017 '
 subtitle: >-
   2017 has been a bumper year for tech announcements; from games consoles and
@@ -30,5 +30,4 @@ The world’s biggest tech company Apple, dropped a bombshell (although there we
 
 Announced in 2017, but set to release in 2020, Tesla blew many away by announcing the Tesla Roadster, an all-electric supercar. The release photos and videos show a truly BEAUTIFUL car. The specifications themselves are objectively incredible: reaching 0-60mph in 1.9 seconds, 0-100mph in 4.2 seconds and a top speed of over 250mph. Many electric cars are plagued by poor range, but the Roadster promises 620 miles on a single charge. Supercars aren’t great for families? Think again… the Roadster is equipped with four seats and a retractable glass roof, wowing adults and children alike. Initial orders for the base model start at $200,000, better start checking for that spare change behind the sofa…
 
-These were some of 2017’s biggest announcements, but we saw many other tech introductions including the Google Pixel 2, Google Home series and Samsung Galaxy S8 and Note 8 – let’s hope 2018 is just as great! 
-
+These were some of 2017’s biggest announcements, but we saw many other tech introductions including the Google Pixel 2, Google Home series and Samsung Galaxy S8 and Note 8 – let’s hope 2018 is just as great!
