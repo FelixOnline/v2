@@ -2,7 +2,7 @@
 published: true
 headline: false
 featured: true
-title: 'On the first day of Christmas, my true love gave to me… BEST FOOD GIFTS'
+title: 'On the tenth day of Christmas, my true love gave to me… BEST FOOD GIFTS'
 authors:
   - aib116
 subtitle: >-
@@ -26,4 +26,3 @@ Knowing that someone likes to cook makes picking a Christmas gift a lot easier f
 1. Better Baking by Genevieve Ko – Baking. But better. Enough said. 
 1. Cheese knives – for all the fancy eaters out there who think that cheese fondue is a must (which it obviously is, duh)
 1. Brewing kit – Especially if they are studying chemistry or are just very hipster.
-
