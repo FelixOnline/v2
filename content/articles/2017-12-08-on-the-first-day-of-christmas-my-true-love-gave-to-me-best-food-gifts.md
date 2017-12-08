@@ -14,7 +14,7 @@ date: '2017-12-08 12:00:00'
 categories:
   - food
 ---
-Knowing that someone likes to cook makes picking a Christmas gift a lot easier for you. Felix came here with a list of our 10 picks – hopefully, Santa will see this and will know which one you would like to see under that Christmas tree.
+Knowing that someone likes to cook makes picking a Christmas gift a lot easier for you. _Felix_ came here with a list of our 10 picks – hopefully, Santa will see this and will know which one you would like to see under that Christmas tree.
 
 1. Chef’s knife – This says it all. You can never have enough knives and you always can get a better one. 
 1. American seafood by Barton Seaver – because seafood is always nice, but oh so difficult to cook and this seems like a good starting reference 
