@@ -33,3 +33,10 @@ Not all of the works featured had direct links to Basquiat: _Grasp the Nettle_, 
 
 In bringing together the many facets of Basquiat’s work and psyche, the Barbican created a successful day that will hopefully inspire a new generation of young artists to believe that they can build their own communities and succeed in the world of art. 
 
+**Too Young for What**
+
+**5 Stars**
+
+_Where_? Barbican Centre
+
+_When_? 7th October
