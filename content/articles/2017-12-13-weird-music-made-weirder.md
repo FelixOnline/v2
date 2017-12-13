@@ -2,7 +2,7 @@
 published: true
 headline: false
 featured: true
-title: Weird music  made weirder
+title: Weird music made weirder
 authors:
   - jl9314
 subtitle: Iglooghost expands the genre of footwork in his latest release.
