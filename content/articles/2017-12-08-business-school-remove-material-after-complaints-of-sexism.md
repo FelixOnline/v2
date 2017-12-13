@@ -14,13 +14,13 @@ date: '2017-12-08 12:00:00'
 categories:
   - news
 ---
-Imperial College Business School removed some of the content used as course material, nearly three weeks after student reported that it was misogynistic.
+Imperial College Business School removed some of the content used as course material, after a student reported that it was misogynistic.
 
-The complaint was raised by a student on the 16th November, who stated that the content used in the Managerial Economics module “objectified women” and “encouraged predatory activity”. The material was taken down more than a fortnight later, with students being informed of the decision to remove the content via an email on the 4th December.
+The complaint was raised by a student on the 16th November, who stated that the content used in the Managerial Economics module “objectified women” and “encouraged predatory activity”. The material was subsequently taken down, with an email informing students of the decision – along with a written apology – sent out nearly three weeks later, on the 4th December.
 
 The Business School initially suggested asking students for recommendations for alternative module content. In an email circulated internally within the Business School, the module leads stated that this was the first complaint they had received, and mentioned that the material had “so far been seen by over 1,500 undergraduate, MBS, and Executive Education students.”
 
-Francesca Aras, the student who made the initial complaint, said that it was “extremely disappointing” that making complaints “comes as such a detriment to students”. She went on to tell _Felix_: “the College has scarcely leant, or committed, to improve safeguarding of its female students. If it cannot guarantee that it will efficiently deal with these sorts of incidents and actively prevent them from happening in the future it has no place calling itself a world-leading university.”
+Francesca Aras, the student who made the initial complaint, said that it was “extremely disappointing” that making complaints “comes as such a detriment to students”. She went on to tell _Felix_: “the College has scarcely learned, or committed, to improve safeguarding of its female students. If it cannot guarantee that it will efficiently deal with these sorts of incidents and actively prevent them from happening in the future it has no place calling itself a world-leading university.”
 
 The video in question was from the 2001 film _A Beautiful Mind_, and featured a group of men using game theory to ensure that they “all get laid”; mathematician John Nash (Russell Crowe) advises his friends that if they “all go for the blonde” then “not a single one of us is going to get her.” It was used as an attempt to explain the Nash Equilibrium, a concept in game theory.
 
