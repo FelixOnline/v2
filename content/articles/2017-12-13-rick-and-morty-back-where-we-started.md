@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 title: Rick and Morty  – back where we started?
 authors:
   - andrew_melville
