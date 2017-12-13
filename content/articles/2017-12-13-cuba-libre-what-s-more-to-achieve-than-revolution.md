@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 title: 'Cuba Libre: What’s more to achieve than revolution?'
@@ -10,6 +10,9 @@ image: >-
 subtitle: >-
   Behind the Facebook-ready vistas and the vintage cars, there’s an unsettling
   truth at the heart of Cuban society and politics.
+date: '2017-10-13 12:00:00'
+categories:
+  - comment
 ---
 On returning from my holiday to Cuba this year, I immediately got to work making a shiny new photo album for all those Facebook friends out there who’d probably rather I didn’t. Revolutionary Square is in there, lots of palm trees, and even that most cliché of images: a hollowed-out pineapple with a straw in it – as to indicate this is no ordinary pineapple. All very picturesque – as Cuban as it gets. However, as is always the case with social media snaps, the album is an airbrushed portrayal of my holiday and by extension of Cuba. Much like Raul Castro and Fidel before him, I make sure you only see the best bits. 
 
