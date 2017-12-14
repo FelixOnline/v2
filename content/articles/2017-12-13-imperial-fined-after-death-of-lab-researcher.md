@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: Imperial fined after death of lab researcher
 subtitle: >-
@@ -33,4 +33,3 @@ When liquid nitrogen is removed from its container, it will evaporate, and force
 In a statement, a representative from the College said: “We would like to offer our sincere condolences to Mr Bowen’s family and friends following this tragedy. Imperial takes the safety of its community and those who work closely with it extremely seriously.”
  
 “Although the Court did not suggest that the College had caused Mr Bowen’s death, the College has taken a number of actions following October 2011. In particular we have updated and revised related policies and procedures and developed strengthened management arrangements for buildings shared with the Trust.”
-
