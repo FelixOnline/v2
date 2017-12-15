@@ -22,7 +22,9 @@ Currently, the house lager is Bud Light (ABV 3.5%), which replaced the previous 
 
 As well as Bud Light and Stella 4, students will have the option to select a number of other lagers, such as Becks Vier (ABV 4%) and Staropramen (ABV 5%). The different choices have different prices: replacing Bud Light with Stella 4 would see the price of a pint increase from £2.70 to £2.80, whilst choosing the premium choice of Staropramen would see pints priced at £4.50. The Union had previously claimed switching to Bud Light would save students over £10,000 during the academic year.
 
-Felix spoke to one Imperial student about the review, who said they were “looking forward to having the sweet, sweet nectar of Stella 4 back.” Any changes to the products on offer would not take effect until next academic year.
+_Felix_ spoke to one Imperial student about the review, who said they were “looking forward to having the sweet, sweet nectar of Stella 4 back.” 
+
+The tender process would be continuing through the rest of the academic year, but the Union confirmed that changes to products on offer may take effect within the current academic year, dependent on student feedback.
 
 In a statement, a Union representative said they were “always looking to provide a better service and experience to you, our members”. 
 
