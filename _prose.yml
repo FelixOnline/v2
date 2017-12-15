@@ -152,6 +152,7 @@ prose:
           placeholder: "Choose Publication"
           options:
             - felix
+            - phoenix
             - another_castle
       - name: "date"
         field:
