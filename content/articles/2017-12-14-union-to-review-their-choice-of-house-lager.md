@@ -27,3 +27,7 @@ Felix spoke to one Imperial student about the review, who said they were “look
 In a statement, a Union representative said they were “always looking to provide a better service and experience to you, our members”. 
 
 Voting is only open to Union accounts, and is open until Sunday. You can vote [here](https://www.imperialcollegeunion.org/news/which-would-you-see-our-house-lager).
+
+~~~
+
+Photo credit: Nick Burstow
