@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1679/1679_film_cmbyn.jpg
 authors:
   - ff712
-  - 'http://felixonline.co.uk/authors/ashley_luckyram/'
+  - ashley_luckyram
 date: '2017-12-08 12:00:00'
 categories:
   - film
@@ -141,5 +141,3 @@ I Called Him Morgan
 Tower_
 
 Documentaries are not normally associated with the theatre in the same way that big costume dramas or high octane action films are. This has led to Netflix becoming perhaps the strongest distributor of non-fiction film, for those seeking something enlightening when they stay in on a cold night, or unwind after a hard day’s work. _I Am Not Your Negro_ smashes this pattern to smithereens, managing to take almost $10 million in the States alone against a $1 million budget. This is a crucial incendiary meditation on race relations in America.
-
-
