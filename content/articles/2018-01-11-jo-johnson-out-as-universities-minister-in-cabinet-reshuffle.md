@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 title: Jo Johnson out as universities minister in cabinet reshuffle
 image: >-
