@@ -14,7 +14,7 @@ date: '2018-01-12 12:00:00'
 categories:
   - news
 ---
-Imperial College London is set to close the swimming pool at St Mary’s campus at the end of the academic year, citing a low number of College users.
+Imperial College London is set to close [the swimming pool at St Mary’s campus](http://www.imperial.ac.uk/sport/facilities/locations/st-mary's/) at the end of the academic year, citing a low number of College users.
 
 The swimming pool, which is located in Paddington, will close its doors on the 16th July, 2018. In a statement online, the College said it was “not sustainable to continue running this facility given the costs of required maintenance and the fact that only 15% of the pool’s users are from the College community”. 
 
