@@ -30,3 +30,9 @@ The quality of the acting is mixed. The actors charged with voicing the puppets 
 There is still a lot to be said for this production, however. The effects are impressive and you can’t help but marvel at the technical genius behind it. Monstro, a giant whale, is impressively created on stage, and the moment where Pinocchio and Jiminy are swallowed by the whale is visually striking – one of the best of the performance. Martin Lowe’s score is based on the songs from the film, but adapted to better suit this stage version. All of the musical performances are without fault, and really carry the entire production.
 
 It’s a real pity that the script and acting let down the many great aspects of this production. The use of giant puppets to portray human characters is such a fitting choice for this story and has real potential to be impressive, and there are certainly some standout moments. Ultimately though, it fails to create any real emotional impact and you’re left feeling indifferent, even in the grand climax of Pinocchio’s quest.
+
+**3 Stars**
+
+_Where_? National Theatre
+_When_? Until 10th April
+_How Much_? From £15
