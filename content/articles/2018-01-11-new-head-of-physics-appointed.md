@@ -9,6 +9,8 @@ authors:
 date: '2018-01-12 12:00:00'
 categories:
   - news
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1680/1680_news_michele.jpg
 ---
 Professor Michele Dougherty is now in position as Head of the Department of Physics at Imperial.
 Professor Dougherty, who joined the College in 1991, was made Professor of Space Physics in 2004. She was principal investigator for the magnetometer instrument used in the Cassini mission to Saturn, which concluded last September after nearly 20 years.
