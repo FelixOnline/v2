@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1680/1680_film_money+2.jpg
 authors:
   - ff712
-date: '2017-01-12 12:00:00'
+date: '2018-01-12 12:00:00'
 categories:
   - film
 ---
