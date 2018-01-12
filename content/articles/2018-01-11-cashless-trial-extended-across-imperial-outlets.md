@@ -11,6 +11,8 @@ authors:
 date: '2018-01-12 12:00:00'
 categories:
   - news
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/winter_break/1679_online_card.jpg
 ---
 The cashless-only trial that [occured last December](http://felixonline.co.uk/articles/2017-12-15-imperial-catering-outlets-trialling-cashless-systems/) has been [extended across Imperial-owned outlets](http://www.imperial.ac.uk/food-and-drink/catering-outlets/).
 
