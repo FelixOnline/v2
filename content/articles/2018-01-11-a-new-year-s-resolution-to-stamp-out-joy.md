@@ -11,6 +11,8 @@ authors:
 date: '2018-01-12 12:00:00'
 categories:
   - comment
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1680/1680_comment_nye.jpg
 ---
 Welcome back to the first _Felix_ of 2018. For those of you expecting anything radically different from the paper this year, prepare to be disappointed: it will continue to pump out the same trite leftist bullshit as last year as it has nearly every year since the degenerates took over the paper. In their defence however, it does appear that those of a more conservative persuasion struggle to string anything longer than a sentence together and certainly not an eloquent article. I will spell it out for you: if you want your views represented in the paper then you have to write for it. Bitching on Imperial Secrets won’t change that, you fucking lemon. 
 
