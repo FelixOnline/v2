@@ -9,7 +9,7 @@ subtitle: >-
   some of the best places for partying, sightseeing, and relaxation.
 authors:
   - daniel_corredera_nadal
-date: '2017-01-12 12:00:00'
+date: '2018-01-12 12:00:00'
 categories:
   - travel
 image: >-
