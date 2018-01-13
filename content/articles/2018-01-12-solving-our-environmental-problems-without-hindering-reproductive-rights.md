@@ -2,6 +2,7 @@
 published: true
 headline: false
 featured: true
+comments_disabled: true
 title: Solving our environmental problems without hindering reproductive rights
 authors:
   - le14
