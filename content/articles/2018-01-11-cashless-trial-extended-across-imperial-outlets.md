@@ -23,7 +23,7 @@ Justifying the trial, the College claims over 80% of catering transactions are a
 
 However, the trial has been met with criticism by students and staff. One postgraduate student they had stopped using College catering as a result. They told _Felix_: “I don’t understand why Catering feel they need to push out the 20% of transactions paid with legal tender.” Another student, who said they used to spend around £200 a month, "I have been completey disappointed with the forceful decision to reject cash payments…the College say that cashless payment is quicker, a claim that is unproven."
 
-They went on to say "anyone who has visited h-bar or the Senior Common Room in January will agree that the size of the queues has not been reduced, and the waiting time has not been improved at all. Instead of changing to cashelss payments, the College should think about hiring extra kithcne staff and opening extra payment tills."
+They went on to say "anyone who has visited h-bar or the Senior Common Room in January will agree that the size of the queues has not been reduced, and the waiting time has not been improved at all. Instead of changing to cashelss payments, the College should think about hiring extra kitchen staff and opening extra payment tills."
 
 _Felix_ has also heard reports of posters which had been put up around the Sherfield walkway last December, criticising the trial.
 
