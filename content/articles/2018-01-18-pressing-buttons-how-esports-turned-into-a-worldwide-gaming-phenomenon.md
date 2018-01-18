@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 comments_disabled: false
@@ -14,6 +14,9 @@ subtitle: >-
   hold in the UK over the last few years. With prize pools of millions of
   dollars, and legions of fans across the globe, eSports are bigger than ever,
   but where did they come from? And what can we expect in the years to come?
+date: '2018-01-19 12:00:00'
+categories:
+  - games
 ---
 A group of individuals zip around like pinballs, moving at too high a speed to keep track; one team, previously on the offensive, are now in trouble, under heavy attack from their opponents, who have bounced back with an increased vitality. The audience hold their breath, chants falling silent, as commentators provide a blow-by-blow account of what is going on in front of them. And then it’s all over. The crowd goes wild as the winning team erupt in celebration, triumphant in their victory.
 
