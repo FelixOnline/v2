@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1681/1681_sports_CX2.jpg
 date: '2018-01-19 12:00:00'
 categories:
-  - science
+  - sport
 ---
 It’s January again, and to offset the misery of the darkest mornings of the year Imperial’s Cross Country and Athletics Club once again had cunningly planned a weekend escape from the bustling capital to somewhere slightly quieter. Last year saw a minibus-load make the trek up North to Newcastle; this time it was decided to head down South.
 
