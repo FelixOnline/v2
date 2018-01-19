@@ -4,8 +4,8 @@ headline: false
 featured: true
 title: EU Imperial staff leaving following Brexit decision
 subtitle: >-
-  A number of EU staff have returned to their home countries, as the Brexit
-  deadline draws closer.
+  A number of staff from the EU have begun to return to their countries of
+  origin, as the Brexit deadline draws closer.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1678/1678_news_EU+2.jpg
 authors:
