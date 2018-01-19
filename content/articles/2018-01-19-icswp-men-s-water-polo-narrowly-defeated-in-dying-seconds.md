@@ -13,7 +13,7 @@ subtitle: >-
   them.
 date: '2018-01-19 12:00:00'
 categories:
-  - science
+  - sport
 ---
 Tides are turning for ICSWP men’s water polo. Last Saturday Imperial faced a strong University of West England (UWE) side. With Imperial and UWE at opposite ends of the league table, and Imperial missing several key players, UWE were firm favourites coming into the fixture, but Imperial came with an unflappable attitude.
 
