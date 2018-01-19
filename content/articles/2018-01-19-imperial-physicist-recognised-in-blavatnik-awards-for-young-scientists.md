@@ -9,11 +9,11 @@ subtitle: >-
   were open to UK scientists.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1681/1681_news_claudia.jpeg
-authors:
-  - ff712
 date: '2018-01-19 12:00:00'
 categories:
   - news
+authors:
+  - jmw216
 ---
 An Imperial physicist has become one of the first people from the UK to win the Blavatnik Awards, which recognise outstanding young scientists under the age of 42. 
 
@@ -29,4 +29,3 @@ The Blavatnik Awards’ citation for Dr de Rham’s work said: “It [Dr de Rham
 Dr de Rham credits her work to collaborators, giving particular thanks to Dr Andrew Tolley at Imperial’s physics department and Professor Gregory Gabadadze at New York University for their teamwork. 
 
 “Collaboration and sharing ideas is the single most important aspect of our research,” said Dr de Rham. She added: “I will use this prize to continue nurturing my existing collaborations as well as foster further collaborations with young scientists worldwide.”
- 
