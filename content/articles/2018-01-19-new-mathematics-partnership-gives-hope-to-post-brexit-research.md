@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: New mathematics partnership gives hope to post-Brexit research
@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1681/1681_news_eu.png
 authors:
   - jmw216
-date: '2018-01-19 12:00:00'
+date: '2018-01-19 12:00:01'
 categories:
   - news
 ---
@@ -39,4 +39,4 @@ EU citizens make up one quarter of Imperial’s staff and one fifth of its stude
 
 The opening of the UMI was marked by a symposium entitled New Frontiers in Mathematics. Speakers included Fields Medal winners Professor Cedric Villani (“the Lady Gaga of mathematics”) and Imperial’s Professor Martin Hairer.
 
-More than 2,700 collaborations between Imperial and CNRS researchers have been published in the past five years. 
+More than 2,700 collaborations between Imperial and CNRS researchers have been published in the past five years.
