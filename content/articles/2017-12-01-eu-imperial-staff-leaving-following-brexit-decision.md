@@ -13,10 +13,11 @@ authors:
 date: '2017-12-01 12:00:00'
 categories:
   - news
+comments_disabled: false
 ---
 [Imperial staff from the EU have begun leaving following last year’s Brexit referendum.](https://www.standard.co.uk/news/uk/imperial-college-chief-weve-already-lost-staff-amid-fear-over-brexit-a3701001.html?hootPostID=736925b451257a18ff55364989097a1d)
 
-Speaking to the _Evening Standard_, Imperial president Alice Gast said she was “very concerned” about the uncertainties surrounding Brexit negotiations, which have caused some Imperial staff to return to their home countries in the EU. Half of the remaining staff have attended presentations about free legal support with around 220 people attending one-to-one advice sessions. 
+Speaking to the _Evening Standard_, Imperial president Alice Gast said she was “very concerned” about the uncertainties surrounding Brexit negotiations, which have caused some Imperial staff who had moved to the UK from the EU to return. Half of the remaining staff have attended presentations about free legal support with around 220 people attending one-to-one advice sessions. 
 
 However, she added: “We are still attracting talent because we are a great and very international university and we intend to stay that way,” citing the recruitment of [Professor Francisco Veloso as dean of Imperial College Business School](http://felixonline.co.uk/articles/2017-3-17-business-school-appoints-new-dean/), and [Professor Simone Buitendijk as Vice Provost (Education)](http://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-education/).
 
