@@ -17,7 +17,9 @@ categories:
 ---
 Last year might have only just finished, but resident hip-hop afficionado and Music Editor Andy Djaba is back. Following on from his [top albums of 2017](http://felixonline.co.uk/articles/2017-12-08-andy-s-top-ten-hip-hop-albums-of-2017/), he lets us know what he's looking out for in the year ahead.
 
-10 Drake
+
+
+> 10 Drake
 
 Drake ended ‘Do NotDisturb’, the final track of _More Life_, his 2017 ‘playlist’, by promising fans: “I’ll be back in 2018 to give you the summary _More Life_ ”. 2017 may be remembered as the year that Drake finally relinquished his stranglehold over hip-hop. It was the year that he saw his phenomenal eight-year Billboard Hot 100 Streak finally come to an end - prior to August 2017, Drake had had a song in the charts every week since May 2009 - . The lukewarm reception to _More Life_ suggests that Drake’s days of dominating the charts are behind him, and it is becoming apparent that Drake is slowly passing his peak. This could perhaps explain this period of unusual silence from him - since featuring on Metro Boomin’s ‘No Complaints’ in June, Drake has only appeared on one song - . Drake’s next album is, therefore, all the more important;: will he be able to drop a classic to reclaim the throne of hip-hop and cast his legacy beyond doubt?
 
