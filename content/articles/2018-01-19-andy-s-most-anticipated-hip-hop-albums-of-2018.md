@@ -15,6 +15,7 @@ date: '2018-01-19 12:00:00'
 categories:
   - music
 ---
+Last year might have only just finished, but resident hip-hop afficionado and Music Editor Andy Djaba is back. Following on from his [top albums of 2017](http://felixonline.co.uk/articles/2017-12-08-andy-s-top-ten-hip-hop-albums-of-2017/), he lets us know what he's looking out for in the year ahead.
 
 10 Drake
 
@@ -30,7 +31,9 @@ TDE ran 2017 with both the best hip-hop and R&B albums of the year (Kendrick Lam
 
 Continuing the TDE trend, the label’s stalwart artist, Jay Rock, has been relatively quiet since his impressive 2015 album, 90059. He has been teasing the follow up album and recently dropped the Kendrick Lamar and Future-assisted lead single, ‘King’s Dead’. Jay Rock is criminally underrated but, after revealing in an interview with REAL 92.3 LA that the upcoming LP will be released through both TDE and Interscope, the additional major label backing may prove to propel this album and give Jay Rock the respect he deserves.
 
+
 > “TDE ran 2017 with the hip-hop and R&B albums of the year – Kendrick Lamar’s DAMN. and SZA’s CTRL”
+
 
 > 7 Travis Scott, _Astroworld_
 
@@ -47,6 +50,7 @@ Post Malone’s debut album, _Stoney_, which was released in December 2016, unfo
 > 4 Chance The Rapper
 
 Chance The Rapper dominated 2016 and has since held the position of hip-hop’s golden child. He deservedly won three awards at the 2017 Grammys and he could seemingly do no wrong. However, the murmurs of discontent have been bubbling under the surface in the culture and Chance has found himself having to deny rumours of being an ‘industry plant’ and defend his claims of being independent. Chance has the potential to grab the hip-hop throne therefore it makes his follow up to _Coloring Book_ even more crucial.
+
 
 > “Chance has found himself having to deny rumours of being an ‘industry plant’ and defend his claims of being  independent”
 
