@@ -16,6 +16,10 @@
     "gulp-asset-manifest": "0.0.6",
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.0",
-    "gulp-util": "^3.0.8"
+    "gulp-util": "^3.0.8",
+    "hugo-bin": "^0.13.0"
+  },
+  "scripts": {
+    "build": "gulp scss --production; gulp js --production; hugo"
   }
 }
