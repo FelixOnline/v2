@@ -20,6 +20,6 @@
     "hugo-bin": "^0.18.1"
   },
   "scripts": {
-    "build": "gulp scss --production; gulp js --production; hugo",
+    "build": "gulp scss --production; gulp js --production; hugo"
   }
 }
