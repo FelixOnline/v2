@@ -40,12 +40,8 @@ Project Structure:
 1. Install [node and npm](https://nodejs.org/en/download/) & ensure that
    installed packages are in the PATH (for gulp etc).
 1. Install the node modules `npm install`
-1. Run:
-    ```
-    gulp scss --production
-    gulp js --production
-    bin/hugo
-    ```
+1. `npm run build` to build a static site in the `public` directory
+
 ## Sync the changes to the site
 
 First build a production version of the site.
