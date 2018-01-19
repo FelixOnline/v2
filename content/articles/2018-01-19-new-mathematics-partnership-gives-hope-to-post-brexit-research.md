@@ -31,7 +31,7 @@ Imperial’s President Professor Alice Gast echoed Jouyet’s remarks, saying: �
 
 > "Professor Craster said the unit 'serves as proof these times of uncertainty need not be times of stagnation"
 
-Since the Brexit vote in 2016, some Imperial staff have returned to their home countries in the EU. Staff still remaining at the College have taken advantage of presentations and one-to-one advice sessions regarding legal support. 
+Since the Brexit vote in 2016, some Imperial staff who had moved to the UK from EU countries have since returned. Staff still remaining at the College have taken advantage of presentations and one-to-one advice sessions regarding legal support. 
 
 Last year, [Professor Gast told French newspaper _Le Monde_](http://www.lemonde.fr/campus/article/2017/11/14/preserver-la-mobilite-des-talents-malgre-le-brexit_5214545_4401467.html): “We intend to remain the most international institution. We do not want border controls to jeopardise this situation. If there are border controls, we will commit to always collaborating with people of talent.”
 
