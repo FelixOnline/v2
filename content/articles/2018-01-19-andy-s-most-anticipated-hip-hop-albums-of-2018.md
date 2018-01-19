@@ -17,7 +17,7 @@ categories:
 ---
 Last year might have only just finished, but resident hip-hop afficionado and Music Editor Andy Djaba is back. Following on from his [top albums of 2017](http://felixonline.co.uk/articles/2017-12-08-andy-s-top-ten-hip-hop-albums-of-2017/), he lets us know what he's looking out for in the year ahead.
 
-
+---
 
 > 10 Drake
 
