@@ -15,6 +15,8 @@ categories:
 tags:
   - album
   - review
+authors:
+  - jack_obrien
 ---
 Nils Frahm stands out to fans of ambient music as an electronic producer and pianist ready to fill your brain with a tantalising fusion of classical composition and electronic reverb. He is an artist who since the mid-noughties, alongside his esteemed record label Erased Tapes, has brought forth sounds seemingly from other worlds. _All Melody_, his most recent album, is a continuation of his eclectic and nuanced music history, and stands up as an innovative and stylised album of its own.
 
