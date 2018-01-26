@@ -35,3 +35,9 @@ The last 20 minutes of the film are the most illuminating, as Trump moves from j
 Ultimately, _The Final Year_ tells us very little about the Obama presidency, or the legacy it will leave. We are given a surface-level look at the lives of his staff, with real exploration eschewed in favour of a film that, at times, reads like a ‘greatest hits’ montage of a dying age of normality. 
 
 All too often, Barker sands down the edges of what could have been a fascinating film, veering instead into mere hagiography.
+
+> The Final Year
+
+**2.5 Stars**
+
+**Dir**: Grek Barker. **Starring**: Barack Obama; John Kerry; Samantha Power; Ben Rhodes. _89 minutes_
