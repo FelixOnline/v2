@@ -8,7 +8,7 @@ subtitle: >-
   Is there anything bleaker than Charlie Brooker’s vision of humanity’s future?
   Yes. Grumpy Bastard’s reaction to the whole thing.
 image: >-
-  javascript:triggerFileDetails('4_za15ad955c43e2c0a53ec0e1a_f105038d8de4eb6ac_d20180118_m202856_c001_v0001102_t0037','0')
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1681/1681_tv_arkangel.jpg
 authors:
   - grumpy_bastard
 date: '2018-01-26 12:00:00'
