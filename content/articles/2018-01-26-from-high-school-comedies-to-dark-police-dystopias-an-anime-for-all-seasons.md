@@ -34,7 +34,7 @@ _Director_: Seiji Mizushima. _50 episodes_
 
 The _Gundam_ franchise spans a few decades and still produces excellent shows. _Gundam 00_ is the 11th series, and ran from 2007-2009, with a total of 50 episodes spread over two seasons. Set in a post-fossil fuel world, three power blocs form, each with a space elevator equipped to harness solar power in space. Countries previously dependent on fossil fuels see their fortunes change, further destabilising a world rife with sectarian or drug violence. Considering the possibility of bringing violence into space at a stage where mankind is beginning to explore the cosmos, Celestial Being, a non-state actor with four disproportionately powerful gundams, seek to stop all wars. As is with all gundam shows, if you can find a HD version of this, you are in for a visual treat, with outstanding animation and high-voltage battles involving interstellar fleets and overpowered mechas. 
 
-> “The Gundam franchise spans a few decades and still produces excellent shows”
+> “The _Gundam_ franchise spans a few decades and still produces excellent shows”
 
 The show remarkably weaves together threads from a multitude of dimensions: pernicious effects of war, human evolution, contact with extra-terrestrials, energy politics, the rule of law, and the abuse of power. The way characters (conventional militaries, Celestial Being, and other non-state actors and civilians) are developed in terms of their backstories and how they progress during the series serve to point out the different motivations for engaging in various courses of actions during conflict. The sheer diversity of people who have experienced different aspects of conflict  serve to make the complex affair of conflict more relatable. Take Setsuna, the main gundam pilot, who was a child solider brainwashed into killing his parents or Andrei Smirnov, a soldier who resents his father for having killed his mother due to a tactical decision (both his parents were in the military). On a larger scale, I enjoyed how the show discusses big ideas, such as the appropriate outlook humanity needs to grow as a species or how power is used/abused by different people and how can we address it. With such smooth storytelling across the scales, it makes for a profound and enjoyable show to watch. **PI**
 
@@ -88,7 +88,7 @@ An eight year old classic, _FMA_ still deserves a shout out. If alchemy, conspir
 
 I found the anime truly riveting. One of the questions the anime raises - what of equal value to your desired result  would you sacrifice? - is pertinently raised in different characters’ goals in the story, and you can see how their behaviours change as different scenarios present themselves. That is just one of the messages conveyed through a blend of well thought out characters and intricate storylines.
 
-> “An eight year old classic, Fullmetal Alchemist still deserves a shout out”
+> “An eight year old classic, _Fullmetal Alchemist_ still deserves a shout out”
 
 Other highlights of the anime include an amazing soundtrack (openings and endings especially), and that it stays true to the original manga’s art style and storyline. For those who like the typical shounen style of action and friendship, FMA has plenty of it, yet manages to maintain a good balance between action sequences and thought-provoking moments.
 
