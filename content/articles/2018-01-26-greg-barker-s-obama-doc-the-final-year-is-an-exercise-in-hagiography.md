@@ -14,6 +14,8 @@ authors:
 date: '2018-01-26 12:00:00'
 categories:
   - film
+tags:
+  - review
 ---
 There are many terrible things about Trump’s ascension to the presidency, which – despite the cries of those who say it was an ‘inevitable’ side effect of the rise in identity politics – still comes as a shock, a full year on from his inauguration. But one aspect of his rise to power which, while nowhere near as tragic as his decision to withdraw from the Paris Agreement or his attempts to gut health insurance coverage, will go on to have an impact in the future is the effect it has on the legacy of Barack Obama.
 
