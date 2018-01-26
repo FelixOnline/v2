@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 comments_disabled: false
@@ -11,6 +11,9 @@ subtitle: >-
   frisson and excitement.
 authors:
   - ff712
+date: '2018-01-26 12:00:00'
+categories:
+  - film
 ---
 Not content with getting his grubby hands all over the American presidency, Donald Trump has now invaded the world of cinema, albeit indirectly. Just was we have now entered the ‘post-Weinstein’ era, we have also entered into the ‘Trumpian’ age of cinema: now all films that come out need to be measured up against the impact the orange troll has had on the American psyche. Films that eschew political commentary – such as _The Shape of Water_, whose prominent position in Oscar nominations led Peter Bradshaw to describe the list as ‘cautious, comfort food’ – are accused of ignoring the realities outside for something indulgent; those that hit us over the head with dark messages about the Trump presidency, meanwhile, such as _The Final Year_, are seen as simplistic. 
 
