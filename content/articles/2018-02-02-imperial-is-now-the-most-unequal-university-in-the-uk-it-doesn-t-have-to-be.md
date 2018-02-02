@@ -16,7 +16,8 @@ categories:
   - comment
 ---
 What a great time to be an Imperial student. We have finally beaten Oxbridge at some ranking! What is it? Student satisfaction?  Employability? Innovation? It doesn’t matter! We beat them!
-Except it does matter. Enormously. According to a UCAS report, we have overtaken Oxford and Cambridge to become the UK’s most unequal university. We have the lowest proportion of students coming from low-income areas in the UK compared to any other university in the country.
+
+Except it does matter. Enormously. [According to a UCAS report](http://felixonline.co.uk/articles/2018-01-26-imperial-most-unequal-university-in-england-union-council-rejects-motion-for-social-mobility-officer/), we have overtaken Oxford and Cambridge to become the UK’s most unequal university. We have the lowest proportion of students coming from low-income areas in the UK compared to any other university in the country.
 
 Let’s be honest, though. This was never a secret. We all study or work here, we don’t need any report to tell us what we already know. Imperial is a bastion of privileged education.
 
@@ -26,7 +27,8 @@ I don’t have a problem with studying surrounded by rich people. That’s not a
 
 The real issue is providing society with equal opportunities for students from every background to have a shot at studying at a world class university.
 
-An interesting thought to consider is how the average graduate job destination would change if Imperial weren’t that wealthy. We already know banking is the top industry of choice for Imperial undergraduates, after health and social work (because, you know, medics). Would this fact stay the same? On the one hand, one would think that students from high-income families are, at least stereotypically, more pressured to succeed – the expectations they have to fulfil are higher compared to someone who’s the first in her family to attend university. Their definition of success is shaped by their surroundings (so maybe earning less than £40k just after graduating won’t feel like enough).
+An interesting thought to consider is how the average graduate job destination would change if Imperial weren’t that wealthy. [We already know banking is the top industry of choice for Imperial undergraduates](http://www.imperial.ac.uk/careers/exploring-your-options/destinations/undergraduates/), after health and social work (because, you know, medics). Would this fact stay the same? On the one hand, one would think that students from high-income families are, at least stereotypically, more pressured to succeed – the expectations they have to fulfil are higher compared to someone who’s the first in her family to attend university. Their definition of success is shaped by their surroundings (so maybe earning less than £40k just after graduating won’t feel like enough).
+
 On the other hand, coming from a higher-income family can provide you a more effective safety net after you graduate, which means it’s easier to refuse jobs you don’t want and be a bit more vocational, while a lower-income student might feel pressured to take the first job they come across.
 These are all generalisations of the choices individuals make under different circumstances, but it’s always interesting to consider what forces are at play regarding career decisions when you come from different backgrounds.
 
