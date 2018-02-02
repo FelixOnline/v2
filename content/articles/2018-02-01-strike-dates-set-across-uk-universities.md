@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: Strike dates set across UK universities
