@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: true
+featured: false
 comments_disabled: false
 title: “What would you have done?”
 authors:
