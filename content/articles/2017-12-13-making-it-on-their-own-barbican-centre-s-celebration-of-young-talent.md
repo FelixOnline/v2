@@ -12,8 +12,9 @@ subtitle: >-
 authors:
   - freya-hepworth-lloyd
 date: '2017-10-13 12:00:00'
+comments_disabled: false
 categories:
-  - sport
+  - arts
 ---
 In conjunction with their retrospective on the American artists Jean-Michel Basquiat – Boom for Real – last Saturday The Barbican held _Too Young for What_: a celebration of Basquiat’s legacy and the youth working in London today. In the cavernous halls of the Barbican Centre, zine makers, short film directors, poets, and photographers set up workshops, encouraging the public to get involved and displaying their art. I made a zine, watched a short film, and listened to some poetry. It was all about collaboration and identity, which were themes strongly apparent in the Basquiat exhibition.
 
