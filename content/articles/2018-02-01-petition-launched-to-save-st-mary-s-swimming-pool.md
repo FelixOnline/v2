@@ -32,7 +32,7 @@ The petition refers to the long history of St. Mary’s pool, which has been ope
 
 “Alexander Fleming was one of the first users of the swimming pool when it opened in the early 1930s. Water sports had in a way brought him to St. Mary’s. He had played water polo for the London Scottish Regiment against a team from St. Mary’s and had been so impressed by their esprit de corps and friendliness that when he came to apply to medical school in 1901 he chose St. Mary’s rather than any of the other medical schools in London at that time.”
 
-The petition also highlights the role the pool plays currently, saying it benefits “a wide cross section of students, staff, sports groups, and the wider local community”, and ”boasts developing the talent of international sporting stars, including Emma Watson, cross-Channel swimmer.”
+The petition also highlights the role the pool plays currently, saying it benefits “a wide cross section of students, staff, sports groups, and the wider local community”, and ”boasts developing the talent of international sporting stars”.
 
 The decision was announced at the beginning of last month on Imperial College’s website. The 20-meter pool, which will remain open throughout the rest of the year, is open to students, Imperial staff, NHS staff, and members of the public. 
 
