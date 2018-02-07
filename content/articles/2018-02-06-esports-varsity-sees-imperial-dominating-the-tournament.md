@@ -9,11 +9,17 @@ subtitle: >-
   excitable crowd from both sides.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1684/1684_sports_esport1.JPG
-authors:
-  - roy_lee
 date: '2018-02-06 12:00:00'
 categories:
   - games
+authors:
+  - luke_quinlan
+  - anthony_li
+  - girish_vishwa
+  - hayato_murata
+  - milan_ding
+  - daniel_seah
+  - daniel_ko
 ---
 The second annual eSports Varsity made a triumphant return last week, seeing Imperial take home the trophy after seeing off UCL in a series of matches. Over the course of numerous matches, across seven different games, players from both sides experienced joy, anguish, and success, in a gripping day of gaming.
 
