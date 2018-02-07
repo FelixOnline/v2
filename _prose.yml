@@ -27,6 +27,10 @@ sections: &sections
     value: "Politics"
   - name: "liberation"
     value: "Liberation"
+  - name: "Books"
+    value: "books"
+  - name: "Tech"
+    value: "tech"
   - name: "Longread"
     value: "longread"
 highlights: &highlights
