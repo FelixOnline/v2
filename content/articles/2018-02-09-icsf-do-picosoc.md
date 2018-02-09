@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: ICSF do Picosoc!
+title: ICSF do Picocon!
 subtitle: Come along to the sci-fi and fantasy convention this month!
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1684/1684_CS_ICSF.jpg
