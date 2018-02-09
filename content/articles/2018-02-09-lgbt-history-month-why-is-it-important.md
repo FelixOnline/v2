@@ -9,6 +9,7 @@ subtitle: >-
   how far we have left to go.
 authors:
   - alessio_incitti
+  - sophie_quinn
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1684/1684_lib_tower.jpg
 date: '2018-02-09 12:00:00'
