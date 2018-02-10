@@ -23,7 +23,7 @@ These results show a slight drop in admissions from state school over the last c
 
 The Russell Group university with the highest percentage of state school entrants was The Queen’s University of Belfast, whose entrants were 98.1% from state schools.
 
-These data come a couple of weeks after UCAS data r[evealed that Imperial was the most equal university in England in terms of socioeconomic status](http://felixonline.co.uk/articles/2018-01-26-imperial-most-unequal-university-in-england-union-council-rejects-motion-for-social-mobility-officer/). An analysis of the data found that those from the most well-off backgrounds were eleven times more likely to be admitted to Imperial than those from the most deprived areas.
+These data come a couple of weeks after UCAS data [revealed that Imperial was the most unequal university in England in terms of socioeconomic status](http://felixonline.co.uk/articles/2018-01-26-imperial-most-unequal-university-in-england-union-council-rejects-motion-for-social-mobility-officer/). An analysis of the data found that those from the most well-off backgrounds were eleven times more likely to be admitted to Imperial than those from the most deprived areas.
 
 Ansh Bhatnagar, Undergraduate Ordinary Member of Council for the Faculty of Natural Sciences, told Felix: “Once again, we have more data showing that Imperial has problems with socio-economic inequality. College needs to have a hard look at its admissions process which seems to be promoting this disparity, and the Union needs a dedicated representative for economically disadvantaged students who are already at this university.”
 
