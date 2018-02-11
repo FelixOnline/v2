@@ -56,4 +56,3 @@ Since coming into the role, Fintan has tweeted 73 times.
 Good at: being earnest; saying thank you
 
 Room for improvement: gif choice
-
