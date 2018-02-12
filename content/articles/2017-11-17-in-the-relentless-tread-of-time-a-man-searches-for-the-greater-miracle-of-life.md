@@ -15,6 +15,9 @@ authors:
 date: '2017-11-17 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Freedom – a word as awe-inspiring as it is undefined. There are many ways of tackling the issue of what freedom means on a general as well as on a personal level. In his 2013 novel _The Greater Miracle_ Thomas Glavinic sheds light on the problem of freedom from a very personal perspective. 
 
@@ -34,4 +37,4 @@ Glavinic is notorious for exploring the behaviour of people in extreme situation
 
 It makes sense that Jonas’ life and the whole narrative culminate in Jonas climbing Mount Everest. When asked about why he wanted to summit Mount Everest, English mountaineer George Mallory famously answered: “Because it’s there!”. That is exactly what Jonas comes to realise, that maybe “Because it’s there!” is the best explanation we will ever be able to give for why we do anything.
 
-What I liked about this book is its lack of naivety. Glavinic does not pretend that money is irrelevant for one’s happiness. Indeed, what makes Jonas free is his money. Those who do not have to worry about money have the time to focus on finding out what actually makes their lives worth living. Money, quite literally, buys you time. While reading this book, I was constantly reminded of _A Happy Death_ by Albert Camus, who also describes the life of a man who acquires a lot of money and then finds himself in a situation where he is essentially free to do whatever he wants. Still, while Camus tends to actually explore the moral implications of this kind of life, _The Greater Miracle_ does come across as a bit of a cliché sometimes. However, Glavinic’s brilliant storytelling and the exciting plot definitely make for a great read. What makes his books great is that the describes people in very singular and extreme situation, which inevitably makes the reader think about how he or she would act under those particular circumstances.  
+What I liked about this book is its lack of naivety. Glavinic does not pretend that money is irrelevant for one’s happiness. Indeed, what makes Jonas free is his money. Those who do not have to worry about money have the time to focus on finding out what actually makes their lives worth living. Money, quite literally, buys you time. While reading this book, I was constantly reminded of _A Happy Death_ by Albert Camus, who also describes the life of a man who acquires a lot of money and then finds himself in a situation where he is essentially free to do whatever he wants. Still, while Camus tends to actually explore the moral implications of this kind of life, _The Greater Miracle_ does come across as a bit of a cliché sometimes. However, Glavinic’s brilliant storytelling and the exciting plot definitely make for a great read. What makes his books great is that the describes people in very singular and extreme situation, which inevitably makes the reader think about how he or she would act under those particular circumstances.
