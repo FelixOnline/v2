@@ -14,6 +14,8 @@ authors:
 date: '2018-01-19 12:00:00'
 tags:
   - books
+categories:
+  - books
 ---
 The first time I heard of this book was when I watched the author being interviewed on an Arab channel. Not having watched the interview from the beginning, I didn’t know what the novel was about, but I was intrigued by their discussion of Arab culture and traditions. When I learnt that the book follows a gay Arab man in an unnamed Arab country, I knew I had to read it.
 
@@ -38,4 +40,4 @@ Although countries like Bahrain and Jordan have not criminalised homosexuality, 
 
 My visit to Liverpool in summer coincided with Pride. I was transfixed by the intense energy the participants brought to the city, through the music of the marching bands, the choreographed dances, and the sheer number of participants. I saw people bearing flags from various Middle Eastern countries including Iran, Kuwait, and Oman. There were a few protestors voicing their discontent, but that hardly affected the festival’s atmosphere. 
 
-Considering the more progressive views of the younger generations, a discussion on treatment of LGBTQ Arabs needs to be had; hopefully, this novel will encourage it. 
+Considering the more progressive views of the younger generations, a discussion on treatment of LGBTQ Arabs needs to be had; hopefully, this novel will encourage it.
