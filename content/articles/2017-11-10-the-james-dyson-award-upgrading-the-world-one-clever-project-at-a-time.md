@@ -14,6 +14,9 @@ image: >-
 date: '2017-11-10 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 In September 2017, shortlisted entries for this year’s Dyson Award were announced. For those of you who don’t know, the Dyson Award is an international award for current and recently graduated design engineering students, coordinated by the James Dyson Foundation. The main purpose of the award is to inspire people and get them interested in design engineering.
  
