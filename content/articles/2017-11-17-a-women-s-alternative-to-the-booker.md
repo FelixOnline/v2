@@ -14,6 +14,9 @@ authors:
 date: '2017-11-17 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 If you’re only going to read the winner of one fiction prize each year, the Women’s Prize for Fiction will always be your best bet. Each year the prize honours one female author whose novel has made the greatest impact on the literary world in the past year. The prize began when in 1991 it was noticed that despite 60% of the novels published at the time being written by women, the Booker prize shortlist didn’t contain any female authors that year. Previous winners include Ali Smith’s _How to Be Both_ and Eimear McBride’s _A Girl is a Half-Formed Thing_. If you’re looking for a book which marries discussion of complex issues like gender, race, sexuality, and death, with engaging narrative, then the Women’s Prize is the right place to look.
  
