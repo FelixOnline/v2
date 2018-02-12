@@ -11,6 +11,9 @@ tags:
   - books
 authors:
   - gracie_holt
+comments_disabled: false
+categories:
+  - books
 ---
 There was a time when, as an adult, I did not read books. Then one evening, when I lay awake overthinking and analysing, I realised what this meant. If I continued at my current rate of reading 0.75 books a year on holiday, then I would likely die not having read 100 books. I was then suddenly aware of the pressure of acquainting myself with the literary world as soon as possible, and how daunting that prospect was.
 
