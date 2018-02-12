@@ -13,6 +13,9 @@ image: >-
 date: '2017-11-10 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 The animal was not black. It was not strong. It was lazy and had furry ears, a creature, that people laughed about. The best one could say about the animal was, that it was cute.”  The koala is usually not an animal that people tend to spend a lot of time thinking about. Nevertheless, swiss author Lukas Bärfuss decided to put it in the center of his latest novel _Koala_, for which he was awarded the Swiss Book Prize in 2014.
 
@@ -33,4 +36,4 @@ One of the taboos Bärfuss addresses openly is suicide. The main character in th
 
 The centrepiece of the novel, however, is the koala. A koala does not live what most people would call an interesting life. It spends the majority of its time sleeping, it hardly moves, and is not considered to be highly intelligent, not unlike the protagonist’s brother. He is unemployed, has never left his hometown, and smokes a lot of weed. Yet the main character comes to realise that there is essentially nothing that makes his life, a life governed by career goals and productivity inherently superior to a “wasted” life like the one lived by the protagonist’s brother. Towards the end of the book he thinks: “The cure for fear is industriousness. The one who is ambitious needs a pair of good legs and all those who want to be ambitious but do not have them, must explain themselves. Only the strong ones are able.” By fear he means the fear of being forgotten after death. Productivity and ambition are the cure prescribed by society. However, they tend to be used as distractions rather than solutions. Another way out of the misery, he realises, is laziness.  Laziness just exists and is not bothered by the petty little problems of everyday existence.
 
-In a time when people are more and more focussed on their careers, stress and mental health problems are on the rise, and society becomes generally more competitive, this sends a strong signal. It drags the reader out of their comfort zone and forces them to face a lot of the uncomfortable issues of life.  Whoever decides to read this book can be sure to be left with a lot of answers and even more questions in the end   – unpleasant questions, but ones that everybody should try to answer for themselves at some point. 
+In a time when people are more and more focussed on their careers, stress and mental health problems are on the rise, and society becomes generally more competitive, this sends a strong signal. It drags the reader out of their comfort zone and forces them to face a lot of the uncomfortable issues of life.  Whoever decides to read this book can be sure to be left with a lot of answers and even more questions in the end   – unpleasant questions, but ones that everybody should try to answer for themselves at some point.
