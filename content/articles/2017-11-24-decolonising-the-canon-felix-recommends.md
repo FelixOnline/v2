@@ -14,6 +14,9 @@ image: >-
 date: '2017-11-24 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 **Trumpet, by Jackie Kay**
 
