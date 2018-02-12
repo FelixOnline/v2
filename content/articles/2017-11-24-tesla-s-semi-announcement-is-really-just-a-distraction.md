@@ -13,6 +13,9 @@ authors:
 date: '2017-11-24 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 **What came first, the Model 3 or the Falcon Heavy?**
 
