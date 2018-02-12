@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: false
+featured: true
 comments_disabled: false
 title: 'Should we trust governments with our faces?  '
 subtitle: Why the latest developments in facial recognition should leave us worried.
