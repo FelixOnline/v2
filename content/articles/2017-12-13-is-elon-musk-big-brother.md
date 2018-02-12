@@ -14,6 +14,9 @@ authors:
 date: '2017-10-06 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 Our story begins with the jellyfish, the first animal to have a nervous system – or rather a nervous net. An animal without a nervous net can’t respond to its environment, so its odds of survival could be likened to flipping a coin. Having one was a real breakthrough. 
 Later on, the flatworm developed a central nervous system, realizing that it was more efficient to turn decision making into a centralised process.
