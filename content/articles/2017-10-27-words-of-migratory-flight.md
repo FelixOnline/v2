@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-27 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 The world is a fleeting glory”, reads Asha Lul Mohamud Yusuf’s poem, _The Scab_. To the more than 110,000 Somali-born immigrants living in the UK, many of whom fled the Somali Civil War as refugees, this cannot be more true. Stability is an illusion when one has to witness one’s own country torn apart by war, leaving its people in turmoil and scattered across the world seeking refuge. But with the movement of its people comes the movement of a culture, of a heritage, of a language, of words – words that were so beautifully showcased in Sea Migrations at the Royal Festival Hall, which featured poetry readings by four contemporary British-Somali women poets.
 
