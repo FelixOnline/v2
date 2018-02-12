@@ -8,7 +8,7 @@ subtitle: >-
   Imperial achieved victory over UCL in a number of the games, which saw an
   excitable crowd from both sides.
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1684/1684_sports_esport1.JPG
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1684/1684_sports_esports1.jpg
 date: '2018-02-06 12:00:00'
 authors:
   - luke_quinlan
