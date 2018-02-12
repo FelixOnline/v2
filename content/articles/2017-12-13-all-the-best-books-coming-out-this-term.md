@@ -13,6 +13,9 @@ subtitle: >-
 date: '2017-10-13 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 **_The Floating World_, by C. Morgan Babst (October 17th)**
 
