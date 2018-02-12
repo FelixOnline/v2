@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-27 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 Gene drive technology allows humans to introduce genetical modifications to species that are always passed on to the next generation, which allows a characteristic to become prevalent in a species over very few generations. The technology is powerful enough to wipe out whole species, and has applications in eliminating invasive species, and controlling vector-borne diseases. The technology is showing promise, and it has attracted huge investments. Bill Gates, for example, has invested a total of $75 million in Target Malaria, a consortium led by Imperial College aiming to control the spread of malaria. Gene drives are to be used for this purpose, specifically one to make female mosquitoes sterile to eliminate the mosquito population.
 
