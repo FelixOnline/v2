@@ -14,6 +14,9 @@ authors:
 date: '2017-10-13 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 **_Adulthood is a Myth_, by Sarah Andersen**
 
