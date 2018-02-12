@@ -14,6 +14,8 @@ authors:
 date: '2018-02-02 12:00:00'
 tags:
   - tech
+categories:
+  - tech
 ---
 According to the World Health Organization (WHO), antibiotic resistance in bacteria is one of the biggest threats to global health today. Bacteria gaining resistance is a natural process, but this has been accelerated by the misuse of medicines. The consequence of this is that bacteria remain unaffected by our current medications, leading to longer stays in the hospital, greater medical costs and increased mortality. The way to combat antibiotic resistance in bacteria is to develop new drugs that can kill them. The drug development process set by the Food and Drug Administration (FDA) is a long and costly process, coupled with uncertainty on whether a new drug will actually succeed to the next stage.
 
