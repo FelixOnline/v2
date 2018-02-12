@@ -16,6 +16,9 @@ image: >-
 date: '2017-12-08 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 I first encountered Kazuo Ishiguro’s writing back in high school, in the form of his short story collection _Nocturnes_. I had won some book vouchers, and was browsing the local bookstore for something worth buying when I came across this slim volume. _Five Stories of Music and Nightfall_, it read, against an austere background of blurred fairy lights in the twilight. Curiosity piqued, I bought it despite having never heard of Ishiguro before that, and thus began my love affair with Ishiguro’s words.
 
