@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: false
 title: >-
-  Why your toothpatse, a Toyota Prius, and a McLaren F1 car have more in common
+  Why your toothpaste, a Toyota Prius, and a McLaren F1 car have more in common
   than you think
 subtitle: The hidden links between different technologies
 image: >-
@@ -12,6 +12,9 @@ authors:
   - tom_mrazek
 date: '2017-12-08 12:00:00'
 tags:
+  - tech
+comments_disabled: false
+categories:
   - tech
 ---
 Steel disc brakes, like many other technologies that make today’s cars so safe and efficient were developed nowhere other than on the racetrack. Until a revised version of the Jaguar C-Type first took to the track in 1953, drum brakes were considered the only practical way of stopping a car. Initially, disc brakes were (literally) a hot mess that melted on their drivers at the worst possible times. However, when all kinks were ironed out disc brakes offered far shorter braking distances and allowed Jaguar to win the 1953 24 Hours of Le Mans. In 1955 the mass-produced Citroen DS adopted disc brakes as well and today you’d be hard-pressed to find a car without them on the road.
@@ -44,4 +47,3 @@ In an F1 car, you have the ERS and the KERS. Things might change a little bit in
 **T: What is the transfer of information between McLaren Racing and McLaren Applied Technologies like?**
  
 J: Yes, there are a lot of things that are being shared. The composite chains are quite shared between the two teams. In terms of technologies it’s a bit different and it’s mostly because of Intellectual Property. Basically, Intellectual Property contracts are much tighter in F1 compared to the automotive industry. Also, not everything we develop for F1 can be applied outside of the field to a completely different product. But there are transfers of technology, there are meetings of course. In terms of manufacturing, however, there is much more sharing, especially in terms of actual development techniques.
-
