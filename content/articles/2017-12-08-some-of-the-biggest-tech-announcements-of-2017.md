@@ -13,6 +13,9 @@ authors:
 date: '2017-12-08 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 March 2017 saw the phoenix that is Nintendo rise from its ashes with the release of its new console the Nintendo Switch. Marketed as a truly versatile game console, the Switch can be played in three modes – TV mode for the traditionalists who like a big TV, tabletop mode for when a big TV screen isn’t socially acceptable (the Switch comes with its own portable screen) and handheld mode – so you can play anywhere, anytime. A local multiplayer mode is included, where eight people can play together in a local set up (MarioKart DS memories). The Switch boasts two handheld controllers which can be used when playing single player, multiplayer or when you just want good ol’ motion control (just like your trusty vintage Wii remote).
 
