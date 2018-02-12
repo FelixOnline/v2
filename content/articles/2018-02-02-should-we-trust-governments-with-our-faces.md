@@ -12,6 +12,8 @@ tags:
   - tech
 authors:
   - hubert_kaluzny
+categories:
+  - tech
 ---
 London is one of the world’s most surveilled cities. Recently, China has begun using facial recognition to keep track of one of their district’s Muslim populations. Ethically speaking, I believe we can all agree that, this is one of the worst uses of modern technology we have seen to date. At the beginning of this year, I have decided to get an iPhone X: one of its flagship features was Face ID. It is a great feature and works flawlessly, allowing me to use my phone immediately after raising it up from the table. However, one might ask: how are companies and governments going to use my data? 
 
