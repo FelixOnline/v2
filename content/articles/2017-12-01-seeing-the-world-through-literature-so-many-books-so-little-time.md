@@ -13,6 +13,9 @@ authors:
 date: '2017-12-01 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Seeing another part of the world is quite an exciting prospect for anyone: different foods, culture, history, and – most importantly – visiting beautiful bookstores and discovering authors you would not have heard of otherwise. Picking up a book, albeit translated to English, by a local author has been a tremendously rewarding experience. These writers provide an excellent snapshot of their country, drawing upon the area’s history, socioeconomic and cultural backgrounds, and quite often, their own personal experiences. To read the book and be able to see the actual location or art piece referenced simultaneously magnifies the enjoyment of both the trip (and its memories) and of the read. To that end, I have always made an effort to find a nice bookstore in whichever country I visit and purchase an appropriate book. Examples of such finds include Lafcaido Hearn’s _Kokoro_ from Japan, Cees Nooteboom’s _Rituals_ from The Netherlands, and Toomas Vint’s _The Sweepstakes of Love_ from Estonia, amongst others.
 
@@ -32,4 +35,4 @@ What made this read interesting within the context of seeing the world isn’t t
 
 _Rituals_ itself was quite the fascinating read. Nooteboom constructs a sublime narrative, weaving in existentialism in how people structure their lives, the experience of foreign cultures, and then challenges the reader to reflect on how they themselves approach life. Inni Wintrop, the dilettante, in recognising the meaninglessness of life, floats through it. He entertains himself with art and casual sex and funds it by art sales and trading on the stock market. He is unable to commit to anything: even his suicide attempt failed following his divorce. Nooteboom interestingly contrasts different approaches to coping with the existential dread we all have by introducing a father-son pair (the Taads) who, whilst similar in their rigid structuring of their lives in self-contained bubbles, do so very differently. Taads senior thoroughly plans every single minute of his life, striving to extract every moments’ full worth in a futile attempt to live a full life.  Taad junior on the other hand contrived a unique flavour of oriental self-mortification, turning to religion and spirituality to cope with the same dread everyone has. I must point out that Rituals was not at all depressing and was one of the best reads in 2016 for me.
 
-I would highly recommend these books to anyone looking for a read over Christmas or at the very least, those who want to add a literary element to their travels. 
+I would highly recommend these books to anyone looking for a read over Christmas or at the very least, those who want to add a literary element to their travels.
