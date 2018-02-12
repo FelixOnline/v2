@@ -14,6 +14,8 @@ image: >-
 date: '2018-02-02 12:00:00'
 tags:
   - books
+categories:
+  - books
 ---
 _The Reader_ is one of those books that one can discuss at length and would make a good choice for a book club, but I’ll try to keep it short though I have much to say.
 
