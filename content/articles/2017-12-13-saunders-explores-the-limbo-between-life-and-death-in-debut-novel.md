@@ -14,6 +14,9 @@ image: >-
 date: '2017-10-13 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 I was fearful when I heard about _Lincoln in the Bardo_ almost a decade ago. I’m not a fan of historical novels and was aware of the difficulties that come with moving from short stories to novels. My fears were unfounded, George Saunders’ first novel is a triumph. To even call it a historical novel boxes it in too tight, even calling it a novel is restrictive, it is quite unlike anything I have ever read before.
 
