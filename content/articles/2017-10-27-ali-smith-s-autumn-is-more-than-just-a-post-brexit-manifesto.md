@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-27 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Books which lack speech marks always scare me. It can seem like they’re trying too hard just to break a rule and look contemporary. But I should never have doubted Ali Smith, in whose new book, _Autumn_, it feels entirely appropriate. It freed the author to skip between characters and to entwine her own voice with the text. No visual breaks signal a change in the dialogue and the fictional people seep into our reality. It feels like they would fit in.
 
