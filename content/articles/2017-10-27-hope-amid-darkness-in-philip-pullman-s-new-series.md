@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-27 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Known for his trilogy _His Dark Materials_, a fixture of many of our teenage bookshelves, Pullman is no stranger to the best-seller charts. _La Belle Sauvage_ is the much-anticipated first volume of _The Book of Dust_, which Pullman discussed with BBC broadcaster and fellow author Cerys Matthews at a launch event at the Southbank Centre. The evening began with a discussion between the two, followed by a reading of an extract by Pullman, and the discussion was then opened to the audience.
 
