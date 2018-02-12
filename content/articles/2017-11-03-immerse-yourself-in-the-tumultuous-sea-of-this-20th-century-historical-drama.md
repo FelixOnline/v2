@@ -13,6 +13,9 @@ authors:
 date: '2017-11-03 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 A lot of great literature has served as excellent snapshots into the culture and attitudes of the society that the author describes. Yukio Mishima’s _Sea of Fertility_ Tetralogy is a perfect example of that. The tetralogy consists of _Spring Snow_, _Runaway Horses_, _The Temple of Dawn_, and _The Decay of the Angel_, in that order, and while I have sadly only read two of the four thus far, that was enough to leave a profound impression on me.
 
