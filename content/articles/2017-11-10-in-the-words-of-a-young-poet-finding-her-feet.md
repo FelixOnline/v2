@@ -13,6 +13,9 @@ image: >-
 date: '2017-11-10 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 What do we know of someone else’s life, besides what they choose to reveal to us? What more of a life that was tragically cut short, and has remained an enigma since?
 
