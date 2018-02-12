@@ -14,6 +14,9 @@ image: >-
 date: '2017-12-08 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Much has been written so far about ‘decolonising’ the English Literature curriculum, after Cambridge University’s English undergraduate Lola Olufemi wrote an open letter imploring her faculty to broaden their curriculum to include non-white writers. The letter, signed by around 150 students, called on the university to “meaningfully incorporate” non-white authors and postcolonial thought into the curriculum, rather than having it as an “afterthought” in the form of an optional paper in their final year.
 
