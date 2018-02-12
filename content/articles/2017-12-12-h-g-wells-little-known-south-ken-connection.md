@@ -14,6 +14,9 @@ image: >-
 date: '2017-09-29 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Imagine the Imperial freshers of the past; ponder where their college career led them. Research is probably first to mind – medicine, teaching, banking… Arts? We’re scientists, not robots! Great academics are often churned out, but our university also produced one of the fathers of science fiction, H.G. Wells.
 
