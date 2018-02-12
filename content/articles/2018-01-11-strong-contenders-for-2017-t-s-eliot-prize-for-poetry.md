@@ -13,6 +13,9 @@ authors:
 date: '2018-01-12 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 The T. S. Eliot Prize, awarded by the Poetry Book Society, is arguably one of the most prestigious poetry prizes in the world. Awarded every year to a poetry collection in English first published in the UK or Ireland, it has seen many household names winning in the past, including Ted Hughes, Carol Ann Duffy, Seamus Heaney, and Derek Walcott.
 
