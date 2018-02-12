@@ -11,6 +11,9 @@ image: >-
 date: '2017-09-29 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Neil Gaiman has an uncanny knack for picking out the essence of a place.
 
@@ -27,4 +30,4 @@ London Below is simply the essence of this incredible juxtaposition and diversit
 _‘I thought I wanted a nice normal life. I mean, maybe I am crazy. I mean, maybe. But if this is all there is, then I don’t want to be sane. You know?’_
 
 Indeed, for the reader, Neverwhere is an adventure that one does not come back from unchanged and unmoved. For one, every stop on the tube map now holds a special significance. As I pass through Earl’s Court, I cannot help but think of the scene of Richard meeting the Earl in his tube ‘palace’ at the station, or the shepherds of Shepherd’s Bush. There is magic in seeing stories beneath everyday places and people, that extra sparkle that keeps us connected and wondrous of our surroundings. 
-London’s diversity, its amalgamation of the old and new, is fertile ground for imagination. To the freshers, take your time to explore this vibrant city, and may you be touched by the magic around you. And don’t forget to give _Neverwhere_ a go. 
+London’s diversity, its amalgamation of the old and new, is fertile ground for imagination. To the freshers, take your time to explore this vibrant city, and may you be touched by the magic around you. And don’t forget to give _Neverwhere_ a go.
