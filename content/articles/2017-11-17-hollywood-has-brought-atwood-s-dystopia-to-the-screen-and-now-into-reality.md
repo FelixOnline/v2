@@ -13,6 +13,9 @@ image: >-
 date: '2017-11-17 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 It seems the morning news is scarcely without another allegation of sexual assault these days. Harvey Weinstein has inspired many stars, mostly women, to share their stories of abuse by people with power. Finally, these hard-hitting topics may finally be discussed at a meaningful level through their association with a billion-dollar industry. These issues aren’t old news and they aren’t insignificant, but women’s rights have not been resolved in over a century.
 
