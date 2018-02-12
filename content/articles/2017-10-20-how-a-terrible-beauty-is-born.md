@@ -11,6 +11,9 @@ authors:
 date: '2017-10-20 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 Be-monster not thy feature,” says Albany to Goneril; “proper deformity seems not in the fiend so horrid as in woman.” In _King Lear_, what renders Goneril’s ruthlessness particularly chilling is the juxtaposing presence of inhumanity – or, in Albany’s Elizabethan conception, unfemininity – in someone so manifestly a human. The disconcerting quality of such incongruousness and its ‘othering’ effect are amongst the several ways of ‘be-monstering’ explored in the poetry workshop led by Vahni Capildeo last weekend, whose latest collection _Measures of Expatriation_ won the Forward Prize for Best Collection in 2016.
 
