@@ -13,6 +13,9 @@ authors:
 date: '2017-11-03 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 There is no criticism more widely levelled against book and author than that of difficulty. I was prompted to write this article because of a one-star Goodreads review of Thomas Pynchon’s _The Crying of Lot 49_. It began:
 
