@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-20 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 It was the night before the announcement of the 2017 Man Booker Prize winner, and it was the first time the shortlisted writers had all come together in the same space. In the Royal Festival Hall, where all six shortlisted writers sat next to each other on stage, the anticipation was palpable amid the celebratory atmosphere. There was a collective feeling of awe among the audience, of passion and sincerity emanating from stage, and a general sense of wonder at the power of words.
 Three had flown in from America, one was born in Lahore. Two were here to read from their debut novels. Two were from the UK – one English, one Scottish. One was doing her PhD and worked part-time in an independent bookshop. One was a well-known short story writer with his first novel. All the books harboured themes of displacement and loss, whether in time, space, or memory. For the first time, the writers all met each other and stood in the dressing room, discussing their works before going on stage. Any could win the Man Booker this year.
