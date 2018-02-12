@@ -14,6 +14,8 @@ image: >-
 date: '2018-02-02 12:00:00'
 tags:
   - books
+categories:
+  - books
 ---
 The seeds of this article were sowed over December break, during a weekend I spent in Hamburg, Germany and a visit to Lubeck (Birthplace of Thomas Mann), followed by a week in Poland. 
 
@@ -47,4 +49,4 @@ The third chapter describes the practice of Ketman, where an individual hides hi
 
 Milosz then goes on to describe how four Polish intellectuals responded to this paradigm with outcomes ranging from successful adaptation, the loss of the creative spark or even rejection of the new system. To end the book, Milosz describes the Soviet’s analysis and approach to controlling Polish society and its brutalising of the Baltic states.
 
-Despite the fact that I was originally hoping to pick up a fictional work by a Polish author, the strength of Milosz’s writing and the insights he provides made it a thoroughly enjoyable read and a great way to learn more about Poland. 
+Despite the fact that I was originally hoping to pick up a fictional work by a Polish author, the strength of Milosz’s writing and the insights he provides made it a thoroughly enjoyable read and a great way to learn more about Poland.
