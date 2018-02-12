@@ -14,6 +14,9 @@ authors:
 date: '2017-12-08 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 What was the best thing you read this year? Four of our Books Writers give their thoughts:
 
