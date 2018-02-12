@@ -14,6 +14,9 @@ image: >-
 date: '2017-12-08 12:00:00'
 tags:
   - books
+comments_disabled: false
+categories:
+  - books
 ---
 
 Got a family member you need to get a last-minute gift for? Why not get them a book – at least it's easy to wrap!
@@ -42,4 +45,3 @@ This is a brilliant gift for any occasion, be it Christmas or a birthday - and e
 **_Uncommon Type_, by Tom Hanks**
 
 The one book that I’m asking for this year is _Uncommon Type_. At first, I was slightly anxious that Tom Hanks wouldn’t be able to deliver some good writing, but then I read the first short story of the collection. ‘Three Exhausting Weeks’ is by no means the best piece of work I’ve ever read, but it managed to charm me anyway. It’s a mash of mundane things during a relationship without frills. The characters are entirely plausible and it’s here that I think Hanks will excel in the rest of the collection. Obviously, we know Hanks best as an actor, a job he does astoundingly well. Surely, in essence, writing is the same thing – bringing characters to an audience and making them believable – just by a different medium. Even if he falls short on one story, you can just skip to the next. Maybe that would mean the collection’s not perfect, but it’s a choice that is useful when giving a gift. The themes are broad, from the American Dream to Christmas during World War II: there’s something to interest everyone. - AP
-
