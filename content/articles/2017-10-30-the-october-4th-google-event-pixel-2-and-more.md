@@ -13,6 +13,9 @@ image: >-
 date: '2017-10-27 12:00:00'
 tags:
   - tech
+comments_disabled: false
+categories:
+  - tech
 ---
 Google announced a host of new products in San Francisco on the 4th of October this year. Everyone eagerly awaited the announcement, particularly the unveiling of the company’s second flagship smartphone, the Pixel 2. However, in true Google fashion, there were a few surprises in the announcement too. As always, Felix Tech gives you a round-up of what went down in San Francisco. From the outset, Google made it clear the focus was on Artificial Intelligence and Machine Learning – the idea of integrating clever software with great hardware.
 
