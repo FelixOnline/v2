@@ -11,7 +11,7 @@ authors:
   - nick_ustaran_anderegg
 date: '2018-02-16 12:00:00'
 categories:
-  - science
+  - sport
 ---
 The Imperial 1st team travelled to north London last Wednesday to take on UCL’s silly medics, RUMS. We were there for revenge, after losing earlier in the year to RUMS by just three points. The match started with lots of kicking, and both teams were trying to play for territory. Quick hands from Oliver Duffy allowed Josh Pope to make a break down the wing and exert some attacking pressure on RUMS. From a scrum on their five-metre line, Will Aynsley picked, ran ten metres sideways, and scored – 0-5 to Imperial. 
 
