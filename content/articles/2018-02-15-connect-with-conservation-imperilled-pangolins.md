@@ -5,7 +5,7 @@ featured: true
 comments_disabled: false
 title: Connect with conservation – Imperilled Pangolins
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1685/1685_science_BBB.jpg
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1685/1685_science_pangolin.jpg
 subtitle: >-
   Resident conservationist Steve Allain introduces us to the endangered
   pangolin.
