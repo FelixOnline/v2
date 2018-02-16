@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: Students need to support the strikes – here’s what you can do to help
