@@ -36,7 +36,7 @@ If you can ask them whether they are taking part in this action, and even encour
 
 > Join us for a show of support
 
-Students will be assembling with staff on the first day of action, Thursday February 22nd at 10 am, at the corner of Imperial College Road and Exhibition Road (near the end of the tunnel from South Kensington station, and Skempton). For more details see the [Facebook event](tiny.cc/standwithstaff).
+Students will be assembling with staff on the first day of action, Thursday February 22nd at 10 am, at the corner of Imperial College Road and Exhibition Road (near the end of the tunnel from South Kensington station, and Skempton). For more details see the [Facebook event](https://www.facebook.com/events/240481766492493/).
 
 > Help out with picketing
 
