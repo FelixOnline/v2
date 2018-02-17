@@ -21,7 +21,7 @@ While students at Imperial have a number of ways of making their views on their 
 
 > Extend the undergraduate teaching-assistant role outside the Physics Department – ACHIEVED
 
-Undergraduate Teaching Assistants (UTAs) are those helpers you might have seen in your labs, eagerly giving you advice on why your experiments aren’t working, or – in some cases – desperately fighting off a hangover. They can work for four hours a week, and the role can provide them with teaching experience (or a few extra pounds each month). This year has seen the UTAs rolled out to a couple of other departments: [EEE](http://www.imperial.ac.uk/electrical-engineering/study/current-students-course-handbook/working-as-an-undergraduate-teaching-assistant/) and [Bioengineering](http://www.imperial.ac.uk/bioengineering/admin/uta/) students can now look forward to seeing them in their labs.
+Undergraduate Teaching Assistants (UTAs) are those helpers you might have seen in your labs, eagerly giving you advice on why your experiments aren’t working, or – in some cases – desperately fighting off a hangover. They can work for four hours a week, and the role can provide them with teaching experience (or a few extra pounds each month). This year has seen the UTAs rolled out to [EEE](http://www.imperial.ac.uk/electrical-engineering/study/current-students-course-handbook/working-as-an-undergraduate-teaching-assistant/); students can now look forward to seeing them in their labs.
 
 > Improve feedback quality and timeliness, with a “traffic light” system to ensure coursework is returned within a ten working day period – IN PROGRESS
 
