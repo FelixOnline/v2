@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: Strikes hit Imperial over pensions dispute
@@ -11,7 +11,7 @@ subtitle: >-
   potential changes to pension scheme.
 authors:
   - ff712
-date: '2018-02-23 12:00:00'
+date: '2018-02-23 12:00:01'
 categories:
   - news
 ---
@@ -85,4 +85,4 @@ The decision by UUK to move to a defined contribution scheme has recently come u
 
 Michael Otsuka, a professor at the London School of Economics (LSE) has [estimated around 16 Oxbridge colleges were included in a key survey organised by UUK](https://medium.com/@mikeotsuka/oxfords-and-cambridge-s-role-in-the-demise-of-uss-a3034b62c033), which formed the basis of switching pension schemes. In the survey, which asked universities whether they would prefer moving to a defined contribution scheme that would offer less risk to university finances, Oxbridge colleges were more likely to support a scheme with lower risk. 
 
-In total, 42% of the 116 responses received in the survey were in favour of a less risky scheme. However, those 116 institutions included 16 Oxbridge colleges, as well as Oxford and Cambridge themselves. 
+In total, 42% of the 116 responses received in the survey were in favour of a less risky scheme. However, those 116 institutions included 16 Oxbridge colleges, as well as Oxford and Cambridge themselves.
