@@ -33,7 +33,7 @@ Students then moved to Dalby Court and 170 Queen’s Gate – where [Imperial Pr
 
 A number of students across different departments turned out to support the strike. A [Facebook event](https://www.facebook.com/events/240481766492493/), “Stand with our Staff”, which invited students to join the picket line, had nearly 250 people interested and attending.
 
-Thomas Cross, a first-year aeronautical engineering student, and editor of College and City Guild (CGCU) publication The Bolt, was present at the picket line. He told _Felix_: “I’m here to represent the CGCU, because as a constituent union we’ve decided to follow our fellow members, and ICU as a whole, in support of these strikes.”
+Thomas Cross, a first-year aeronautical engineering student, and editor of City and Guilds College Union (CGCU) publication The Bolt, was present at the picket line. He told _Felix_: “I’m here to represent the CGCU, because as a constituent union we’ve decided to follow our fellow members, and ICU as a whole, in support of these strikes.”
 
 Cross also highlighted the impact these changes could have on those who want to pursue a career in academia: “It was one of the main personal reasons for getting involved in the strike. I’ve been considering a career in academia, but this is seriously going to disadvantage people at a lower level. Those striking are already in the system, and they’ve acquired a certain amount of pension pay, but for us there won’t be anything guaranteed if the changes go through.”
 
