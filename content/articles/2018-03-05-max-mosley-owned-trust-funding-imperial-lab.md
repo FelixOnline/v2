@@ -9,7 +9,7 @@ subtitle: >-
   Imperial.
 authors:
   - jmw216
-date: '2018-02-03 12:00:00'
+date: '2018-03-02 12:00:00'
 categories:
   - news
 ---
@@ -26,4 +26,4 @@ Mosley’s interest in press regulation stems from his successful legal battle a
 
 During the trial Mosley claimed to have no recollection of publishing campaign leaflets calling for black people to be deported and accusing immigrants of carrying diseases such as leprosy, syphilis, and TB. A copy of one of the leaflets carrying the words “published by Max Mosley” emerged earlier this week. Mosley continued to deny his involvement in the 1961 by-election campaign in an [interview with Channel 4 News’ Cathy Newman](https://www.facebook.com/Channel4News/videos/10155725356931939/). Police are now assessing evidence relating to a possible charge of perjury against Mosley.
 
-The College has not commented. 
+The College has not commented.
