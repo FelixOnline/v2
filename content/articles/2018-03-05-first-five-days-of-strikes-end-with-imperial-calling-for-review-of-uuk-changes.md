@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1687/1687_front_protest.jpg
 authors:
   - ff712
-date: '2018-02-03 12:00:00'
+date: '2018-03-02 12:00:00'
 categories:
   - news
 ---
