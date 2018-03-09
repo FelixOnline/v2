@@ -10,6 +10,8 @@ authors:
 date: '2018-03-09 12:00:00'
 categories:
   - news
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1688/Screen+Shot+2018-03-09+at+21.28.14.png
 ---
 The winners of this year’s Imperial College Union (ICU) Leadership Elections have been revealed.
 
