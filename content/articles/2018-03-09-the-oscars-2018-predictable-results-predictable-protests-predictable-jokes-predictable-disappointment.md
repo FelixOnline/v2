@@ -23,6 +23,8 @@ The Academy Awards are, in general, a staid affair, and this year was no differe
 
 _Moonlight’s_ win came after a moderate shake-up of the Academy’s membership, which brought down the average age, increased diversity, and made a small step towards gender parity. In October, the membership was shaken even further, as Harvey Weinstein, the disgraced film producer, who has been accused of sexual misconduct by more than 80 women, was expelled from the Academy. Since then we’ve had the rise of #MeToo and Time’s Up, as more and more women take aim at ingrained misogyny within the film industry.
 
+> “Jimmy Kimmel invited back for another year, hopefully his last”
+
 As we approached this year’s ceremony, there were signs that things would be a bit different: from women wearing black on the red carpet in protest, to Casey Affleck not presenting the Best Actress award amid previous sexual harassment accusations, things were set for this to be a different kind of ceremony.
 
 It wasn’t. Not really. Instead of an evening banishing all the old cobwebs of inequality clinging onto the industry, we had several hours of lip service from presenter Kimmel (invited back for another year, hopefully his last), a few clapbacks against President Trump’s xenophobic tendencies, and a rather predictable slate of award winners.
@@ -40,6 +42,8 @@ Jordan Peele’s win for Best Original Screenplay for _Get Out_ was the biggest 
 Another big breakthrough was the win of Best Foreign Language Film for Chile’s _A Fantastic Woman_, which centres around the experience of a trans woman following the death of her older partner. The film is driven by the intensity of lead actor Daniela Vega, who is herself trans, and became the first transgender presenter at the Oscars when she introduced Sufjan Stevens, performing ‘Mystery of Love’ alongside Annie Clark and Moses Sumney.
 
 On the whole, however, the Academy seemed more prepared to pay tribute to diversity and equality in the form of long montages that said little, rather than tangible changes. While Dee Rees’ _Mudbound_ was held up as a great example of black women making beautiful films, it was only nominated for four awards, and won none. One of these nominations was for Rachel Morrison, who became the first woman ever to be nominated for Best Cinematography in the Academy’s 90-year history – in and of itself an embarrassment. 
+
+> “Frances McDormand manages to salvage the night with a rousing speech”
 
 Greta Gerwig’s _Lady Bird_ went home empty-handed – a travesty – while legendary director Agnès Varda also lost out for Best Documentary. The issue here isn’t so much that Gerwig or Varda deserved to win in their categories, but rather, the eventual winners were so predictable and safe, and – in a number of cases – weren’t actually the best out of the nominees. 
 
