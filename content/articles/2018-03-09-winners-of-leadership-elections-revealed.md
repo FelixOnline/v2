@@ -19,7 +19,7 @@ The Officer Trustee team for next academic year will consist of Robert Tomkies a
 
 The contest for Union President was one of the closely-run in the election, with ten candidates in total. After nine rounds of voting, during which candidates were eliminated and their votes redistributed, Robert Tomkies, the current Royal School of Mines Union (RSMU) President was declared the winner, with 1267 voted. He beat runner-up Michael Edwards, the current Royal College of Science Union (RCSU) President, who received 1045 votes.
 
-The contests for DPFS and DPW were also contested, with three candidates for DPFS and two candidates for DPW. In the race for DPFS, Claudia Caravello was declared the winner after two rounds of voting. She received 1236 votes, while her closest competition, Ella Dean, received 1031. Becky Neil will be the DPW for 2018-19, after beating Matthew Hayward after two rounds of voting; she received 1198 votes compared to Hayward’s 1090.
+The contests for DPFS and DPW were also contested, with three candidates for DPFS and two candidates for DPW. In the race for DPFS, Claudia Caravello was declared the winner after two rounds of voting. She received 1236 votes, while her closest competition, Ella Rice, received 1031. Becky Neil will be the DPW for 2018-19, after beating Matthew Hayward after two rounds of voting; she received 1198 votes compared to Hayward’s 1090.
 
 Alejandro Luy will be next year’s DPE, receiving 2166 votes, while James Medler will be DPCS, with 2078 votes. Both positions were uncontested. Andy Djaba was elected as Felix Editor in the first round of voting, beating three other candidates with 1356 votes. The runner up Jennifer Lea, who had promised to “make FELIX edible”, received 590 votes.
 
