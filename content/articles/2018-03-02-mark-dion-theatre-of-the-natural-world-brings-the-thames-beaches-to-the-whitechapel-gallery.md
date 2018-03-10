@@ -33,7 +33,7 @@ A fusion between museum exhibit and archaeological dig, _Tate Thames Dig_ succes
 
 The fragments of London on display in the collection from the dredging are a celebration of the capital’s history and our relationship with nature and each other. The care taken to organize every object is an almost joyful mirroring of the process natural scientists have used to understand the mysteries of life and the world around us. At last, Dion has taken the fantasy of the armchair biologist out of the study and into the sunlight by the Thames. Only by getting dirty and really engaging with the worlds whose language he adopts can Mark Dion get out of his own study and share with us what there is to see.
 
-**4 Stars**
+**2.5 Stars**
 
 _Where_? Whitechapel Gallery
 _When_? Until 13th May
