@@ -10,7 +10,7 @@ subtitle: >-
   Something of a hit and miss, a retrospective of Mark Dion’s work is most
   successful when it embraces the realities of nature.
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1687/1687_arts_glow.png
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1688/1688_news_elections.jpeg
 authors:
   - nicolas_baird
 date: '2018-03-02 12:00:00'
