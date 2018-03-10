@@ -33,3 +33,5 @@ As the website is progressively improved, it will allow students in tandem with 
 > “An emerging site, ‘Infotree’, aims to take into account the main issues with the layout”
 
 The principal issues with Blackboard are sometimes too present and crucial to be ignored, and giving the students the possibility to control their workspace in a more organised manner could benefit everyone in the department, ridding us of a fair amount of unnecessary effort. Ideally, a website that acts as “a plugin where students can quickly extract and add content from anywhere to just one place” could be a long awaited innovative change, that will keep on developing throughout the years.
+
+_Thushaan Rajaratjam is a third-year mechanical engineering student. He is the creator and operator of Infotree._
