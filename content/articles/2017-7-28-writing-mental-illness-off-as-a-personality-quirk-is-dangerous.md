@@ -1,26 +1,28 @@
 ---
-title: >
-  Writing mental illness off as a personality quirk is dangerous
-subtitle: >
-  Warning people against categorising personality traits as mental illnesses can be counterproductive
-date: "2017-07-28 16:44:13 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201707281918-felix-372408882_da6e52e165_o.jpg"
+title: Writing mental illness off as a personality quirk is dangerous
+subtitle: >-
+  Warning people against categorising personality traits as mental illnesses can
+  be counterproductive
+date: '2017-07-28 16:44:13 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201707281918-felix-372408882_da6e52e165_o.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /comment/7063/writing-mental-illness-off-as-a-personality-quirk-is-dangerous
-comments:
+  - /comment/7063/writing-mental-illness-off-as-a-personality-quirk-is-dangerous
+comments: null
 categories:
- - comment
+  - comment
 tags:
- - imported
- - image
- - multi-author
+  - imported
+  - image
+  - multi-author
 authors:
- - vmh14
- - icanon
-highlights:
+  - icanon
+highlights: null
+published: true
+comments_disabled: false
 ---
 
 Two weeks ago, I read an article in felix posing the question: “Are we medicalising personality?” The author argues that self-diagnosis of a mental health problem can be risky. I agree. They argue that convincing yourself you have a mental illness when you don’t, can make you miserable. I agree. Something far more dangerous, however, is to convince yourself you don’t have a mental health problem when you do.
