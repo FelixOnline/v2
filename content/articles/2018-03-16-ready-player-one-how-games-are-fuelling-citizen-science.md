@@ -1,0 +1,32 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: Ready player one – how games are fuelling ‘citizen science’
+authors:
+  - varshit_dusad
+subtitle: >-
+  Programs like FoldIt are using our enthusiasm for problem-solving to
+  crowdsource solutions to scientific puzzles.
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1689/1689_science_foldit.png
+date: '2018-03-16 12:00:00'
+categories:
+  - science
+---
+If you were told that the next solution to one of our endearing medical and scientific challenges may be coming from a bunch of computer gamers around the world, your immediate reaction will be one of disbelief. Though it sounds surprising, a computer game called _FoldIt_ has been a beneficial tool in helping scientist with solving one of the most difficult problems existing today in science: identification of the three-dimensional structure of proteins from their linear amino acid sequences. The game utilises the superior cognitive ability of the human brain in ‘pattern matching’ and ‘spatial reasoning’, then uses machines to identify the correct three-dimensional structures of proteins. In fact, this game was exclusively designed for this purpose by the University of Washington (UWash). Before _FoldIt_, the scientists at UWash were using general public computer powers to solve protein folding by complex algorithms. However, they realised that humans have an ingenious imagination, which – if properly used – can identify folded structures of proteins much better than computers. They were right! _FoldIt_ was first launched in 2008, and in 2010 a Nature paper showed that the results provided by _FoldIt_ players were far superior to computer-based results.
+
+So, what is the problem with protein folding? Proteins in our cells are microscopic machines, responsible for almost all our basic functions ranging from digestion to respiration, excretion to movement. Being machine-like, their three-dimensional structure is very important for the functions they perform. When unfolded into two dimensions they are merely a chain, strung together by amino acids in different sequences. Knowing this sequence and its biochemistry is simple, but it is very difficult to identify the final three-dimensional structure which proteins take inside cells. There is no common way to predict the shape all protein structures. An unfolded protein (a linear chain) has a large number of degrees of freedom, and applying a mechanism to sort through all possible shapes will take time more than the age of universe – even for a single protein. 
+
+In _FoldIt_, the protein structures to be solved are provided as randomly folded structures. Using the tools provided in the game, the players fold the structures into the most stable conformation possible. Based on their stability, the solutions are scored, and the highest scoring solutions are analysed by scientists to check their validity.  
+
+This strategy of outsourcing part of a challenging research problem to the public is called ‘citizen science’; it encourages direct participation of the public with mainstream science, and educates them about the important topics in science. The idea is not new: before the arrival of mainstream university-driven science, it was done by citizens motivated by reason and desire to understand nature. Both Charles Darwin and Galileo count as citizen scientists, and fields like biology and astronomy have progressed largely by the contribution of amateur scientists. 
+
+In the 21st century, the model of citizen science has changed. Now a well-defined problem with loose constraints is passed onto citizens to solve. These usually belong to the category where large data collection and sorting is required, and computational methods are not enough to manage the scale of the problem. In _FoldIt_, the numerous folding states of proteins are identified using puzzle-solving capabilities of individuals which can bypass computational efforts desired by algorithms. Other popular examples include EteRNA, which deals with the folding of RNA structures, and is very similar to _FoldIt_. Another, ClickWorkers is run by NASA to classify images of Martian craters (a task which done by solitary graduate students would require months of effort), and Quantum Moves which simulate the movement of atoms in the lattice. There is a larger list of such citizen science games online.
+
+_FoldIt_ can be downloaded on your local computer and runs all three popular operating systems: Windows, MacOs, and Linux. The game provides a few introduction puzzles which teaches players how to play it, but beyond that the player can choose from science puzzles that are running. These puzzles do not last forever, though they may run for months until they are considered ‘solved’. Often, these puzzles are either unsolved structures of known proteins, or prediction of structures for synthetically designed proteins. Players can collaborate with each other by chats, organizing groups and sharing puzzle solutions. Additionally, novel strategies discovered from players can be applied to develop better algorithms to automate the process. This, in turn, will help in making the predicting structure for artificially designed proteins simple, such that designed proteins can be effectively made for practical purposes.
+
+Since its inception, _FoldIt_ has been a powerful tool for advancing the number of proteins with folded structure. To its merit, it has some considerable accomplishments: in 2011, the _FoldIt_ community deciphered the previously unknown structure of Mason-Pfizer monkey virus (M-PMV) which is responsible for HIV infections. The protein structure was solved in ten days of the puzzle going live, whereas it had previously remained unsolved for 15 years when attempted using conventional scientific approaches. In January 2012, the _FoldIt_ community predicted the structure of a synthetically designed protein, which was later improved by players themselves to improve efficiency 18-fold. Last year, the Mars Inc. and UC Davis had released a series of puzzles to decipher the structure of aflatoxin, a group of carcinogens which are known to contaminate food crops around the world. The final goal is to design an enzyme which can degrade these aflatoxins based upon the structural prediction of aflatoxins. 
+
+Perhaps, if you are too busy to find time to save the world alone, you can give _FoldIt_ a try.
