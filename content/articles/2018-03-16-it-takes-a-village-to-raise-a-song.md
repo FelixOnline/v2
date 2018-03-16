@@ -9,7 +9,7 @@ image: >-
 subtitle: A band formed through Skype rehearsals release their debut.
 authors:
   - bobbi_lang
-date: '2018-03-017 12:00:00'
+date: '2018-03-17 12:00:00'
 categories:
   - music
 ---
