@@ -13,6 +13,7 @@ image: >-
 date: '2017-11-10 12:00:00'
 categories:
   - film
+comments_disabled: false
 ---
 Upon release, _Barry Lyndon_ was met with intense scorn from some critics: Pauline Kael described it as a “coffee-table movie” and others called it dry, boring, and empty. They were wrong. _Barry Lyndon_ is a visual and philosophical masterpiece that, in my eyes, is Stanley Kubrick’s greatest work.
 
@@ -27,7 +28,7 @@ Kubrick masterly employed modern special effects in _2001: A Space Odyssey_ – 
 
 ![Barry Lyndon employed some of Kubrick’s best camera-work // Warner Bros](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1675/1675_film_barry2.jpg)
 
-Kubrick’s films all involve incredible camera-work, but the aesthetically spectacular _Barry Lyndon_ is visually superior to all others. The grandiose and ornate rooms of the palaces in _Barry Lyndon_ are depicted as dark and lifeless, in contrast to the shots of rural Ireland, Germany, and England, which are portrayed as sun-blessed agrarian paradises. This skilfully illustrates the contrast between the simple, yet naturally beautiful, life Barry was born into and the detached, cold life of which he craved to become a part. Kubrick refused to use artificial light on set and the only illumination came from candle-light; this, coupled with frequently motionless shots, created scenes reminiscent of an 18th century oil painting. The camera is briskly taken from the tripod during periods of violence, such as when Barry brutally flogs his stepson in the Lyndon estate, highlighting how quickly civility can shift to barbarism.
+Kubrick’s films all involve incredible camera-work, but the aesthetically spectacular _Barry Lyndon_ is visually superior to all others. The grandiose and ornate rooms of the palaces in _Barry Lyndon_ are depicted as dark and lifeless, in contrast to the shots of rural Ireland, Germany, and England, which are portrayed as sun-blessed agrarian paradises. This skilfully illustrates the contrast between the simple, yet naturally beautiful, life Barry was born into and the detached, cold life which he craved to become a part of. Kubrick refused to use artificial light on set and the only illumination came from candle-light; this, coupled with frequently motionless shots, created scenes reminiscent of an 18th century oil painting. The camera is briskly taken from the tripod during periods of violence, such as when Barry brutally flogs his stepson in the Lyndon estate, highlighting how quickly civility can shift to barbarism.
 
 By creating the monolith in _2001_, Kubrick portrayed the universe as a Godless vacuum that is controlled by an ambiguous mystical force. These concepts of godlessness and mysticism are again reintroduced into the world of Barry Lyndon but in a much subtler respect. The very first scene shows Barry’s father dying in a duel, and thus throughout the film Barry lacks the omnipresent support and comfort that is associated with having a father or having a God. Barry’s life events are so extraordinary that it impossible they happen by coincidence: there may not be a God present in Barry’s world but there is unquestionably a supernatural force pulling strings in the background. 
 
