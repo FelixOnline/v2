@@ -1,27 +1,32 @@
 ---
-title: >
-  Ten of the best
-subtitle: >
-  Brunch means lazy morning, indulgent eating, and a general disregard for adult meal norms. If you’re anything like us brunch is more important to you than both brekafast and lunch. This is why we went out and found the hottest spots around London where you can eat what you want, when you want.
-date: "2017-02-24 15:23:34 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201702241524-felix-1 - Dirty Bones.jpg"
+title: Ten of the best
+subtitle: >-
+  Brunch means lazy morning, indulgent eating, and a general disregard for adult
+  meal norms. If you’re anything like us brunch is more important to you than
+  both brekafast and lunch. This is why we went out and found the hottest spots
+  around London where you can eat what you want, when you want.
+date: '2017-02-24 15:23:34 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201702241524-felix-1
+  - Dirty Bones.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /food/6829/ten-of-the-best
-comments:
+  - /food/6829/ten-of-the-best
+comments: null
 categories:
- - food
+  - food
 tags:
- - imported
- - image
- - multi-author
+  - imported
+  - image
+  - multi-author
 authors:
- - scc114
- - yyl114
+  - yyl114
 highlights:
- - photos
+  - photos
+published: true
+comments_disabled: false
 ---
 
 ## 1 | Dirty Bones Shoreditch
