@@ -15,7 +15,7 @@ date: '2018-03-26 12:00:01'
 categories:
   - news
 ---
-[Newly-released data](http://www.imperial.ac.uk/human-resources/salaries-terms-and-conditions/pay-gap-report/bonuses/) on the gender pay gap show women working Imperial College London earn, on average, 9.4% less per hour than male staff.
+[Newly-released data](http://www.imperial.ac.uk/human-resources/salaries-terms-and-conditions/pay-gap-report/) on the gender pay gap show women working Imperial College London earn, on average, 9.4% less per hour than male staff.
 
 The data, which were released last Friday, show men dominating the highest paying jobs at Imperial. Furthermore, men are more likely to be granted bonus pay, which is on average 50% higher than the bonus pay for women. The report comes as the government is mandating companies bigger than 250 people to release pay gap data.
 
