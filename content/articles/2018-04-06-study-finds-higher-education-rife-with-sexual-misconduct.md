@@ -16,7 +16,7 @@ date: '2018-04-06 12:00:00'
 categories:
   - news
 ---
-41% of respondents to a [survey](http://felixonline.co.uk/articles/2017-11-24-national-union-of-students-launch-survey-into-sexual-misconduct-at-uk-universities/) recently carried out by the [1752 Group](http://1752group.com/) reported experiencing sexual misconduct by a member of higher education (HE) staff on at least one occasion.
+Over 40% of respondents to a [survey](http://felixonline.co.uk/articles/2017-11-24-national-union-of-students-launch-survey-into-sexual-misconduct-at-uk-universities/) recently carried out by the [1752 Group](http://1752group.com/) reported experiencing sexual misconduct by a member of higher education (HE) staff on at least one occasion.
 
 The [online survey](https://www.nusconnect.org.uk/resources/nus-staff-student-sexual-misconduct-report), carried out by the National Union of Students (NUS) and the 1752 Group, which aims to end sexual misconduct in higher education, collected 1839 responses from current and former students around the UK. One in eight respondents reported being touched in an uncomfortable manner, while 65 current and former students have had non-consensual sex with a staff member. 15 respondents reported being sexually assaulted or raped by a staff member.  
 
