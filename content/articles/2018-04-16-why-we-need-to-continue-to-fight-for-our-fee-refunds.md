@@ -53,46 +53,25 @@ We urge Professor Gast to respond constructively to the letters we have sent and
 
 Signed by:
 
-Hilary Guite
-
-Catherine Webb
-
-Rachael Smith
-
-Anthea Lacchia
-
-Shivani Dave
-
-Joy Aston
-
-Lina Kabbadj
-
-Bridie Kennerley
-
-Olivia Mulvahil
-
-Meesha Patel
-
-Poppy-Jayne Morgan
-
-Chris Richardson
-
-Henry Bennie
-
-Daan Fuldner
-
-Erika Gajda
-
-Rachel Kahn
-
-Sarah Leach
-
-Poppy Lambert
-
-Luke Cridland
-
-Mariam Sabet
-
-Izzy Sturt
-
-Jonathan Neasham
+- Hilary Guite
+- Catherine Webb
+- Rachael Smith
+- Anthea Lacchia
+- Shivani Dave
+- Joy Aston
+- Lina Kabbadj
+- Bridie Kennerley
+- Olivia Mulvahil
+- Meesha Patel
+- Poppy-Jayne Morgan
+- Chris Richardson
+- Henry Bennie
+- Daan Fuldner
+- Erika Gajda
+- Rachel Kahn
+- Sarah Leach
+- Poppy Lambert
+- Luke Cridland
+- Mariam Sabet
+- Izzy Sturt
+- Jonathan Neasham
