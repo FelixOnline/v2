@@ -35,7 +35,7 @@ The production has more in common with ballet than traditional theatre, owing to
 
 There are honestly not enough words to describe how captivating and enthralling this production is. It oozes charm with elegant simplicity. The puppets are most mesmerising; the fluidity of their motions and the uncanny resemblance to our own movements make them endlessly intriguing and entertaining even if the narrative were removed.
 
-5 Stars
+**5 Stars**
 
-Where? Sam Wanamaker Playhouse
-When? Finished 21st April
+_Where_? Sam Wanamaker Playhouse
+_When_? Finished 21st April
