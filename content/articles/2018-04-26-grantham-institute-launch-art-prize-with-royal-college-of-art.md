@@ -23,6 +23,10 @@ The prize aims to raise awareness of climate change, and is themed around the Un
 
 In a statement, the Grantham Institute and the RCA said “Art can be a catalyst for change – it can highlight global issues and provide strong visual representations of our past, our present, and our future. Art itself can be a call to action.”
 
+Martin Siegert, Co-Director of the Grantham Institute, told _Felix_: “Climate change is a real and complex challenge that requires us all to take urgent action. And whilst research is an indispensable tool to tackle climate change, we also need to consider the moral and ethical implications of our choices, both as individuals and as nations. Historically, art has helped us explore difficult issues and has inspired meaningful conversations, but by bringing both art and science together, we can strengthen our voice and be a strong motivator for action on climate change."
+
+"By focussing on a pressing and current global challenge, we hope this competition will forge links that span both Imperial College London’s and the Royal College of Art’s different departments, disciplines and perspectives, reinforcing our already strong relationship.”
+
 The competition is open to members of Imperial, and students from the RCA. Applicants may enter as individuals or groups, and have until the 24th August 2018 to submit their concept. The winners will be announced in October 2018.
 
 The Grantham Institute, which was founded in 2007, aims to “contribute to, and lead on, world-class research, training, and innovation towards effective UK and international action on climate change and the environment.” 
