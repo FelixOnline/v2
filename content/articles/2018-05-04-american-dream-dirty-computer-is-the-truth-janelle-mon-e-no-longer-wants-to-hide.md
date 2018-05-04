@@ -13,7 +13,7 @@ date: '2018-05-04 12:00:00'
 categories:
   - music
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1691/1691_music_pynk
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1691/1691_music_pynk.jpg
 ---
 Janelle Monáe began her career by adopting an android alter-ego, Cindy Mayweather. In singing about oppression, forbidden love, and the struggle to be free in Cindy’s guise, she joined the tradition of artists like Ann Leckie, who see stories about Artificial Intelligence to be more than science fiction fantasy divorced from the world around us, but rather as metaphors for the lives of people who are marginalised and do not fit the mould of the rich, cis, straight, white, and male. Cindy, for Monáe, was a way of speaking out whilst keeping her listeners at an arm’s length – we were able to know about Monáe’s feminism, her politics, but not about her true passions.
 
