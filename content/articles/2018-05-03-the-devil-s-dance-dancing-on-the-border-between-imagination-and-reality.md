@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 comments_disabled: false
@@ -10,6 +10,11 @@ subtitle: >-
   writer.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1691/1691_books_hamid.png
+authors:
+  - ff712
+date: '2018-05-04 12:00:00'
+categories:
+  - books
 ---
 The death of Islam Karimov, the dictatorial leader of Uzbekistan, nearly two years ago, dropped the country into a quagmire of uncertainty. The leader, who had held power for 27 years, was widely criticised for his use of torture, crackdown on press freedoms, and a 2005 massacre in which around 400 protesters were killed. In a turn of events that seems right out of a postmodern satire, the news of his ill-health was announced on his daughter’s Instagram account.
 
