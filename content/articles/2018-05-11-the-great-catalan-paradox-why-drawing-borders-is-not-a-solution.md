@@ -1,0 +1,43 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: The great Catalan paradox – why drawing borders is not a solution
+authors:
+  - ap4913
+subtitle: >-
+  As a response to last month’s Felix article, Alan Perfect writes about how
+  Catalans are attempting to embrace openness while drawing new borders at the
+  same time.
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1692/1692_comment_catalonia.jpg
+date: '2018-05-11 12:00:00'
+categories:
+  - comment
+---
+While I understand you’re probably reading this as a creative form of procrastination from one of those endless sessions in the library, you probably still think that a professional commentator’s opinion on the issue of Catalonia’s independence is where you would like to go if you need a trustworthy source to inform your own confirmation biases. But bear with me. I genuinely think I have something to say on the issue, even if I’m trying to frame it as a response to Aida’s piece fro two weeks ago, instead of as a long overdue article on a subject which the world outside of Spain doesn’t really care about, and which people in Spain are more than tired of seeing in the headlines over and over. 
+
+People love to draw borders. Most people. We find refuge in establishing boundaries at all levels of human social interaction, from small families to large countries. And it’s easy to understand why. If boundaries aren’t present, clear, well-defined groups cease to exist. Some groups are more open than others: the only barrier to entry for the IC chess club, for the sake of the example, is being at least somewhat enthusiastic about chess, while the requirements to enter my local golf club are a bit more stringent: you must personally know a member and they have to recommend you, which basically means they’ve judged whether you’re similar to the rest of the members on a series of constructed social attributes.  
+
+Even if you consider yourself an open person, you’re still drawing boundaries with your friends, as you’ll tend to call and invite the people you get on with – people who share a similar set of attributes or experiences with you, whatever that may be. And at a lower level of resolution, boundaries between communities take the form of a border between countries. However arbitrary they may seem, at least most of them tend to reflect a very old idea: that the experience of being French, for example, seems to reflect a different experience to that of being Swiss or German. 
+The new globalised world offers a flipside to our traditional love for boundaries, manifested in the form of megacities like London, which embrace what I like to call radical openness: the absolute absence of a barrier to entry in terms of any attribute – race, culture, customs, you name it. Step into the tube and you’ll be surrounded by a mix of people with hugely varying conceptions of the world, motivations on how to act on it, and ways in which their lives should develop. Megacities are interesting experiments of what comes out of being radically open. 
+
+> “People love to draw borders. If boundaries aren’t present, clear, well-defined groups cease to exist”
+
+And while I wouldn’t have space to explain the upsides of the existence of megacities’ radical openness, there’s a big problem that a boundary-loving person would point out. Cities like London lack boundaries and real borders, so their definition becomes blurry. There is no clear sense of community and a lack of definition of what this group is or what it is for. As a Londoner, you cease to become part of something and become an anonymous individual in a massive jungle. People become lonely, focus mostly on themselves, and end up not knowing the name of their next-door neighbour. And it’s understandable. If the IC chess club suddenly had a massive influx of people to the point of a fifty-fold increase in their membership, but none of them wanted anything to do with chess, something similar would happen. Yes, the club would become very powerful in Union Council meetings, but a sense of what the club is for would dilute and disappear. And probably the members wouldn’t get along as well.
+
+It is important to understand boundaries and openness in order to understand the Great Catalan Paradox. Indeed, it’s hard to think of anything more paradoxical than what the Catalans are trying to do, which is to embrace radical openness while drawing new borders at the same time. At a time when political lines divide along openness-closedness (Brexit or EU, protectionism or globalism, anti-immigration or pro-immigration) much more than along traditional left and right-wing politics, the Catalan issue of independence seeks to exist in a sort of quantum superposition of both.
+Barcelona has always regarded itself, and been regarded by others, as the most open, liberal city in Spain. A sort of Spanish California. Its status as an economic powerhouse has turned it into a very cosmopolitan city. You can find an immense cultural exchange, an insanely rich artistic scene, and a huge variety of immigrants from differing religions and cultural backgrounds. And it aims to be more than that. At a time when EU bureaucrats dream of creating a European Silicon Valley, Barcelona is sometimes mentioned as one of the potential contenders. Contrast this openness with the Castilian, closed, and mostly uniform rest of Spain led by conservative Madrid, and an eventual conflict might emerge. 
+
+And here it is. The Great Paradox. Liberal Barcelona trying to approach more openness by dividing us even more than we are already. An attempt to try to distance itself from the closedness and slightly backwards image they have of Spain (which, to be honest, is a country that still considers bullfighting an elevated form of artistic expression) by practicing a liberal paradox: drawing more borders so they can be more open.
+
+I, however, am no one to decide how to solve this inconsistency. This is up to them. How to embrace their own redefinition is not something I can answer. But I have a solution to how they should answer these questions: 
+
+Firstly, they should be entitled to a three-round referendum. One now, one in three years and one in six years. By doing this, the Catalans will have an opportunity to show how deep their dividing line is, and whether it’s worth it or not. Having three rounds will do two things: it will ensure that the heat of the moment is taken away – making sure it’s a vote about the future of the country and not just a protest vote on a single issue (I’m looking at you, Brexit) – and it will ensure that it’s not an economic issue. The only thing that upset me about Aida’s last week article was the argument that Catalans should have a vote because Madrid has been a terrible manager of the economy since the recession. This argument is just plainly absurd. Recessions happen all the time, and if countries broke up every time there was one, there wouldn’t be a country left that was larger than the size of my backyard. 
+
+> “A true liberal paradox: drawing more borders so they can be more open”
+
+And secondly, the type of country Catalonia wants to be should be included in the referendum. It shouldn’t just be a simple “do you want to be an independent country” question, but a vote on a new Catalan constitution. Why? Because the broadness of political thinking that lies within the independentist movement is staggering. This is something that people tend to forget when they erroneously compare the Catalan issue with the Scottish issue. The Scottish independence movement is pretty much led by a single party, the SNP, which has a clear social-democratic agenda and clear views on most policies. Contrast this to the coalition and supporting parties that put Puigdemont into power. It ranges from the bourgeoisie conservative PDeCAT all the way to the anarchists from the CUP. Can anyone even pretend to predict what kind of country would emerge out of that? Clearly not. The constitution must thus be written before the vote is taken.
+
+I do have to say, though, that although I’m not a huge fan of the independence movement, I have a deep respect for a politician willing to go to jail for his ideas, such as Puigdemont and other Catalan leaders. I would never even dream of a character like that coming out of the Oxbridge career politicians that run the UK or a Clinton-like figure in the US. It shows that, at least in some contexts, idealists can still gain power, in contrast with the money and large corporation power dynamics that engulfs politicians these days.
