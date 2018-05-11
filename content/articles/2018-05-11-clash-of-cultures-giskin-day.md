@@ -25,6 +25,8 @@ Giskin: Medical Humanities is actually not new at Imperial; we’ve run a course
 
 Throughout the course every week there is a field trip; we’ve been to lots of galleries, we’ve also been to the law courts, we’ve been to museums. We’ve worked in partnership with the Chelsea Physic Garden to learn about the history of pharmaceuticals, and we’ve had a lot of wonderful workshops with practising artists who are inspired by medicine and science. Students have had a chance to have a go at these various art-forms, like life drawing and sculpture, as well as learning about the medical contexts of the arts.
 
+> “The arts give you, first and foremost, the opportunity to learn to manage ambiguity”
+
 **F: And what’s the reaction been like from the students on the course?**
 
 G: Well, naturally, the students who choose our course do tend to think of themselves as being interdisciplinary and interested. But, I guess, it’s slight different now with intercalated BSc, because we’ve got students who are attracted to the philosophy component, or the law component, perhaps more than the art. Probably a greater proportion of them feel slightly like a fish out of water when it comes to art. But our mantra is: you don’t have to be artistic to do the course, it’s all about creativity and giving it a go; the process is far more important than the product. 
@@ -39,6 +41,8 @@ When you’re working in real life, you rarely have all the data to hand, there�
 
 G: I couldn’t agree more. It’s quite a tricky skill: when you write for different audiences it’s not about dumbing down, it is really about pitching yourself and your material in a slightly different way. And it is invaluable. I think those kinds of skills are becoming ever more important in a digital world. It’s important not just to be able to communicate technical information to others in your field, but to think about different audiences. And today, we’re talking before the Imperial Festival takes place, which is a wonderful chance for scientists to leave the labs and the ivory tower and engage with real people who are interested in their work.
 
+![The current Humanities, Philosophy and Law intercalated BSc class // Giskin Day](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1692/1692_arts_class.jpg)
+
 **F: Do you also think that humanities and arts students should study some science? Can that help their practice as well?**
 
 G: I think we often view the arts and sciences as two incommensurate paradigms, when actually, there’s a lot of overlap. They can both be analytical, they can both be emotional, and they both have elements of subjectivity as well as objectivity. So actually, there’s not a great difference between them, but just for the purposes of academia, we do tend to divide them up. Artists are hugely inspired by science and medicine. Go to any art gallery and you’ll find works that have been really inspired by science and the weight of knowledge. I think that we could all do with being curious about everything, and not pigeon hole ourselves as ‘sciencey’ or ‘arty’. We should be embracing both. They complement each other.
@@ -48,6 +52,8 @@ G: I think we often view the arts and sciences as two incommensurate paradigms, 
 G: Without a doubt. I think it starts very early on in school, where if you’re going to do the science route you’re obliged to take a certain set of subjects. There is definitely this two-tier system, where it’s generally thought that those good at maths go into the sciences and those that are not take the humanities, which is a great shame. 
 
 Paradoxically, by the time students get to university, the arts feel too challenging somehow.. But I think that is a side effect of being part of an institution in which the rhetoric of excellence sometimes interferes with the permission to experiment and permission to try things out. That’s what I think the arts are so useful: you can be experimental. The Horizons programme allows students to expand their boundaries and their ways of thinking. It’s a fantastic opportunity for all undergraduate students to engage with subjects that make them well-rounded individuals.They can then graduate with an education rather than  with just a degree.  
+
+> “I think we could all do with being curious about everything, and not piegeon hole ourselves as ‘sciencey’ or ‘arty’”
 
 **F: Taking things back a little, could you tell us a little about your career and your journey  and how you ended up here today?**
 
