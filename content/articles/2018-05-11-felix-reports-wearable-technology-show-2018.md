@@ -34,6 +34,8 @@ One way scientists propose to change a typical therapy meeting with VR is by int
 
 While this article mainly discussed the use of VR technology in therapies, it also has a possible application in training doctors. VR could be used to teach clinical skills that are tool-based, allowing doctors to practice those skills even when they don’t have physical access to those tools at that time.
 
+![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1692/1692_tech_wearable.jpg)
+
 > The future of wearable technology: Smarter and smarter 
 
 Google Glass was criticized a lot for its privacy concerns, and smartwatches are only uststarting to take off. So where is the world of wearable technology heading towards?
