@@ -1,0 +1,52 @@
+---
+published: true
+headline: true
+featured: true
+comments_disabled: false
+title: Happening today –100 years of Feynman
+subtitle: >-
+  Born a century ago today, Richard Feynman was one of the most brilliant
+  physicists of his generation. Science Writer Sanziana Foia explains how his
+  brilliance stems from a non-conformist spirit and a playful attitude.
+authors:
+  - sanziana_foia
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1692/1692_science_feynman.jpg
+date: '2018-05-11 12:00:00'
+categories:
+  - science
+---
+Richard Feynman, born on the 11th of May 1918 in New York, is one of the greatest physicists and science communicators of all times. He is best known for his work in the field of quantum electrodynamics and for his ingenious way of representing complex mathematics through simplified diagrams. However, his contribution to science is more than a series of discoveries. It is about the human – or more specifically, how the fears, the joys, and the ambitions of the human led to those breakthroughs. Can one mind change society? Can the genius, the principles, and the choices of a single person all converge to lead to great discoveries and giant scientific progress?
+
+In the summer of 1945, a young man was watching through a truck’s windshield something no one else dared to view with the naked eye.  Only he saw the blinding light and the deadly cloud rising from what was the first atomic bomb in history. However, in the shadow of his beloved wife’s recent death, the joy of success was suddenly followed by disturbance. The race he had embarked to save his country had a side he did not contemplate before, but that eventually grew too prominent to overlook – Hiroshima and Nagasaki, two names that became synonymous with ‘destruction’ in the young scientist’s vocabulary. In the aftermath of the genocide he realised he contributed to, Feynman made himself a life-changing promise: he vowed he would never again use science to provide humanity with such tools, rather he would only pursue it for a more selfish reason – for the fun of it. This promise, however, was going to change more than one man – it was going to change mankind.
+ 
+> Deciding what is right 
+
+Richard Feynman was born in New York City, growing up through the Great Depression. His father worked in a company that manufactured uniforms for the military, which made him develop a strong distrust of authority. He thought humans should only be admired for what they “especially did” and not because of their “name and position – their uniform”. As Feynman later stated: together with curiosity, disrespect was the most important thing his father taught him. It allowed him to place himself and his thinking above social norms and hierarchies, turning him into a nonconformist. 
+
+As a successful MIT graduate and remarkable Princeton PhD student, he was recruited to join the Manhattan Project at a secret laboratory in Los Alamos. The US feared Germany would be the first to invent the atomic bomb and that they would win World War II to become a dominant power. This was a defeat the US could not afford, so the project was put in place, taking on the brightest physicists of the time. Feynman strongly felt it was part of his duty as a citizen, so accepted the job, and was integral in helping the team speed up their calculations. 
+
+America did win the atomic bomb race and – with that – the war. But the fact that he contributed to the deaths of so many individuals deeply disturbed Feynman – the whole race had not been worthwhile. Leaving for Cornell University to become a professor in the Physics department – and still shaken by the events of the summer – he developed anxiety about doing anything important that could eventually turn into something destructive. However, he recalled he used to enjoy physics, and because he “used to play with it, it was never very important”. This decision of only approaching science with ludicrous curiosity, and solely for personal entertainment, made him even more of a nonconformist in the world of science, and shaped his style of enquiry.
+
+> Nonconformity fuels creativity 
+
+Individuals with an independent concept of themselves are stimulated by standing out and being seen as separate from others. Insensitive to isolation, they place little value on belonging to a group, and so renounce all the constraints that prevent them from thinking by their own rules within an environment that demands conformity. Exploring unusual or controversial ideas, which pose a high risk of being rejected or not being understood by the scientific community, led to some of the most creative solutions and truly, some of the world’s greatest discoveries. This was also the case with Albert Einstein, who revolutionised physics through his theory of general relativity, first proposed to an incredulous public. Another example is Oswald Avery, who was the first to state that, contrary to the general scientific opinion, genetic material was represented by DNA and not proteins. 
+
+Feynman was a nonconformist as “he did not need the external validation of having everybody respecting him all the time”. His manner of disregarding the opinion of those around him, which was primarily instilled by his father, enabled him to assert his ideas in entourages that were likely to dismiss them. It is this attitude that allowed him, for instance, to become one of the most valued debate partners for Niels Bohr. As Feynman said, once he was made to talk about physics, he would forget about all social subtleties. That is why he pointed out any flaws in the thinking of Bohr, making him very appreciated, though not liked, by the great physicist.
+
+But most important for Feynman was – as he had promised himself – to play, guided by what was “interesting, fun and right to do”. He took a sabbatical year to study viruses and ants, a decision fuelled purely by his refusal to constrain his passions. He also took drawing classes, much to his colleagues’ discontentment, who thought he was “wasting his time” and gift for Physics. When the time came to be nominated for a Nobel Prize, he scorned it, saying he did not need any honours. “The pleasure of finding the thing out, the kick in the discovery, and the observation that other people use it” was the only prize he needed. This playful curiosity, coupled with anti-authoritarian values, projected over his style of enquiry. His unconventional mode of approaching problems excited his creativity, which meant he could arrive to solutions in an unprecedented manner.
+
+![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1692/1692_science_feynman2.jpg)
+
+> Sometimes it is important just to play 
+
+Feynman’s unorthodox way of thinking stepped in when physics was confronting with a great crisis. Classical theories were beginning to fail at explaining or predicting all phenomena in the universe, as a new field was emerging: Quantum Electro-Dynamics (QED). This area of physics describes the interaction of light with charged elementary particles. By explaining how these interactions work, QED thoroughly explains electromagnetism, one of the fundamental forces of nature and of the universe. As electromagnetism underlies how atoms come together or break apart to form molecules, it explains chemistry. And, as living organisms are the result of a myriad of complex chemical reactions, electromagnetism is also at the base of all biological processes.
+Without a coherent QED theory, nature could not be entirely understood. But, there was a problem – when the mathematics of QED were not becoming inhumanly complex, they appeared to be flawed. Some equations predicted results of infinity for measurements that yielded finite numerical values in the laboratory – a complete contradiction. It was Feynman who found the underlying cause of this problem, though his source of inspiration was rather unconventional. 
+
+A student tossed a plate up in Cornell’s cafeteria, and Feynman observed how the imprinted blue crest of the university was wobbling as the plate was spinning down. He “played around” with the equations of motion until they led to the similar problem of the electron’s spin in QED equations. Richard realised the equations resulting in infinity did not mean they were wrong, but that they needed to be approached from a different perspective. For a man who decided to explore physics for fun, and who did not care about how his ideas were going to be judged by fellow scientists, this was the perfect task. Feynman’s strange method of depicting complex mathematical equations through diagrams meant that the complicated calculations required by QED could be side- stepped. 
+
+Though revolutionary, Feynman’s idea was unfamiliar and only understood by few at first. Although some great personalities of physics raised objections, they all soon began to acknowledge the powerful tool that Feynman had created, and which eventually brought him a Nobel prize. QED was finally a complete theory which made meaningful predictions about the world. The “most numerically precise theory invented” was working, and it was all down to Richard Feynman’s childish self, who gave no importance to the implications of his work – he just wanted to play. 
+
+Feynman’s work has found applications in numerous fields that either explain the world around us or affect our daily lives. From elucidating the evolution of galaxies to telecommunications, from fundamental phenomena to daily life, everything has QED at work. Even our smartphones and computers might have been science fiction today if it was not for a young heartbroken scientist who decided not to ever do anything important, in the summer of 1945. 
+
+Do shifts within scientists affect humanity? Nonconformity, coupled with an individual concept of self and the mind of a genius lead to spikes in creativity. Creative solutions are sometimes found by exploring realms that are novel, unusual, and often get rejected by the more conservative thinkers. The choices scientists make, and the approaches they decide to take when tackling a problem, are reflected in how they find a solution. A problem solved, a small success for a single man, could become a scientific revolution for mankind. 
