@@ -15,9 +15,9 @@ date: '2018-05-11 12:00:00'
 categories:
   - news
 ---
-Two Imperial graduates have taken seats on London councils in this month’s local elections. 
+Three Imperial graduates have taken seats on London councils in this month’s local elections. 
 
-Sina Lari and Leo Cassarani – both of whom stood as Labour Party candidates – won seats in the wards of [Golborne](https://www.rbkc.gov.uk/council-and-democracy/local-democracy-and-elections/golborne-local-election-results-2018) and [Swiss Cottage](https://www.camden.gov.uk/ccm/content/council-and-democracy/elections-and-voting/2010-elections/twocolumn/local-council-elections-2018-results/#swiss) respectively. 
+Sina Lari and Leo Cassarani – both of whom stood as Labour Party candidates – won seats in the wards of [Golborne](https://www.rbkc.gov.uk/council-and-democracy/local-democracy-and-elections/golborne-local-election-results-2018) and [Swiss Cottage](https://www.camden.gov.uk/ccm/content/council-and-democracy/elections-and-voting/2010-elections/twocolumn/local-council-elections-2018-results/#swiss) respectively. Zain Abbas also won a seat in Canbury Ward, which is part of Kingston upon Thames Council.
 
 Lari, a recent biology graduate and vice-chair of the Kensington Labour Party, joins Emma Dent Coad and Pat Mason. The three Labour councillors took more than 75% of the vote share.
 
@@ -40,13 +40,25 @@ In Swiss Cottage, computing graduate Cassarani was elected alongside fellow Labo
 Speaking to the [_Camden New Journal_](http://camdennewjournal.com/article/swiss-cottage-labour-ousts-tories-with-grassroots-campaign), Cassarani said: “The residents of Swiss Cottage are sick of being taken for granted by the Tories. They’ve had the same local councillors for almost 20 years and I think they wanted a change.”
 
 Cassarani chalks the success of the Camden Labour Party up to its “incredible grassroots campaign”.
+
 “Our top priority was to speak to as many local residents as possible; by the end of our campaign 80% of local residents had spoken to a Labour canvasser,” Cassarani told Felix. “The national Labour Party said we had the highest contact rate in the country.”
 
 He added: “We were hugely outspent by our opponents [the Conservatives] who flooded the area with leaflets, direct mailings, attack letters, manifestos...but we continued to focus on local residents and the issues that worried them.
 
 “The best part was the number of residents who told us they voted Labour for the first time because they had seen the difference a grassroots, community-based approach can make in local government.”
-Labour also did well in the wards of [Hammersmith and Fulham](https://www.lbhf.gov.uk/councillors-and-democracy/elections/election-2018/2018-council-election-results) – a borough which, like Kensington and Chelsea, counts a significant number of Imperial students as constituents. Labour gained nine seats from the Conservatives; Labour now has 35 councillors in Hammersmith and Fulham compared to eleven for the Conservatives. 
+
+Abbas, who graduated from Imperial in 2015, was one of 39 Liberal Democrat councillors elected last week in Kingston upon Thames. Kingston upon Thames was one of the key successes of the evening for the Liberal Democrats, who recaptured the council lost to the Conservatives in 2014.
+
+The Liberal Democrats increased their share of the vote in Kingston upon Thames by over 20% since the last local elections, increasing their councillors within the borough by 21.
+
+Abbas said taking power from the previous Conservative council was "refreshing". Speaking to Felix, he said: "Making savings, being environmentally considerate, and listening to people's views are all things that you only read in leaflets and headlines, and you often don't believe it. It actually feels pretty good to implement it – even if it's on a very small scale."
+
+He said the changes planned by the Liberal Democrats "weren't that hard to implement, you just need the will power." 
+
+Kingston upon Thames was one of three councils the Liberal Democrats took from the Conservatives in the local elections, something some members chalked up to the party's pro-remain stance. Over 60% of those who voted in the EU referendum in Kingston upon Thames voted to remain.
+
+Labour did well in the wards of [Hammersmith and Fulham](https://www.lbhf.gov.uk/councillors-and-democracy/elections/election-2018/2018-council-election-results) – a borough which, like Kensington and Chelsea, counts a significant number of Imperial students as constituents. Labour gained nine seats from the Conservatives; Labour now has 35 councillors in Hammersmith and Fulham compared to eleven for the Conservatives. 
 
 An analysis before last year’s general election for [_London Student_](https://londonstudent.coop/news/2017/05/22/students-defend-marginal-labour-seat/) suggests turnout among Imperial students can swing results in Labour’s favour, particularly in marginal seats. It is unclear if this was a factor in the local elections, where turnout is typically lower than that of general elections. Many students eligible to vote do not do so in their university constituency, choosing either to vote in their home constituency or not at all. 
 
-Elsewhere in the country [Labour emerged as the single largest party](http://www.bbc.co.uk/news/uk-politics-43992681), picking up 79 seats to take its total to 2,350. The Conservatives have 1,332 seats – a loss of 35. The Liberal Democrats and Green Party both gained seats while the UKIP vote all but collapsed, leaving it with three seats. 
+Elsewhere in the country [Labour emerged as the single largest party](http://www.bbc.co.uk/news/uk-politics-43992681), picking up 79 seats to take its total to 2,350. The Conservatives have 1,332 seats – a loss of 35. The Liberal Democrats and Green Party both gained seats while the UKIP vote all but collapsed, leaving it with three seats.
