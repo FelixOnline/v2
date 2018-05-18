@@ -13,9 +13,9 @@ date: '2018-05-18 12:00:00'
 categories:
   - clubs-and-socs
 ---
-‘It’s 2017 at Imperial College Union; clubs are abundant and resources few. Their quests are ambitious, but it’s dangerous to go alone. 
+_‘It’s 2017 at Imperial College Union; clubs are abundant and resources few. Their quests are ambitious, but it’s dangerous to go alone._ 
 
-Their Union has devised Imperial Club Experience Project (ICXP) to equip clubs with the tools they need for development and to enhance their members’ experience. By completing a set of goals, clubs can gain the experience they need to level up. Club that opt in will be richly rewarded.’
+_Their Union has devised Imperial Club Experience Project (ICXP) to equip clubs with the tools they need for development and to enhance their members’ experience. By completing a set of goals, clubs can gain the experience they need to level up. Club that opt in will be richly rewarded.’_
 
 At this point anyone with a penchant for 80’s arcade games should get the (dubious) references, but the real challenge is extracting meaning from such an abstract concept. ICXP – what is it and how does it affect clubs at Imperial?
 
@@ -30,4 +30,4 @@ Ready player 2?
 
 *Now dormant, RIP.
 
-You can sign up your CSP before the deadline (21 May) [here](imperialcollegeunion.org/icxp). For any questions email activities@imperial.ac.uk.
+_You can sign up your CSP before the deadline (21 May) [here](imperialcollegeunion.org/icxp). For any questions email activities@imperial.ac.uk._
