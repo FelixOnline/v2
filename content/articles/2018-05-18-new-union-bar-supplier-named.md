@@ -17,7 +17,7 @@ categories:
 ---
 Molson Coors – the current non-draft beer provider – has been chosen as the new draft beer supplier for the Imperial College Union bars, replacing Greene King.
 
-The change of supplier will take effect on the 1st of August, after a five months' tender process for the position. Staropramen, Pravha, Carling, and Aspalls among others will be available from the keg. While the Union is still to make a decision on prices, following a separate budgeting process, previous surveys released by the Union suggest a pint of Staropramen could cost up to £4.50 against £2.80 for current house lager Stella 4. 
+The change of supplier will take effect on the 1st of August, after a five months' tender process for the position. Staropramen, Pravha, Carling, and Aspalls among others will be available from the keg. While the Union is still to make a decision on prices, following a separate budgeting process, previous surveys released by the Union suggest a pint of Staropramen could cost up to £4.50. Pravha would be the replacement for the current house lager Stella 4, which currently retails for £2.80 a pint. 
 
 Matt Blackett told _Felix_: "‘I am delighted to announce the new bar supplier for the Union will be Molson Coors. It was fantastic to be part of the tender process along with the other student representatives on the Panel. The hard work put in by the Union’s Commercial Services team has resulted in a great deal for our members for the next three years.”
 
