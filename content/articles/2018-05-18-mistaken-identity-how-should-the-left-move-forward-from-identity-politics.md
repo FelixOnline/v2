@@ -27,8 +27,6 @@ Haider writes from personal experience: he describes his difficult relationship 
 
 Haider is at his best when neatly skewering the most unproductive aspects of today’s discussions around identity. He takes umbrage with how theoretical ballast underpinning sociological and political concepts has been eroded over time – intersectionality, for instance, which legal scholar Kimberle Crenshaw based in materialistic reality, “now has an intellectual function comparable to ‘abracadabra’ or ‘dialectics’”.
 
-![Jesse Jackson put forward his ‘Rainbow Coalition’ in the 1980s // Wikimedia](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1693/1693_books_jesse.jpg)
-
 Those who read the subtitle of the book and expect an analysis of how race or class really operate under Trump, however, will be disappointed. Haider very rarely touches on Trump, or the reason he managed to take the White House, and only mentions Hillary Clinton as an example of where identity politics becomes disconnected from a fully realised revolutionary agenda – a politics wholly constituted by the idea of identity, rather than formed through it.
 
 Any discussion about political concepts needs to examine their foundations: you cannot have a debate about the current refugee crisis without asking what we mean by statehood or borders, and identity politics should not be mobilised without an interrogation of what we mean by identity. Haider is aware this can be tricky, since, in the absence of “other practical organisational efforts to combat racism, any questioning of the framework of identity seems like an attempt to deny the validity of the antiracist struggle.”
