@@ -30,4 +30,4 @@ Ready player 2?
 
 *Now dormant, RIP.
 
-_You can sign up your CSP before the deadline (21 May) [here](imperialcollegeunion.org/icxp). For any questions email activities@imperial.ac.uk._
+_You can sign up your CSP before the deadline (21 May) [here](https://www.imperialcollegeunion.org/activities/running-a-club-society-or-project/icxp). For any questions email activities@imperial.ac.uk._
