@@ -27,3 +27,5 @@ The nature and significance of these shadows are ambiguous: they appear to draw 
 
 _ONE HUNDRED SHADOWS by Hwang Jungeun (translation by Jung Yewon)
 And Other Stories. 120 pp._
+
+![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1694/1694_books_shadows.jpg)
