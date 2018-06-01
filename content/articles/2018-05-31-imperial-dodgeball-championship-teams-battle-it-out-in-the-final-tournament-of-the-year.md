@@ -16,7 +16,7 @@ subtitle: >-
   day say goodbye to members who will be graduating.
 date: '2018-06-01 12:00:00'
 categories:
-  - science
+  - sport
 ---
 Last Sunday, Imperial Wolverines ventured one last time out of the comforts of London into the wilderness of the north for the final university dodgeball fixture of the year: the University Championship. Teams from far and wide dropped their revision books and grabbed their balls to take part at the event at St George’s Park, Burton-on-Trent.
 
