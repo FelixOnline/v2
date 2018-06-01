@@ -1,16 +1,17 @@
 ---
-published: false
+published: true
 headline: false
 featured: false
 title: Campaigning for a better Imperial
 subtitle: Campaigns Officer Connor Qiu lets us know what he's been up to.
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1671/1671_liberation_connor.jpg
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1671/1671_liberation_campaigns.jpg
 authors:
   - connor_qiu
 date: '2017-10-13 12:00:00'
 categories:
   - Liberation
+comments_disabled: false
 ---
 Earlier this year when I ran to become your Campaigns Officer, I spoke about the ways in which previous campaigns have changed the very fabric of the Imperial that we know and love. I referenced the way in which we lobbied for quality affordable accommodation for all our students, and for free universal healthcare coverage for our international student community – success or failure, over the years there have been many excellent campaigns that have had a profound impact on our university experience. 
 
