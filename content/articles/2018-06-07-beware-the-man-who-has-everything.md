@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: Beware the man who has everything
