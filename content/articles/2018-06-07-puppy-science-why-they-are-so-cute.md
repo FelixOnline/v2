@@ -9,7 +9,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1696/1696_science_puppy.jpeg
 authors:
   - sarah_wong
-date: '2018_06_08 12:00:00'
+date: '2018-06-08 12:00:00'
 categories:
   - science
 ---
@@ -25,4 +25,4 @@ The three breeds shown were Jack Russell Terrier, Cane Corso, and White Shepherd
 
 To study the human-dog bond, the paper suggested they could screen videos instead of still photos, in order to study how the movement of dogs affected our perception of the puppies. While the experiment is overwhelmingly cute, we can also learn some psychological information, since baby-like facial traits in humans are also perceived as more likable. For example, if you have a ‘baby-face’, with a larger forehead and a smaller jaw, you are probably perceived as more attractive. This phenomenon, coined ‘Kindchenschema effect’, is proposed to ensure adults care for their young’uns, so babies survive. 
 
-So next time you see a puppy, think how Mother Nature is manipulating us to love them, and then go pet them! If you have a baby face, be grateful as you are perceived as more attractive! If you do not however, it is also fine as you have already grown up and your parents love you anyway. 
+So next time you see a puppy, think how Mother Nature is manipulating us to love them, and then go pet them! If you have a baby face, be grateful as you are perceived as more attractive! If you do not however, it is also fine as you have already grown up and your parents love you anyway.
