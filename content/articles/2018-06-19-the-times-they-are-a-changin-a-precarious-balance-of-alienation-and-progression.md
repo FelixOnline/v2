@@ -1,6 +1,6 @@
 ---
 published: true
-headline: false
+headline: true
 featured: true
 comments_disabled: false
 title: >-
@@ -44,4 +44,4 @@ It wasn’t to last though. His next album, _Station to Station_, saw him fuse f
 
 I won’t bore you with all the details of his subsequent works, but let it suffice to say he hopped into new-romanticism, flirted with disco, sported some chart success (his ‘Phil Collins Years’), tried his hand at world music, formed a boyband, hit up industrial, drum n bass, jazz, and much, much more. With each twist, some fans were lost and some gained; the net result wasn’t always positive. 
 
-I think to an extent every artist is restless. No one wants to define or be defined by a sole look, genre, or rhetoric. But few illustrated that irrepressible agitation and hunger for change better than David Bowie. 
+I think to an extent every artist is restless. No one wants to define or be defined by a sole look, genre, or rhetoric. But few illustrated that irrepressible agitation and hunger for change better than David Bowie.
