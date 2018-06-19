@@ -8,8 +8,7 @@ subtitle: >-
   GDPR might have started prompting change, but the current practices of
   internet giants needs we need to take our privacy seriously.
 image: >-
-  GDPR might have started prompting change, but the current practices of
-  internet giants needs we need to take our privacy seriously.
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1697/1697_comment_cambridge.jpg
 authors:
   - artur_donaldson
 date: '2018-06-15 12:00:00'
