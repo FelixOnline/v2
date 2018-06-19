@@ -16,7 +16,7 @@ date: '2018-06-15 12:00:00'
 categories:
   - comment
 ---
-Even if you didn’t read Kapilan’s article in last week’s Felix (Felix 1696), the new General Data Protection Regulation (GDPR) will not have escaped your attention thanks to the barrage of emails you will have received over the past few weeks. 
+Even if you didn’t read [Kapilan’s article](http://felixonline.co.uk/articles/2018-06-07--we-have-updated-our-privacy-policy-a-closer-look-into-gdpr/) in last week’s _Felix_, the new General Data Protection Regulation (GDPR) will not have escaped your attention thanks to the barrage of emails you will have received over the past few weeks. 
 
 GDPR could have a profound influence on the future of the World Wide Web. Just as the Kyoto Protocol showed nations can come together to take meaningful action for the future of the natural world, GDPR shows nations can come together for the future of the cybernetic world. For too long the World Wide Web, originally a decentralized means of freely sharing information, has become centralized and monopolized by a few key players. The risks are demonstrated by countless data breaches, the worst revealed this year being the Cambridge Analytica files and MyFitnessPal cases. We each need to realise what information is being collected about us, and to take action not just as a society, but as individuals. Legislation alone is not enough to ensure that our information is not used to do harm – We must break up monopolies, change business models from profit to non-profit, and redesign our technology so it is physically impossible for information to be disclosed.
 
