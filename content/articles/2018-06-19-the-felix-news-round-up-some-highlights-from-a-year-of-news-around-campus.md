@@ -1,6 +1,6 @@
 ---
-published: false
-headline: false
+published: true
+headline: true
 featured: true
 comments_disabled: false
 title: 'The Felix News round-up: some highlights from a year of news around campus'
@@ -11,6 +11,11 @@ subtitle: >-
   With the last paper of the academic year, Editor-in-Chief Fred Fyles and
   Deputy Editor Joanna Wormald check out some of the most important stories from
   the past academic year.
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1697/1697_news_roddy_speech.jpg
+date: '2018-06-15 12:00:01'
+categories:
+  - news
 ---
 This year Felix has been reporting on a wide range of news stories, from the UCU strikes hitting campuses across the UK, to the College removing cooked breakfasts from the SCR. Here's our round-up of a year in news:
 
@@ -41,6 +46,8 @@ During the investigation, Helen was passed between a number of staff members, an
 Helen, who has a severe, long-term mental health condition, requiring her to go to hospital each week for treatment, was left feeling suicidal at times: “I was consumed with the case,” she told _Felix_, “while nobody responsible for it seemed to care, or even acknowledge it. This made me feel my grip on reality was slipping.”
 
 When the Union reached their final decision, they concluded “on balance of probabilities” Helen’s account was true, and recommended having the perpetrator attend a consent workshop, as well as banning him from licensed Union premises. They did not recommend removing him as society president. – FF
+
+![](https://f001.backblazeb2.com/file/felixonline/2017_felix_issues/issue_1697/1697_front_news_pay.jpg)
 
 [**Pay falling in real terms for Imperial staff**](http://felixonline.co.uk/articles/2018-05-24-imperial-staff-pay-falling-by-1-1-per-year-in-real-terms/)
 
