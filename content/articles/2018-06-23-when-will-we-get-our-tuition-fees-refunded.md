@@ -18,7 +18,7 @@ categories:
 ---
 Dear Professor Gast,
 
-We read in Felix on 8th June that Imperial has already withheld [nearly £280,000](http://felixonline.co.uk/articles/2018-06-07-universities-withholding-millions-from-staff-involved-in-ucu-strike/) of wages from staff who took part in this year’s industrial action, with more deductions to come. We are writing, again, to request partial refund of our fees from loss of education as a result of the strike. Your responses to date suggest that there has been no net loss of education. We disagree. As do our lecturers: Dr Stephen Webster, Director of the Science Communication Unit, said there was an inevitable effect: 
+We read in _Felix_ on 8th June that Imperial has already withheld [nearly £280,000](http://felixonline.co.uk/articles/2018-06-07-universities-withholding-millions-from-staff-involved-in-ucu-strike/) of wages from staff who took part in this year’s industrial action, with more deductions to come. We are writing, again, to request partial refund of our fees from loss of education as a result of the strike. Your responses to date suggest that there has been no net loss of education. We disagree. As do our lecturers: Dr Stephen Webster, Director of the Science Communication Unit, said there was an inevitable effect: 
 
 “Certainly, we lost momentum. Innumerable small and important interactions never happened. And of course, we cancelled formal teaching sessions. So tragic that it had to come to this.”
 
@@ -58,5 +58,4 @@ Dr Hilary Guite
 (Student MSc Science Communication)
 
 Mr Abhijay Sood
-(Student BSc Physics) 
-
+(Student MSc Physics)
