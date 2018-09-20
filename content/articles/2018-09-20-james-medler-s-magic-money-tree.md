@@ -7,13 +7,13 @@ title: James Medler's Magic Money Tree
 subtitle: >-
   Who wants to be a (half) millionaire? Half a million pounds is up for grabs
   for Imperial's clubs and societies
-image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/Handover/0_iLPwMyliNNLDa9AK+(1).jpg
 date: '2018-09-20 17:00:00'
 categories:
   - news
 authors:
   - andy_djaba
+image: >-
+  https://f001.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_za15ad955c43e2c0a53ec0e1a_f114e4f79e15e739e_d20180920_m154023_c001_v0001104_t0011
 ---
 The Deputy President (Clubs & Societies) and the Harlington Grants Fund Committee call for proposals from clubs and societies for a £500,000 grant.
 
