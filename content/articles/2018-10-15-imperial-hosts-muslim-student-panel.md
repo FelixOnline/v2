@@ -11,6 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1700/1700_news_MSP.jpg
 authors:
   - hafiza_irshad
+  - ismaeel_karmani
 date: '2018-10-12 17:00:00'
 categories:
   - news
