@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 comments_disabled: false
@@ -13,6 +13,8 @@ image: >-
 date: '2018-10-12 17:00:00'
 categories:
   - Politics
+authors:
+  - juan_rubio_gorrochategui
 ---
 South American countries have usually been ignored by the Western media, with few exceptions. On the few occasions the continent was reported by our news organisations, its nations were painted as permanently failed states ravaged by civil war, dictators and death squads. This picture ignores the deep changes that the region has experienced since the late 80s, when the regimes that dominated the region started to crumble, a combination of indigenous democratic revolts against the despotic rulers and the loss of support for said rulers of successive American administrations, that had propped up criminals like Pinochet or Ríos Montt to curb the Soviet influence in the region (as one President of the USA put it: “They may be bastards, but they’re our bastards.”).
 
