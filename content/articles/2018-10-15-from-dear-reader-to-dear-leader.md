@@ -1,7 +1,7 @@
 ---
 published: true
 headline: false
-featured: false
+featured: true
 comments_disabled: false
 title: From dear Reader to dear Leader
 subtitle: >-
