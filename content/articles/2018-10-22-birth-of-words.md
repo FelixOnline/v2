@@ -12,6 +12,8 @@ image: >-
 date: '2018-10-19 17:00:00'
 categories:
   - science
+authors:
+  - Paula_Rowińska
 ---
 A team of linguists and geographers from the Centre for Corpus Research at the University of Birmingham traced the geographical roots of emerging words in American English. Among 8.9 billion words used in 980 million Tweets posted in the US they identified 54 new words, which were rare in October 2013 but common in November 2014.
 
@@ -23,4 +25,3 @@ Although it might seem that we can predict the patterns of word creation and mig
 Professor Grieve and his team acknowledge the main limitation of this study: Twitter represents only one variety of American English. New words created for example in science cannot be reflected by this analysis.
 
 “This is the first time that such a large sample of emerging words or any type of linguistic innovation has been mapped in one language”, commented professor Grieve. Modern data science and computational tools are changing the field of linguistics, so in the future we can expect more large studies answering many burning questions about the language.
-
