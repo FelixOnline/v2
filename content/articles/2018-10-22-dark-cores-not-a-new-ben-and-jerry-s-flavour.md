@@ -14,6 +14,8 @@ image: >-
 date: '2018-10-19 17:00:00'
 categories:
   - science
+authors:
+  - photini_knoyle
 ---
 In day to day life we all encounter people who consistently exhibit morally questionable behaviour. Psychologists describe these individuals as possessing one or more “dark” traits. Previous studies have shown that these traits relate to one another - but do they share a common denominator … a “dark core”? Recent research from the University of Copenhagen has found evidence that this may actually be the case!
 
