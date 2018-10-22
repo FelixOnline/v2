@@ -10,11 +10,11 @@ subtitle: >-
   that the system changes.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1701/1700_politics_retreating+glacier.jpg
-authors:
-  - andy_djaba
 date: '2018-10-19 17:00:00'
 categories:
   - Politics
+authors:
+  - juan_rubio_gorrochategui
 ---
 What difference does half a degree make? It doesn’t seem like much, right? After all, you don’t notice if the water in your sink has gone from 35 ºC to 35.5 ºC when you are washing the dishes. But half a degree is much more important than what you may think. It is the difference between being able to save 25% of coral reefs or none at all. The fate of millions of people in the most vulnerable and poor regions of the world rely on half a degree. And we are now surer than ever.
 
