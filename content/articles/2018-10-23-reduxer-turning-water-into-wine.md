@@ -32,3 +32,4 @@ When the album was dropped, Joe Newman posted on Facebook talking about how exci
 
 So while we wait semi-tentatively for whatever alt-J have planned next, at least we can sit back and enjoy this delicious concoction they’ve served us.
 
+_-3.5 stars_
