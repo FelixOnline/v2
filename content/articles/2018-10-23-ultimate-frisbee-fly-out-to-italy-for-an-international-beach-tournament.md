@@ -32,5 +32,4 @@ The team enjoyed a lie in as their first game was not until 12:00 noon against t
 
 **Sunday 23rd**
 
-The final day was a brutally early start with a game against Sharkbear at 9:30 am. At 12:30 pm the team ended with a super close game against the team Who Bear Wins, which ended on universe point, to the disc Doctors! This win ensured the team did not end up last. The team then enjoyed lunch and drinks at the Dori bar with the lunch tickets provided and then watched the final games and the award ceremony before returning to the campsite to rest and pack up. 
-
+The final day was a brutally early start with a game against Sharkbear at 9:30 am. At 12:30 pm the team ended with a super close game against the team Who Bear Wins, which ended on universe point, to the disc Doctors! This win ensured the team did not end up last. The team then enjoyed lunch and drinks at the Dori bar with the lunch tickets provided and then watched the final games and the award ceremony before returning to the campsite to rest and pack up.
