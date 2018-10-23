@@ -12,6 +12,8 @@ image: >-
 date: '2018-10-19 17:00:00'
 categories:
   - arts
+authors:
+  - gurdip_uppal
 ---
 Bottom. A term used to describe a person in a gay relationship who prefers to be the one penetrated. However, this simple expression of which sexual position one prefers has many other deep rooted connotations and assumptions within queer culture. And it is these themes which Willy Hudson brilliantly addresses in his one man show _Bottom_.
 
