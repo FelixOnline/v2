@@ -35,3 +35,5 @@ This is a trendy place so date and I get a tumbler of red on the house. This is 
 Love is amazingly revealed to be the cure to everything as Samurian cop themselves a baby and Anna the “stereotypical lesbian in recovery” meets “stereotypical alcoholic in recovery”. She looks at his arse and, get this, the female jogger’s and your heart melts a little bit as they go for a walk. Top the whole thing off with yet another anthem called ‘The Distance You Have Come” to tell us all to keep going, find love and be happy. _Love Actually_ and _Shrek_ come together in the end and we never saw it coming.
 
 This could be someone’s cup of tea. The cast is star spangled and the music bounces along. Some of the songs are finger tappingly good (though I can’t remember any of the lyrics) and the actors are all very cute. The Cockpit Theatre is close in Marylebone, and if the mood took you this could be a very fun night out. Go if you want to, go if you don’t.
+
+_-2 stars_
