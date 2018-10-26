@@ -30,8 +30,12 @@
           <div class="headline-subtitle">
             {{ truncate $subtitleLength "..." .Params.subtitle }}
           </div>
-          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-          <span class="headline-author">By {{ $authorPage.Params.name }}</span>
+          {{ if isset .Params "authors" -}}
+            {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+            <span class="headline-author">By {{ $authorPage.Params.name }}</span>
+          {{- else }}
+            <span class="headline-author">No Author</span>
+          {{- end }}
         </div>
       </div>
     {{ end }}
@@ -67,8 +71,12 @@
                   {{ truncate $subtitleLength "..." .Params.subtitle }}
                 </div>
                 <div class="section-post-byline">
-                  {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
-                  <span class="author">By {{ $authorPage.Params.name }}</span>
+                  {{ if isset .Params "authors" -}}
+                    {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
+                    <span class="author">By {{ $authorPage.Params.name }}</span>
+                  {{- else }}
+                    <span class="author">No Author</span>
+                  {{- end }}
                 </div>
               </div>
             </div>

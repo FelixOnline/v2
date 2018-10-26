@@ -61,8 +61,12 @@
             {{ truncate $subtitleLength "..." .Params.subtitle }}
           </div>
           <div class="section-post-byline">
+          {{ if isset .Params "authors" -}}
             {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" (index .Params.authors 0)) }}
             <span class="author">By {{ $authorPage.Params.name }}</span>
+          {{- else }}
+            <span class="author">No Author</span>
+          {{- end }}
           </div>
         </div>
       </div>
