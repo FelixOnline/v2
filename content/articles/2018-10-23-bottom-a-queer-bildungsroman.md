@@ -33,6 +33,6 @@ My only qualm was that at points the flow of the otherwise amazing play was inte
 
 During one scene the character is attempting to demonstrate his desire for being a top on the mannequin on the stage but is unable to do so. Hudson breaks character and asks the tech director for what he was supposed to do and she replies from the back of the room asking whether he would like to try again, to which he eventually asks to move on. This seemed very real in the moment and added a new layer to the play. 
 
-Overall, this was one of the best amateur plays I have seen, and was very well suited to the small size of the theatre. It was honestly a pleasure to watch!
+Overall, this was one of the best fringe plays I have seen, and was very well suited to the small size of the theatre. It was honestly a pleasure to watch!
 
 _4.5 stars_
