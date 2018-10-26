@@ -42,4 +42,5 @@ The film tells the story of the killing of a villager in Umm al-Hiran, a Bedouin
 Finally, there is Naeem Mohaiemen. His two films had, if truth be told, an incredible soporific effect on me. Watching an immaculately linen-suited man smoke cigarettes in an abandoned airport, cradling dressmakers’ manikins – it felt like there was meaning floating around somewhere, but it was too amorphous to grasp. The second one, an ode to Asian socialism, affected me even less. Wonderfully filmed vistas are not enough to justify radical and extreme change.
 
 The Turner Prize, smarmy as ever but maybe, just maybe, a good day out.
- 
+
+_-3 stars_
