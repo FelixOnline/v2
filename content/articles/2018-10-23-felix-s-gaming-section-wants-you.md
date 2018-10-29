@@ -13,7 +13,7 @@ image: >-
 authors:
   - connor_winzar
   - anthony_onwuli
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - games
 ---
@@ -37,4 +37,4 @@ Just like us, you don’t get paid, but you do have the opportunity to have your
 
 **How do you get in touch?**
 
-You can contact us through our email - games.felix@imperial.ac.uk . Be warned we can only put so many articles in one Felix issue, so if it doesn’t turn up in the upcoming issue it may turn up in the next. 
+You can contact us through our email - games.felix@imperial.ac.uk . Be warned we can only put so many articles in one Felix issue, so if it doesn’t turn up in the upcoming issue it may turn up in the next.
