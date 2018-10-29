@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_politics_polling+station.jpg
 authors:
   - divyenvanniasega
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - Politics
 ---
@@ -27,4 +27,4 @@ It is now time to reconsider voting reform. There are several models that would 
 
 This system has some key advantages. It will lead to a far more proportional representation of the popular vote and maintain the constituency link. Further, if you believe one of your MP is not doing a good job of representing your interests then there are other local MPs who should represent you. STV would be far better at dealing with an issue like Brexit which has caused internal divisions within both parties. Parties are able to stand multiple candidates in one area under STV; therefore, they could stand a leaver and a remainer and leave it to the public to decide which candidate/opinion they prefer leading to a far better representation of people’s views in Parliament. 
 
-Brexit has been an issue which has divided both parties for decades and it is time that we introduced a system that can cope with it. The public have a right to have their voices heard and referendums clearly don’t work either. The time has come to abandon FPTP and to bring in STV as our voting system for general elections. 
+Brexit has been an issue which has divided both parties for decades and it is time that we introduced a system that can cope with it. The public have a right to have their voices heard and referendums clearly don’t work either. The time has come to abandon FPTP and to bring in STV as our voting system for general elections.
