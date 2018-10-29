@@ -9,7 +9,7 @@ subtitle: >-
   actually going on...
 authors:
   - fergusjohnson
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - sport
 image: >-
@@ -50,4 +50,3 @@ The rankings are based on position in the group then points, goal difference, go
 Does that all make sense? Good.
 
 Time to get revenge against Croatia…
-
