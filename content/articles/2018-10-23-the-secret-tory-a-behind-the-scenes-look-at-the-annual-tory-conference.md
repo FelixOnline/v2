@@ -9,7 +9,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1699/1699_politics_theresa+may.jpg
 authors:
   - icanon
-date: '2018-10-05 17:00:00'
+date: '2018-10-05 18:00:00'
 categories:
   - Politics
 ---
@@ -33,4 +33,4 @@ So why go to all this effort? Lobbying. You chat with important people and you h
 
 For example, consider Blackpool – a seaside resort in the north-west of England which has built a questionable reputation for itself over the past few years due to degeneration. Blackpool last held the Conservative Conference in 2009. After this, the town was barred from holding the conference as there were no suitable venues to host a conference of that size. This was a massive blow for tourism in the town. So, Blackpool changed. Nine years later, and Blackpool has completely revamped its image. It has a new town hall, will be building a new IMAX cinema by 2020 and has just completed it work on its £25 million conference centre at Winter Gardens. After making these changes, people in the council bought an exhibition stand at the 2018 conference so they could show their regeneration to the country. And did it work? According to one of the exhibitors, onlookers wanted to return to Blackpool with many signing a petition to return the conference to Blackpool next year.  So, place your bets now.
 
-That was just some of what I learnt during my time there. I learned way too much to cram into this piece. All I know is that this Conference will be one that stays with me for the rest of my life. And if it is held in Blackpool next year, I will go and visit – after all, Blackpool has a fantastic Wetherspoons on the Promenade. 
+That was just some of what I learnt during my time there. I learned way too much to cram into this piece. All I know is that this Conference will be one that stays with me for the rest of my life. And if it is held in Blackpool next year, I will go and visit – after all, Blackpool has a fantastic Wetherspoons on the Promenade.
