@@ -10,11 +10,11 @@ subtitle: >-
   current government.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1699/1699_politics_bangladesh.jpg
-authors:
-  - tasmeen_mahmud
-date: '2018-10-05 17:00:00'
+date: '2018-10-05 18:00:00'
 categories:
   - Politics
+authors:
+  - tasneem_mahmud
 ---
 
 The death on the 29th July of two school children, Diya Khanam Mim and Abdul Karim Rajib, after being run over by a speeding bus, sparked mass protests in Bangladesh’s capital, Dhaka. According to witnesses, the bus was racing with another bus to pick up passengers, before the driver lost control. A further 12 school children were also injured as a result of the collision. This tragic accident prompted students across Dhaka to protest for safer roads, in a country where more than 3,000 lives are lost per year in road traffic accidents.
