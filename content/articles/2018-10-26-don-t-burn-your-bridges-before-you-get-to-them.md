@@ -13,7 +13,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_film_Burning.jpg
 authors:
   - sung_soo_moon
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - film
 ---
@@ -27,4 +27,4 @@ In some respects, you could read the film as a straightforward psychological thr
 
 Many Korean films, are rooted in politics and _Burning_ is no exception. Trump is on the news channel while the protagonist urinates; it’s set in Paju, near the DMZ, where North Korean propaganda broadcasts chirp in the background of the sleepy countryside; it talks of the rising levels of youth unemployment, while highlighting misogyny and mistreatment of women, classism, and hereditary personality traits. While it never succeeds to fully integrate coherent points on these issues into the main body of the film, you can easily interpret the finale as something other than literal.
 
-I enjoyed _Burning_ thoroughly; it was never boring or dull, keeping me on my toes until it revealed itself, albeit with a whimper. Steven Yeun gives an impressively measured performance, Jeon Jong-seo confidently expresses the melancholia of her character, and while Yoo Ah-in plays to our sympathies, his character is mostly unlikeable. It’s easy to lose yourself in the frame and let the entrancing current take you on this trip of reflection. 
+I enjoyed _Burning_ thoroughly; it was never boring or dull, keeping me on my toes until it revealed itself, albeit with a whimper. Steven Yeun gives an impressively measured performance, Jeon Jong-seo confidently expresses the melancholia of her character, and while Yoo Ah-in plays to our sympathies, his character is mostly unlikeable. It’s easy to lose yourself in the frame and let the entrancing current take you on this trip of reflection.
