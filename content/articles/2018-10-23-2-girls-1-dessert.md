@@ -13,7 +13,7 @@ image: >-
 authors:
   - eva_tadros
   - julia_dabrowska
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - food
 ---
@@ -32,4 +32,4 @@ Not fazed by the shortcomings of the bubble waffle, the last trip was to a donut
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1700/1700_food_Picture2.png)
 
 This venue definitely left us looking for more dessert places through social media for the future – after all, 67% success rate is pretty good (it’s almost a First, am I right?)
-The conclusion? Social media, although it is known for popularising aesthetic and not necessarily delicious places, also showed us quite a few gems that can be discovered too. With more and more places opening up at Westfield every day, this is definitely our number one place to watch, but who says you can’t look elsewhere as well? Stay tuned for future updates on more yummy food places to try – and a timeline of how much our waistlines expand… 
+The conclusion? Social media, although it is known for popularising aesthetic and not necessarily delicious places, also showed us quite a few gems that can be discovered too. With more and more places opening up at Westfield every day, this is definitely our number one place to watch, but who says you can’t look elsewhere as well? Stay tuned for future updates on more yummy food places to try – and a timeline of how much our waistlines expand…
