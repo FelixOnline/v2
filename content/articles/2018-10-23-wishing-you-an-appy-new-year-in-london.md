@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1700/1700_tech_Citymapper.png
 authors:
   - icanon
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - tech
 ---
@@ -80,5 +80,4 @@ You have probably heard the name if you’ve ever bought lunch here. YoYo is ess
 
 If you pay for food via YoYo, you will receive points which can be redeemed to get (for example) fruit, chocolate bars or even a smoothie depending on how many points you have.
 
-Additionally, there are loyalty cards on the app, so, for example, your 10th hot drink might be free. 
-
+Additionally, there are loyalty cards on the app, so, for example, your 10th hot drink might be free.
