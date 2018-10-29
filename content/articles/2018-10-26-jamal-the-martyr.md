@@ -12,7 +12,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_politics_temp.jpg
 authors:
   - juan_rubio_gorrochategui
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - Politics
 ---
@@ -31,4 +31,3 @@ But the action backfired. Ironically, by removing one of the voices that denounc
 European governments have started taking action, with Germany leading the way to stop the trading of weapons to the country. The involvement of elements of the Saudi state has become more and more clear, as the suspects of carrying out the assassination have been identified as members of Bin Salman’s closest circle. The evidence was still denied by Saudi Arabia, which argued for two weeks that Khashoggi had disappeared after leaving the consulate. They had the support of Donald Trump, who has never hidden his disdain for the free press and his cosiness to the House of Saud. But not even the backing of the American government was enough to hide the truth. Saudi Arabia admitted that Kashoggi died, though according to their version of the story it was following a brawl between him and the Saudi consul. The latest line of defence is blaming the crime on the Saudi legation, insisting that the Saudi government had nothing to do with the murder.
 
 Is Jamal Kashoggi a modern day Thomas Beckett? The killing of Beckett caused such an outrage that it forced the king of England to issue a public apology. It provoked universal condemnation in medieval Europe, and the kingdom was in risk of complete isolation for a time. Centuries have happened since then, centuries that have seen massive advances in human rights and the rule of law. While our governments comply with the march of progress? Or instead, will they ignore the matter in the long term, proving that they have lower standards than the feudal monarchies of Europe. Time will tell. Until then, we aspiring journalists can only mourn the life and work of a man that stood against powers that wanting him gone, and achieved so in the most gruesome fashion. _Assalaamu ‘alaykum warahmatullah_.
-
