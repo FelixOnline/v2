@@ -10,7 +10,7 @@ subtitle: 50 ICXCAC athletes head to Hampstead Heath for the start of another se
 authors:
   - henry_hart
   - fergusjohnson
-date: '2018_10_26 17:00:00'
+date: '2018-10-26 17:00:00'
 categories:
   - sport
 ---
