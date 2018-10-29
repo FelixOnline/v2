@@ -12,7 +12,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_Arts_Sun.jpg
 authors:
   - adrian_lamoury
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - arts
 ---
@@ -31,4 +31,3 @@ This segues into a brief history of space missions to study the Sun, including S
 The grand finale is a cinema room showing stunning footage from NASA’s Solar Dynamics Observatory, where the Sun can be seen up close in a variety of wavelengths – turbulent and eruptive as its fiery plasma coils elegantly around its complex network of magnetic field lines. While quite short for a relatively steep price, this is an informative and enjoyable exhibition that covers everything about the Sun from our earliest understandings to the cutting edge science of today. 
 
 _-4 stars_
-
