@@ -12,7 +12,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_film_Venom1.jpg
 authors:
   - sam_welton
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - film
 ---
@@ -34,4 +34,4 @@ I could talk specifics forever, but I think it’s worth taking a look at the to
 
 _Venom_ is both too long and too short. Clearly content was added at the studio’s request and there wasn’t time left for all the content the director wanted. The film is 2 hours and 40 minute and everything with Stock Amoral Corporation drags, yet there is some painfully obvious cut content. Without spoiling, the worst case occurs near the end where there is clearly an entire sequence missing what would have both explored a cool idea and developed multiple characters. It’s absence is clear by how abruptly an event occurs and how significantly the characters change afterwards. This might sound vague but if you do see the film you’ll know exactly what I mean.
 
-I could pick apart this film all day, but in the end, this is the overarching problem: _Venom_ should be the story of a down on his luck man wrestling with his humanity as an alien parasite threatens to turn him into a monster, but in reality, it’s the tale of a grumpy reporter and his dark comedy sidekick fighting an 80’s cartoon villain to save the world. This could have been a smash hit, but instead it makes me worried for the upcoming ‘Into the Spiderverse’. There is good to be had, but do yourself a favour and wait till you can stream it. 
+I could pick apart this film all day, but in the end, this is the overarching problem: _Venom_ should be the story of a down on his luck man wrestling with his humanity as an alien parasite threatens to turn him into a monster, but in reality, it’s the tale of a grumpy reporter and his dark comedy sidekick fighting an 80’s cartoon villain to save the world. This could have been a smash hit, but instead it makes me worried for the upcoming ‘Into the Spiderverse’. There is good to be had, but do yourself a favour and wait till you can stream it.
