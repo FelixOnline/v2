@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: ''
+title: Volkswagen – you are one SaaSy car!
 subtitle: >-
   The German automaker has entered the world of SaaS by signing a deal with
   Microsoft.
