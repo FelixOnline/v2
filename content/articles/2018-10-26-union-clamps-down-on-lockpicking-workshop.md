@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1702/1702_news_lock+picking.jpg
 authors:
   - andy_djaba
-date: '2018-10-26 17:00:00'
+date: '2018-10-26 18:00:00'
 categories:
   - news
 ---
@@ -36,4 +36,3 @@ In a statement provided to Felix, members of Left Forum said:
 "The event itself is completely legal, and much more detailed information than what we were going to teach is available online, like the famous MIT guide to lockpicking. Alas, the Union has decided to censor us, to curb the free flow of information that should - supposedly - exist within a university. We see a student organization that cares more about PR, tabloids, and shareholders than its own members, especially considering the response to the event".
 
 Although the future of the event remains uncertain, the Union has assured Left Forum that they would eventually be allowed to run the event, with various restrictions. Left Forum commented, "we're planning to run more security-related events, as we think it is of prime importance at this point in time. We'll also think very seriously about the future of this event. However, we feel obligated to report the Union's unjust behaviour to the student community".
-
