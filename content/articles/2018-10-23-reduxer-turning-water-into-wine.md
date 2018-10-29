@@ -12,7 +12,7 @@ subtitle: >-
   has taken the same material and reworked it into something masterful.
 authors:
   - guthrie_ruby
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - music
 ---
