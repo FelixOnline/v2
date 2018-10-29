@@ -6,7 +6,7 @@ comments_disabled: false
 title: 'Minimum to maximum, ambient to aggressive'
 authors:
   - suraj_g
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - music
 ---
