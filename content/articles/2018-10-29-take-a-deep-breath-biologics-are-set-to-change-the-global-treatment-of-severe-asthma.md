@@ -7,7 +7,7 @@ title: >-
   Take a deep breath: Biologics are set to change the global treatment of severe
   asthma
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1698/running-78192_960_720.jpg
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1698/Eosinophils_in_peripheral_blood.jpg
 authors:
   - mk6809
 date: '2018-09-28 17:00:00'
