@@ -8,6 +8,8 @@ subtitle: James P. Allison and Tasuku Honjo’s research may save many lives
 date: '2018-10-12 17:00:00'
 categories:
   - science
+authors:
+  - Paula_Rowińska
 ---
 The 2018 Nobel Prize in Physiology or Medicine went to James P. Allison and Tasuku Honjo for the “discovery of cancer therapy by inhibition of negative immune regulation.”
 
