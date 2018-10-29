@@ -13,7 +13,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1700/1700_arts_Funny+Thing+Happened+Finborough.jpg
 authors:
   - jc7413
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - arts
 ---
@@ -34,4 +34,3 @@ Cariad Lloyd is brilliant as Karla, balancing the self-assurance of youth with h
 This play is a comedy, but comments on very real issues of city life, from Don’s son’s drug problems to class differences between the two. Ultimately it celebrates human connection – the shared suffering, but also shared laughter. It is tender without being heavy, hilarious and witty without being slapstick, and definitely worth a watch.
 
 _-4 stars_
-
