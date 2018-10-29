@@ -6,7 +6,7 @@ comments_disabled: false
 title: 'BlacKkKlansman: A Klever koncious Komedy'
 authors:
   - sung_soo_moon
-date: '2018-10-12 17:00:00'
+date: '2018-10-12 18:00:00'
 categories:
   - film
 image: >-
