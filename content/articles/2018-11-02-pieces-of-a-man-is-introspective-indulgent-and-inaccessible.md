@@ -30,4 +30,4 @@ Perhaps most disappointing of all is the lack of interesting topics and motifs. 
 
 It really can’t be overstated just how linear and repetitive these songs are, and how the complete lack of standout moments makes the album feel like a slog. Whilst every song is technically well performed and produced, there isn’t a single one that I would pick out and play on its own; they all blend together, creating smooth and undemanding background music – but this isn’t what I look for from Mick. I want songs that make me stop and think, interesting and left-field production, and choruses that I can sing in the shower. _The Healing Component_ was a slight step down from _The Water[s]_, but still contained some excellent tracks, whereas there isn’t a single cut on this album that could stand shoulder-to-shoulder with Mick’s best. Whilst undeniably well produced and performed, the lack of a coherent theme, engaging song topics or catchy melodies leaves the album feeling hollow and ultimately forgettable. 
 
-_-3 stars_
+_-2.5 stars_
