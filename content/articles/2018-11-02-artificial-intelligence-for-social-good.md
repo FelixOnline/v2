@@ -9,7 +9,7 @@ subtitle: >-
   ideas to bring impact out of Artificial Intelligence
 authors:
   - haaris_asghar
-date: '2018-11-02 17:00:00'
+date: '2018-11-02 18:00:00'
 categories:
   - tech
 ---
