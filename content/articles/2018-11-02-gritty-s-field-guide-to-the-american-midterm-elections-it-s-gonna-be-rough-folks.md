@@ -12,11 +12,11 @@ subtitle: >-
   midterms.
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1703/1703_politics_womensmarch.jpg
-authors:
-  - he915
 date: '2018-11-02 17:00:00'
 categories:
   - Politics
+authors:
+  - gritty
 ---
 Welcome one and all to the continuing shitshow saga that is the American political spectacle. When you last tuned in in 2016, the Ur-fascist narrowly beat out the neoliberal cancellation of the future, and we’ve been on a wild ride for the last two years as Republican majorities in Congress and a stacked SCOTUS run ra
 mpant.
