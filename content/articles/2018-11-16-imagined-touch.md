@@ -27,3 +27,4 @@ I am passed from one person to another and danced around the room. My confidence
 
 _Imagined Touch_ tries its best to show audiences what it’s like to live life as a deafblind person, and for the most part succeeds. But the 20-minute installation feels very short, and I’m left vaguely disoriented, with more questions than answers. The soundscape by Madeleine Flynn and Tim Humphrey is beautifully crafted – a busy train station, the pitter-patter of rain – but why not silence, if we are meant to be both deaf and blind? How does tactile sign language work? Some sort of post-performance discussion or even another short film from Lawson and Stevens would have been appreciated. After the (rather abrupt) ending to the performance, my primary feeling is one of relief at rejoining the world of the sighted. I’m not entirely sure I’ve gained much more insight into what it’s like to be deafblind.
 
+_-3.5 stars_
