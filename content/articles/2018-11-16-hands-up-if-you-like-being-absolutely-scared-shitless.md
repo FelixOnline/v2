@@ -13,6 +13,8 @@ subtitle: >-
 date: '2018-11-09 17:00:00'
 categories:
   - music
+authors:
+  - alex_large
 ---
 Preface to this review: I’ve never been into heavy music, but I love horror films. It’s undeniably a bit insane to subject yourself to two hours of fear (I recently saw _Hereditary_ in the cinema and thought I was going to die), but the visceral emotion good horror elicits is what makes it so addictive. With this album I discovered that, similar to watching a scary movie, listening to terrifying music can be a lot of (harrowing and kind of traumatising) fun.
 
@@ -32,4 +34,6 @@ After a few more intensely visceral songs, ‘Less Sex’ is a much earned breat
 
 The final song ‘Guest House’ is an insanely bold and horrifying way to end the album. The lyrics depict a situation straight out of a nightmare; someone is pounding desperately on your cellar door, asking who locked them out and begging you to “let me in” with gut-wrenching screams of fear and pain. The terror in their voice is palpable and awful to behold, evoking sympathy but also visceral fear.  
 
-The surprising thing about this collection of harrowing songs is just how incredibly captivating they are. They are accessible enough to be enjoyed, whilst still containing freakish and disorientating walls of sound, evil twisting guitar lines that make you feel like you’re descending into a bottomless pit, and desperate, emotive singing that makes you fear for the man who you can hear falling apart. I’m terrified when I play the album, but I’m on the edge of my seat. 
+The surprising thing about this collection of harrowing songs is just how incredibly captivating they are. They are accessible enough to be enjoyed, whilst still containing freakish and disorientating walls of sound, evil twisting guitar lines that make you feel like you’re descending into a bottomless pit, and desperate, emotive singing that makes you fear for the man who you can hear falling apart. I’m terrified when I play the album, but I’m on the edge of my seat.
+
+_-4.5 stars_
