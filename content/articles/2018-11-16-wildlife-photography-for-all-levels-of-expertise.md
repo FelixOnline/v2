@@ -26,3 +26,5 @@ Apart from the pictures themselves, one of the strongest aspects of the whole ex
 As for the stars of the show, the photographs, they are a rich display of nature’s uniqueness. From tiny microorganisms to huge deserts, the exhibition covers every scale of the natural world. Some of the images are fascinatingly disgusting, such as one depicting a lizard peeping out of a carcass’s empty eye socket. Others are almost abstract and supernatural, such as a colorful composition with algae, or a hummingbird at a surprising angle. Others, and curiously the great-winners fall into this category, depict animal subjects in a very human-like fashion, appealing to our natural empathy and striking powerful emotions.
 
 At the end, we leave amazed by our world’s wonders, and perhaps a bit more inclined to protect them.
+
+_-4.5 stars_
