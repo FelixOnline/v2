@@ -25,7 +25,7 @@ The Imperial community extends its deepest condolences to Professor Stirling's f
 
 Lucinda Sandon-Allum, who was Union President in 2015/16, echoed these sentiments, saying: 
 
-"He was an extraordinary man who led an exceptional life and I know he will be sorely missed by all. I had the great privilege of working very closely with James during my year as President and felt so fortunate to see the difference he truly made to the lives of every student at Imperial. how to implement them. My deepest sympathies go out to his family - I know the Imperial community will cherish his memory dearly."
+"He was an extraordinary man who led an exceptional life and I know he will be sorely missed by all. I had the great privilege of working very closely with James during my year as President and felt so fortunate to see the difference he truly made to the lives of every student at Imperial. My deepest sympathies go out to his family - I know the Imperial community will cherish his memory dearly."
 
 Nas Andriopoulos, who served as Union President in 2016/17, also paid tribute to Professor Stirling, saying:
 
@@ -43,9 +43,3 @@ Professor Stirling also left a lasting impression on me personally. As every Dep
 As Professor Stirling’s colleagues mourn his passing, I think it is only right that we students acknowledge and celebrate someone who dedicated the last years of their working life to improving academia at Imperial. Professor Stirling will be remembered by many as the first Provost of Imperial, but he will be remembered for so much more by the people fortunate enough to have known him." 
 
 All those at Imperial will continue to celebrate all that Professor Stirling achieved in his life and cherish the memories of his wisdom, grace, and warmth. There will be an opportunity for the Imperial community to gather in celebration of his life and accomplishments, details for which will be announced very soon.
-  
-
-
-
-
-
