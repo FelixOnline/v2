@@ -19,15 +19,15 @@ Professor James Stirling, who served as Imperial's Provost from August 2013 to A
 
 Professor Stirling was a distinguished physicist, whose work resulted in more than 300 research papers. In his role as Provost, he championed the development and wellbeing of staff throughout the community, particularly focusing on marginalised and underrepresented groups. Following his retirement in Summer, and in recognition of his outstanding contributions to Physics and the College, Professor Stirling was awarded an honorary doctorate of science, Imperial’s highest honour, at October’s Commemoration Day celebration.
 
-The Imperial community extends its deepest condolences to Professor Stirling's friends and family. Tom Wheeler, who served as President of Imperial College Union in 2014/15, was "heartbroken" to hear of Professor Stirling's passing and added: 
+The Imperial community extends its deepest condolences to Professor Stirling's friends and family. Tom Wheeler, who served as President of Imperial College Union in 2014-15, was "heartbroken" to hear of Professor Stirling's passing and added: 
 
 "I had the honour of working with James Stirling during my term as Union President. He was in touch with me days after I was elected and invited me into his office to learn about the impact I wanted to make, and ensure he understood the frustrations and challenges facing the student body. He was tenacious and focused, kind and compassionate. I can say with total confidence that your time at Imperial was made better due to his leadership."
 
-Lucinda Sandon-Allum, who was Union President in 2015/16, echoed these sentiments, saying: 
+Lucinda Sandon-Allum, who was Union President in 2015-16, echoed these sentiments, saying: 
 
 "He was an extraordinary man who led an exceptional life and I know he will be sorely missed by all. I had the great privilege of working very closely with James during my year as President and felt so fortunate to see the difference he truly made to the lives of every student at Imperial. My deepest sympathies go out to his family - I know the Imperial community will cherish his memory dearly."
 
-Nas Andriopoulos, who served as Union President in 2016/17, also paid tribute to Professor Stirling, saying:
+Nas Andriopoulos, who served as Union President in 2016-17, also paid tribute to Professor Stirling, saying:
 
 "I had the privilege and honour of working with him for just a year but, in that period, I witnessed the dedication he showed for the lives of students at Imperial and a unique compassion with which he led. One quality that stands out to me above all others, is that he possessed an unusual caring for every student at Imperial. We should all mourn the loss of this great man and I hope we can celebrate his legacy in the years ahead. My deepest sympathies are with Paula [Professor Stirling's wife], James’ family and friends – I know he will be remembered with great fondness by the organisation he served with such dedication and distinction."
 
