@@ -34,3 +34,4 @@ _All We Ever Wanted Was Everything_ intertwines the lost hopes and dreams of two
 
 For me, the take home message was that the environment we live in is always going to leave us wanting more, whether that’s because of Brexit or the housing crisis. The play functioned as a statement that we should all collectively accept this and move on, and if we do this then we can begin to seek a better future. We aren’t going to simply ‘find’ a place in the world where we belong, we must make one for ourselves and “live our lives”, as Graham screams in his final impassioned monologue.
 
+_-4 stars_
