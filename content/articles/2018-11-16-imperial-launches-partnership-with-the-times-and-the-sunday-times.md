@@ -7,13 +7,13 @@ title: Imperial launches partnership with The Times and The Sunday Times
 subtitle: >-
   Students and staff at Imperial College London will receive a year-long free
   subscription to The Times and Sunday Times
-image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/KYT_TT_TST_Black.jpg
 authors:
   - andy_djaba
 date: '2018-11-16 17:00:00'
 categories:
   - news
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/KYT_TT_TST_Black.jpg
 ---
 Imperial has announced an exciting new collaboration with Times Newspapers Ltd to “advance their shared interests in the future of science and culture” and including a year-long programme of joint events and activity led by the student community at Imperial. 
 
@@ -34,6 +34,3 @@ Not only will the selected Student Ambassadors have the opportunity to come up w
 Talks are also under way about how _The Times_ will be involved in the 2019 festival at the end of June 2019. 
 
 Details of the Ambassador Scheme and how to apply will be released on Monday 19th November.
-
- 
-
