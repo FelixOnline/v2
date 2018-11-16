@@ -28,3 +28,5 @@ One area which was definitely lacking was the plot. In certain scenes, the actor
 Most of the actors played multiple characters. Although their costume changed minimally (maybe a scarf around the head), the voice, the tone and the mannerisms made it clear what character was on stage. Dickson and Roberts stuck to the same characters throughout, which was rather disappointing as it did not give them room to shine. Even though they did both deliver many funny lines, the other actors such as Cooke-Hodgson and Morpurgo outshone them in this particular performance.
 
 Overall, the performance was effective in keeping the audience giggling, laughing, and even crying from the ingenious dialogue. This was made all the funnier performed in the prim and proper English of 19th century Britain. Much more of a comedy show than a play, anyone can enjoy _Austentatious_ – no prior Austen knowledge necessary!
+
+_-4.5 stars_
