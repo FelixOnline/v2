@@ -1,0 +1,29 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: White is the new red when it comes to poppies!
+subtitle: >-
+  The red poppy used to be a symbol of remembrance and a pledge for the horrors
+  to never happen again. However, a century and many wars later, how much has
+  this message changed? 
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1704/1704_comment_Poppies.jpg
+authors:
+  - farhat_eamon
+date: '2018-11-09 17:00:00'
+categories:
+  - comment
+---
+This year marks 100 years since the Armistice that ended the horrors of World War I. The war was big and affected many, and shortly after, people began using red poppies as symbols of remembrance. It was a way of honouring the men lost as well as reinforcing the idea that war could never happen again. Unfortunately, World War I was not the war to end all wars as many more took place. For some of these wars, such as World War II, the public knew that fighting was necessary to overcome evil ideology. For others, however, such as the Iraq and Afghanistan wars, the reasons for why fighting was necessary were more uncertain.
+
+Whether it be on the tube, in the shops, or turning on the TV, the red symbol seems to be everywhere, and incidentally lots of money has found their way into the coffers of the British Legion. This charity “works to ensure that the people of the United Kingdom remember all those who have lost their lives on active service to the Crown, and honours the service of the Armed Forces and veterans, and the contribution of their families – our beneficiary community.” This statement begs three questions. Firstly, why does the British Legion, and thereby the red poppy, only commemorate British servicemen and women? Surely in a multicultural society, we should not differentiate a man from Birmingham who has lost his life in battle to a man from Barcelona doing the same thing. Secondly, war in the present day kills many more civilians than it does members of the armed forces. Why does a soldier from Birmingham killed in battle deserve more commemoration than a young girl from Baghdad who suffered the same fate? Finally, why does the British Legion not denounce war or have even the slightest notion of peace in their statement? The answers to these questions are simple: nationalism, pride and politics.
+
+Recent events have caused, and been caused by, a rise in toxic nationalism where people are lead to believe that Britain is the most important country, that Britain must come first. The poppy has come to be a badge of this nationalism, and those who don’t wear it, for whatever reason, are seen to be insulting British values. As every public figure pins this symbol of Britishness onto their clothes in fear of angering the public, some take the brave step and leave out the poppy from their public appearances. This year, Manchester United player Nemanja Matic refused to wear the poppy on his chest during a match against Bournemouth. Many were enraged by his disrespect of fallen servicemen; the player believes that the British bombs dropped on his village in Serbia as a child pose a much greater disrespect.
+
+This current climate of “poppy fascism”, a term coined by journalist Jon Snow, who refuses to wear a poppy on air, must stop. The expectation that everyone must wear a poppy waters down the whole idea of remembrance. What was once a period of reflection which meant something different to each person has been hijacked and politicized into an attempt to promote the British armed forces as a whole. Some politicians such as conservative MP Maria Caulfield will call out others for not wearing red poppies but then consistently support the use of UK military forces in combat operations overseas. For them, the poppy serves as a way to keep the romance of war alive. The fallen servicemen from Iraq might be heroes, but was the war heroic? Some soldiers who have returned to the UK have actually shown opposition to the poppies. For example, in 2010 a group of veterans accused the Poppy Appeal of becoming too extreme, denouncing it’s use to rally support for military campaigns.
+
+It is clear that honouring veterans is important, one might even consider a more robust welfare system instead of offloading them onto a charity. However, when considering how the symbol of the red poppy has changed, many do not feel comfortable with it: this is where the white poppy comes in. Finding its beginnings in the 1930s, when militaristic rhetoric started to rise up again in Britain, this symbol promotes peace. The Peace Pledge Union (PPU) which runs the campaign states that: “There are three elements to the meaning of white poppies: they represent remembrance for all victims of war, a commitment to peace and a challenge to attempts to glamorise or celebrate war.” This seems a much more compassionate approach to remembrance and more comprehensively represents the views of our modern society. This campaign has gained traction in recent years, with St Johns ambulance service allowing it’s employees to wear it for the first time and the National Union of Teachers promoting it in schools. White poppies are still nowhere near as common as their red counterparts and many see them as an insult to the British Legions and the families of veterans.
+
+A hundred years ago the Armistice was called and the never ending war ended. A hundred years ago we said never again. Today we must remember the fallen and honour that pledge of peace. As the red poppy moves further and further away from this view, for many, the white poppy has become the obvious successor.
