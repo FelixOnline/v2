@@ -11,7 +11,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/1705_liberation_sam.jpg
 authors:
   - sam_haselgrove
-date: '2018-11-09 17:00:00'
+date: '2018-11-16 17:00:00'
 categories:
   - Liberation
 ---
@@ -24,5 +24,3 @@ One of my main goals for the year is to boost the profile of the university’s 
 Coming up soon, from 22nd November to 22nd December, we have Disabilities History Month.  Promotional material related to the upcoming events will be sent out soon when the details of the events have been finalised. In the meantime, here is a little flavour of one of the events: the “Diving for All” (DfA) programme. Imperial’s Underwater Society is teaming up with the British Sub-Aqua Club’s (BSAC’s) to bring about the “Diving for All” programme, which is all about helping people with disabilities go diving. This opportunity is open to everyone, regardless of what your impairment may be. If you fancy giving diving a go, get in touch via email: teachingofficer@ic.ac.uk. A “TryDive” will be organised, where you can go for a short dive in Imperial’s Ethos swimming pool with an instructor to see if it is something you enjoy. 
 
 Lastly, if you ever have any questions, please don’t hesitate to get in touch; my officer email is disoff@ic.ac.uk.
-
-
