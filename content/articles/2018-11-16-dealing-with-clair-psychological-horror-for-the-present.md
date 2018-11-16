@@ -21,3 +21,5 @@ Fly Davis’s set is perfect for this play. The action takes place in a rectangu
 There are flaws to be sure. Anna, Mike and Liz’s teenaged au pair, sometimes seems out of place as a character. She clearly exists to emphasize the unscrupulousness of the couple, exploiting this 17 year-old from Italy as a babysitter who is given ‘spending money’ in lieu of a salary. But really, Anna as a character adds little to the play and you can’t help but wonder if there weren’t other ways to emphasize Mike and Liz’s underhandedness, or even whether this emphasis is necessary. 
 
 Despite being written more than 30 years ago, _Dealing with Clair_ feels weirdly topical and often all too real: definitely a must-watch for any fan of psychological horror.
+
+_-4 stars_
