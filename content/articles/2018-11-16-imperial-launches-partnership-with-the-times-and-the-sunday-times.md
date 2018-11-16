@@ -13,7 +13,7 @@ date: '2018-11-16 17:00:00'
 categories:
   - news
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/KYT_TT_TST_Black.jpg
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/46329380_188354188764611_7671076774821756928_n.jpg
 ---
 Imperial has announced an exciting new collaboration with Times Newspapers Ltd to “advance their shared interests in the future of science and culture” and including a year-long programme of joint events and activity led by the student community at Imperial. 
 
