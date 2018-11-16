@@ -26,3 +26,5 @@ For a generation who has never experienced war, our approach to it is often unre
 There are truly enchanting moments throughout the piece. Just to name a few: letters to a longtime fiancée; a priceless conversation in the War Office; the delight of a pilot learning to fly; an action-packed scene of aerial stunting and shooting (yes, in theatre!); the emotional fragility of a human being mourning his friends who “ain’t supposed to die”; an upper class lady’s disgusted remarks on colonials’ manners; and more.
 
 _Billy Bishop Goes to War_ is a powerful tale of humanity. Through laughter, powerful emotions, and brilliant performances, it has all the ingredients for a memorable evening!
+
+_-4.5 stars_
