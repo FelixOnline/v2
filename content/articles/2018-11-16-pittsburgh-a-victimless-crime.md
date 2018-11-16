@@ -1,0 +1,30 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: 'Pittsburgh, a victimless crime?'
+subtitle: >-
+  Comment Writer Daniel Solomons debates the identity of Jewish people in the
+  west in the wake of the Pittsburgh  massacre
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1704/1704_comment_PittsburghShooting.jpeg
+authors:
+  - daniel_solomons
+date: '2018-11-09 17:00:00'
+categories:
+  - comment
+---
+The 27th of October 2018, will be a date tattooed on the hearts of every Jewish person around the world. 11 members of the Tree of Life synagogue, located in Pittsburgh, Pennsylvania, had their Saturday prayers cut tragically short. The details of the crime are gruesome, as with many mass shootings, the profoundly bitter (but all too familiar) taste of banality lingers over the air.
+
+Although an important aspect of this atrocity is the lack of control around firearms that has enabled so many tragedies in the past decade, there is another aspect that is just as crucial and must be discussed: the victims, or victim of this crime, Judaism. The 11 individuals who tragically lost their lives were not killed by coincidence. Their guilt was in their association, their association to the Tree of Life synagogue, and their Jewish ethnicity.
+
+The attacker shouted anti-Semitic slogans at the scene of the massacre, his online profile showed various signs of anti-Semitism. This attack was anti-Semitic, or racist, the words can be used interchangeably. However, upon listening to Donald Trump and his administration’s response to the attack, you may be forgiven for not being sure who these victims actually were. Trump, as he has done at mass shootings before, used this tragedy to push his pro-gun agenda, claiming that armed guards at the scene could do what a team of police officers couldn’t do and stop the attack. It is shocking that a man with a Jewish son-in-law and a daughter who converted to Judaism, thinks that the historically anti-gun Jewish community would ever be comfortable with armed guards inside their religious establishments. Furthermore, Trump’s counsellor (spin-doctor), Kellyanne Conway, referred to the “anti-religiosity” of the massacre, provoked by late-night comedy hosts. If a victimless crime ever existed, Trump and his administration seem hell-bent of proving that it does.
+
+Trump did condemn the attack as an anti-Semitic attack that attacked “all of us.” This was a day after his previous comments and the news cycle had moved on. This is the problem with the Trump administration. If there is one thing he is good at, it is being able to not alienate racists. Trump’s claim of “good and bad people on both sides” after neo-Nazis and anti racists clashed in Charlottesville still rings in many people’s ears. In this attack in Pittsburgh, despite the shooter claiming not to be a Trump supporter, many of his supporters have been very receptive of the ideas that the shooter had, an example being that Jewish philanthropist George Soros was responsible for mass immigration of Central Americans into the United States, an idea that has been floated in many republican midterm campaign advertisements over the last few weeks. This makes it reasonable to conclude that the Republican Party is currently a comfortable place for those who can be told that a mass shooting of Jewish worshippers is actually an attack on gun loving, religious conservatives who are the butt of Trevor Noah’s jokes on the Daily Show.
+
+However, it must be noted that the problem of how the Jewish community is perceived is not limited to American conservatives. From the other side of the political spectrum, attacks on the Jewish community have undergone a victim-blaming analysis similar to Trump’s suggestion about hiring security guards in the Tree of Life synagogue. “What about Israel,” is a line that Jewish people all over the world are all too used to after an act of anti-Semitism. As if a geo-political conflict thousands of miles away makes an act of hatred a justifiable act.
+
+I believe that this criticism stems largely from the fact that the Jewish people, the Western world’s oldest minority, has developed into a heterogeneous community over the last few thousand years. Some have sought to retain their traditional identity and others have aimed to integrate into the society they live in and attempt not to stand out. From intermarriage, to second-name changes, etc., some members of the Jewish community were able to blend into the Western society around them. Coupled with the deep connection to the financially and militarily powerful Israeli state that many members of the Jewish community have, there has been a new tendency from anti racists to dismiss the Jewish people as a group not really worthy of minority status.
+
+Overall, seeking to minimise the suffering of the Jewish community after a tragedy is something that takes place on all sides of the political spectrum. In a macabre way, the Pittsburgh shooters brazen stupidity as he screamed anti-Semitic slogans at the site of his bloody mass murder was welcome. It meant that the Jewish community received the victim status that this attack warranted. Any claims that this attack was some kind of payback for actions committed in a conflict in the middle east were not taken seriously, Palestine was not mentioned by the attacker. Any claims that this attack was actually an attack on the ideology where it could be argued that this attack came from due to anti-religious and anti conservative fervour were also not taken seriously. The attacker was unambiguous in his hatred and where his hatred was directed. Even now, as this article has mentioned, there were voices seeking to minimise the fact that this attack was racist. Perhaps the world (some people could argue the Jewish community itself) must decide whether it belongs in its place as the Western World’s oldest minority.
