@@ -10,12 +10,12 @@ subtitle: >-
   to gamble. How have we ended up here, and where will the industry go now?
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1705/1705_games_EA+is+Guilty.jpg
+date: '2018-11-16 17:00:00'
+categories:
+  - games
 authors:
   - anthony_onwuli
   - sam_welton
-date: '2018-11-16 17:0000'
-categories:
-  - games
 ---
 
 The gambling accusation refers to loot boxes, effectively Pokémon booster packs for in-game cosmetics and perks.  Much like card packs, most of the contents are common trash, but there is always potential of finding something rare and flashy that you can show off. Fundamentally, both card packs and lootboxes play on the same risk-reward system of slot machines, and as such they can trigger the same addiction reactions in people. Now, gambling in itself is fine, and the question of whether lootboxes should exist at all is a complicated one. The unambiguous issue arises when they are prominent in games with huge young playerbases. Fortnite and Overwatch are two obvious examples of games that hit wide demographic ranges while hiding their items in boxes behind paywalls. For an adult with financial independence, it’s up to them to decide how they spend their money, but the “need” to buy these items is a lot stronger for impressionable kids and teens. If everyone around them and everyone they watch online has cool items, they’re going to want to get them too, and so often find themselves pouring huge amounts of money into these loot boxes. These kids are learning what it feels like to gamble.
