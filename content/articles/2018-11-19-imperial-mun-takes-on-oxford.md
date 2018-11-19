@@ -30,4 +30,3 @@ Last but not least, we were also represented in the International Court of Justi
 Congratulations to the five members of the delegation for their hard work throughout the weekend, as they brought back 4 awards from this prestigious conference. Another group of 9 Imperial students went to Cambridge for yet another weekend of debate and fun, and you will have a complete recap next week. 
 
 _To find out more about ICMUN or go to future conferences, visit us every Thursday from 6 to 8pm in Huxley 308, check our Facebook page or email modelun@ic.ac.uk_
-
