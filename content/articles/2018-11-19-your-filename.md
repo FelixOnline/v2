@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: Untitled
+title: 'A surprise Kamikaze for fans, critics and mumble rappers'
 subtitle: >-
   Although it received only mixed to positive reviews, the consistent
   chart-topping performances prove Eminem will still remain dominant in the
