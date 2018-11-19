@@ -33,4 +33,5 @@ Not only will the selected Student Ambassadors have the opportunity to come up w
 
 Talks are also under way about how _The Times_ will be involved in the 2019 festival at the end of June 2019. 
 
-Details of the Ambassador Scheme and how to apply will be released on Monday 19th November.
+Please visit the following website for further details of the Ambassador Scheme and how to apply:
+[http://newscareers.broadbeantech.com/jobs/view/3625](http://newscareers.broadbeantech.com/jobs/view/3625)
