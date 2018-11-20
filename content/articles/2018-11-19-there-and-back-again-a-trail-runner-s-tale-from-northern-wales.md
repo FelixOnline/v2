@@ -34,4 +34,3 @@ Just as the early bird catches the worm, the early runner makes the most of Wale
 After making it back to the hut, the team had a quick lunch and showers, packed their gear and got ready to board the minibus to head back to London, tired but jolly after an all-round wonderful weekend in the land where sheep outnumber people.
 
 If you are interested in taking part in our activities, join our Facebook group or email run@ic.ac.uk.
-
