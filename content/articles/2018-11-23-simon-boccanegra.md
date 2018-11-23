@@ -27,3 +27,5 @@ The sets are enormous, with the same columns and tiled floor as a common element
 There are of course some brilliant moments. Francesco Meli as Gabriele Adorno earned the audience applause with his solo aria, and Ferruccio Furlanetto as Jacopo Fiesto impressed with his consistently solid performance, always sounding clearly and louder than the orchestra.
 
  The anonymous and often forgotten cast also deserves praise: every chorus moment brought life to the stage, bursts of action contrasting with operatic, frozen-in-time sections. Their off-stage lines had a dark, ghostly feeling that overall contributed to the intensity of the drama. Musically, the orchestra was beautiful and precise, supporting the scene without becoming the protagonist. In terms of collective performance, the full section in the council chambers is unforgettable, involving spectacular sword fights, incredible coordination, alternating arias, ensembles and choruses, in an exciting crescendo of dramatic tension and exhilarating music.
+
+_-3.5 stars_
