@@ -26,4 +26,4 @@ In November 2017, the library installed new cooling systems on levels 4 and 5. F
 
 This summer, climate control systems were brought to levels 2 and 3, along with floor refurbishment, power at all desks, and new PCs and furniture. The Central Library now houses over 350 student-use PCs.  
 
-In June 2017, Felix revealed that the new cooling system installed in the past two years cost £11 million, the Central Library’s single largest expenditure in over a decade. The Phase 1 refurbishments cost the Library £10.4 million; this was funded by College, the Wolfson Foundation, and the Lisbet Rausing Trust. 
+In June 2017, Felix revealed that the new cooling system installed in the past two years cost £11 million, the Central Library’s single largest expenditure in over a decade. The Phase 1 refurbishments cost the Library £10.4 million; this was funded by College, the Wolfson Foundation, and the Lund Trust, a charitable fund of Lisbet Rausing and Peter Baldwin.
