@@ -11,7 +11,7 @@ authors:
   - danelmedelbekov
 date: '2018-11-23 17:00:00'
 categories:
-  - arts
+  - clubs-and-socs
 ---
 Following the success of ICMUN’s five-man delegation in Oxford earlier in the year, we have sent a delegation almost twice that size to the Cambridge International Model United Nations conference, to once again act as representatives of different countries saving the world. To say that the weekend was full of surprises would be an understatement, and to say that the resolutions passed would at all reduce the chances of us dying in World War Three would be a blatant lie. 
 
@@ -30,4 +30,3 @@ On the brighter side, a number of resolutions that might postpone our certain do
 In addition, the vast majority of delegates in the UN Development Programme voted in favour of a resolution fighting corruption in development projects, with an interesting anti-corruption alliance forming between Ukraine, Burkina Faso and Turkey. Our delegate in the World Health Organisation witnessed the entire room (with the exception of DPRK) working together to eliminate medical black markets and safeguard electronic health records.The ICMUN delegate in the Historical Crisis was relieved to see the prevention of World War Two, as Germany sold off its colonies over the course of the 1919 Paris Peace Conference and emerged as the richest country in the world following World War One.
 
 Ultimately, ICMUN has fulfilled its sacred mission of proving that scientists can indeed do politics and contribute to the demolition of the world just as well as the humanities squad, having tons of fun in the process.
-
