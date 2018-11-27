@@ -31,13 +31,8 @@ The Self Assessment Team plans to meet on a termly basis, with the next meeting 
 
 To complete the survey visit:
 
-[www.imperial.ac.uk/equality/achievements/rec](www.imperial.ac.uk/equality/achievements/rec)
+[http://www.imperial.ac.uk/equality/achievements/rec/](http://www.imperial.ac.uk/equality/achievements/rec/)
 
 If you would like a hard copy of the survey or more information about Imperial's race equality work, please email Sally Parekh:
 
 s.parekh@imperial.ac.uk.
-
-
-
-
-
