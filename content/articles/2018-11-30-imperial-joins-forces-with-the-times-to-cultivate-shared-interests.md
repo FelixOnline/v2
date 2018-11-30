@@ -23,7 +23,7 @@ Tuesday evening saw _Times_ journalist and political satirist Matt Chorley joine
 
 When first announcing the partnership, Imperial College Union president Rob Tomkies said: “We are very excited about..this partnership and the potential it has to benefit the student community at Imperial."
 
-Emma Tucker, deputy editor of _The Times_, said: "_The Times_ and _The Sunday Times_ are delighted to partner with Imperial College London to promote our shared belief that it has never been more important for young people to develop a breadth of knowledge and to stay up to date with the news.”
+Emma Tucker, deputy editor of _The Times_ , said: "_The Times_ and _The Sunday Times_ are delighted to partner with Imperial College London to promote our shared belief that it has never been more important for young people to develop a breadth of knowledge and to stay up to date with the news.”
 
 Tomkies added: “We see this relationship as a way of exploring the broader issues around journalism, communication and culture – empowering people to lead and communicate in all fields, not just their scientific specialism.”
 
