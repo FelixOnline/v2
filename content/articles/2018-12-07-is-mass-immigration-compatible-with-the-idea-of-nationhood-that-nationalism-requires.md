@@ -1,0 +1,46 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: >-
+  Is mass immigration compatible with the idea of nationhood that nationalism
+  requires?
+subtitle: >-
+  The question of  mass  immigration is neither new or one we have dared to
+  think more thoroughly about. Is the reason behind all the pain and controvery
+  this topic brings perhaps due to it not being compatible with nationalistic
+  governments and their ideas?
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1708/1708_comment_photo1.jpg
+authors:
+  - auguste_rodin
+date: '2018-12-07 17:00:00'
+categories:
+  - comment
+---
+Perhaps to begin answering this question we should start by defining what really is nationalism. As with many other abstract concepts, what tends to happen is that different communities chose to define the concept in a way that suits their agenda, but in the simplest way of putting it, nationalism “…is primarily a political position, which holds that the national unit and the political unit should be congruent” according to Ernest Gellner. 
+
+So, what does this statement actually mean? In physical terms it means that the community that is being considered would be the same community that is in power. Arguably, this seems like a very legitimate concept that coincides with the right of self-determination. You have the inherent right as a community to decide who governs you, and as a general rule, we tend to choose governments made out of people that think like us, that we identify with and that we believe represent us as much as possible. But this can break down in two situations: firstly, when the community demographic shifts in a very sudden and inorganic manner and thus the government is no longer representative of said community, or alternatively, when the community is too diverse for it to be accurately and fairly represented by one party in power.
+
+Both of these instances can arise as a consequence of mass immigration, because ultimately, this significantly shifts the demographic of the nationhood that is being represented in an unnaturally fast way, and thus means that there is a disconnect between the ‘national unit’ and the ‘political unit’.
+
+However, this does not mean that a functional government is not viable when the nation is diverse in background and ethnicities, and there are many case studies of thriving countries that have established their government as federal or community based, or similar structures that are sub-divided to represent each ‘sub-national unit’. An interesting example to look at is Lebanon, dividing its parliament seat allocation according to religious groups, to ensure all of them are represented to one extent or another. Paradoxically, this example can also be used to illustrate the exact opposite argument: because communities should govern themselves. Lebanon has had to engineer its way around the fact that its community is so diverse, in order to fully and optimally represent all of the groups and preserve said congruence that nationalism requires. But then again, this begs the question: what really is a community? Is it a religion, as the Lebanese government model could lead us to think? Is it a collective of same language speakers? Is it even race? History has proven that it is both none of them and all of them at the same time. 
+
+Maybe that is the true question that we should be asking, and if had known the answer we would have saved humanity a lot of bloodshed. Africa would have not been so poorly divided by its colonisers using a geographical criterion as opposed to a nation/tribe-based criterion, thus avoiding a very large proportion of tribal wars and conflicts. Perhaps we would also understand that nations cannot be manufactured artificially, and it would make it very obvious to the international community what the aim of Israel is. They too seem to ask themselves what a nation is, and are trying to tick some sort of checklist of ingredients you need in order to form one: religion (Judaism), history (their alleged historical claim to the holy land), language (reviving Hebrew, that had ceased to be an everyday spoken language somewhere between 200 and 400 CE) and culture (this one much harder for them given as the Israeli community is made up of many different nationalities and radically different cultures, so in turn they often resort to cultural appropriation of the Palestinian culture). But for the sake of the question we have posed today, let us accept that a nation is a community united through characteristics they share such as, but not necessarily; religion, culture, common history, language amongst others. 
+
+Having taken a slight detour to establish what we think is a nation, and what nationalism is, we return to the initial question: can mass immigration be compatible with nationalism? The answer, I believe, depends on a very important factor: whether or not the immigrating community is the same one that then acquires power or not. 
+
+Let us assume that the migrating community does not then go on to be represented by the organ in power. In that case they are not compatible, since the core definition of nationalism relies on the fact that both the governed and the governors are the same. If the amount of immigration is of a smaller scale, the shift in demographic traits is less perceivable and thus a significant change in the government body is not of utmost necessity. The extent to which the principle of nationalism is violated is not notable enough for us to say that the link between both entities has been broken. However, because we are specifically outlining that the order of magnitude of the immigration wave is much higher, this means that there is an upset in the equilibrium of the system. 
+
+If we were to consider national unit as a balance of two sides, and the nation as one weight on the balance, and the government as the other, nationalism merely says that both must be in equilibrium, the weight being a metaphor as to how truly the government represents the nation. Adding mass immigration into the equation means that the balance tilts towards the nation very suddenly, and unless you adjust the government, the equilibrium breaks and the proposal of nationalism no longer holds true.
+
+Alternatively, there are two scenarios where mass immigration is still compatible with nationalism. The first one, as previously mentioned, is when the government is re-adjusted to suit the needs of the new demographic. Most examples of this situation generally involve a colonial community forcibly removing the native community through mass immigration and imperialistic use of power, and it is through these same tactics that the new government is put in place to maintain the nationalistic principle. Some examples include the United States of America, with their mass immigration and ultimately almost eliminating the Native Americans originally living in the land, and similarly, the same can be said about Australia.
+
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1708/1708_comment_nabka.jpeg)
+
+Another possibility which is in fact subtler but just as interesting can be very clearly illustrated in the example of Jordan. Jordan is a country of about 9 million people (CIA, 2018), where 2 million are Palestinian refugees (UNRWA, 2018) and an even higher proportion of which are of Palestinian descent. In this particular case the government was never changed from a monarchy, and there were no major internal conflicts within the Jordanian society itself. The influx of Palestinians was not organic, as it was triggered by mass ethnic cleansing, so this is indeed a suitable example to consider as mass immigration. It is worth noting that there was a full-scale war between Jordan and Palestine from 1970 to 1971, known as the Black September (ThoughCo, 2015), but this is not related to the coexistence between Palestinians and Jordanians within Jordan. This is another example where a community of a significant enough size existed within a host community without disrupting the existing government, and the nationalistic proposal did not in fact hold true. 
+
+On the other hand, an argument that mass immigration is not compatible with nationalism is the fact that when the colonial community is unsuccessful in fully establishing itself, the native community usually restores nationalistic balance through a revolution that enables them to be represented by a government of their own community. Some case studies include Algeria and India, both respectively succeeding in removing the colonial body from power since the nation’s demographic did not in fact, match the demographic in power. This furthers the notion that mass immigration is incompatible with nationalism, because the reason why the revolution occurs is to restore the connection between the people and their leaders. 
+
+Ultimately, I believe it is safe to conclude that the very basic principle of nationalism, that nations should govern themselves, holds true in most of the situations of recent modern history, and that mass immigration, unless followed by a re definition of the governing body, will upset the established equilibrium, and thus is not compatible with nationalism’s core principle.
