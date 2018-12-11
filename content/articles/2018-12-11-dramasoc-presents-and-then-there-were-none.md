@@ -33,3 +33,5 @@ Despite these distinct characterizations, however, the play sends a clear messag
  
 The conclusion of the play, as promised, was equally as satisfying, though different, from that in the novel. (It is difficult to comment further without revealing the end, though I wholly suggest reading Agatha Christie’s original story, it lives up to the darkly humorous, psychological thriller that it is exalted as.) Many thanks to the directors, the cast, and the crew who worked tirelessly to recreate the chilling, alarming events of Solider Island.
 
+_-5 stars_
+
