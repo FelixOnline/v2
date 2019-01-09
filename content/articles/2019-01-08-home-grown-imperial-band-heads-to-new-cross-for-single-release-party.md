@@ -25,6 +25,6 @@ Their new single, ‘Hither Green’ focuses on concepts of vulnerability, freed
 
 They have high hopes for 2019, with plans to release one single a month for their growing fanbase. They plan to branch out to other areas of the UK to perform and hope to get some festival gigs booked for the Summer as well.
 
-To celebrate the release of their new single, they are holding a special gig at the legendary Amersham Arms in New Cross. Supporting them are the upcoming artists Uncle Monty, The Offdays and The Misconduct Committee. 
+To celebrate the release of their new single, they are holding a [special gig](https://www.facebook.com/events/2105614796186751/) at the legendary Amersham Arms in New Cross. Supporting them are the upcoming artists Uncle Monty, The Offdays and The Misconduct Committee. 
 
 The show begins at 7.45pm with Candy’s Room headlining at 10.00pm. Tickets can be found on Eventbrite for £5 in advance or can be bought on the door for £6.
