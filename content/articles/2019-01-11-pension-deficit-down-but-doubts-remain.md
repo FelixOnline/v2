@@ -7,6 +7,8 @@ title: Pension deficit down but doubts remain
 date: '2019-01-11 17:00:00'
 categories:
   - news
+authors:
+  - jmw216
 ---
 The university pension deficit has more than halved since 2017, according to a report released last week. A phased increase in employee contributions is due to begin in April. The news coincides with the beginning of a consultation to determine how much financial risk universities are willing to take on, as well as the views of lecturers and other staff.
 
@@ -29,4 +31,3 @@ _Rejected:_
 - Deferring when de-risking starts.
 - Smoothing contributions over future valuation cycles.
 - Allowing for outperformance in the recovery plan.
-
