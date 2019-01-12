@@ -16,6 +16,14 @@ params:
   imageProxy: "//images.weserv.nl/?url="
   description: Felix Online is the online companion to Felix, the student newspaper of Imperial College London.
   displayCategories:
+    - name: cats
+      colour: "red"
+      email: cats.felix@imperial.ac.uk
+      editors:
+        - cet13
+      tags:
+        - pets
+        - furry
     - name: news
       colour: "cd1619"
       email: news.felix@imperial.ac.uk
