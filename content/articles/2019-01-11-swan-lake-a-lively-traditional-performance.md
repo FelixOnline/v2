@@ -12,6 +12,8 @@ authors:
 date: '2019-01-11 17:00:00'
 categories:
   - arts
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/50297788_2204308056292149_8480635903474139136_n+(1).jpg
 ---
 _Swan Lake_ is perhaps the most renowned classical ballet repertoire still routinely performed. Recent productions such as Matthew Bourne’s reimagined all male production or even the twisted representation on screen in _Black Swan_ have only increased its popularity. 
 
