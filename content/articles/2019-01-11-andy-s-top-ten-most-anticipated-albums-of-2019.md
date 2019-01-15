@@ -61,13 +61,13 @@ The eccentric Atlanta rap duo and Dreamville signees were on my “Ones to Watch
 
 Stormzy has been pretty quiet since 2017’s _Gang Signs and Prayer_ , making moves outside of music, such as launching a book deal and Adidas clothing line, and collaborating with Cambridge University. As arguably the biggest grime artist in the UK, the pressure is on for him to perform with a stellar follow-up album. I’m interested to see if he continues down the positive, gospel-influenced style or returns to his gritty, grimy, ‘Wickedskengman’ roots with this project.
 
-2. Samm Henshaw
+**2. Samm Henshaw**
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/1709_music_Soundexp1.jpeg)
 
 You may remember when I reviewed Samm Henshaw’s Scala concert at the end of October, I hinted that he could be the future of UK soul music. Well 2019 is the year he will drop an album that supports my bold claims. You heard it here first.
 
-1. Dave
+**1. Dave**
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/1709_music_dave.jpeg)
 
