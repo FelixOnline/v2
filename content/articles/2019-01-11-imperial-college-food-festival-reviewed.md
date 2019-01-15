@@ -9,11 +9,11 @@ subtitle: >-
   Food writer Shivan recaps the recent Imperial College Food Festival
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/1709_food_Picture1.png
-authors:
-  - shrivan_parmar
 date: '2019-01-11 17:00:00'
 categories:
   - food
+authors:
+  - shivan_parmar
 ---
 On 24th October, the Imperial College Food Festival took place on Queen’s Lawn, featuring a diverse range of food stalls including London Smokehouse, Nick and Greek, Wafflestick and Coconut Tree. The fundraiser was part of the international Charity Week campaign held on campus, and raised a whopping sum of over £1,000 for sustainably developing resources for children in need. It was also nominated as one of the best events in London – score!
 
@@ -25,4 +25,4 @@ The food festival was but one aspect of a wider Imperial Islamic Society campaig
 
 This was the first time that the Food Festival had successfully run, following three years of attempts resulting in disappointment. However, this year, after mounds of paperwork, the College approved the event in time – resulting in the first time the college has allowed a society to host a large event on Queen’s Lawn. If you are interested in running a similar event in the future, we highly encourage you to contact Azmat for details on how to go about it! Furthermore, anyone interested in taking part in next year’s Charity Week campaign should message the Imperial College Charity Week page on Facebook, and the committee will be in touch with further details. Use some of your spare October time before the deadlines rush in food a good cause! 
 
-Overall, the Food Festival was a resounding success as part of a much broader Charity Week, and hopefully the first of many future charity food festivals held at Imperial. Because food + money for a good cause = what more could you want? 
+Overall, the Food Festival was a resounding success as part of a much broader Charity Week, and hopefully the first of many future charity food festivals held at Imperial. Because food + money for a good cause = what more could you want?
