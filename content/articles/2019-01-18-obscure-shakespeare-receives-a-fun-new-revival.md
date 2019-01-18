@@ -13,6 +13,8 @@ authors:
 date: '2019-01-18 17:00:00'
 categories:
   - arts
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1710/1710_arts_cw-32011-620x352.jpg
 ---
 The comedy centres around the lascivious Sir John Falstaff, known to many from Shakespeare’s Henry IV plays – _The Merry Wives of Windsor_ is said to have been commissioned by Elizabeth I herself, who must have felt her beloved Falstaff deserving of his own story. This play uses this fact as a means of introducing the characters, as in the beginning they come in one-by-one with their names projected onto the background – I found this immensely helpful in keeping track throughout the play due to the many characters.
 
