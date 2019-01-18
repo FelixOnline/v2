@@ -27,4 +27,5 @@ The mother had been shopping with her sister and decided to take the tube after 
 
 Paramedics arrived minutes after the boy was born and cut the umbilical cord. The child and mother were then later taken to hospital by the medics.
 
-![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1710/1710_news_14188137_10210082358965927_9062661895141694361_o.jpg)
+For the full BBC News story, [click here](https://www.bbc.co.uk/news/uk-england-london-46908685)
+
