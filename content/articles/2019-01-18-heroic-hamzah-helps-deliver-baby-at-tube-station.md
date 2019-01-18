@@ -30,4 +30,3 @@ The mother, who also told Hamzah she had given birth to three other children, re
 Paramedics arrived minutes after the boy was born and cut the umbilical cord. The child and mother were then later taken to hospital by the medics.
 
 For the full BBC News story, [click here](https://www.bbc.co.uk/news/uk-england-london-46908685)
-
