@@ -19,11 +19,13 @@ First year medical student, Hamzah Selim, has delivered his first baby - at a tu
 
 Hamzah, who graduated from Imperial in 2018 with a BSc in Biomedical Science and now studies at University College London, was on his way home following an anatomy lecture on the afternoon of Tuesday 15th January when he heard two women shouting for help.
 
-He saw the mother leaning against a wall on the Northern line platform. “I went over to help because it looked like she was about to faint”, told Hamzah of the experience. When he reached her, he realised the mother was in labour and the “baby was 50% out already”. Hamzah then sat the woman down and delivered the baby boy. 
+He saw the mother leaning against a wall on the Northern line platform. “I went over to help because it looked like she was about to faint”, told Hamzah of the experience. When he reached her, he realised the mother was in labour and the “baby was 50% out already”. Hamzah then sat the woman down and used his jumper to protect the newborn baby boy. 
 
-Hamzah said his training from the time he spent working on a maternity ward kicked in: “it was just instinct”. 
+Hamzah, who has not studied midwifery but had just spent the past few weeks at a neo-natal unit as part of his degree at University College London, added:
 
-The mother had been shopping with her sister and decided to take the tube after failing to flag down a taxi. She realised she was going into labour shortly before 2pm. She also told Hamzah she had given birth to three other children.
+"I knew a little bit of what to do. I had to lower the woman. I took my jumper off and wrapped the baby in it.." 
+
+The mother, who also told Hamzah she had given birth to three other children, realised she was going into labour shortly before 2pm. "The mum was incredible, she was so strong, and so much more brave than me," said Hamzah.
 
 Paramedics arrived minutes after the boy was born and cut the umbilical cord. The child and mother were then later taken to hospital by the medics.
 
