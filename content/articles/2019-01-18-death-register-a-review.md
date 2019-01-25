@@ -13,7 +13,7 @@ authors:
   - charlestitmuss
 date: '2019-01-18 17:00:00'
 categories:
-  - comment
+  - books
 ---
 _Death Register_ is a novel outside my literary comfort zone. It follows the formative years of Chauncey Knuckle and his group of friends, growing up in the city of Montego Bay. It explores their relationships with their peers, their families and their teachers against the intensely homophobic and patriarchal background of Jamaica in the 90s.  
 
