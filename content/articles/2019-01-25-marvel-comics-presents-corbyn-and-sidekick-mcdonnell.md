@@ -33,6 +33,6 @@ There are other flaws in the play, too; the dialogue is spoken without pauses in
 
 I would prefer, however, to speak about the positives. Sameena (played by Rina Fatania) is a fantastic breath of fresh air in an otherwise stale production. She is a single mother recently out of jail on a mission to get her children back and to provide for them. She is convinced by Mansha to put the money that she receives from the sale of her parents’ house into buying the taxi firm and is ruined when the truth emerges. She is criminally underutilised and I find myself wondering if Din had expended all of his creativity on writing her and then, having run out of ideas, simply plugged his brain into the Momentum Twitter feed and put his pen on auto pilot.
 
-The shadow of a play about the effects of deindustrialisation on the north of England is there in the script, but like the peeling and faded map that takes up the whole back wall of the set, it is a pathos-inducing imitation of the real thing.    
+The shadow of a play about the effects of deindustrialisation on the north of England is there in the script, but like the peeling and faded map that takes up the whole back wall of the set, it is a pathos-inducing imitation of the real thing.
 
-
+_-1 star_
