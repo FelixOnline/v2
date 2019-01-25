@@ -9,6 +9,8 @@ authors:
 date: '2019-01-25 17:00:00'
 categories:
   - news
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1711/Union-Council-Bursary-Motion-4+copy.jpg
 ---
 Tuesday’s Union Council saw the announcement of £250k funding secured for “unfairly underfunded” 2015 bursary cohort students.
 
@@ -28,4 +30,4 @@ Following this, College decided to change the bursary scheme for the 2016 intake
 
 The change to the 2015 bursary scheme was initially thought to have affected up to 200 undergraduate students from the 2015-16 cohort - students who would have received substantially larger bursaries had they enrolled either a year sooner or a year later.
 
-All students will receive an email explanation and the affected students will receive details of how they can claim the promised funding. 
+All students will receive an email explanation and the affected students will receive details of how they can claim the promised funding.
