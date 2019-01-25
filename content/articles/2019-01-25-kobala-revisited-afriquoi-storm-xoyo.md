@@ -33,3 +33,5 @@ A forty second out-of-body experience complete with space-age synth, I feel this
 Named after the guitarist, the line “Move your body like this” says it all. This is a fantastic dancefloor beat to move to with a nice fusion of traditional drums and Congolese guitar.
 
 If you were hoping to know, as I am, what the non-English track titles mean, sadly I cannot enlighten you. Researching this article I discovered that West African languages and cultures are sadly under-represented online. However, with Afriquoi, the culture blending Western themes are getting out to the world.
+
+_-4 stars_
