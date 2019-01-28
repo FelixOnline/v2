@@ -6,7 +6,7 @@ comments_disabled: false
 title: Future Developments to the South Kensington Campus
 subtitle: >-
   The Masterplan developed to improve the shared spaces of the South Kensington
-  Campus will include opening up the Sherfield Walwkay and Queen's Lawn
+  Campus will include opening up the Sherfield Walkway and Queen's Lawn
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1711/1711_news_Picture1.png
 authors:
@@ -37,5 +37,4 @@ The long-term projects include developments to the Chemistry Building, the Sherf
 
 Neil Alford, Associate Provost (Academic Planning), states, “The Masterplan is an ambition. It’s a vision for the best version of the campus we can imagine. We shelve considerations of cost and other practicalities for a moment, and just think about what we’d really want our campus to look like. This then provides a framework that helps us as we move forward with our development plans for the campus as investment becomes available."
 
-Those who would like to submit feedback regarding campus plans may do so on the College website South Kensington Masterplan page. 
-
+Those who would like to submit feedback regarding campus plans may do so on the College website South Kensington Masterplan page.
