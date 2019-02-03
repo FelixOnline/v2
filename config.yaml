@@ -30,7 +30,7 @@ params:
     - name: politics
       email: politics.felix@imperial.ac.uk
       editors:
-        - ff712
+        - juan_rubio_gorrochategui
     - name: comment
       colour: "00a7d3"
       email: comment.felix@imperial.ac.uk
