@@ -32,6 +32,7 @@ params:
       editors:
         - juan_rubio_gorrochategui
         - divyenvanniasega
+        - avirup_banerjee
     - name: comment
       colour: "00a7d3"
       email: comment.felix@imperial.ac.uk
