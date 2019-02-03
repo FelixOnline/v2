@@ -50,8 +50,10 @@ params:
       colour: "005722"
       email: science.felix@imperial.ac.uk
       editors:
-        - cr709
-        - htb08
+        - eyad_abuelgasim
+        - henry_alman
+        - rosie_dutt
+        - sanziana_foia
       tags:
         - engineering
         - natural-science
