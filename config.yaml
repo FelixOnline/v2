@@ -31,11 +31,13 @@ params:
       email: politics.felix@imperial.ac.uk
       editors:
         - juan_rubio_gorrochategui
+        - divyenvanniasega
     - name: comment
       colour: "00a7d3"
       email: comment.felix@imperial.ac.uk
       editors:
-        - ff712
+        - charlestitmuss
+        - aida_manzano_kharman
       tags:
         - politics
         - world-affairs
@@ -61,9 +63,9 @@ params:
       colour: "54166b"
       email: arts.felix@imperial.ac.uk
       editors:
-        - adamgellatly14
-        - im1413
-        - jc7413
+        - vaishnavignanana
+        - scc114
+        - helenmoneykyrle
       tags:
         - review
         - comment
@@ -77,10 +79,9 @@ params:
       colour: "7a0040"
       email: film.felix@imperial.ac.uk
       editors:
-        - ashley_luckyram
+        - sung_soo_moon
         - mikhaildemtchenko
-        - markaduol
-        - michaelpurdy14
+        - aidan_chan
       tags:
         - review
         - feature
@@ -106,7 +107,8 @@ params:
       editors:
         - adrian_lamoury
         - he915
-        - andy_djaba
+        - asad_raja
+        - sk2214
       tags:
         - review
         - feature
@@ -118,7 +120,8 @@ params:
       colour: "00546c"
       email: games.felix@imperial.ac.uk
       editors:
-        - ff712
+        - anthony_onwuli
+        - connor_winzar
       tags:
         - review
         - feature
@@ -129,9 +132,8 @@ params:
       colour: "e5c700"
       email: food.felix@imperial.ac.uk
       editors:
-        - alicedavage
-        - aib116
-        - chunyuanhii
+        - eva_tadros
+        - julia_dabrowska
       tags:
         - out-&-about
         - recipe
@@ -142,7 +144,7 @@ params:
       colour: "000000"
       email: travel.felix@imperial.ac.uk
       editors:
-        - editapileckyte
+        - joana_correia
       tags:
         - imported
         - image
@@ -151,6 +153,7 @@ params:
       email: sport.felix@imperial.ac.uk
       editors:
         - imrajsingh
+        - fergusjohnson
       tags:
         - match-report
         - tours
@@ -160,11 +163,11 @@ params:
       email: books.felix@imperial.ac.uk
       editors:
         - jc7413
-        - alicepeberdy
     - name: tech
       email: tech.felix@imperial.ac.uk
       editors:
-        - tommrazek
+        - krithika_balaji
+        - haaris_asghar
     - name: liberation
       email: liberation.felix@imperial.ac.uk
       editors:
