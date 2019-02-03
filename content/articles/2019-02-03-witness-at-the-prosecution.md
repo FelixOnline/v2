@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: Witness at the Prosecution
+title: Witness for the Prosecution
 subtitle: Another all-round pleasing hit from the queen of crime
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/49896932_232522580984308_9015155496973238272_n.jpg
@@ -28,4 +28,3 @@ Solbe is utterly convincing as Leonard Vole – you’d never believe the honest
 Witness for the Prosecution is definitely a night to remember. It’s not exactly subtle or soul-searching with its trope-heavy plot and stereotypical characters, but then again it’s never promised to be anything else. With its spectacular setting and dramatic plot, it’s entertainment anyone will enjoy, regardless of whether they prefer Nietzsche or Netflix.
 
 _-4 stars_
-
