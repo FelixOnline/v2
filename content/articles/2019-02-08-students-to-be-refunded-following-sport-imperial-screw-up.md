@@ -8,7 +8,7 @@ subtitle: >-
   Sport Imperial blunder sees students who joined prior to September 2018
   entitled to £30 gym refund
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_news_sport+strategy.jpg
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/image1.png
 authors:
   - andy_djaba
 date: '2019-02-08 17:00:00'
