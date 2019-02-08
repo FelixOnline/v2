@@ -8,7 +8,7 @@ subtitle: >-
   Sport Imperial blunder sees students who joined prior to September 2018
   entitled to £30 gym refund
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_news_sport+strategy.png
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_news_sport+strategy.jpg
 authors:
   - andy_djaba
 date: '2019-02-08 17:00:00'
@@ -45,4 +45,3 @@ With all funds generated being directly reinvested in facility and service devel
 Mr. Hollyer added: “What we don’t want is it to be the defining issue of the strategy when we’ve got loads of really exciting stuff. We’re just about to change effectively the whole way that sport is digested and consumed at university with the Sports Hub.” 
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_news_IMG_6234-JPG--tojpeg_1538056918939_x05.jpg)
-
