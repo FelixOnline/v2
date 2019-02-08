@@ -5,7 +5,9 @@ featured: true
 comments_disabled: false
 title: Positive changes to Leadership Elections 2019 as nominations open
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_news_LE19+Felix+Front+Page+Ad+(strip).jpg
+  javascript:triggerFileDetails('4_za15ad955c43e2c0a53ec0e1a_f115d2d5aef6e8484_d20190208_m134539_c001_v0001098_t0030','0',
+  'upload', '2018_felix_issues/issue_1713/1713_news_LE19 Felix Front Page Ad
+  (strip).jpg')
 authors:
   - andy_djaba
 date: '2019-02-08 17:00:00'
@@ -28,4 +30,4 @@ Another area of improvement is the complaints process, which has been streamline
 
 The impact of these elections on the student experience is massive and all students are encouraged to vote and consider standing for positions in which they think they’ll be able to make a difference.
 
-Nominations close Friday 1st March, while voting runs from noon, Monday 11th March – 14:00 Thursday 14th March 2019. To stand for a role, go to [imperialcollegeunion.org/elections](https://www.imperialcollegeunion.org/your-union/leadership-elections-2019)  
+Nominations close Friday 1st March, while voting runs from noon, Monday 11th March – 14:00 Thursday 14th March 2019. To stand for a role, go to [imperialcollegeunion.org/elections](https://www.imperialcollegeunion.org/your-union/leadership-elections-2019)
