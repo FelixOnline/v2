@@ -5,9 +5,7 @@ featured: true
 comments_disabled: false
 title: Positive changes to Leadership Elections 2019 as nominations open
 image: >-
-  javascript:triggerFileDetails('4_za15ad955c43e2c0a53ec0e1a_f115d2d5aef6e8484_d20190208_m134539_c001_v0001098_t0030','0',
-  'upload', '2018_felix_issues/issue_1713/1713_news_LE19 Felix Front Page Ad
-  (strip).jpg')
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/image2.png
 authors:
   - andy_djaba
 date: '2019-02-08 17:00:00'
