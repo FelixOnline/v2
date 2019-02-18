@@ -1,0 +1,25 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: The brilliant mess of the Birmingham pantomime
+authors:
+  - sam_welton
+date: '2019-02-18 17:00:00'
+categories:
+  - arts
+---
+Pantomimes follow a simple formula. Jokes, colourful costumes and a pervasive camp atmosphere combine to form family entertainment. As had been family tradition for over ten years, this Christmas I experienced the Birmingham pantomime. Now, experienced really is the word as in that time it has devolved into simultaneously a perfect distillation but also parody of the genre, and at this point exists entirely to entertain the adults. Don't get me wrong, the funny man doing the big fart and the colourful dresses keep children entertained, but the endless sex jokes and dated references reveal its true colours. But it is definitely still pantomime. It has laughs for days, the most flamboyant costumes you will ever see, and by god it's camper than a weekend in the peak district with Freddie Mercury. Frankly I feel it needs documenting. 
+
+This year's show resembled Peter Pan. I say resembled as, while many characters were present, there was also a sizeable amount of random deviation. The "buttons"-alike (played by a man named Matt slack who literally carries the entire show) was Mr Smee, rewritten as the nanny of the kids and a spy for them once in Neverland. There is also a fairy godmother character, who you may be surprised to find is not actually a fairy but a magical mermaid with short term memory loss who flies around in a giant clam shell. Buckle up:; we are just getting started.
+
+While the kids fly to Neverland with fairy dust, Mr Smee travels by means of flying vesper which is hydraulically lifted above the audience in a very convincing effect. Upon arrival the plot proceeds to play in both high speed and slow motion. The show tries to hit all the important moments of the source material, but given half the scenes are just vehicles to tell jokes, 30% are immaculately choreographed dance numbers and 10% are sudden intense acrobatics sessions which teach you the meaning of tension, there isn't much time left for plot. Vital moments just suddenly happen, the first time the word "mum" is used is when Peter asks Wendy to be his. Tink drinks the poison when completely alone which is such an immense plot hole that Smee calls her a stupid cow. There is a five-minute scene in the second half where Hook and Smee flirt, ending with a metaphorical orgasm when Smee's guitar explodes. A joke is made about Smee having an inflatable girlfriends before he returns to save the day using an extended matrix parody wherein physical theatre is used to show slow motion. Still with me?
+
+Of course, there are constant fourth wall breaks throughout. Along with the classic "oh no you didn't" and such there are meta jokes about who the actors are, about the reality of putting on a show etc. Donny Osmand plays Hook and Smee spends the entire show asking where Jimmie is, Wendy at the end makes a long and painful Brexit joke to the audience and, during the final loving moment between Pan and Wendy, Smee pipes up and reminds everyone that the actor playing Pan is 35. This immediately caused the entire cast to corpse in a moment that will stick with me forever. 
+
+And with that, the show is basically over - there is only one more tradition to fulfil. At the end, Smee brings 4 kids from the audience up on stage to talk to them about the show, make some wholesome jokes to the audience, give them presents and make them feel special. It's a sweet way to end the show. I, having been so many times, know how easily this can go awry. This year for instance one of the kids wouldn't stop dancing, at any point. Another was so bewildered he could barely speak, but it all played out nice in the end. I would be remise not to mention last year though, wherein one of the children was a seamless plant. We know this, because after seemingly acting like a show-off to the audience, the straight-faced Buttons character said, "no-one likes a know it all", picked up the kid and dropped him into the band's pit. The entire audience lost it. The power of subversion of expectations.
+
+No doubt, what I witnessed that Christmas Eve was completely senseless, barely even trying to tell a story. But here is the thing, while it may be nonsense, deep down, you can't tell me you don't want to experience it. Over the years the show has reached the point of maximum mess. The whole thing feels like what you and your mates might pull together if you were told you had to put on a show and had an hour to prepare, but with the budget of a Broadway production. Frankly, there is nothing I've ever experienced quite like it and that is why, at 21, I have every intention of going again next year - and you should too. 
+
+Finally, I wish to extend my best wishes to Donny Osmand who suffered a stroke mid show only 3 days after I was there. Having powered through to the end of the performance he was rushed to hospital. He seems to be doing better now but was unable to perform subsequent shows. I hope he makes a full and speedy recovery.
