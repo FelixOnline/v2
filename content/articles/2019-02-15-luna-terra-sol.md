@@ -6,6 +6,7 @@ comments_disabled: false
 title: Luna Terra Sol
 authors:
   - helenmoneykyrle
+  - marta_wolinska
 subtitle: 'Heavenly bodies: Imperial’s annual Charity Fashion Show hailed stellar success'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1714/1714_news_Imperial+Fashion+Show.jpeg
