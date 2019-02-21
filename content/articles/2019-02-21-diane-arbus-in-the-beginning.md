@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: 'Diane Arbus: In the Beginning'
+title: 'diane arbus: in the beginning'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/52940721_289202941749151_6226143192538939392_n.jpg
 authors:
