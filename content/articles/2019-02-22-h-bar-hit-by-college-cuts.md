@@ -46,3 +46,5 @@ The "supper service" refers to the buffet service which is available from 5-7pm 
 Discussions between the Union and College are ongoing, in an attempt to arrive at a suitable contingency plan until something more permanent can be agreed. It has been suggested that the Union could use the shared kitchen to provide Imperial College Union food at h-bar, which could “make the bar/restaurant thrive”. This option is under consideration. 
 
 Disgruntled staff and students are being encouraged to sign a student-led [online petition](https://www.change.org/p/imperial-college-london-save-the-hbar-food-service) attempting to overturn the decision prior to it coming into effect next Friday.
+
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/1715_news_52094040_1994242350694892_835735631471575040_o.jpg)
