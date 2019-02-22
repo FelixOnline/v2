@@ -42,10 +42,4 @@ Are you a _Pokemon_ fanatic? Gotta catch ‘em all? Or do you just love Pikachu 
 
 While all of these controllers have very similar buttons and designs, they each have a unique feature that differentiates them from one another. Each is a great choice for beating the hell out of your friends (all in fun and in-game of course!) Your choice may come down to a particular must-have function, or just be because that particular controller comes in your favorite color. Either way, you’ll have a blast playing _Smash Bros. Ultimate_ with any of these.
 
-No matter which you choose, in the end, all that matters is that you have a fun time playing the game – and that you win of course! So get your headset on, grab your controller and fight!
-
-
-
-	
-
-
+No matter which you choose, in the end, all that matters is that you have a fun time playing the game – and that you win of course! So get your [headset](http://www.gadgetreview.com/reviews/gaming-headset-reviews?fbclid=IwAR2r-hgtVlu4XWnuULS3c7ABR9mgCwwcnKF4cUbM1XedHB6-CLG_VwdMZvY) on, grab your controller and fight!
