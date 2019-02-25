@@ -1,0 +1,27 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: 'Brexit to end the NHS: Hypochondria or the real deal?'
+authors:
+  - rhiju_chatterjee
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/1715_politics_Picture1.png
+date: '2019-02-22 17:00:00'
+categories:
+  - Politics
+---
+Born in 1948, the NHS has survived through a lot. However, like many other 70 year olds, the NHS is facing multiple chronic issues that cannot be fixed with a simple operation. Patients are waiting longer and longer to see a doctor, both in GP practices and A&Es. This is due to a multitude of reasons, ranging from inadequate recruitment and chronic underfunding, to an aging population with more complex healthcare needs. It is largely agreed that the current NHS model is not sustainable.
+
+Intrinsic efforts to improve the health of the NHS, termed ‘efficiency savings’, have helped a bit, but have not reached the ambitious targets set by the government. Instead, the government has resorted to bullying junior doctors and nurses, squeezing out every ounce of their collective good will. Overworked, underpaid, and morale at its nadir; the system is creaking at the seams. Surely any acute changes to the delicate balance currently keeping the NHS together would lead to its demise. Enter stage right: Brexit.
+
+During the referendum campaign in 2016, Brexit was touted as the saviour for the NHS. Brexiteers recommended taking the money we would normally give the EU and reinvesting it to improve our health services. Furthermore, they proposed that regaining control of the borders would prevent ‘health tourists’ and ‘economic migrants’ from entering our country, and would therefore reduce the strain on our public services. Both of these claims were the basis of the ‘Save our NHS’ campaign run by Vote Leave.
+
+As attractive as the Vote Leave claims are, they wilfully ignore the benefits of staying in the EU. This is becoming increasingly clear as authorities are preparing for a ‘no-deal’ Brexit, since negotiations between the EU and UK government continue to break down. A ‘no-deal’ Brexit could lead to a 10% decrease in UK GDP in 15 years. Even if a deal is made, it is still not forecasted to benefit GDP in the long run. Since the health of the NHS mirrors the strength of the economy,  the NHS will struggle for the foreseeable future due to Brexit. However, Brexiteers argue that this is not accurate as economic forecasts are frequently wrong, citing the example that the economy is currently growing despite forecasts predicting a post-referendum recession. Nonetheless, the one thing that can be agreed is that ‘no-deal’ would be the worst outcome economically.
+
+Forecasted economic growth also depends on changes in EU migration policy. Currently around 130,000 doctors, nurses and care-workers are recruited from the EU. In 2018, there was a 17.6% decrease in EU workers joining the NHS and 15.3% increase of EU workers leaving the NHS. The National Institute of Economic and Social Research predicts there will be 10,000 extra nursing vacancies due to a lack of EU workers by 2021. Additionally, by 2025 they predict that there will be a gap of up to 70,000 workers in social care. This is clearly not ideal considering the importance of nurses and social workers in managing our ageing and growing population. However this has been deemed “fear-mongering” by Brexiteers, who claim the predictions are based on flawed assumptions and claim Britain will still be open for business after Brexit. Indeed, doctors and nurses are now excluded from the cap on tier 2 visas for skilled workers. Unfortunately, this exception does not include social workers, and, hence, alternative ways for recruiting social workers will need to be sought, especially if no deal is struck with the EU.
+
+Leaving the customs union with no deal could have ‘catastrophic’ effects on our access to medications as around half of our medicines go through the EU before reaching the UK according to the Association of the British Pharmaceutical Industry. Consequently, the Department of Health has revealed that they have started to stockpile 6 weeks’ worth of prescription medications as a contingency plan. For medical items with shorter shelf-lives (such as radioactive isotopes used in nuclear medicine), plans have been made for these to be transported in by air at short notice. All of these measures are fairly expensive to the taxpayer and could cost up to £2 billion according to the Remain campaign group, Best for Britain. Stockpiling drugs seems to paint an image of an apocalyptic-like scenario and is an illustration of how dangerous Brexit really is. During the campaign, situations like these were labelled as ‘Project Fear’ but, 33 months later, it is really happening- it’s the ‘real deal’.
+
+It seems Brexit was sold to the public based on misinformation and lies. Therefore one could argue that the “informed consent” declared by the public in the advisory referendum is not valid, as the benefits and risks were not appropriately explained. As a consequence of this wilful deception, the health of the NHS has deteriorated. In medico-legal terms, this would be classified criminal battery and can result in a jail sentence. In political terms, this is classified as ‘campaigning’, so no one is held accountable for running a ‘Save our NHS’ movement which may eventually ‘End our NHS’.
