@@ -1,0 +1,26 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: What to do with a man like Neeson?
+subtitle: >-
+  In the wake of the scandal surrounding Liam Neeson we must reflect on what to
+  do with racists and bigots to make society work for all of us. 
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/1715_comment_Picture1.png
+authors:
+  - divyenvanniasega
+date: '2019-02-22 17:00:00'
+categories:
+  - comment
+---
+Liam Neeson, whilst promoting his latest film, described a story of how a friend of his had been raped by a black man and how, following this, he wanted to kill a black man to avenge his friend. This is undeniably racist; he saw black men as indistinguishable and, therefore, killing any black man would do. This plays into a wider narrative of black people, men in particular, being viewed as aggressive, violent and savage criminals. Sadly, these kinds of views are far more common than they should be and, whilst there has been progress, it has been painstakingly slow. A key question that we need to answer is what to do when confronted with these individuals? 
+
+Neeson has been widely condemned for having held these views, and rightly so. Any form of racism needs to be challenged. However, there is a risk of forming a mob mentality. This incident happened 40 years ago and Neeson has expressed his regret for holding these views and has made it clear he does not hold them now. It is essential that people who have these views can seek and obtain redemption. The logical consequence if we don’t is a world in which a significant minority of the population is castigated and excluded from society with no hope of truly participating in it. What is the benefit of trying to reform if you know that you’ll still be called racist over something you can no longer do anything about? These individuals’ views will only harden and persist, sewing further division and hatred. Far better is to have an open dialogue about why people hold these views and ultimately why they are wrong. This is a process that Neeson has probably gone through considering he has since changed his views but, since he has made this public, it would be good for him to discuss the journey he has been on. There is no obligation on him to do so but, having recognised the mistakes that he has made, he is in the perfect position to help others take the same steps. We should ultimately champion individuals who are able to better themselves this way, not because it is a desirable path to take but as a beacon for racists to show them there is a way out of their antiquated views and into the 21st century.  
+
+We can belligerently scream at the top of  our lungs calling out racists and the like but it’s important to understand the social situation people find themselves in. Neeson grew up during the troubles in Ireland where, if a Catholic were killed, revenge would be taken by attacking a member of the Protestant community regardless of whether that individual was involved or not. This naturally doesn’t excuse racist behaviour, but we are all products of our environments and to bring about real change, this is a fundamental aspect that needs to be addressed. What Neeson said should be used as an opportunity to talk about the persecution that ethnic minoritie, and in particular black men, still face today. Even in the UK, the system appears to be stacked against them. From rates of poverty to harsher criminal sentences to the court of public opinion, black men are often put at a significant disadvantage to their white counterparts. This is entrenched in the UK system, going back decades and will take concerted effort to change. The Windrush scandal is a case in point. It’s highly unlikely that we would even be having this problem if it involved white migrants rather than black.
+
+An example of where change should be possible is Shannon Gabriel, the West Indian cricketer, who was recently banned for four matches for throwing homophobic abuse in the way of England’s cricket captain, Joe Root. He has since released a letter explaining what happened from his point of view and how he now recognises it was a mistake. He will serve his punishment and, hopefully afterwards, will never use that kind of abuse on or off a cricket pitch. I also hope that he won’t be tarnished as homophobic for the rest of his career when he has shown clear contrition for his horrendous actions. Racists should face justice in whatever form;  actions should have consequences. Beyond this, they should have the ability to be reintegrated into society. Society has a role for facilitating this and a world in which there are fewer racists is a world we must all aspire towards. 
+
+Those of us who are liberal and fundamentally believe that people should be able to be who they are, whether this is to do with their sexual orientation, religion, ethnicity, etc., without the risk of attack and persecution will prevail over bigotry. However, we must be careful  to avoid being entirely intolerant of intolerance for we run the risk of making a bad situation worse. We live in a deeply divided world which can feel like a powder keg ready to explode. The only way to bridge this growing divide is through dialogue and showing that there is a path to redemption. 
