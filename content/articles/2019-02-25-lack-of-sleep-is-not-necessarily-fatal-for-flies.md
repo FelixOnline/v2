@@ -10,6 +10,8 @@ subtitle: >-
 date: '2019-02-22 17:00:00'
 categories:
   - science
+authors:
+  - henry_alman
 ---
 Male flies kept awake do not die earlier than those allowed to sleep, leading researchers to question whether sleep is essential for staying alive. Whilst this study was in flies, the team speculate that if sleep is not essential for life in the same way food is, then it is possible that their results could apply across the animal kingdom - including in humans.
 
