@@ -8,7 +8,7 @@ subtitle: >-
   Sun, laughter and impressive technical performances: Carlos Acosta’s dazzling
   choreography is brought to life by the Royal Ballet.
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/download.jpeg
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/53194205_1998407433529668_734863763269746688_n.jpg
 authors:
   - rebekah_byford
 date: '2019-02-22 17:00:00'
@@ -34,27 +34,3 @@ At times Acosta’s ambitious choreography can leave the stage feeling crowded, 
 This vibrant and highly comedic production, combined with the amazing talent of Nuñez and Muntagirov is definitely one not to miss.
 
 _-4.5 stars_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
