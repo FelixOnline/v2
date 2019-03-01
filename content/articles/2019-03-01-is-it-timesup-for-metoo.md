@@ -1,11 +1,19 @@
 ---
-published: false
+published: true
 headline: false
 featured: true
 comments_disabled: false
 title: 'Is it #TimesUp for #MeToo?'
 authors:
   - scc114
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1716/1716_comment_39762974801_9dc77a3e13_o.jpg
+subtitle: >-
+  Arts Editor Claire Chan thinks that the #MeToo movement has had unintended
+  negative consequences
+date: '2019-03-01 17:00:00'
+categories:
+  - comment
 ---
 It’s fair to say that the #MeToo movement has been the most significant social upheaval of recent times. Triggered by the much-publicised downfall of Harvey Weinstein, the tremendous outpouring of stories of both sexual assault and everyday sexism faced by women on a regular basis became a force too powerful to simply be ignored. All of a sudden, the floodlights were on sexism, sexual misconduct and abuse of power like they had never been before. More and more women came forward. It was finally reckoning time for all manner of powerful figures – CEOs and politicians, celebrities and TV hosts – who, like Weinstein, were once thought ‘too big to fall’.
 
