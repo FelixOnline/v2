@@ -3,8 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1716/1716_sports_Paris+2019+2.jpg
+title: 'Parries, pancakes and parties in Paris'
 authors:
   - carolina_colagrossi
 image: >-
