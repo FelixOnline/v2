@@ -9,6 +9,8 @@ image: >-
 authors:
   - dora_bonini
 date: '2019-03-08 17:00:00'
+categories:
+  - clubs-and-socs
 ---
 Back from 14th to 16th March and with an unprecedented cast of more than 150 dancers, Dance Imperial Show is bound to be one of the most exciting college events of the whole year. Now running the show for the fifth year in a row, Dance Imperial offers three consecutive nights of entertainment with choreographies from the six dance societies in Imperial: Belly Dance, Dance Club, Dance Company, Funkology, ICSM Dance, Pole & Aerial.
 
