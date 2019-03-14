@@ -7,11 +7,11 @@ title: Powerful lyricism and unbridled virtuosity
 subtitle: 'That’s right, Felix Music has gone classical.'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1717/1717_Music_Horizons.jpg
-authors:
-  - elizabeth_tong
 date: '2019-03-08 17:00:00'
 categories:
   - music
+authors:
+  - elizabeth_thong
 ---
 **PROGRAMME:**
 
