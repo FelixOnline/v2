@@ -1,0 +1,34 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: Father of 4 does not Offset Migos’s solo album efforts
+subtitle: >-
+  The Atlanta rapper freshly missteps with a lackluster solo effort,
+  disappointing long-time fans.
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/1718_music_offset-father-of-4.jpg
+authors:
+  - asad_raja
+date: '2019-03-15 17:00:00'
+categories:
+  - music
+---
+For the more devout Migos fans, and for Atlanta locals, Offset has consistently been seen as the stand out member, despite Quavo clearly becoming established as the head of the group since their mainstream breakthrough. More recently, Offset has experienced more widespread attention for reasons outside his music. Significant media coverage has centred on his turbulent relationship with Cardi B, the birth of their child Kulture, his cheating – and now their recent reconciliation. All this, as well as his near-fatal car accident last year, has given Offset much to think about. With Quavo and Takeoff having both released pretty mediocre solo projects last year, this album was Offset’s chance to address all these personal topics and prove his relative solo artistic potential. And so it makes sense that Offset presented this album as his attempt to go personal – the title promising a focus on his four children.
+
+The title track being the opener, ‘FATHER OF 4’ immediately seems as earnest and personal as was advertised. The track opens with Big Rube, a familiar voice in Atlanta rap for his ties to OutKast, narrating a tender spoken word over a soft piano and string melody. Trap drums come in under the piano and Offset begins rapping in a sweet, autotuned tone, his heartfelt verses addressing his shortcomings as a father. However, this first track is an outlier in the track listing, by far the most vulnerable sounding on the album. Although personal bars are peppered throughout the rest of the album, they don’t ever come in quite as high a concentration.
+
+The next few tracks take a more familiar tone production-wise, reminiscent of tracks from Offset’s brilliant 2017 collaboration album with 21 Savage, _Without Warning_. Though a couple of these explore Offset’s hustle-filled youth, they’re generally more generic-sounding. The beat of ‘How Did I Get Here’ actually sounds like a dope Metro Boomin twist on Cardi’s ‘I Do’. The song features a high-energy Offset performance and an accomplished J. Cole guest verse with imagery of growing up around high crime-rates. ‘Tats On My Face’ is another stand-out track with a much darker beat and mean, menacing lyrics: “I’m poppin’ a pill / I keep thinking of death, I’ma kill / They can’t find my trail”. Nevertheless, by ‘Made Men’, the straightforward chorus-verse-chorus-verse-chorus song structure has the album sounding pretty repetitive even this early on, despite each individual track being strong on paper.
+
+The production gets a little more adventurous on the song ‘Wild Wild West’, featuring slow, meandering, synths coupled with fast, bubbling trap drums matching Offset’s delivery. The track is slightly soiled by Gunna, who delivers a very forgettable feature verse, much like the majority of what he delivers on his new project, _Drip or Drown 2_. ‘North Star’ sees the production go more theatrical and genuinely beautiful, complete with choir backing vocals and grand, ethereal reverb. CeeLo Green’s performance in the second half of the track is a very unexpected yet attention-grabbing moment. Unfortunately, Offset somewhat drowns in the grandeur of this track, his delivery lacking any real sense of resolution and his lyrics being a mixed bag (though they vaguely focus on haters of his fame).
+
+The trouble with Offset is that, as expected considering Migos’ discography, he clearly has a strong preference for braggadocious and materialistic raps. And that’s fine, especially because he can do it so well and is generally complimented by great production. But a problem arises when he tries to incorporate introspection into his bars. Where many trap artists are able to marry those two vibes successfully, for Offset, it is clearly outside of his comfort zone. That’s proven by how he struggles to switch up his flow or maintain an emphatic delivery or stop incessantly adlibbing for one damn minute even when the beat deviates from the _Without Warning_ style of aforementioned tracks. Lyrically, when Offset means to go ‘personal’, he offers up rushed and vague insights on his addiction to drugs, his loss of a friend or family member, his cheating, or even a reflection on racial inequality, awkwardly inserted between bars such as “MacBook Pro, how I bend over your hoe”.
+
+This is even the case on ‘Don’t Lose Me’, a track that kicks off with a soundbite from the apology video to Cardi that Offset posted on Instagram. The chorus is simple yet heartfelt, but where the song would have been a great moment for Offset to deliver mature, reflective and confessional bars (as he came close to on the album opener), his lyrics are pretty skin-deep and inarticulate (“I love that you’re ratchet not boujee / I love your ass-shots it’s a movie”). Compare this to Cardi B’s reflections on their relationship on ‘Be Careful’ and it’s clear who the more nuanced rapper is. Only a few songs after this, on ‘Clout’, Cardi proves that she can even kick Offset’s ass on a more nonchalant track. Her feature on this track causes Offset’s lazy, triplet-flow to pale in comparison as she bodies the beat with a pissed off, laser-focus verse calling out media outlets and other rappers who so often use her name for clout.
+
+The remaining two feature tracks on the album are both average at best. ‘On Fleek’ featuring Quavo is way too long for its own good, especially considering it has the most boring production of the whole album. ‘Quarter Milli’ is decent, made more exciting with a pre-prison-time-sounding Gucci Mane verse containing a very expressive cadence and adlibs, but the feature is frustratingly short. The last track ‘Came A Long Way’ is a high point, one of the most coherent songs of the album. A positive sounding, animated beat compliments Offset’s flow perfectly as he delivers more lyrics on his journey from hard times to success, which come off as particularly motivational. Shame it comes as too little too late.
+
+What’s more of a shame is that this album is ultimately a testament to the fact that none of the Migos can successfully sustain a strong, full length solo album. At least, not yet; time will tell how each member’s artistic ability develops in a trap climate where experimentation and emotion are becoming increasingly mainstream. Indeed, it might not be long before artists inspired by the trending ‘emo trap’ sound of a Lil Uzi or a Juice WRLD replace artists like Offset in relevance.
+
+_-2.5 stars_
