@@ -17,7 +17,7 @@ I hesitate to utter the word “Bahia”. Bah-eee-yah. It’s beautiful to say i
 
 With a little help from a team of dedicated pro bono lawyers, the residents and friends of Boipeba have – for now at least – managed to keep unwanted, unsustainable resort development at bay. But with President Bolsonaro intent on opening the nation to international investment, with little regard to the delicate ecosystems worth fighting to maintain, the security of Boipeba’s UNESCO status – and the livelihoods of its residents – is still under threat. In this regard, Boipeba Island becomes a symbol to which we can all relate, and its fight for sustainability a cause we can all get behind. Whether it’s a faraway tropical island, an even farther polar glacier, or a beloved woodland by our own backyard, we know that it is worth standing up for voiceless entities, against capitalist growth. That way our planet may retain its balance and beauty – indeed, remain a place on which we all can live – for many years to come.
 
-![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1717/1717_travel_Photo+-+Eco+Casa+Bobo+(by+Liliane+Laborde-Edozien)+(1).jpg)
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/Casa+Bobo+(1).jpg)
 
 **_A tale of two towns:_**
 
@@ -32,4 +32,3 @@ You can help the Boipeba community curb unsustainable development on the island 
 For more information on visiting Bahia or Boipeba, please contact the Editor. 
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1717/1717_travel_Photo+-+Fernando+the+Chocolatier+(by+@FFernandoSS11).jpg)
-
