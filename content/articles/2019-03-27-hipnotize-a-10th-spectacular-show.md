@@ -38,5 +38,7 @@ The whole evening ran smoothly, thanks to the hard work from the committee and w
 
 If you want to be involved in this friendly and welcoming society, beginners are always welcome. They run regular classes in Traditional Belly Dance and Tribal Fusion from October to March every year. During the summer term they also run some great one-off workshops. Contact them at bellydancing@imperial.ac.uk for more information!
 
+_-4.5 stars_
+
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/55543685_2221463861253833_5722015354562019328_n.jpg)
 
