@@ -1,31 +1,44 @@
 ---
-title: >
-  European playground exposed
-subtitle: >
-  The different sought after destinations in Europe
-date: "2011-03-03 19:58:05 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201103031943-nm1010-traveltr.jpg"
+title: European playground exposed
+subtitle: The different sought after destinations in Europe
+date: '2011-03-03 19:58:05 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201103031943-nm1010-traveltr.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/1000/european-playground-exposed
+  - /travel/1000/european-playground-exposed
 comments:
- - value: >
-     Well I lived in Athens, Greece like most of my life and I kind of know how it is over their. It depends when iyou go, like if you go in the smumer it's going to be more expensive than if you go in the winter. But if you want to have fun go to clubs, sites, and take some tours. With tours you have to be careful, because the people that give you tours can be..well.. annoying and your going to having to go up and down and you will get tierd, just take it easy. They money your going to spend depends on where your going to stay. If you want this to be the funnest, cheapest trip ever you can go stay in a hostel with free breakfest and you good save big money. Well that's all I know and I hope everything works out for you, your going to love it!,Well I lived in Athens, Greece like most of my life and I kind of know how it is over their. It depends when iyou go, like if you go in the smumer it's going to be more expensive than if you go in the winter. But if you want to have fun go to clubs, sites, and take some tour
+  - value: >
+      Well I lived in Athens, Greece like most of my life and I kind of know how
+      it is over their. It depends when iyou go, like if you go in the smumer
+      it's going to be more expensive than if you go in the winter. But if you
+      want to have fun go to clubs, sites, and take some tours. With tours you
+      have to be careful, because the people that give you tours can be..well..
+      annoying and your going to having to go up and down and you will get
+      tierd, just take it easy. They money your going to spend depends on where
+      your going to stay. If you want this to be the funnest, cheapest trip ever
+      you can go stay in a hostel with free breakfest and you good save big
+      money. Well that's all I know and I hope everything works out for you,
+      your going to love it!,Well I lived in Athens, Greece like most of my life
+      and I kind of know how it is over their. It depends when iyou go, like if
+      you go in the smumer it's going to be more expensive than if you go in the
+      winter. But if you want to have fun go to clubs, sites, and take some tour
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
- - imported_comments
- - multi-author
+  - imported
+  - image
+  - imported_comments
+  - multi-author
 authors:
- - cr709
- - yll08
+  - yll08
 highlights:
- - comment
- - longread
+  - comment
+  - longread
+published: true
+comments_disabled: false
 ---
 
 _The lowdown_: Once the playground of Romans and feudal lords alike, modern Europe is now flocked by visitors pursuing the delights it has to offer. The diversity of cultures, languages, history, cuisine and so on are reasons us Brits should roam our continental neighbours.
