@@ -1,24 +1,25 @@
 ---
-title: >
-  Ton Rai Plai Dee
-subtitle: >
-  adsfasdfasdf
-date: "2011-06-09 19:53:35 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201106092053-felix-walmsley.jpg"
+title: Ton Rai Plai Dee
+subtitle: adsfasdfasdf
+date: '2011-06-09 19:53:35 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201106092053-felix-walmsley.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /phoenix/1339/ton-rai-plai-dee
-comments:
+  - /phoenix/1339/ton-rai-plai-dee
+comments: null
 categories:
- - phoenix
+  - phoenix
 tags:
- - imported
- - image
+  - imported
+  - image
+highlights: null
+published: true
+comments_disabled: false
 authors:
- - cr709
-highlights:
+  - icanon
 ---
 
 ASCETIC
