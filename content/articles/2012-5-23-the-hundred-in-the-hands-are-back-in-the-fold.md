@@ -1,25 +1,26 @@
 ---
-title: >
-  The Hundred in the Hands are back in the fold
-subtitle: >
-  Second album looks set to impress
-date: "2012-05-23 16:27:45 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205231727-mc4509-thith1.jpg"
+title: The Hundred in the Hands are back in the fold
+subtitle: Second album looks set to impress
+date: '2012-05-23 16:27:45 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201205231727-mc4509-thith1.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
-comments:
+  - /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
+comments: null
 categories:
- - music
+  - music
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - photos
+  - photos
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Following what appeared to be an indefinite hiatus after the release of their eponymous debut in 2010, [The Hundred in the Hands](http://www.myspace.com/thehundredinthehands) are back on the scene. And while that said debut managed to rapidly rack up favourable reviews from the likes of Pitchfork and Metacritic, it looks as though we can expect much more from their forthcoming second album _Red Night_, which gets released next month.
