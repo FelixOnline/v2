@@ -1,22 +1,22 @@
 ---
-title: >
-  Get out and see it while you still can
-subtitle: >
-  Tourists are set to be banned from Nazareth in the Amazon
-date: "2011-05-27 15:29:18 +0100"
+title: Get out and see it while you still can
+subtitle: Tourists are set to be banned from Nazareth in the Amazon
+date: '2011-05-27 15:29:18 +0100'
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/1280/get-out-and-see-it-while-you-still-can
-comments:
+  - /travel/1280/get-out-and-see-it-while-you-still-can
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
+  - imported
+highlights: null
+published: true
+comments_disabled: false
 authors:
- - cr709
-highlights:
+  - icanon
 ---
 
 Recently Nazareth (no, not the Jesus one), a small town in the Amazon region of Colombia announced that tourists are no longer allowed to visit: the tens of thousands that visit each year are providing little for the economy and their presence is having detrimental effects on both local scenery and the livelihood of people.
