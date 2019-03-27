@@ -1,28 +1,31 @@
 ---
-title: >
-  Big croc on campus
-subtitle: >
-  Next week Marianne Teoh will be undertaking a week of humiliation to raise awareness for charities in Indonesia
-date: "2011-01-20 19:12:30 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201101201910-ks607-policepo.jpg"
+title: Big croc on campus
+subtitle: >-
+  Next week Marianne Teoh will be undertaking a week of humiliation to raise
+  awareness for charities in Indonesia
+date: '2011-01-20 19:12:30 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201101201910-ks607-policepo.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/600/big-croc-on-campus-
+  - /travel/600/big-croc-on-campus-
 comments:
- - value: >
-     What a magnificent effort! I hope it was a great success!
+  - value: |
+      What a magnificent effort! I hope it was a great success!
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
+  - comment
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Word on the street is that next week will be a sweaty one for Biology fresher Marianne Teoh, as on Monday she gets engulfed by the crocodile suit which she’ll be confined to for the subsequent week. A far cry from the oh-so tiresome leg shaving and cookie baking ‘antics’ to which we’re all so accustomed, this campaign is one to watch. I decided to find out what it was all about.
