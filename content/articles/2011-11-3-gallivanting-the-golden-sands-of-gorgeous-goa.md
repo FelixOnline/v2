@@ -1,25 +1,28 @@
 ---
-title: >
-  Gallivanting the golden sands of gorgeous Goa
-subtitle: >
-  Vibrant culture, endless activities and unrivalled coastline: Chris Richardson provides a breakdown on this perfect post-exam getaway
-date: "2011-11-03 20:18:57 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201111040200-felix-goa.jpg"
+title: Gallivanting the golden sands of gorgeous Goa
+subtitle: >-
+  Vibrant culture, endless activities and unrivalled coastline: Chris Richardson
+  provides a breakdown on this perfect post-exam getaway
+date: '2011-11-03 20:18:57 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201111040200-felix-goa.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/1663/gallivanting-the-golden-sands-of-gorgeous-goa
-comments:
+  - /travel/1663/gallivanting-the-golden-sands-of-gorgeous-goa
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - longread
+  - longread
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Let’s be honest about it, the existing beach scene has very much gone to the dogs: Ibiza is past its expiry date, Koh Phangan is being sucked into that same black hole (thanks, The Hangover Part II), and Malia-napa-luf is far too saturated with sleaze for me to waste my time with a rant. My point is that things are indeed looking bleak, which has forced sun worshippers and classier party-goers to be a little more creative. Perhaps India’s western coast is the answer we’ve all been searching for.
