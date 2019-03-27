@@ -1,25 +1,30 @@
 ---
-title: >
-  Acclimatising to incredible India
-subtitle: >
-  Follow the adventures of a backpacker across the mighty subcontinent, beginning with some sightseeing in the country’s brilliant capital city
-date: "2011-10-07 13:10:56 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201110071409-felix-delhi.jpg"
-image_caption: "Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to "
+title: Acclimatising to incredible India
+subtitle: >-
+  Follow the adventures of a backpacker across the mighty subcontinent,
+  beginning with some sightseeing in the country’s brilliant capital city
+date: '2011-10-07 13:10:56 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201110071409-felix-delhi.jpg
+image_caption: >-
+  Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance
+  and a perfect spot to 
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/1497/acclimatising-to-incredible-india
-comments:
+  - /travel/1497/acclimatising-to-incredible-india
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
+  - imported
+  - image
+highlights: null
+published: true
+comments_disabled: false
 authors:
- - cr709
-highlights:
+  - icanon
 ---
 
 When I first touched down in New Delhi I have to say I was a tad deceived. Having skimmed my trusty Lonely Planet, I was expecting the Paharganj area to be a bustling Th Khao San à la Bangkok, but was greeted with something else entirely. I suppose I have my own ignorance to thank; I’d been told about what to expect, but brushed it off under the pretence that I am some sort of travel wizard.
