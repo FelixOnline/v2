@@ -1,29 +1,35 @@
 ---
-title: >
-  Welcome to the jungle
-subtitle: >
-  Wandering through the misty morass: India's Western Ghats
-date: "2012-02-16 21:11:18 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201202162111-ams111-elephant.gif"
-image_caption: "A revitalising coconut scrub after a rough day at the office"
+title: Welcome to the jungle
+subtitle: 'Wandering through the misty morass: India''s Western Ghats'
+date: '2012-02-16 21:11:18 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201202162111-ams111-elephant.gif
+image_caption: A revitalising coconut scrub after a rough day at the office
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/2186/welcome-to-the-jungle
+  - /travel/2186/welcome-to-the-jungle
 comments:
- - value: >
-     The Kerala becoming an increasing popular destination for tourists.The Kerala houseboat is not only economical but also non-polluting and environment friendly. The backwaters of Kerala is a remarkable experience, an opportunity to enjoy and contain an unhurried pace of life. The Kerala Houseboats have all the creature comforts of a good hotel including furnished bedrooms.
+  - value: >
+      The Kerala becoming an increasing popular destination for tourists.The
+      Kerala houseboat is not only economical but also non-polluting and
+      environment friendly. The backwaters of Kerala is a remarkable experience,
+      an opportunity to enjoy and contain an unhurried pace of life. The Kerala
+      Houseboats have all the creature comforts of a good hotel including
+      furnished bedrooms.
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
+  - comment
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 By the time I hit Kerala I was more than ready for it: with Rajasthan’s dusty forts a distant memory I was ready to hit up something a little more tropical. That’s the incredible thing about Kerala: after a short and breezy (read: forty hour and mosquito-infested) coastal train down from the north, you find yourself in paradise. Of course, to the rational mind that doesn’t doubt the existence of continental drift, this shouldn’t really come as much of a shock. But I was still in awe of the abundant African-esque flora and fauna at my disposal.
