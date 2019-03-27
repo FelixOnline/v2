@@ -1,27 +1,30 @@
 ---
-title: >
-  Drifting through South Central ’Nam
-subtitle: >
-  Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
-date: "2010-10-28 19:45:53 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201010282042-ks607-Mudmadne.jpg"
-image_caption: "Gotta be careful when you visit the elephants..."
+title: Drifting through South Central ’Nam
+subtitle: >-
+  Aggressive off-road biking, token temple exploration and a cheeky mud spa –
+  cruising along Vietnam’s South Central Coast
+date: '2010-10-28 19:45:53 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201010282042-ks607-Mudmadne.jpg
+image_caption: Gotta be careful when you visit the elephants...
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/276/drifting-through-south-central-nam
-comments:
+  - /travel/276/drifting-through-south-central-nam
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - longread
- - photos
+  - longread
+  - photos
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 I was already well acquainted with Vietnam’s somewhat inconvenient electricity shortages and Facebook firewall (hey, who needs an international social networking site when you’ve got access to ‘go.vn’, where the Communist Party are more than happy to be your “friend”) by the time I arrived in Nha Trang, a quaint little town in the South Central Coast. Unfortunately this place is often equated to Koh Phangan, Thailand’s infamous full moon party island, when in actual fact it has a lot of hidden pleasures beyond the cheap beer and easy girls (and guys).
