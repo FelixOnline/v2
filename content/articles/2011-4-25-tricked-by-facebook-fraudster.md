@@ -1,30 +1,47 @@
 ---
-title: >
-  Tricked by Facebook fraudster
-subtitle: >
-  Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
-date: "2011-04-25 17:20:44 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201104251816-felix-profilepic.jpg"
-image_caption: "The photo used as a profile picture for 'Demi Atkinson'"
+title: Tricked by Facebook fraudster
+subtitle: >-
+  Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook
+  profile used to make friends with dozens of Imperial freshers
+date: '2011-04-25 17:20:44 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201104251816-felix-profilepic.jpg
+image_caption: The photo used as a profile picture for 'Demi Atkinson'
 headline: true
 featured: true
 imported: true
 aliases:
- - /news/1139/tricked-by-facebook-fraudster
+  - /news/1139/tricked-by-facebook-fraudster
 comments:
- - value: >
-     Too fit? You need to lurk around the SAF more... <br> <br>Lesson 1: the custom these days is to partake in the 'friend adding frenzy' and add/chat to people before you arrive here: it's a bit of an exception to the 'don't add strangers' rule and I wouldn't really discourage it. All but one of the people I spoke to turned out to be real, and at least a few of them have gone on to become good friends. The times they are a-changin', and all that.,I did a little search for cached pages: <br> <br>Her posts go as far back as November 2009: http://twitpic.com/4puz1p <br> <br>A look on her Formspring shows that 778 (!!!) questions were answered: http://bit.ly/eOGJG9 <br> <br>Right, back to revision...,That is so weird...,That is very strange! Someone with a lot of time on their hands!,"By pure serendipity it was unveiled that Demi didn’t actually exist". The serendipity being that a certain nameless fresher knew the girl whose photos 'Demi' had copied, and obviously instantly recognised her face... Some people also just had their doubts a
+  - value: >
+      Too fit? You need to lurk around the SAF more... <br> <br>Lesson 1: the
+      custom these days is to partake in the 'friend adding frenzy' and add/chat
+      to people before you arrive here: it's a bit of an exception to the 'don't
+      add strangers' rule and I wouldn't really discourage it. All but one of
+      the people I spoke to turned out to be real, and at least a few of them
+      have gone on to become good friends. The times they are a-changin', and
+      all that.,I did a little search for cached pages: <br> <br>Her posts go as
+      far back as November 2009: http://twitpic.com/4puz1p <br> <br>A look on
+      her Formspring shows that 778 (!!!) questions were answered:
+      http://bit.ly/eOGJG9 <br> <br>Right, back to revision...,That is so
+      weird...,That is very strange! Someone with a lot of time on their
+      hands!,"By pure serendipity it was unveiled that Demi didn’t actually
+      exist". The serendipity being that a certain nameless fresher knew the
+      girl whose photos 'Demi' had copied, and obviously instantly recognised
+      her face... Some people also just had their doubts a
 categories:
- - news
+  - news
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
- - photos
+  - comment
+  - photos
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 With her big bright eyes, a selfless desire to help those in need, and an unrivalled passion for the sounds of obscure bands you’d have to Google just to maintain conversation, Demi Atkinson certainly ticked all the boxes. And to your average Imperial fresher, confined to our beloved South Ken bubble with a less-than-ideal male to female ratio, perfect she did seem.
