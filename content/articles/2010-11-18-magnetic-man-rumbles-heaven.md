@@ -1,29 +1,42 @@
 ---
-title: >
-  Magnetic Man rumbles Heaven
-subtitle: >
-  Magnetic Man unleash a torrent of bass @ Heaven
-date: "2010-11-18 20:39:40 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201011182037-ks607-magnetic.jpg"
+title: Magnetic Man rumbles Heaven
+subtitle: Magnetic Man unleash a torrent of bass @ Heaven
+date: '2010-11-18 20:39:40 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201011182037-ks607-magnetic.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /music/390/magnetic-man-rumbles-heaven
+  - /music/390/magnetic-man-rumbles-heaven
 comments:
- - value: >
-     I love reading these articles because theyre short but infrmoatvie.,　( 2012.02.22 16:47 ) : I hope you never stop! This is one of the best blogs Ive ever read. Youve got some mad skill here, man. I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there. Please keep it up because the internet needs someone like you spreading the word.,I teach ESL and this would be a fun way to get students to write <a href="http://dmklnwiup.com">comltepe</a> sentences. To make it really work in the classroom, I would need, as others have pointed out, some punctuation marks and capital letters. Any chance of that happening soon? Otherwise, it's a good start. And don't worry about having the letters added via keyboard. In my opinion, the whole idea is to move the letters one by one, just like one does with magnets., asthma symptoms long now many mistakes actual
+  - value: >
+      I love reading these articles because theyre short but infrmoatvie.,　(
+      2012.02.22 16:47 ) : I hope you never stop! This is one of the best blogs
+      Ive ever read. Youve got some mad skill here, man. I just hope that you
+      dont lose your style because youre deelnitfiy one of the coolest bloggers
+      out there. Please keep it up because the internet needs someone like you
+      spreading the word.,I teach ESL and this would be a fun way to get
+      students to write <a href="http://dmklnwiup.com">comltepe</a> sentences.
+      To make it really work in the classroom, I would need, as others have
+      pointed out, some punctuation marks and capital letters. Any chance of
+      that happening soon? Otherwise, it's a good start. And don't worry about
+      having the letters added via keyboard. In my opinion, the whole idea is to
+      move the letters one by one, just like one does with magnets., asthma
+      symptoms long now many mistakes actual
 categories:
- - music
+  - music
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
- - photos
+  - comment
+  - photos
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Calling themselves the world’s first dubstep supergroup, this talented trio have definitely stepped up their live act (from what initially resembled a Warcraft LAN party) to a blitz of lights and torrent of bass. For those of you who have been living in the library too much, they are composed of dubstep giants Skream, Benga and Artwork (who? precisely) and have recently released their kick-ass eponymous debut. On Wednesday 3rd they shook Heaven’s foundations with the excessive dub that incited chaos on the dance floor as they were joined on-stage by guests that included the likes of Katy B and Ms. Dynamite.
