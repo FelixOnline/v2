@@ -1,26 +1,26 @@
 ---
-title: >
-  Is Christmas Just For Christians?
-subtitle: >
-  Chris Richardson and Maciej Matuszewski go head to head
-date: "2010-12-09 21:35:17 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201012092124-ac1507-nativity.jpg"
+title: Is Christmas Just For Christians?
+subtitle: Chris Richardson and Maciej Matuszewski go head to head
+date: '2010-12-09 21:35:17 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201012092124-ac1507-nativity.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /comment/537/is-christmas-just-for-christians
-comments:
+  - /comment/537/is-christmas-just-for-christians
+comments: null
 categories:
- - comment
+  - comment
 tags:
- - imported
- - image
- - multi-author
+  - imported
+  - image
+  - multi-author
 authors:
- - mtm10
- - cr709
-highlights:
+  - mtm10
+highlights: null
+published: true
+comments_disabled: false
 ---
 
 Maciej Matuszewski - No
