@@ -1,25 +1,26 @@
 ---
-title: >
-  Some guys just can’t handle La Paz
-subtitle: >
-  Dismantling the death-defying activities on offer in Bolivia’s capital
-date: "2013-10-12 23:53:10 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201310130052-jal08-trav_dsc02613.jpg"
+title: Some guys just can’t handle La Paz
+subtitle: Dismantling the death-defying activities on offer in Bolivia’s capital
+date: '2013-10-12 23:53:10 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201310130052-jal08-trav_dsc02613.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/3873/some-guys-just-cant-handle-la-paz-
-comments:
+  - /travel/3873/some-guys-just-cant-handle-la-paz-
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - longread
+  - longread
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Bolivia isn’t exactly a fresh addition to the Latin American gringo trail – it features heavily in countless itineraries (indeed, I even ran into an old Felix editor whilst there) – yet it’s managed to retain an essence of individuality whilst neighbouring countries have started to subside. The population of the entire country is barely larger than London’s, with 60% of the population calling themselves indigenous: it is a vibrant place bursting with culture and epic, Martian landscapes.
