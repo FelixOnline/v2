@@ -1,23 +1,25 @@
 ---
-title: >
-  Christmas holiday in the sun
-subtitle: >
-  Why not trade in the dreary snow and endless movie re-runs this Christmas for some tasty tropical islands and unforgettable adventures?
-date: "2010-12-09 20:14:54 +0000"
+title: Christmas holiday in the sun
+subtitle: >-
+  Why not trade in the dreary snow and endless movie re-runs this Christmas for
+  some tasty tropical islands and unforgettable adventures?
+date: '2010-12-09 20:14:54 +0000'
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/518/christmas-holiday-in-the-sun
-comments:
+  - /travel/518/christmas-holiday-in-the-sun
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
+  - imported
 authors:
- - cr709
+  - icanon
 highlights:
- - longread
+  - longread
+published: true
+comments_disabled: false
 ---
 
 You may recall from issues past, [a tale of spiked drinks that occurred on Koh Phi Phi](http://www.felixonline.co.uk/?article=395) in Thailand, but last time I didn’t really dwell on it as a place. It’s a truly unmissable spot that offers beautiful sands and world class diving as well as a whole heap of other activities. Up until the devastating tsunami of 2004 Phi Phi was a haven, for backpackers and tourists alike, as the perfect Christmas resting spot, and thankfully people are starting to revisit the area over the holiday season. While the natural disaster obliterated the landscape and cost the lives of many, it allowed for a tasteful fresh start for an island that was well on the way of being permanently tarnished by reckless tourism.
