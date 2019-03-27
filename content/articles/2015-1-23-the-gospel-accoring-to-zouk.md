@@ -1,26 +1,29 @@
 ---
-title: >
-  The gospel accoring to Zouk
-subtitle: >
-  Chris Richardson catches some house and techno heavyweights along Singapore’s coastline
-date: "2015-01-23 18:53:13 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png"
-image_caption: "They don't have palm trees at Glastonbury"
+title: The gospel accoring to Zouk
+subtitle: >-
+  Chris Richardson catches some house and techno heavyweights along Singapore’s
+  coastline
+date: '2015-01-23 18:53:13 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png
+image_caption: They don't have palm trees at Glastonbury
 headline: true
 featured: true
 imported: true
 aliases:
- - /music/5148/the-gospel-accoring-to-zouk
-comments:
+  - /music/5148/the-gospel-accoring-to-zouk
+comments: null
 categories:
- - music
+  - music
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - longread
+  - longread
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 By the time it came around to ZoukOut I’d been on the road for several months, a continuing holiday trend throughout my time at Imperial that’s led to me missing almost every major music festival since I started uni. This year was supposed to be different but, alas, my optimistic KaZantipplans crumbled in the face of the Crimean crisis when organisers were forced to cancel. I swore to myself that if I heard the words “turn down for what” or “why you gotta be so rude” one more time, I was just about ready to cut someone and/or myself. Embracing music is certainly a healthy part of any travel experience. I mean I love reggaeton as much as the next guy, totally digged that Omar Souleyman record and even managed to sniff out some tidy South African tribal house on a trip there, but nothing could compare to the heavyweights on the bill of ZoukOut 2014.
