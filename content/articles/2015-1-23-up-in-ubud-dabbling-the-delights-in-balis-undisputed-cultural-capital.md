@@ -1,27 +1,29 @@
 ---
-title: >
-  Up in Ubud: Dabbling the delights in Bali’s undisputed cultural capital
-subtitle: >
-  Chris Richardson ditches the beaches and heads for the hills
-date: "2015-01-23 19:03:36 +0000"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
-image_caption: "Your luxury retreat in the hills"
+title: 'Up in Ubud: Dabbling the delights in Bali’s undisputed cultural capital'
+subtitle: Chris Richardson ditches the beaches and heads for the hills
+date: '2015-01-23 19:03:36 +0000'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png
+image_caption: Your luxury retreat in the hills
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
-comments:
+  - >-
+    /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
-authors:
- - cr709
+  - imported
+  - image
 highlights:
- - longread
- - photos
+  - longread
+  - photos
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 Bali: the four letters roll eloquently off the tongue, and immediately conjure up images of beautiful beaches, bronze bods, and bottled Bintang. But a stone’s throw – literally one hour by shuttle bus – into the island’s core teleports you to a different kind of paradise: the kind that featured heavily in _Eat Pray Love_, and the kind that continuously captures the imagination of yogis and chill-seekers from across the globe. And with its seas of green, cooler climates, and cultural delights, it’s easy to see why. Welcome to Ubud.
