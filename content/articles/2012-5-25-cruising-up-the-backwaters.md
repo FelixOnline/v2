@@ -1,25 +1,28 @@
 ---
-title: >
-  Cruising up the backwaters
-subtitle: >
-  Kicking back on a luxury rice boat in the heart of Kerala
-date: "2012-05-25 18:15:21 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201205251915-mc4509-boat.jpg"
-image_caption: "Nope, this boat doesn’t come equipped with its own T-Pain (real name Faheem Rasheed Najm)"
+title: Cruising up the backwaters
+subtitle: Kicking back on a luxury rice boat in the heart of Kerala
+date: '2012-05-25 18:15:21 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201205251915-mc4509-boat.jpg
+image_caption: >-
+  Nope, this boat doesn’t come equipped with its own T-Pain (real name Faheem
+  Rasheed Najm)
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/2497/cruising-up-the-backwaters
-comments:
+  - /travel/2497/cruising-up-the-backwaters
+comments: null
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
+  - imported
+  - image
+highlights: null
+published: true
+comments_disabled: false
 authors:
- - cr709
-highlights:
+  - icanon
 ---
 
 As the saying goes: even a poor-quality photo taken on a beaten digital camera can tell a thousand brilliant words. Or something like that. If the accompanying photograph doesn’t appeal to you then hopefully the remainder of this article will inspire you to take a trip.
