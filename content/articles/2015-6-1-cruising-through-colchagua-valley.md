@@ -1,29 +1,45 @@
 ---
-title: >
-  Cruising through Colchagua (Valley)
-subtitle: >
-  Chris Richardson knocks back a couple of glasses in Chile’s stunning wine region
-date: "2015-06-01 17:38:18 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201506021232-ync111-montes-winery.jpg"
+title: Cruising through Colchagua (Valley)
+subtitle: >-
+  Chris Richardson knocks back a couple of glasses in Chile’s stunning wine
+  region
+date: '2015-06-01 17:38:18 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201506021232-ync111-montes-winery.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /travel/5593/cruising-through-colchagua-valley
+  - /travel/5593/cruising-through-colchagua-valley
 comments:
- - value: >
-     Oh my, you should have let me clean up this image.Although I've lived in Texas most of my life, I was foratntue enough to learn to speak in the Midwest and West. Some of my favorite Texan words:Coke means all forms of carbonated beverage Would you bring me a Coke, please? What kind? Dr. Pepper. And yet, I am constantly teased for appropriately using the word soda. Center said sinner and a source of much confusion for me.Cement said CEE-meant. During my Chicago grandmother's first visit to Houston, our six year old neighbor girl was going on about the hot, wet cement for some reason. I thought my grandmother would faint as she kept asking What?! over and over with a horrified look on her face. I believe she thought the little girl was saying semen. Fixin' to my mom literally punished us for using this, so, needless to say, we never did. (It's like a swear word to her.) Thanks, Mom (really).Irregardless maybe people everywhere say this. Either way, IT DRIVES ME CRAZY. (If yo
+  - value: >
+      Oh my, you should have let me clean up this image.Although I've lived in
+      Texas most of my life, I was foratntue enough to learn to speak in the
+      Midwest and West. Some of my favorite Texan words:Coke means all forms of
+      carbonated beverage Would you bring me a Coke, please? What kind? Dr.
+      Pepper. And yet, I am constantly teased for appropriately using the word
+      soda. Center said sinner and a source of much confusion for me.Cement said
+      CEE-meant. During my Chicago grandmother's first visit to Houston, our six
+      year old neighbor girl was going on about the hot, wet cement for some
+      reason. I thought my grandmother would faint as she kept asking What?!
+      over and over with a horrified look on her face. I believe she thought the
+      little girl was saying semen. Fixin' to my mom literally punished us for
+      using this, so, needless to say, we never did. (It's like a swear word to
+      her.) Thanks, Mom (really).Irregardless maybe people everywhere say this.
+      Either way, IT DRIVES ME CRAZY. (If yo
 categories:
- - travel
+  - travel
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
- - longread
+  - comment
+  - longread
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 A couple of months ago I was just like you: I’d crafted what I thought at the time was the perfect route through South America, cruising merrily along the gringo trail, diverting occasionally for the miscellaneous hidden gems I’d heard about through the grapevine. But as it turned out there were several grapevines missing from the grapevine discussion. Enter Chile’s Colchagua Valley. My initial plan was to call it a day at the Mendozan Malbecs but, following several tastings in the area, my thirst was far from quenched: the time was clearly ripe to search for something new.
