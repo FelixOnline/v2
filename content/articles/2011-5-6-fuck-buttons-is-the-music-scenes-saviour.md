@@ -1,28 +1,32 @@
 ---
-title: >
-  Fuck Buttons is the music scene’s saviour
-subtitle: >
-  A refreshing antidote to all that pop nonsense
-date: "2011-05-06 08:59:25 +0100"
-image: "https://f001.backblazeb2.com/file/felixonline/img/upload/201105061001-felix-fuck-buttons.jpg"
+title: Fuck Buttons is the music scene’s saviour
+subtitle: A refreshing antidote to all that pop nonsense
+date: '2011-05-06 08:59:25 +0100'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/img/upload/201105061001-felix-fuck-buttons.jpg
 headline: true
 featured: true
 imported: true
 aliases:
- - /music/1165/fuck-buttons-is-the-music-scenes-saviour
+  - /music/1165/fuck-buttons-is-the-music-scenes-saviour
 comments:
- - value: >
-     Thank you, very nice post.,Dear White Trash, I just stopped by and have read some posts. You are in a dark place and need to climb out of your abyss. I wish I could help you. Sometime rgioeiln can be comforting but is not for everyone. I will check back later. Stay warm.
+  - value: >
+      Thank you, very nice post.,Dear White Trash, I just stopped by and have
+      read some posts. You are in a dark place and need to climb out of your
+      abyss. I wish I could help you. Sometime rgioeiln can be comforting but is
+      not for everyone. I will check back later. Stay warm.
 categories:
- - music
+  - music
 tags:
- - imported
- - image
- - imported_comments
-authors:
- - cr709
+  - imported
+  - image
+  - imported_comments
 highlights:
- - comment
+  - comment
+published: true
+comments_disabled: false
+authors:
+  - icanon
 ---
 
 _[HMV Forum](http://venues.meanfiddler.com/the-forum/home), Kentish Town
