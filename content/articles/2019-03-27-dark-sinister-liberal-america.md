@@ -12,6 +12,8 @@ subtitle: >-
 date: '2019-03-27 17:00:00'
 categories:
   - arts
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/56483226_308229083220893_8069006117566414848_n+(1).jpg
 ---
 _Shipwreck_ is set in 2017, in the early times of Trump’s America. Seven New Yorkers spend their weekend in a newly restored farmhouse upstate, rendered foodless and boozeless by a snowstorm. With nothing better to do, they spend all their time in lengthy considerations about politics, obsessing about the new president and wondering how the country could have arrived at such a state. In the past, the former owner of the farm describes the process of adopting a Kenyan baby. Mark, this adopted son, grows from childhood to adulthood throughout the piece, sharing his experiences and anxieties. Meanwhile, the president has hypothetical conversations with allies and rivals.
 
@@ -25,4 +27,3 @@ From a technical point of view, the show is flawless. Everything, from the desig
 Overall, _Shipwreck_ is a brilliant performance of not so brilliant play. The fact that the real events are set so recently may be its undoing. Afterall, as one of the characters puts it, “art needs time and space, we can all agree on that”.
 
 _-3 stars_
-
