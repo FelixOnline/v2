@@ -10,6 +10,8 @@ authors:
 date: '2019-03-27 17:00:00'
 categories:
   - arts
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/55638479_823722377979062_4294173414245007360_n+(1).jpg
 ---
 Now playing at the National Theatre, _Downstate_ is a National Theatre-Steppenwolf Theatre Company co-production written by the Pulitzer-winning Bruce Norris. It deals with the lives of four men convicted of sex crimes against minors forced to live together in a group home due to circumstances beyond their control. The show opens with one of the men being confronted by one of his victims, and dives deep into the pasts, crimes, and the present day to day challenges their crimes bring about to these men.
  
@@ -28,7 +30,3 @@ There isn’t very much to criticise about _Downstate,_ although the ending sequ
 Overall, _Downstate_ is a brilliantly acted, thought provoking, poignant play that is guaranteed to spark a conversation surrounding the topic of choice on the way out of the theatre. While fully embracing the fact that the crimes in question are a horrifying problem within our societies, Norris does a commendable job into turning this play into a part of the conversation that needs to be actively had.
 
 _-4 stars_
- 
- 
-
- 
