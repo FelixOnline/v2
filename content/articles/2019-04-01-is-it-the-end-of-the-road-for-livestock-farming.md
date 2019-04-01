@@ -14,7 +14,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1718/1718_sustainability_cow+and+sunset+.jpeg
 date: '2019-03-15 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Conversations surrounding human contributions to global warming are naturally fraught with confusion due to the sheer enormity and complexity of the issue, but can also be twisted by those whose proximal goals conflict with the changes necessary to address it.
 
