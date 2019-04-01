@@ -189,7 +189,7 @@ params:
       email: icu.investmentsociety@imperial.ac.uk
       display: Investment
       editors:
-        - andy_djaba
+        - tom_alston
       navbar: false
     - name: sustainability
       colour: "000000"
