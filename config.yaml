@@ -148,6 +148,7 @@ params:
       email: travel.felix@imperial.ac.uk
       editors:
         - joana_correia
+        - aina_naim
       tags:
         - imported
         - image
@@ -183,3 +184,25 @@ params:
       editors:
         - ff712
       navbar: false
+    - name: investment
+      colour: "007e50"
+      email: icu.investmentsociety@imperial.ac.uk
+      display: Investment
+      editors:
+        - andy_djaba
+      navbar: false
+    - name: sustainability
+      colour: "000000"
+      email: felix@imperial.ac.uk
+      display: Sustainability
+      editors:
+        - artur_donaldson
+      navbar: false
+    - name: GSU
+      colour: "000000"
+      email: gsu.president@imperial.ac.uk
+      display: Postgraduate
+      editors:
+        - andy_djaba
+      navbar: false
+      
