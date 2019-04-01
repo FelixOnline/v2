@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2019-03-15 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Monetary and Fiscal Policy are the two most widely used tools governments and central banks use to control a nation’s economy. You may have read in FT about how the Federal Reserve, the US Central Bank has become “dovish”, due to its overly “hawkish” stance last year due to Trump’s fiscal policy. In this educational article we will try and understand what this means. 
 
