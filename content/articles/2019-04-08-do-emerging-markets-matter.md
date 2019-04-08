@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1717/1717_investment_110e9a92-c275-11e8-8d55-54197280d3f7.jpg
 date: '2019-03-08 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Globally, of all new bridges opened in the last five years, 50% was built in China. Chinese investment has also funded numerous engineering projects in Europe; from an engineering standpoint, China matters deeply. If your ambition is to design a bridge in the next ten years, work from Shanghai! At the LSESU Emerging Markets Forum this year we have panels and keynotes directly addressing the rise of Chinese investment in their Belt and Road Initiative, a fantastic opportunity to participate in discussion with world-leading speakers.
 
