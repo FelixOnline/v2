@@ -11,7 +11,7 @@ authors:
   - artur_donaldson
 date: '2019-03-08 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Is the UK developed or developing? What about Vietnam - developed or developing? 
 
