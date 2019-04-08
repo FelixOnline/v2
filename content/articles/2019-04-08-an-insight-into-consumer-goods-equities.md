@@ -10,7 +10,7 @@ authors:
   - megan_chen
 date: '2019-03-08 17:00:00'
 categories:
-  - news
+  - investment
 ---
 CG stocks tend to be low-innovation, mature companies that rely on big brands and timeless products and pay regular dividends. As defensive stocks, CG stocks are more likely to outperform in bear markets than in bull markets. In recent years, CG stocks have widely underperformed in the broader market for several reasons. Investors have become enamored with tech stocks, such as the FAANG group, that have consistently outperformed. Rising interest rates have also made bonds more appealing to conservative, income-seeking investors, leading them to take some money out of dividend- paying consumer staples. Finally, higher input costs have threatened some CG stocks. Most of the CG ETFs* have underperformed the S&P 500 over the past five years.
 
