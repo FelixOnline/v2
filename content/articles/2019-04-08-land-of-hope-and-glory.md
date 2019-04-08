@@ -13,7 +13,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1716/1716_sustainability_MV5BYWE4NjhmYmUtZGYwYS00MmIzLTkyMWYtZjZjMzk3MmI4MDRmXkEyXkFqcGdeQXVyNzgyODYxNjk@._V1_UY268_CR3%2C0%2C182%2C268_AL_.jpg
 date: '2019-03-01 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 On Tuesday, VegSocs from Imperial, LSE, Kings and Middlesex University collaborated to host a film screening of “Land of Hope and Glory”, followed by a talk by the producer, Ed Winters. Ed Winters, also known as “Earthling Ed” is one of the most well-known faces of UK vegan activism, and has been featured in numerous other vegan documentaries. The documentary is one of the multiple efforts to expose the cruelty behind the animal agriculture industry. 
 
