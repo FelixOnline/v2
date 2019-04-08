@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2019-03-01 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Warren Buffet has described them as “financial weapons of mass destruction”. Robert Kiyosaki said that the subprime Morgage Backed Security (MBS) disaster was a result of them “exploding in financial institutions such as AIG and Lehman Brothers”. So, what exactly are derivatives? 
 
