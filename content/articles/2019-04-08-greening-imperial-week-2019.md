@@ -11,7 +11,7 @@ authors:
   - charlotte_griaud
 date: '2019-03-01 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Last year, Imperial was placed 141st out of 154 universities in the “People and Planet University League”. This league table ranks universities based on environmental and ethical performance. It is saddening that we have such poor reputation on environmental and ethical stances.
 
