@@ -197,6 +197,7 @@ params:
       display: Sustainability
       editors:
         - artur_donaldson
+        - monami_miyamoto
       navbar: false
     - name: GSU
       colour: "000000"
