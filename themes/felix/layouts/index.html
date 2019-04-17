@@ -43,7 +43,7 @@
 <div class="sections">
   {{ range $category := .Site.Params.displayCategories }}
     {{ $name := $category.Name }}
-    {{ $categoryPage := ($.Site.GetPage "taxonomyTerm" "categories" $name) }}
+    {{ $categoryPage := ($.Site.GetPage "taxonomyTerm" "categories" (lower $name)) }}
     {{ $pageCount := len (where $.Site.Pages ".Params.categories" "intersect" (slice $name)) }}
 
     {{ if (gt $pageCount 0) }}

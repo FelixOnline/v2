@@ -199,11 +199,11 @@ params:
         - artur_donaldson
         - monami_miyamoto
       navbar: false
-    - name: GSU
+    - name: gsu
       colour: "000000"
       email: gsu.president@imperial.ac.uk
       display: Postgraduate
       editors:
         - andy_djaba
       navbar: false
-      
+
