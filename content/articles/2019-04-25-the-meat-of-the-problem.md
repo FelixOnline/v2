@@ -13,7 +13,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/1709_sustainability_cattle-feed-lot.jpg
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 It’s January 2019. Following another festive holiday, many people may be seeking new year’s resolutions to adhere to, ideally in support of good causes. Going vegan or “zero waste” might be an option worth considering when it comes to environmental sustainability. But will cutting down meat consumption really help with global waste management?
 
