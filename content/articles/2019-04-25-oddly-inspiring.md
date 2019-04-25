@@ -12,7 +12,7 @@ authors:
   - monami_miyamoto
 date: '2019-01-18 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 I’d like to believe that every one of us, at least in part, can do something better for the environment. But I also know that for some, this can seem dauting, difficult, or just too time consuming - which is why, I thought I’d share my experience with ODDBOX, a UK based company committed to tackling food waste. One of the United Nations sustainable development goals is halving the per capita global food waste by 2030. Yet, globally  1.3 billion tonnes of food produced is being wasted every year. In UK alone, 3 million tonnes of food (1/3 of the total produce!) don’t even reach the super market shelves, simply because they are discriminated due to their ‘odd shape or size’, despite being perfectly and deliciously edible. Oddbox will source these vegetables from local growers and markets at a fair price and deliver them to people all across London, including areas near the Imperial campus. This not only reduces the amount of produce going to waste but also supports local farmers. Besides, these fruits and vegetable didn’t have to fly or sail across the ocean to get to us, ultimately reducing the carbon footprint. 
 
