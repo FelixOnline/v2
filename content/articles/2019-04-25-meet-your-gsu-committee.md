@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1709/1709_GSU_gsu.png
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 The Graduate Students’ Union (GSU) is the representative body within the Imperial College Union for the postgraduate community across all Imperial campuses. The GSU works alongside the Imperial College Union President to ensure that the requirements of postgraduate students are catered for. The GSU also ensures that postgraduates’ social and recreational needs are met and holds a number of events during the year – do look out for these! 
 
