@@ -8,7 +8,7 @@ authors:
   - emma_couves
 date: '2019-03-01 17:00:00'
 categories:
-  - news
+  - gsu
 ---
 Mental health provision, awareness and destigmatisation is as much a College issue as it is a national one; yet we still find it uncomfortable or difficult to talk about.
 
