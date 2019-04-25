@@ -7,7 +7,7 @@ title: Supervision Story
 authors:
   - icanon
 categories:
-  - news
+  - postgraduate
 date: '2019-03-01 17:00:00'
 ---
 The PhD student – supervisor relationship is a strange one; it is rare that in a workplace you would have a single boss for three to four years or have the flexibility to come into work at 11am and have the freedom to take three hours for lunch if you so wish. Then again, a PhD isn’t a normal job; it is understandable that your PhD supervisor doesn’t have to behave like a normal boss. When I started my PhD, I expected that I would have to manage my own time and experiments. That said, the frequency with which I feel like it is me and Google rather than me and my supervisor working towards a solution is still unexpected (despite the fact my undergraduate degree thankfully prepared me for this). 
