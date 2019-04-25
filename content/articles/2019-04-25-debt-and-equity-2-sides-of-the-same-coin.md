@@ -8,7 +8,7 @@ authors:
   - xerxes_chong_xian
 date: '2019-02-15 17:00:00'
 categories:
-  - news
+  - investment
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1714/1714_investment_plantwatering.jpg
 ---
