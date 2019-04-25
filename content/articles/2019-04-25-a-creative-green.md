@@ -11,7 +11,7 @@ authors:
   - icanon
 date: '2019-02-08 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 _Hi there,_
 
