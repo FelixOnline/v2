@@ -23,3 +23,4 @@ Pina Bausch’s 1975 Rite of Spring does not start when the dancers come onto th
 
 _-5 stars_
 
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/56956389_1212343955597434_1473921909996388352_n.jpg)
