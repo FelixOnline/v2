@@ -13,7 +13,7 @@ authors:
   - artur_donaldson
 date: '2019-02-22 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 From crisps to coke, and pears to pizzas, almost everything we buy today is wrapped, boxed or bottled in plastic. Disposable packaging is, by definition, used just once yet, according to the government recycling agency WRAP, they make up 40% of all plastic used in the UK. A key part to changing this is a change in culture, particularly around food packaging. We need to cut back on our individual consumption of plastics.
 
