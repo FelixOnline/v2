@@ -11,7 +11,7 @@ subtitle: >-
   problems
 date: '2019-01-25 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Toxic masculinity is currently a hot topic, wearing many guises – this was most recently highlighted in the new Gillette ad campaign on the subject. This advert has caused great controversy. resulting in many people admonishing Proctor and Gamble, for standing up to toxic masculinity. Many people are also threatening a boycott of their products, because the idea that people (men, especially) should take accountability for their actions is so offensive, obviously. 
 
