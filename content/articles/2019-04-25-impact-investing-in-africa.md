@@ -11,7 +11,7 @@ authors:
   - esuabom_dijemeni
 date: '2019-02-08 17:00:00'
 categories:
-  - news
+  - investment
 ---
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_investment_figure2.png)
 
