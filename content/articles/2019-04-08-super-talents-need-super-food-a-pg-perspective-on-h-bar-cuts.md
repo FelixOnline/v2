@@ -8,7 +8,7 @@ authors:
   - ute_thiermann
 date: '2019-03-01 17:00:00'
 categories:
-  - GSU
+  - gsu
 ---
 Life is our best teacher about how the biggest crises can be turned into the most fundamental opportunities for change. If there is one good thing about the h-bar food-cut tragedy, then it is the chance to take a step back and rethink how we provide and procure food at Imperial in general. The recent decision to cut the SCR breakfast and the evening supper service in h-bar are only examples of the many ways in which students, and staff, are increasingly challenged if they want to follow a healthy life-style. 
 
