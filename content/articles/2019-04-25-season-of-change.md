@@ -10,7 +10,7 @@ authors:
   - xiuchen_xu
 date: '2019-01-18 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 The Plant-Based Imperial campaign combines initiatives from Greening Imperial, Environmental Society (ESoc), VegSoc and Animal Protection & Education Society (APES). The main aim of the campaign is to reduce the carbon footprint of the college and work towards a more sustainable college. Throughout January and February Imperial will be holding various events relating to meat consumption and sustainability (see the accompanying timetable).
 
