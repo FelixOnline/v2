@@ -190,6 +190,7 @@ params:
       display: Investment
       editors:
         - tom_alston
+        - xerxes_chong_xian
       navbar: false
     - name: sustainability
       colour: "000000"
