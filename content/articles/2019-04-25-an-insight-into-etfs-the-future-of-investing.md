@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1713/1713_investment_84x401_0.jpg
 date: '2019-02-08 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Index funds refer to a mutual fund or Exchange Traded Fund (ETF) that track a specified basket of underlying securities (tradable financial assets). Moreover, ETFs are becoming an increasingly popular investment vehicle amongst both retail and institutional investors.   More than 4,500 ETFs managed over 4.46 trillion USD worth of assets in 2017. ETFs, in essence, are securities that are listed on stock exchanges and can be traded just like stocks. An ETF tracks a basket of securities that could range from indexes, stocks, bonds, to even commodities. Popular ETFs include the SPDR S&P 500 ETF (SPY) that tracks the S&P500 Index, Vanguard Total Stock Market ETF (VTI) that tracks the market-capitalisation weighted index of the entire U.S. equities market, and the United States Oil Fund (USO) that tracks the price of West Texas Intermediate (WTI) light, sweet crude oil. 
 
