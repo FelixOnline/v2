@@ -11,7 +11,7 @@ authors:
   - esuabom_dijemeni
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - investment
 ---
 In the past, industry specific start-up “rules of thumb” may have been sufficient to serve as reasonable basis for any valuation concern. Combined with the unique market dynamics and regulatory environment associated with the medical technology industry, start-ups in this field present a unique set of valuation considerations. In recent years, valuation issues have become increasingly important for start-up companies due to changing international reporting standards and financial reporting rules. These issues along with increasing regulatory and shareholder scrutiny together compound potential troubles for start-up companies. Because both the subject enterprise and valuation purpose are misfits within the context of typical valuation work, valuation practices are generally not applicable for start-up companies. In reality, the appropriate definition of value varies depending on the circumstances surrounding each valuation engagement. This article discusses common circumstances that give rise to the need for a valuation, basic valuation concepts, and specific valuation considerations relevant to medical technology start-up companies.
 
