@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1716/1716_GSU_Picture1.png
 date: '2019-03-01 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 Undertaking PhD research can be a daunting experience. Not only does it challenge you intellectually, but it can put a strain on your mental wellbeing. A study  published last year revealed that one in two PhD researchers experience psychological distress, while one in three is at risk of a common psychiatric disorder. Impostor syndrome, deadlines, stress, isolation and myriad other negative thoughts or emotions can be overwhelming. Oftentimes this can leave us feeling helpless and stuck. No one is, nor should be alone in this.
 
