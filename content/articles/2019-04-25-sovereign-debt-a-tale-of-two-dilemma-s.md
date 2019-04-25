@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2019-02-22 17:00:00'
 categories:
-  - news
+  - investment
 ---
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1715/1715_investment_Screen+Shot+2019-02-20+at+16.29.03.png)
 
