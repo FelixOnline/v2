@@ -199,7 +199,7 @@ params:
         - artur_donaldson
         - monami_miyamoto
       navbar: false
-    - name: gsu
+    - name: postgraduate
       colour: "000000"
       email: gsu.president@imperial.ac.uk
       display: Postgraduate
