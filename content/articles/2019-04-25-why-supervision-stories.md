@@ -8,7 +8,7 @@ authors:
   - ute_thiermann
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 On 7th December 2018, we published our first supervision story (together with the first ever postgraduate focused content in Felix!). The reaction from students and staff at the College was polarised, spanning from enthusiastic support to harsh criticism. While one brave ex-Imperial student took the courage to speak up first, we are still looking forward to reading the other 3480 supervision stories describing the life of our PG Research students!
 
