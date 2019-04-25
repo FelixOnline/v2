@@ -8,7 +8,7 @@ authors:
   - icanon
 date: '2019-02-01 17:00:00'
 categories:
-  - comment
+  - postgraduate
 ---
 Dialogue. I believe that in the thorough yet enjoyable experience that the PhD can be, we all go through times of self-doubt and questioning. Not only about the research itself, but about our own capabilities and the, sometimes, fearful prospect of having to finish. I am glad to have a supportive supervisor. However, our relationship would probably not work so well if I did not feel like I could talk to my supervisor. I can rely on him for guidance regarding my research, and I also trust I will have his support when I am going through hard times in my PhD or my personal life, affecting my work. Knowing that my supervisor is aware that I am a human being who makes mistakes and has limits but is still ready and willing to give their best for their work allows me to step back during stressful times; because I know I have support.
 
