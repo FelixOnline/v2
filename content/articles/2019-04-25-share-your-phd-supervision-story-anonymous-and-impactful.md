@@ -8,7 +8,7 @@ authors:
   - ute_thiermann
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 The quality of PhD supervision is becoming a hot topic, not only at Imperial College but across the whole UK. Decision-makers across Imperial College are becoming increasingly aware that the quality of supervision is the major predictor of satisfaction and wellbeing of any PhD student. Together with the Imperial College Union, the College administration works hard in improving the supervision and the welfare system for students with problems. 
 
