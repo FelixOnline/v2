@@ -9,7 +9,7 @@ authors:
   - monami_miyamoto
 date: '2019-01-25 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Last Tuesday (15th of January), Environmental Society, VegSoc and APES collaborated to host a movie screening event for the film _VEGAN 2018_. Out of curiosity I attended. I came out of it feeling a mixture of emotions - partly overwhelmed by the density of the information, partly empowered to know that I could immediately start making small changes in my own lifestyle, and partly regretting that I hadn’t attended more movie screenings like these.
 
