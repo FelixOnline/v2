@@ -13,7 +13,7 @@ subtitle: >-
   Freya Williams
 date: '2019-02-01 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Although ‘sustainability’ is a constant buzzword in our society and people seem to understand that its somewhat important, I feel that many of us don’t know what it _really_ means to be sustainable. Should we stop using plastic all together? Should we abandon eating all meat and dairy? Should we never purchase fast fashion ever again? How can we, as a society become more environmentally conscious? Making these incremental changes as individuals will undoubtedly add up, but sometimes it can feel like it will take months, years, or even decades until we see noticeable impacts. But in Green Giants, Williams explores the ways in which some of the biggest companies in the world have managed to implement sustainability into their business plan to tackle environmental issues at its core and enable our society to take large strides forward. Natura, Chipotle, Toyota (Prius), Tesla Motors, IKEA, Whole Foods, Unilever, GE (Ecomagination) and Nike (Flyknit) are the 9 ‘Green Giants’ that are mentioned in this book. They are the pioneers of the inexorable green business revolution. What is truly incredible is that the annual revenue of these companies together represents over $100 billion dollars, showing us that with the right strategy and vision, companies have the potential to transform societal needs into business opportunities.
 
