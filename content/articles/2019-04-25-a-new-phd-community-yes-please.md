@@ -8,7 +8,7 @@ authors:
   - emma_couves
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 Despite having been at Imperial for three years, adjusting to PhD life brought its own new challenges, both academic and in terms of maintaining work-life balance, managing my motivation and mental health and finding time to devote to exercise. At the start, when I knew literally no one, I wished I had a way of finding support and friends in the wider PhD community. I wanted to meet people who have been at this point before and have had to adjust their approach to become effective in their research. Unfortunately, the lack of community spirit not just in the PhD circle but at Imperial as a whole means that its research students, who are responsible for a significant portion of the academic output of the college, are suffering in silence. Struggling with motivation, mental health and resilience are no new problems to PhD students; a ‘part of the job’ some might argue. But your Graduate Students’ Union (GSU) is here to support you to have the most enjoyable and effective time at Imperial. We want to build a community of PhD students which is collaborative and supportive in all aspects of PhD life. I was keen to get involved and help build this community but, at the moment, it’s a bit of an uphill battle. 
 
