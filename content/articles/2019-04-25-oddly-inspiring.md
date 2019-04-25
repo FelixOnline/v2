@@ -21,4 +21,3 @@ Personally, what I’ve loved most about Oddbox is that they provide a variety o
 Oddbox provides a variety of order options, including veg only, or a combination of fruit and veg, and in sizes of small, medium and large. A small veg and fruit box is probably ideal for college students to last for a week, and only costs 10.49 pounds for a hearty quantity. Payment is on a weekly basis, so you can easily cancel any time you travel or simply don’t have time to cook. 
 
 With Oddbox, you’re not only saving money and making your life easier, but also contributing to solving the global food waste issue and other environmental problems. It starts with just one delivery.
-
