@@ -11,7 +11,7 @@ authors:
   - monami_miyamoto
 date: '2019-02-15 17:00:00'
 categories:
-  - news
+  - sustainability
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1714/1714_sustainability_olio-app1.jpg
 ---
