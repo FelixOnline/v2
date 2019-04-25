@@ -10,10 +10,14 @@ authors:
 date: '2019-04-25 17:00:00'
 categories:
   - arts
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/58594714_771960753190318_656703106603548672_n+(1).jpg
 ---
 For any hectic Londoner, and especially the sleep-deprived Imperial student, coffee is a staple - if not a necessity - of daily existence. Now in its 9th year running, the London Coffee Festival is a massive celebration of everyone's favourite stimulant. And when I say massive, I mean massive. With four floors and over 250 stands, there's enough coffee packed into one space to make a herd of elephants jittery.
 
 The amazing thing about the festival is how it covers every step of coffee consumption. First the beans, of course. An immense range of single origin beans from Ethiopia to Indonesia, lovingly prepared by roasteries from Cornwall to Birmingham. And then the machines. The latest and greatest technology in coffee-making is on display here. Traditional brands like Gaggia with espresso machines updated for the 21st century barista - think touchscreens and transparent machine bodies where you can watch every step of the extraction process. Automated, fuss-free espresso machines for the home barista. Filters from Chemex to Hario. Wonderful new gadgets like a liquid nitrogen aeration device from Austria.
+
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/58383607_366312674028992_2936598496100220928_n+(1).jpg)
 
 Want milk in your coffee? Not a problem. There's specialty dairy milk from farms like Brades Farm, expressly formulated for the most silky texture. Or if you want to go dairy-free, there's a whole plethora of options. Soy, almond, lactose-free, even macadamia - the possibilities are endless!
 
@@ -24,6 +28,8 @@ Cold brew, made by steeping coffee grounds in cold water rather than using heat 
 The London Coffee Festival is clearly a place for industry / coffee-shop owners to find their feet - we even pass an interior design stall specialising in the light wood, exposed-filament lightbulb coffeeshop vibe - but for the amateur coffee enthusiast it's a fantastic peek into the world of professional coffee brewery. I have an intense discussion with a barista about the lightness of "3rd wave coffee" versus traditional roasts which apparently have "more crema, slight bitterness and less acidity". Another waxes lyrical about the benefits of an machine with double boilers - one for espresso extraction and a separate one for milk foaming, so you have "precise control over the milk temperature". Chatting to the baristas and roastery owners, it's so inspiring to see their overflowing passion for the humble caffeinated beverage. Who knew so much thought and effort could go into a simple cup of coffee?
 
 _- Claire Chan_
+
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/58376526_596920097493209_2076108769078542336_n+(1).jpg)
 
 **EVENTS**
 
@@ -36,3 +42,5 @@ Through wandering the stalls and conversing with baristas and stall-owners, ther
 Overall, the Coffee Festival was a friendly, buzzing and caffeine-laden experience that I would love to revisit. It also opened up a new world of coffee-making to us: it showed us the extent and care in which baristas hone their craft, and the passion their have for creating that perfect cup. So many different aspects are involved, from considerations about brewing method, milk and water temperature, grind of the bean, weight of the coffee, length of time brewing and even the types of water used. Mastering that perfect balance of bitterness, body, sweetness and flavour notes is something each coffee connoisseur aspires to achieve, and the complexity of good coffee-making is something I have a newfound appreciation for.
 
 _- Elizabeth Thong_
+
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/58542824_454521355100469_2735545575121354752_n+(1).jpg)
