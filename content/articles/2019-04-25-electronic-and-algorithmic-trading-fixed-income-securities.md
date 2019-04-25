@@ -11,7 +11,7 @@ authors:
   - esuabom_dijemeni
 date: '2019-02-01 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Electronic trading has become an increasingly important part of the fixed income market landscape in recent years. The rise of electronic trading has enabled a pickup of automated trading (including algorithmic and high-frequency trading) in fixed income futures and parts of cash bond markets. These recent changes have resulted in a transformation of the fixed income market structure, the process of price discovery and the nature of liquidity provision. Electronic trading’s advance and structural consequences will have implications for market quality and functioning that are yet to be fully explored. This article provides a view of the rising use of electronic and automated trading in fixed income and related derivatives markets – a process we refer to as “electronification”.
 
