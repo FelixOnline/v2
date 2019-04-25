@@ -11,7 +11,7 @@ authors:
   - xiuchen_xu
 date: '2019-02-01 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 UUpon arrival to FRIEND animal sanctuary, we were greeted by the loud clucks of chickens and the turning heads of cows. We made our way through the muddy terrain to an open field, where we were welcomed by Dave, who was a full-time volunteer at the sanctuary. Behind him followed Ging whose puppy eyes gleamed with excitement at the sight of a big group of visitors. The early start did not seem to have taken its toll on anyone, and just like Ging, we were all hyped for the day ahead.
 
