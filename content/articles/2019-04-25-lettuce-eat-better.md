@@ -14,7 +14,7 @@ authors:
   - elliot_dryer
 date: '2019-02-08 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Now that Veganuary 2019 has come to an end, it’s the perfect time to reflect on the cultural shift veganism and the plant-based message experienced in recent decades. Veganism, it’s fair to say, has recently experienced a leap from the fringe into the spotlight, with many reasons underlying its ever-growing popularity. 
 
