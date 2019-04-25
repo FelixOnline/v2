@@ -12,7 +12,7 @@ authors:
   - sam_yu
 date: '2019-02-01 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 You are a scientist and have an entrepreneurship idea? Confused about how to make a business proposal or get the idea off the ground? Or, do you want to learn how you could turn your expertise and knowledge into a kick-starter that could change the world?!
 
