@@ -10,7 +10,7 @@ authors:
   - esuabom_dijemeni
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - investment
 ---
 The objective of this series, Risk in Investment Management and Financial Services, is to provide a top-level introduction to risk in investment management and financial services. A broader and wider understanding of different types of risk faced in investment management and financial services is critical towards our understanding of different investment and financial products, services and strategies adopted in a growing risk-dynamic environment that we are experiencing today.  The different types of risk include: credit risk, operational risk, market risk, investment risk, liquidity risk and model risk. The aim of this article is to focus on credit risk in investment management and financial services.
 
