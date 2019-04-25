@@ -10,7 +10,7 @@ authors:
   - xerxes_chong_xian
 date: '2019-01-25 17:00:00'
 categories:
-  - news
+  - investment
 ---
 On 3rd October 2018, the iconic British marque synonymous with James Bond debuted on the London Stock Exchange, a milestone for the historically troubled carmaker, with a past marred by several bankruptcies. The shares were priced at £19, valuing the company at £4.3bn. While most IPOs are traditionally capital raising operations, this IPO was a profit-taking exercise for its 2 largest shareholders, Italian private-equity group Investindustrial and Kuwaiti investment fund Investment Dar, who sold off a quarter of the company.
 
