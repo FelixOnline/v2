@@ -10,7 +10,7 @@ authors:
   - alexander_koh
 date: '2019-01-11 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Yield curve inversions have traditionally been a foretelling sign of impending recessions. To explain the idea of a yield curve, one needs to understand what exactly a yield is. A yield to maturity, or simply bond yield has multiple interpretation, the simplest being – it is the return an investor realises on a bond. For instance, a yield of 4.5% on a bond implies that an investor would get a return equivalent to a 4.5% annual interest rate in a bank account. Bond yields are inversely related to bond prices, when bond prices are low, the yields are high, vice versa.
 
