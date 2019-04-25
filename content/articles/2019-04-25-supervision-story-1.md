@@ -3,7 +3,7 @@ published: true
 headline: false
 featured: true
 comments_disabled: false
-title: 'Supervision Story #1'
+title: 'Supervision Story - February '
 authors:
   - icanon
 date: '2019-02-01 17:00:00'
