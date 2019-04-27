@@ -13,7 +13,7 @@ date: '2019-12-07 17:00:00'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1708/1708_sustainability_GreenChristmas%5BDeavita%5D.png
 categories:
-  - news
+  - sustainability
 ---
 Tables heaving with plates of food, stacks of presents spilling out from under a tree smothered in tinsel and baubles, and rolls of lights beaming into outer space… This may seem like the epitome of the festive season, but is Christmas really not about more than what we consume? Christmas has become synonymous with over-indulgence - over-eating, drinking and spending. We feel compelled to make the best of the offers that are constantly thrown at us- even if we don’t need, want or even like the products that we are buying. What’s more, each year there is pressure to improve upon the previous one – by buying and spending more. But how much need for this is there? Shouldn’t we stop to consider how much waste we are producing – all the excess food, packaging, and gadgets we are churning out for this festive season? At such a wasteful time of year even making small changes can make a difference to our impact on the environment.
 
