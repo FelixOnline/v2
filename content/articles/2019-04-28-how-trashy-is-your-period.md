@@ -11,7 +11,7 @@ authors:
   - petchara_newson
 date: '2018-11-23 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Since the 5p carrier bag charge, the thought of throwing away a perfectly good plastic bag is enough to make most of us cringe. Now imagine unknowingly throwing away 80 plastic bags every month. That’s how much plastic the average woman uses over her period if she throws away 20 disposables a month! I’m not trying to make women feel guilty; growing up, disposable menstrual products were the only options I was told about. It was only a few years ago I stumbled across the idea of menstrual cups. 
 
