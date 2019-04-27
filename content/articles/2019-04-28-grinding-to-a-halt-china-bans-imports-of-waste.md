@@ -13,7 +13,7 @@ authors:
   - sam_owens
 date: '2019-11-23 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 The UK has declared war on single-use plastic. Reusable coffee cups are everywhere, with Imperial’s cafes charging those without one an extra 15p, and plastic bags and straws are looked upon with horror. The government is riding this wave of public opinion, having imposed a 5p levy on the former in 2015, and is in the process of implementing an outright ban on the latter, as well as a possible charge on plastic takeaway containers. But the newfound revulsion at these items is primarily because they are single-use; aren’t we free to purchase all the recyclable plastic we want, so long as we do the honourable thing and put it in the appropriate bin – a win-win for the environment and our conscience? As of 2018, it turns out the answer is no.
 
