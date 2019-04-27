@@ -11,7 +11,7 @@ authors:
   - theana_johnson
 date: '2019-11-30 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 To start, a few facts: 12 million tons of plastic end up in our oceans each year. One third of all food produced globally goes to waste. The greenhouse gas emissions involved in the production of food which go to waste mean that if food waste were a country it would be the third largest emitter of greenhouse gases, after China and the US. 
 
