@@ -10,7 +10,7 @@ authors:
   - xerxes_chong_xian
 date: '2018-10-12 17:00:00'
 categories:
-  - news
+  - investment
 ---
 We’ve all heard the age-old advice; save up for a rainy day, spend a little less, invest that money and have enough to retire. Your favourite car, that house in the countryside, that trip to the Maldives you’ve been planning since the days of eating lunch at your desk. The message is clear, invest for the future. As we meticulously allocate funds to reap returns, so do countries through sovereign wealth funds (SWF). 
 
