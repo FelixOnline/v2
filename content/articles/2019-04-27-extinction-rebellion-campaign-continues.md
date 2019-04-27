@@ -13,7 +13,7 @@ authors:
   - celina_chien
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Over 1,000 protesters from the environmental campaign group Extinction Rebellion came together in Central London on the Saturday 28th November to demand environmental justice and demand legislative action to confront climate breakdown and the global biodiversity crisis.
 
