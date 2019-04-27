@@ -18,5 +18,4 @@ The event was organised in response to calls for more social events for postgrad
 
 The event was a success, attracting many students with the large selection of good food and drinks available under this offer. However, it was noted that more events like this need to happen in order to attract a greater attendance. Hannah Jones, the GSU Event’s Officer commented, “we need more events which are exclusive to postgraduate students at these campuses and that also bring together students from South Kensington, to allow the feeling that we are one University and not separated by location. My team at the GSU and I are in the process of organising more events of this kind with more networking to bring more of a community feeling. I welcome any suggestions from students who have ideas for future events.”
 
-It is hoped another collaboration deal with Feast Bar will be set up in the future. To get in touch with the GSU Events Team with any feedback, comments or suggestions, contact Hannah Jones at hj3217@ic.ac.uk. 
-
+It is hoped another collaboration deal with Feast Bar will be set up in the future. To get in touch with the GSU Events Team with any feedback, comments or suggestions, contact Hannah Jones at hj3217@ic.ac.uk.
