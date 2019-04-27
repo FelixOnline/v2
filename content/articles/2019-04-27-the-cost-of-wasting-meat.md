@@ -13,7 +13,7 @@ authors:
   - roberta_franchi
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Consuming meat is bad for the environment. Meat production produces huge amounts of greenhouse gases, consumes millions of liters of water and takes up monstrous quantities of land. Yep, we’ve heard it over and over again. However, have you ever considered the impact of actually throwing away the meat that is not eaten? 
 
