@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2018-11-09 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Global Warming. Corruption. War. Poverty. These are all problems every human on the face of the earth must deal with, and it is something everyone should be tackling. The financial industry has decided to combat these problems with Environmental, Social and Governance (ESG) Investing. It is investing standards that indicates whether a company has strong ethical and sustainable practices. Investors who wish to buy these stocks for their portfolio do so through socially responsible mutual funds and exchange-traded funds. 
 
