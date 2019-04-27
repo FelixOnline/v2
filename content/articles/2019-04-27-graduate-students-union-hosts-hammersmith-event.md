@@ -10,7 +10,7 @@ authors:
   - clare_chan
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 On Wednesday 21st November, Imperial College Union and the Graduate Students’ Union (GSU) teamed up with Feast Bar, located close to the Hammersmith and White City campuses of Imperial College to throw a fabulous social for postgraduate students located in the area. The event itself lured students with some exclusive deals, including 50% off all food and drinks for any student showing a valid Imperial College Card. Representatives from the SU and GSU also attended and provided some free drinks for students. 
 
