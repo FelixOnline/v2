@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2018-11-23 17:00:00'
 categories:
-  - news
+  - investment
 ---
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1706/1706_investment_http_%252F%252Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws+(1).png)
 
