@@ -8,7 +8,7 @@ authors:
   - yan_kai_kee
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - sustainability
 subtitle: An unconventional way to spend your Summer
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1708/1708_sustainability_Picture1.png
