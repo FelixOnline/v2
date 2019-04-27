@@ -10,7 +10,7 @@ authors:
   - xerxes_chong_xian
 date: '2018-11-09 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Dark pools. The words invoke an atmosphere of secrecy and evil, harkening back to myths of murky waters and ancient terrors that lurk within. Throw in the modern element of trading and most imagine clandestine deals involving dubious characters straight out of _The Godfather_. The reality is less intimidating.
 
