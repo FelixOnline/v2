@@ -10,7 +10,7 @@ authors:
   - davide_vaccaro
 date: '2018-11-16 17:00:00'
 categories:
-  - news
+  - investment
 ---
 The Economist has called them “an addiction to corporate cocaine.” Reuters has called them “self-cannibalization.” The Financial Times has called them “an overwhelming conflict of interest.” In an article that won the HBR McKinsey Award for the best article of the year, Harvard Business Review has called them “stock price manipulation.” These influential journals make a powerful case that wholesale stock buybacks are a bad idea—bad economically, bad financially, bad socially, bad legally and bad morally. Yet despite these powerful denunciations, stock buybacks not only continue but are happening at a larger scale than ever seen before. And this raises the question of why, how, what, who, when and where?
 
