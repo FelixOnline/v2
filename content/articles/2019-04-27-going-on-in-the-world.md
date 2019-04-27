@@ -8,7 +8,7 @@ authors:
   - artur_donaldson
 date: '2018-11-23 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Monday sees the beginning of the COP 24 conference in Katowice, Poland. Previous conferences include 2015’s COP 21, in which 190 nations committed to limiting the rise in global temperatures to 1.5°C above pre-industrial levels.
 
