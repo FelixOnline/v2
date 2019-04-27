@@ -8,7 +8,7 @@ authors:
   - icanon
 date: '2018-12-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 My experience as a postgraduate research student at Imperial was in complete contrast to my expectations. 
 
