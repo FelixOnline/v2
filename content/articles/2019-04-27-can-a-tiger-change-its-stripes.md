@@ -10,7 +10,7 @@ authors:
   - celina_chien
 date: '2019-11-23 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 China has postponed previous plans to lift the 25-year-old ban on the sale and use of rhinoceros horn and tiger bone for Traditional Chinese Medicine (TCM), following an international furore. This announcement comes two weeks after the State Council’s decision in October to reverse the 1993 ban on the sale, import, export, and use of tiger and rhino products, in order to allow their use for “medical research or in healing” from farmed rhinos and tigers in government certified TCM hospitals. Environmental activists, conservation NGOs and experts criticised the Chinese government, saying the decision would have a “devastating impact” on wild populations of the already endangered species.  
 
