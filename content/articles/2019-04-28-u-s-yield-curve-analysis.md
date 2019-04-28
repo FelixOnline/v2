@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1698/Screen+Shot+2018-09-26+at+13.06.24.png
 date: '2018-09-28 17:00:00'
 categories:
-  - news
+  - investment
 ---
 A new analysis predicts that the U.S. Treasury two-year bond yield is set to overcome the U.S. Treasury ten-year bond yield between the beginning of November 2018 and the end of January 2019 - most likely in December 2018. 
 
