@@ -10,7 +10,7 @@ authors:
   - tom_alston
 date: '2018-10-05 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Before the financial crisis, private equity investors followed closely the “buyout” manual pioneered by Henry Kravis and George Roberts when they founded the firm KKR in the 1970’s. Essentially, they would acquire companies whole, then they would cut costs and load them with low interest rate debt. For a while this was very successful. Earlier this year the private equity firm Blackstone sold its 15.8 million shares in Hilton Worldwide Holdings, bringing an end to an 11-year relationship that ended up as the most profitable private equity deal on record ($14 billion in profit meaning the firm tripled its investment). Blackstone took the hotel private in 2007, with the firm putting up $6.5 billion of equity. The firm later suffered during the financial crisis but after some more cash and restructuring of Hilton’s debt, Blackstone took the company public again in 2013. The shares had more than doubled at the time of the sale. Despite this, many critics said this method was comparable to cash-rich private equity firms playing a risky game of musical chairs. 
 
