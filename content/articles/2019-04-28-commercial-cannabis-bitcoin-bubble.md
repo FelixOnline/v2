@@ -8,7 +8,7 @@ authors:
   - tom_alston
 date: '2018-09-28 17:00:00'
 categories:
-  - news
+  - investment
 ---
 On Tuesday 18th September, the US Drug Enforcement Agency gave the Canadian cannabis producer Tilray permission to export its cannabis to the United States for medical research. The next day Tilray Inc. shares were halted five times from trading in less than one hour as the market neared its close. After being the first marijuana company to go public on the NASDAQ Exchange earlier this year with an opening share price of $17, the company was trading at a record high of $300 that Wednesday – a daily gain of 94% and an increase of more than 400% in the past month! The company is now worth more than a high number of large cap companies including American Airlines and pharmaceutical company Mylan. The Vancouver based company, according to its website, “is a global leader in medical cannabis research, cultivation, processing and distribution”.  
 
