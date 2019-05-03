@@ -1,0 +1,30 @@
+---
+published: true
+headline: false
+featured: true
+comments_disabled: false
+title: 'My Supervision Story '
+subtitle: >-
+  A GSU President tearing her hair out over an ambitious project and how she
+  filed a Freedom of Information request to the College
+authors:
+  - ute_thiermann
+date: '2019-05-03 17:00:00'
+categories:
+  - news
+---
+My objective to improve supervision at Imperial College has turned out to be a real conundrum. I hear endless stories of PG research students being unhappy with their level of supervision, the behaviour of their supervisors and precarious lab situations. Being aware of the sensitivity of these stories, I believed that by creating a channel for students to share their supervision stories anonymously in _Felix,_ we could glance behind the scenes and understand the reality of supervision at the College. By sharing positive as well as negative experiences with supervision, I hoped that we could create an institutional discussion around the quality of supervision and the success of College procedures in dealing with failing relationships. One major problem with supervision is its huge variety in quality, ranging from students at the College feeling very supported to those suffering daily and turning into case numbers and waiting lists at the College Counselling service. 
+
+Over the course of four months, I have hardly received any supervision stories, which shows that something about this equation just doesn’t add up. Why do students talk about, but do not want to share their stories? Is it that everyone is just too busy to sit down for 20 minutes to write and share? Is it that people think their story is not worth sharing? Or are students afraid of being identified, even as anonymous writers, threatening the future of their relationship with their supervisors and the outcome of their PhD? Frankly, I have no clue, and probably, it is a mixed bag of reasons. 
+
+Having promised that I would work on this topic, I use any opportunity to raise awareness about the student-supervisor relationship and its link to PG well-being (which was proven in the 2017/18 HEFCE well-being report). My main concern is that students actually do have many ways to improve their supervision, but they still seem to feel powerless and scared. Just to mention a few mechanisms: on the local level, students can speak to their PG Tutors as well as raise a complaint within their Departments. If this seems too immediate, students can speak to the PG Senior Tutor at their Faculty. Final instance is to raise a formal complaint, following the academic complaints regulation (to find on the Imperial College Website, pathway: Home – About – Governance - Academic governance - Academic policy - Complaints, appeals and discipline). Complaints can be handled at three levels, from local to College, and there are several methods of intervention and monitoring for difficult student-supervisor relationships. 
+
+I started wondering. Do students use the formal complaint’s procedure? Or does either the lack of knowledge about these procedures, or fear, keep students from using this process? Is the complaints procedure fit-for-purpose to encourage PG students to reach out? To find out more and discuss this question at the Postgraduate Research Quality Committee, I filed a Freedom of Information Request to the complaints team of the College. I received the following response with data from the last 5 years: 
+
+- 72% of all academic complaints were raised by PG students, which is reflected in 26 formal complaints. 
+- Of those, 11 were related to supervisors while the others referred to issues with the programme management, resource allocation, service provision and others. 
+- Typical outcomes of these complaints have been the partial refunding of fees, compensation, or additional time granted to the student to complete their programme of study.
+
+Pretty good, isn’t it? But wait… 11 complaints in 5 years? The data provided by the College only referred to the Level 3 complaints. But before complaints reach level 3, many complaints get resolved at levels 1 and 2. Unfortunately, the complaints team was unable to hand out information on the numbers of complaints for levels 1 and 2, using the disclosure exemption rule under section 12 (1) of the Freedom of Information Act. Apparently, it would take them more than 18 hours to put that data together, as they claimed they would have to email all teaching staff at the College and ask them which complaints had been filed against them. After reading the complaints regulation, I reckoned, this can hardly be true. Responses to Level 1 complaints must be recorded through the email student.complaints@imperial.ac.uk. Level 2 complaints must be submitted via a formal Student Complaint Submission Form. I raised these reservations with the College and requested another round of information. The outcome is that for years, the College has not collected any centralised information on Level 1 and 2 complaints. Only in 2018, the complaints procedure was changed so that now, departments have to inform the complaints team about what is happening under their administration. 
+
+While it is utterly sad that a university of ‘excellence’, which Imperial College claims to be, has refrained from monitoring their complaints for so many years, it is also a sign of progress. Since I started my presidency, I sense a certain wind of change blowing around the College corridors. There is a growing understanding that the experience of PG students needs to be taken seriously, and that the College must maintain an eye on the work of supervisors. I hope that future GSU presidents will uphold the pressure on the College so that supervisors with repetitive complaints can be stopped from taking on more students. What does this mean for PG students? It is important that you make yourself visible if you are suffering because only through taking advantage of the mechanisms in place, can we change the way in which the College is run. You are not alone, so don’t be afraid to claim your rights. 
