@@ -10,7 +10,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/1719_investment_http-%252F%252Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.png
 date: '2019-05-03 17:00:00'
 categories:
-  - news
+  - investment
 ---
 The ride haling app has lowered its expectations from a rumoured IPO valuation of around $100 billion to between $80-90 billion. This would still be the largest public offering from Silicon Valley since Facebook, with the company pitching an initial price range of $44 to $55, even as many other highly valued tech companies such as Slack enter the public domain. Many believe this conservative pricing is a result of the underwhelming stock performance of competitor Lyft, which is currently trading 20% below its issue price after it went public earlier this year. Lyft is in fact threatening a lawsuit against Morgan Stanley (one of the underwriters of the IPO) after its alleged role in helping market certain products that would help pre-IPO investors bet against the stock which certain traders believe caused the early drop in share price. 
 
