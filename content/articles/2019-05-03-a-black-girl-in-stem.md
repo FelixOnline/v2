@@ -9,7 +9,7 @@ authors:
   - icanon
 date: '2019-05-03 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 Where I’m from, the colour of my skin didn’t make me “the minority”, nor did being a female determine my academic success. Where I’m from, it was quite commonly joked about that the girls were smarter and more mature than the boys because, after all, “behind every successful man is a strong woman who helped him get there”. So, from an early age, I never once thought that my gender would determine my progression. 
 
