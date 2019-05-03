@@ -11,7 +11,7 @@ authors:
   - ute_thiermann
 date: '2019-05-03 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 My objective to improve supervision at Imperial College has turned out to be a real conundrum. I hear endless stories of PG research students being unhappy with their level of supervision, the behaviour of their supervisors and precarious lab situations. Being aware of the sensitivity of these stories, I believed that by creating a channel for students to share their supervision stories anonymously in _Felix,_ we could glance behind the scenes and understand the reality of supervision at the College. By sharing positive as well as negative experiences with supervision, I hoped that we could create an institutional discussion around the quality of supervision and the success of College procedures in dealing with failing relationships. One major problem with supervision is its huge variety in quality, ranging from students at the College feeling very supported to those suffering daily and turning into case numbers and waiting lists at the College Counselling service. 
 
