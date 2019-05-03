@@ -10,7 +10,7 @@ authors:
   - simeon_draganov
 date: '2019-05-03 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 I often find myself faced with questions from friends and colleagues such as “What is it like to be a gay man at uni?” or “How do others perceive you once they find out that you are gay?”. I used to ask the same questions during my undergraduate studies at UCL, prior to starting my MRes+PhD course in Chemical Biology in the Department of Chemistry here at Imperial. I wondered whether I would be accepted by my future colleagues in research and by my supervisors. I was constantly thinking about the potentially negative impact revealing my sexuality could have on my research and future career prospects. I anxiously asked myself “Is it worth keeping your sexuality a secret?”. Having been here for a year and half now, I am glad to say that the answer to this question is a resounding “NO!”.
 
