@@ -13,7 +13,7 @@ authors:
   - monami_miyamoto
 date: '2019-05-10 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 On April 18th, BBC One broadcasted the highly anticipated documentary “Climate Change: The facts”. Needless to say, it was one of the most devastating hours of my entire easter holiday (really putting revision into perspective). Hosted by the trusted veteran, sir David Attenborough, this documentary presented the alarming and formidable consequences of global warming exceeding 1.5 degrees.  
 
