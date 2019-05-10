@@ -1,6 +1,6 @@
 ---
 published: true
-headline: true
+headline: false
 featured: true
 comments_disabled: false
 title: Mental Health Awareness Week
@@ -26,5 +26,4 @@ Your department is a great source of support especially for information about ex
 
 The Graduate School is running loads of events during the week so head along and get involved in their activities. You can find all their activities here: [https://www.imperial.ac.uk/study/pg/graduate-school/events/mental-health-awareness-week/](https://www.imperial.ac.uk/study/pg/graduate-school/events/mental-health-awareness-week/)
 
-Everyone has mental health and your mental wellbeing can fluctuate. Having good mental wellbeing can give you greater self-confidence, healthier behaviours and an improved quality of life. During this busy period try to notice your mental wellbeing and see when it is slipping so you can take action. Some things you may want to be aware of are sleep, eating, exercising, your environment, the people around you and doing something you enjoy. It’s important to find a balance with everything you are doing but that balance will look different for everyone. You can’t compare what you are doing with others as everyone does it their own way. Finally, it’s okay to ask for help, whether that’s speaking to a friend, someone at the university or the Union or searching online. Asking for help is a sign of strength and you should use it. 
-
+Everyone has mental health and your mental wellbeing can fluctuate. Having good mental wellbeing can give you greater self-confidence, healthier behaviours and an improved quality of life. During this busy period try to notice your mental wellbeing and see when it is slipping so you can take action. Some things you may want to be aware of are sleep, eating, exercising, your environment, the people around you and doing something you enjoy. It’s important to find a balance with everything you are doing but that balance will look different for everyone. You can’t compare what you are doing with others as everyone does it their own way. Finally, it’s okay to ask for help, whether that’s speaking to a friend, someone at the university or the Union or searching online. Asking for help is a sign of strength and you should use it.
