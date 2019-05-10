@@ -10,7 +10,7 @@ authors:
   - xerxes_chong_xian
 date: '2019-05-10 17:00:00'
 categories:
-  - news
+  - investment
 ---
 The month of April marked a historic moment for the financial markets. The Saudi Arabian Oil Company (Saudi Aramco) had its debut international bond issuance. A titan in the world of oil and gas, whose pulse is closely monitored by financial markets as a proxy to the health of one the world’s favourite commodities, Saudi Aramco has raised $12bn from the $100bn received in orders, the largest amount ever seen in an emerging market bond deal. Investment banks JP Morgan and Morgan Stanley were the joint global coordinators for the deal.
 
