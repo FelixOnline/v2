@@ -10,7 +10,7 @@ authors:
   - alexander_koh
 date: '2019-05-17 17:00:00'
 categories:
-  - news
+  - investment
 ---
 Investors are typically faced with the question of how much a stock (equity) is worth. To answer this question, there are two ways to value equities. The first method involves the use of ratios and comparison with other equities – relative valuation and the second method involves the use of Discounted Cash Flow (DCF) valuation analysis to work out the exact fair value of a stock. In brief, absolute valuation anchors the evaluation of the fair value of a stock based on the earnings and financial statements of a corporation and utilises a systematic approach of DCF valuation based on assumptions of the future cash flow of a corporation. Nevertheless, the assumptions made for DCF valuation acts as a limiting factor in establishing truly accurate results – it demands clairvoyance to postulate future earnings. 
 
