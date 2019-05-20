@@ -36,4 +36,6 @@ In response to this unfortunate situation, _Felix_ approached College for commen
 
 Students are said to have proposed a 24-hour coursework as an alternative to resitting the exam, however this was to no avail.
 
+An anonymous student told _Felix:_ "Obviously it wasn’t ideal, but the bulk of the cohort realises that mistakes do happen." 
+
 As of August 2019, the fees for the MSc Climate Change, Management and Finance course are £16,500 for EU students and £28,300 for overseas students.
