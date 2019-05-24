@@ -42,8 +42,8 @@ The year-long partnership between Imperial and _The Times,_ which has seen a pro
 
 **_Forget Brexit: What is being ignored?_**
 
-_At the next event,_ The Times _will launch a competition to give one Imperial student the chance to write for_ Red Box, The Times’ _award-winning political newsletter, once a month for a three month period. The winner will also meet Matt Chorley, the editor of_ Red Box, _to find out what it’s like working in Westminster._
+The Times _has launched a competition to give one Imperial student the chance to write for_ Red Box, The Times’ _award-winning political newsletter, once a month for a three month period. The winner will also meet Matt Chorley, the editor of_ Red Box, _to find out what it’s like working in Westminster._
 
-_Full details of how to enter will be announced May 20th but, if you’re interested, start thinking about what are the issues which are important to you that are being overlooked while politicians are distracted by Brexit? What is the one law you would pass if you were prime minister for the day? What is happening in health, education, housing, employment, welfare, the environment, transport, the arts, sport and family life? And what will be the long-term impact on Britain if the problems are not tackled soon?_
+_If you’re interested, start thinking about what are the issues which are important to you that are being overlooked while politicians are distracted by Brexit? What is the one law you would pass if you were prime minister for the day? What is happening in health, education, housing, employment, welfare, the environment, transport, the arts, sport and family life? And what will be the long-term impact on Britain if the problems are not tackled soon?_
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1722/109085704_REDBOX_FELIX_HP.jpg)
