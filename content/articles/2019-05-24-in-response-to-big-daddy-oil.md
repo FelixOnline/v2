@@ -11,7 +11,7 @@ authors:
   - artur_donaldson
 date: '2019-05-24 17:00:00'
 categories:
-  - news
+  - investment
 ---
 A recent article in _Felix,_ [“Big Daddy Oil outearns Apple and Google, wants more”](http://felixonline.co.uk/articles/2019-05-10-big-daddy-oil-outearns-apple-and-google-wants-more/), reported on records seen by the _Financial Times_ which assert that the state-owned oil company Saudi Aramco has a greater net income than any other company worldwide. Since many of the graduates of this university, and readers of _Felix,_ will in the future become decision makers in consultancies and international organizations, I urge you to take a perspective appropriate for the 21st century. Reports on companies must include a consideration of the reliance on natural capital and environmental accountability. Because until recently, natural capital could be treated as infinite, and environmental feedbacks on the economy negligible, economic analyses traditionally ignore these factors. However, in light of scientific consensus that man-made climate change is having ramifications on both the natural and the man-made worlds already, only by correctly quantifying natural capital and environmental feedbacks will financial reports be of value in the 21st century. According to the Carbon Accountability Institute Saudi Aramco is responsible for 3.4% of cumulative global man-made greenhouse gas emissions since 1885. 
 
