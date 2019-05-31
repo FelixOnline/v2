@@ -14,7 +14,7 @@ subtitle: >-
   disciplines 
 date: '2019-05-31 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Calling on all scientists, engineers, business students and hackers! Do you want to harness the power of technology and join the revolution? You are invited to use your skills and passion at the world’s first “Cellular Agriculture Hackathon at Imperial”.
 
