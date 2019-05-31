@@ -10,7 +10,7 @@ authors:
   - alexander_koh
 date: '2019-05-31 17:00:00'
 categories:
-  - news
+  - investment
 ---
 In an economically uncertain environment subject to policy-driven volatility, the underperformers would be high beta stocks such as the technology sector. The friction and tension surrounding the US-China trade war uncertainty has dampened the forecasted earnings of technology companies such as Apple who recently revised their first quarter earnings forecast.  This redection in profitability has had its roots in the trade disruption which has had a direct impact on the operating costs of the company. The increased trade risks and risk premiums are reflected in the equity prices of technology stocks. 
 
