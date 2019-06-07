@@ -161,3 +161,5 @@ _Super Smash Bros Ultimate_ had it’s most recent content update in April, wher
 
 Other games which could make an apperance include _Luigi’s Mansion 3_ and _Fire Emblem Three Houses_.
 
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1724/Issue+1724+Smash+Ad.jpg)
+
