@@ -11,7 +11,7 @@ authors:
   - artur_donaldson
 date: '2019-06-07 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Science is quite rightly celebrated for being an international enterprise, and academics often feel required or obliged to fly frequently and over long-distances in order to conduct their work or maintain professional relationships. But how important is long-distance travel to a scientific career, and how much do scientists contribute to climate change through their travels? 
 
