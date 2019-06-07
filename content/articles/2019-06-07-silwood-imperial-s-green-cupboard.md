@@ -10,7 +10,7 @@ authors:
   - jessica_lee_cole
 date: '2019-06-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 Did you know that Imperial College has postgraduate campus (read: farm) way out in the countryside? It’s a whopping 20 miles from South Kensington. It is easily the most remote campus, but also the most beautiful (suck it SK). I like to call it Imperial’s green cupboard. This is because, for me, it really does seem like Silwood is the Harry Potter under the stairs in the Imperial household – most of you don’t know or care that we’re here. We’re not bitter in the slightest, honest!  
 
