@@ -12,7 +12,7 @@ authors:
   - ute_thiermann
 date: '2019-06-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 "I would like to nominate Professor Dominik Weiss from the Earth Science and Engineering department for the best supervision award. He is just a great guy and I am lucky to have him as my supervisor! I am coming towards the end of my PhD and I couldn’t have done it without him. 
 
