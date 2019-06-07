@@ -24,4 +24,3 @@ Counting on the Union’s support, we aimed big and put plans in place to make t
 The people at the Union did have good intentions, and there has been help along the way that has been welcomed. What may have been underestimated is that for a change in long-lasting traditions, we need to fundamentally change the way we work. We need extra care, effort and allocation of resources to engage a community that has different needs to the Undergraduate population. We hope that, in the next academic year, the freshly elected Union officers will turn those promises into actions. Luckily, we have our PG representative Ashley Brooks starting as Deputy President (Education), so our hopes are up! 
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1724/1724_GSU_Blacktie_Poster_final.jpg)
-
