@@ -13,7 +13,7 @@ authors:
   - hannah_jones
 date: '2019-06-07 17:00:00'
 categories:
-  - news
+  - postgraduate
 ---
 In the beginning of my period as GSU President, I had frequent meetings with the Union’s Managing Director, Jarlath O’Hara, and some of the Officer Trustees, particularly Rob Tomkies [Union President] and Alejandro Luy [Deputy President (Education)]. Damn, we had really good plans! For the first time, we would try to work together and orchestrate our efforts to work towards the needs of PG students. Maybe for the first time in many years, Union representatives have not only admitted that PG students are largely neglected by the Union, they went even further and promised that they would support us (the GSU) in our activities and strategies. The goal was that the Union should work with the GSU as their executive arm to address PG needs. Direct key contacts were identified for every GSU officer, as well as sub-committees set up to work together more effectively. We agreed on a timeline of actions and events, and the PG Black Tie Ball would be our highlight project to trial and optimise our cooperation. While the first few months were quite successful, with a full review of our GSU governance structure, the Union’s efforts to hold their promises have drastically declined over the last 6 months. On paper, our sub-committees looked great, but words need to be put into action to turn into reality. 
 
