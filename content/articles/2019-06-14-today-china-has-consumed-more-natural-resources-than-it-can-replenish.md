@@ -13,7 +13,7 @@ authors:
   - artur_donaldson
 date: '2019-06-14 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 For each year since 1970, the first year that humanity began to consume more resources than the Earth can replenish in a year, the Global Footprint Network (a non-profit think tank) has calculated the date when humanity exhausts its budget of natural resources for the year. The calculation of this date, which they refer to as Earth Overshoot Day, has been completed and was announced recently. As consumption of resources has increased, Overshoot Day has advanced toward the front pages of the calendar. Last year it was August 1st.
 
