@@ -9,7 +9,7 @@ subtitle: >-
   to make your christmas better for your friends, your purse and the planet.
 authors:
   - matilda_burridge
-date: '2019-12-07 17:00:00'
+date: '2018-12-07 17:00:00'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1708/1708_sustainability_GreenChristmas%5BDeavita%5D.png
 categories:
@@ -42,4 +42,3 @@ Accepting that there will be some physical presents to give, how to give them is
 Following the old mantra of ‘Reduce, Reuse, Recycle’ the best option yet again is to wrap fewer presents. Often gifts come already in a box or festive packaging, so resist the temptation to put wrapping paper on top of that. Awkwardly shaped gifts may actually look better unwrapped and consider how much time can save just by covering them with a scarf or blanket.  If you do want to do some actual wrapping you could invest in some reusable fabric such as the reindeer print produced by Happy Wrap. This actually looks really festive and the higher price is justified by the fact it will last. This could be a really good option for giving gifts to close family as you can reclaim it afterwards! If you want a more classical wrapping method you could consider using newspaper or brown paper – both very cheap materials - and add festive twine like the ones offered from eco-craft to make it look prettier and biodegradable tape to make it recyclable. Alternatively, if you’re not such a pro at wrapping and can’t produce an artistic masterpiece you could opt for some recycled wrapping paper. Rewrapped has some nice Christmas designs to choose from or if you’re happy to spend more Oxfam has some pretty handmade paper. As long as you’re careful you can reuse these wrapping papers as well – any crumples shouldn’t be beyond the flattening capabilities of an iron. As a last resort checking that it is recyclable – paper with glitter on it or that won’t hold its shape when scrunched is definitely not recyclable – is better than nothing.
 
 These ideas are just a starting point to so much more, but Christmas is the one time where embracing even a few small changes can reduce so much waste. Lets resist the temptation to forget about the environment over the festive period, and as we give presents to our friends and family, try to give this present to our planet too.
-
