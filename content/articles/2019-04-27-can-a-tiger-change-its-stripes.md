@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1706/1706_sustainability_CELINA+CHIEN.jpg
 authors:
   - celina_chien
-date: '2019-11-23 17:00:00'
+date: '2018-11-23 17:00:00'
 categories:
   - sustainability
 ---
@@ -27,6 +27,3 @@ Although much of the demand for tiger bone for TCM comes from China, Vietnam is 
 The latest development is only a delay in the possible ban reversal; environmental activists and conservationists must wait anxiously for further updates from Beijing. In this age of ecocide and global biodiversity devastation, it is time to abandon the outdated and scientifically invalid practices in traditional medicines that are exploiting and driving the decline of endangered species. 
 
 The Chinese NGO WildAid captures the  sentiment of many with their slogan “没有买卖没有杀害” (“When the buying stops, the killing can too”).
-
-
-
