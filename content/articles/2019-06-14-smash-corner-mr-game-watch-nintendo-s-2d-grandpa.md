@@ -26,3 +26,5 @@ Whilst using Fire, Mr. Game & Watch can cancel the parachute with any normal att
 
 With his unique arsenal, I highly suggest for anyone to try out Mr. Game & Watch as he has a little something for everyone. Due to his unreliable random side-special, he can only make it to the top of mid-tier, however, if you are feeling lucky, this is definitely the fighter for you, so get smashing!
 
+![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1725/Issue+1725+Smash+Ad.jpg)
+
