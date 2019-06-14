@@ -16,7 +16,7 @@ authors:
   - eshita_joshi
 date: '2019-06-14 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 Palm oil is a widely used vegetable oil derived from the fruits of the African oil palm. This article aims to summarize the implications of growing production and export of palm oil, primarily from South-East Asia and the controversial question of its sustainability and certification.
 
