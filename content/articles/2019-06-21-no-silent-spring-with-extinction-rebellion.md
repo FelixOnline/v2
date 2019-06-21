@@ -11,7 +11,7 @@ authors:
   - artur_donaldson
 date: '2019-06-21 17:00:00'
 categories:
-  - news
+  - sustainability
 ---
 The past nine months have seen the birth of Extinction Rebellion in the UK, the global school strike for climate movement and, of course, the weekly Sustainability column in Felix. Before the newspaper goes on hiatus until October, it seems only fitting to report on the events which, to a large extent, played out just across the park from Imperial College this April. 
 
