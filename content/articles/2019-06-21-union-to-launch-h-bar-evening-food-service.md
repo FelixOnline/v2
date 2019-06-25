@@ -5,7 +5,8 @@ featured: true
 comments_disabled: false
 title: Union to launch h-bar evening food service
 subtitle: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1726/1726_news_894A5998+2.jpg
+  h-bar’s new menu, which will see Imperial students able to eat between 7pm and
+  11pm on weekdays will be available from 26th June 
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1726/1726_news_894A5986.jpg
 authors:
@@ -46,4 +47,3 @@ The new menu came about through months of development between Sam Swiniarski (th
 Deputy President (Finance & Services), Claudia Caravello, told _Felix:_ “It was important to us that we introduce a menu that postgrads wanted. It was never going to work if we just picked what food we thought they wanted and forced it upon the students and staff. That’s why we have worked hard with h-bar manager Jason and future GSU President Mohit to ensure they help shape the menu, as well as used feedback collected from talking to many h-bar users to help guide what types of food to include.”
 
 ![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1726/1726_news_894A5998+2.jpg)
-
