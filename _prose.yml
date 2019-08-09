@@ -33,6 +33,8 @@ sections: &sections
     value: "tech"
   - name: "Longread"
     value: "longread"
+    - name: "Sustainability"
+    value: "sustainability"
 highlights: &highlights
   - name: "Longread"
     value: "longread"
