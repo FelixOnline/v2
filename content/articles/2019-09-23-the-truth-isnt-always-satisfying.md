@@ -18,7 +18,6 @@ authors:
  - amanda_hertzberg
 highlights:
 ---
-
 There’s no doubt that a large chunk of the population are at least fascinated by conspiracy theories. Youtuber Shane Dawson has compilations of them on his youtube channel, each video with almost as many views as the British population. And we all have that friend who stays up at night listening to conspiracy podcasts. Maybe you are that friend. Even if you’re not that friend, if you don’t believe the stories, you can definitely have respect for the meticulous and hard work that entails working them out, the eye for detail and the dedication one must have. The more of this seemingly very delicately worked out evidence there is, no matter if false, the smaller the leap of faith feels between scepticism and belief. 
  
 You name it - there’s a conspiracy theory about it. 
