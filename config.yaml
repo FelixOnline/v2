@@ -191,7 +191,7 @@ params:
       editors:
         - tom_alston
         - xerxes_chong_xian
-      
+     navbar: false
     - name: sustainability
       colour: "000000"
       email: felix@imperial.ac.uk
@@ -199,6 +199,7 @@ params:
       editors:
         - artur_donaldson
         - monami_miyamoto
+      navbar: false
    
     - name: postgraduate
       colour: "000000"
