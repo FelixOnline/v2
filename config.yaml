@@ -191,7 +191,7 @@ params:
       editors:
         - tom_alston
         - xerxes_chong_xian
-     navbar: false
+      navbar: false
     - name: sustainability
       colour: "000000"
       email: felix@imperial.ac.uk
