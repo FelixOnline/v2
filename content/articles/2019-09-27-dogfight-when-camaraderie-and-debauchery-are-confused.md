@@ -12,6 +12,7 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
+imported: true
 ---
 It is intriguing how a musical with such a fierce name can be so gentle and sensitive.  Amidst the brash soldiers and their swearing, Dogfight shines light on the importance of not being judgmental and accepting each others’ differences to work together.  Dogfight, in a youth production by the British Theatre Academy at Southwark Playhouse, transforms the room into San Francisco in the 60s, where a group of young Marines are gearing up to be shipped off to the Vietnam war.  Their last night home manifests into a twisted tale of debauchery, heartbreak, and eventually apprehension for the life left behind.  
  
