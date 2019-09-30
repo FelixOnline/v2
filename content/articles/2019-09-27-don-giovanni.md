@@ -11,7 +11,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 Kasper Holten's tech-heavy Don Giovanni has been trotted out on the ROH stage for the third time. The eye-catching set is unquestionably the most remarkable thing about this production. Unfortunately, it detracts from, rather than adds to, the performance, leaving one wondering where Holten’s priorities lie.
  
