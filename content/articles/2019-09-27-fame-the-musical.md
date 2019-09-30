@@ -10,7 +10,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 Who doesn’t want to be famous? Fame the Musical is all about that desire to be recognised, to be known, to not fade out of existence when death takes hold. While based on a film from the 1980s, that desire is just as relevant today. “I’m Gonna Live Forever” is the refrain of our protagonists - talented teenagers aspiring to a career in the performing arts, who while facing the challenges of growing up, must also bare their souls in their respective professions. Musicians, actors and dancers alike come together to share their stories in the new West End adaptation of the beloved film, TV show and musical.
 
