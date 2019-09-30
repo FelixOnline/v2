@@ -9,8 +9,8 @@ subtitle: When camaraderie and debauchery are confused
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/MEDEA-Simon-Stone-International-Amsterdam-Theater-2014_%C2%A9_Sanne-Peper_05-997x640.jpg
 authors:
-  - shivani_gangadia
-date: '2019-03-28 17:00:00'
+  - disha_bandyopadhyay
+date: '2019-09-27 17:00:00'
 categories:
   - arts
 ---
@@ -33,4 +33,3 @@ A story about toxic masculinity and patriarchy for objectifying women and basing
 The simplicity of the set and characters gave a raw and forceful message.  The plain set had minimal props, meaning the actors relied solely on their acting to transform the small room in London into America in the 60’s.  Like all dogs in a fight, the individual ‘dogs’ were ultimately vulnerable and innocent, as were the Marines themselves.  
 
 Overall, Dogfight was an excellent production and not one to miss, sending a message of positivity and kindness.
-
