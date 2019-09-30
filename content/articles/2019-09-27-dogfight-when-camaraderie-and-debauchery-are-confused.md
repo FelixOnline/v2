@@ -7,7 +7,7 @@ featured: true
 comments_disabled: false
 subtitle: When camaraderie and debauchery are confused
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/MEDEA-Simon-Stone-International-Amsterdam-Theater-2014_%C2%A9_Sanne-Peper_05-997x640.jpg
+  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1727/1727_arts_dogfightmain.jpg
 authors:
   - disha_bandyopadhyay
 date: '2019-09-27 17:00:00'
