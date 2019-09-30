@@ -9,9 +9,9 @@ subtitle: >-
   One of our Arts section editors shares his experiences and expertise on ways
   to experience the London theatre scene on a student budget!
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1719/MEDEA-Simon-Stone-International-Amsterdam-Theater-2014_%C2%A9_Sanne-Peper_05-997x640.jpg
+  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1727/1727_arts_mousetrap.jpg
 authors:
-  - shivani_gangadia
+  - ozbil_ege_dumenci
 date: '2019-03-28 17:00:00'
 categories:
   - arts
@@ -61,4 +61,4 @@ A similar scheme is present within the English National Opera titled “Access A
 
 Finally, an online scheme called Go Live (previously known as West End for 10) releases £12 tickets for at least two shows a month! The organisation  is currently undergoing significant changes, therefore keep your eyes on their new website when it is finally live to see what they are up to.
 
-So, I think not only is this more than enough evidence that the West End can in fact be accessible to all, I hope it encourages you to try some of these out, join our Felix family, and enjoy some of the leading theatre productions in the world on a student budget! 
+So, I think not only is this more than enough evidence that the West End can in fact be accessible to all, I hope it encourages you to try some of these out, join our Felix family, and enjoy some of the leading theatre productions in the world on a student budget!
