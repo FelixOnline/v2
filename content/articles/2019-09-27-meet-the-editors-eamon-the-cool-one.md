@@ -7,10 +7,10 @@ featured: true
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1726/1726_news_894A5986.jpg
 authors:
-  - andy_djaba
-date: '2019-06-21 17:00:00'
+  - farhat_eamon
+date: '2019-09-27 17:00:00'
 categories:
-  - news
+  - arts
 ---
 
 So you’ve come to London, rents are high, a pint costs £500 and you basically can’t step out of the house without breaking the bank. But it’s all worth it right? London is a city of endless possibilities with a very vibrant arts and theatre scene... But where to start? 
@@ -23,10 +23,4 @@ Whether you’ve ever engaged with the arts scene in your hometown or not, now i
 
 I wasn’t necessarily a connoisseur of fine arts and theatre before coming to university but now I’m hooked. I’ve been to loads since moving here. Some have been amazing, some a little weird, but they have all been enjoyable in their own unique way. Personally, I enjoy art that really pushes me out of my comfort zone. The kind of play, musical or exhibition that leaves you thinking about it and reading around it for weeks to come. Although this all sounds a little highbrow, fear not, my absolute favourite musical is definitely Wicked. Although some might not see it as the most intellectually stimulating piece of art, it always puts a smile on my face! 
 
-I really hope you enjoy our freshers articles this week and keep coming back for more. We are going to work our hardest to be your one-stop resource for all things arts in London! 
-
- 
- 
- 
-
-
+I really hope you enjoy our freshers articles this week and keep coming back for more. We are going to work our hardest to be your one-stop resource for all things arts in London!
