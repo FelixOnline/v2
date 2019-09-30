@@ -13,7 +13,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 ‘What Girls are Made of’ is a deeply introspective and yet refreshingly playful performance written by and starring Cora Bissett: the (almost famous) lead singer of the 90s indie-band ‘Darlingheart’. Fresh from its sold-out run in the Edinburgh Fringe and now being performed in the Soho Theatre, Bissett breathes her teenage diary to life and delicately charts her journey. We see her as a 17-year-old girl living in a small Scottish town, high on youth and ambition, and watch her transform into shimmering singer, partying and touring the UK with Radiohead. 
 
