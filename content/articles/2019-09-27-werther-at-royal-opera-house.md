@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Werther at the Royal Opera House
 published: true
 headline: false
