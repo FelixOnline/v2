@@ -11,7 +11,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 The opening night of Werther was a beautiful masterpiece, however it was underwhelming at times. Massenet’s Werther, based on Goethe’s Die Leiden des Jungen (The Sorrows of Young Werther), is a classic story of two star-crossed lovers – whose love brings sorrow to both themselves and the people around them. 
 
