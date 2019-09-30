@@ -12,7 +12,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1727/1727_arts_mousetrap.jpg
 authors:
   - ozbil_ege_dumenci
-date: '2019-03-28 17:00:00'
+date: '2019-09-27 17:00:00'
 categories:
   - arts
 ---
