@@ -23,3 +23,4 @@ Whilst the final song of the musical is a moving one, we as the audience are ind
 
 If you’re looking for an enjoyable evening, Fame will leave you dancing the night away. You might not remember the minutiae, but you will remember how it makes you feel. It’s a musical of hope, of dreams and as succinctly put by Billy Porter at the Emmy Awards: “of love”. It makes you think of your own goals, your own aspirations, as these young people are similarly trying to make their mark on the world – life does indeed imitate art. As a university of STEM students, these may not be totally relatable to dancing or singing on Broadway but may just give you the groove in your step to start the day right.
 
+_- 3 stars_
