@@ -33,3 +33,5 @@ A story about toxic masculinity and patriarchy for objectifying women and basing
 The simplicity of the set and characters gave a raw and forceful message.  The plain set had minimal props, meaning the actors relied solely on their acting to transform the small room in London into America in the 60’s.  Like all dogs in a fight, the individual ‘dogs’ were ultimately vulnerable and innocent, as were the Marines themselves.  
 
 Overall, Dogfight was an excellent production and not one to miss, sending a message of positivity and kindness.
+
+_4 stars_
