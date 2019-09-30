@@ -27,3 +27,5 @@ Throughout the performance, there was no doubt about the talent of each of the p
 
 Overall, Werther is an opera that is worth seeing due to its dark and intriguing nature. The mise en scene of the entire production was breath-taking and the songs were beautiful and moving. The main downside of this production, at least for the opening night, was that instead of highlighting the voices of the singers, the accompanying music detracted from it.
 
+_4 stars_
+
