@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Don Giovanni
 published: true
 headline: false
