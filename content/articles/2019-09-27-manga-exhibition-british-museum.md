@@ -10,7 +10,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 Ask the uninitiated what manga is, and they’ll probably tell you something about “Japanese cartoons with the big eyes and crazy hair” or, if you’re my mum, “Japanese nerd stuff that’ll turn you into a shut-in NEET pervert”. For me, manga and anime were one of few cultural touchstones that I could really connect with when I moved to England as a child, the aesthetic a familiar friend amongst the alien style and language of Western media. Through all the noise of hyperactive toy adverts and shows about poorly-dressed sea sponges, the only thing that I would latch onto was characters such as Usagi from Sailor Moon, her big eyes, crazy hair, and glorious tri-tone sailor outfit a reminder of a culture I had left behind. And manga didn’t stop at being a connection to my past. Later on, I stumbled upon my dad’s collection of Ranma ½, Rumiko Takahashi’s gender-bending comedy epic, which helped inform my conception of identity and gender itself. This culture-spanning, character-defining property of manga was the focus on the British Museum’s manga exhibition which opened at the end of May.
 
