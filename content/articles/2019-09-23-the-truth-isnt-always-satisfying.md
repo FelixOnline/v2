@@ -4,7 +4,7 @@ subtitle: |
   Conspiracy = a secret plan by a group to do something unlawful or harmful
 date: '2019-09-23 21:51:48 +0000'
 published: true
-headline: true
+headline: false
 featured: true
 imported: true
 aliases: null
