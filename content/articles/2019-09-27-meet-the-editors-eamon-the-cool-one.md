@@ -10,7 +10,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 
 So you’ve come to London, rents are high, a pint costs £500 and you basically can’t step out of the house without breaking the bank. But it’s all worth it right? London is a city of endless possibilities with a very vibrant arts and theatre scene... But where to start? 
