@@ -14,7 +14,6 @@ authors:
 date: '2019-09-27 17:00:00'
 categories:
   - arts
-imported: true
 ---
 
 Studying at such a science-based university, it is often easy to forget that London is one of the world’s art capitals, with an endless number of plays, musicals, and exhibitions at our doorstep. Unfortunately, the theatre has a bit of a reputation for being expensive, and therefore inaccessible for younger audiences with limited funds, such as students.
