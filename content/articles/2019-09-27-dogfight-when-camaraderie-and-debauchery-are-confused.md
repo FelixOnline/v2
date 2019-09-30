@@ -33,4 +33,4 @@ The simplicity of the set and characters gave a raw and forceful message.  The p
 
 Overall, Dogfight was an excellent production and not one to miss, sending a message of positivity and kindness.
 
-_4 stars_
+_- 4 stars_
