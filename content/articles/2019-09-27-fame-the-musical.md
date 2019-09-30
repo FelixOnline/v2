@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Fame the Musical
 published: true
 headline: false
