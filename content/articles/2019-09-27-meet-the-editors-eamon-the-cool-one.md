@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Meet the Editors: Eamon - the cool one'
 published: true
 headline: false
