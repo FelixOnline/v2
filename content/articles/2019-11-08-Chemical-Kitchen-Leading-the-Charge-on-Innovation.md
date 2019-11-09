@@ -12,6 +12,7 @@ date: '2019-11-08 17:00:00'
 categories:
   - news
 ---
+
 Chemical Kitchen, a new course rolled out within the Department of Chemistry, aims to introduce students to laboratory skills and practical experience via a more approachable and unconventional method. In groups of fifteen at a time, students spend three hours a day for three days in a newly renovated kitchen space in the Sir Ernst Chain Building, working on lab skills in a relaxed atmosphere, wearing aprons instead of lab coats, and working with food instead of synthetic chemicals.  
 
 In assigned groups of three, students follow a simple protocol to make cheese or tofu using coagulating agents and filtration on the first day, design an experiment to find the optimal method and temperature needed to cook egg yolks in a specific way on the second day, and on the last day make a plated dish using molecular gastronomy ingredients such as xanthan gum and alginate to create garnishes. Throughout the process they practice skills such as measuring and recording observations or calculating yields, use chemical glassware and apparatus, and learn molecular gastronomy techniques like spherification. But they also have the chance to funnel creativity into the dish they choose to create on the last day, so that no two groups end up with identical plates.  
