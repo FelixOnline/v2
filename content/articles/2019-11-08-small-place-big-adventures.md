@@ -2,7 +2,7 @@
 title: 'Small Place, Big Adventures'
 published: true
 featured: true
-headline: true
+headline: false
 subtitle: 'Join us as we take you through our favourite spots and experiences as we unfold Asia’s hidden gem, Singapore…'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_travel_singapore.jpg
