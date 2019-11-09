@@ -2,7 +2,7 @@
 title: 'The Magic Flute - Mozart’s classic'
 published: true
 featured: true
-headline: true
+headline: false
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_arts_magicflute.jpg
 authors:
