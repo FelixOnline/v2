@@ -1,8 +1,9 @@
 ---
-title: Chemical Kitchen Leading the Charge on Innovation
+title: Chemical Kitchen Leads the Charge on Innovation
 published: true
 featured: true
-subtitle: First year Chemistry students have been introduced to laboratory work this year via an unexpected medium: cooking and the kitchen
+headline: true
+subtitle: First year Chemistry students have been introduced to laboratory work this year via the unexpected medium of cooking and the kitchen
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_news_chekitchenstudent.jpg
 authors:
