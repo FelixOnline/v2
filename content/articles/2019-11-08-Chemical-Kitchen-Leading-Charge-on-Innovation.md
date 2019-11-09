@@ -1,5 +1,5 @@
 ---
-title: 'Chemical Kitchen: Leading the Charge on Innovation'
+title: Chemical Kitchen Leading the Charge on Innovation
 published: true
 featured: true
 headline: true
