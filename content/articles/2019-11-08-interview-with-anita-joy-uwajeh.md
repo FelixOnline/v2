@@ -1,11 +1,11 @@
 ---
-title: 'Chemical Kitchen: Leading the Charge on Innovation'
+title: 'Felix Arts: Interview with Anita-Joy Uwajeh'
 published: true
 featured: true
 headline: false
 subtitle: 'Anita-Joy is playing Roxane, the heroine in Jamie Lloyd’s upcoming production of Cyrano de Bergerac'
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_news_chekitchenstudent.jpg
+  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_arts_anita.jpg
 authors:
   - ozbil_ege_dumenci
 date: '2019-11-08 17:00:00'
