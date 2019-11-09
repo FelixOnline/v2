@@ -7,7 +7,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1733/1733_arts_magicflute.jpg
 authors:
   - aya_hayakawa
-date: '2019-11-08 17:00:00'
+date: '2019-11-08 17:00:01'
 categories:
   - arts
 ---
