@@ -5,7 +5,7 @@ featured: true
 title: 'Hell, only with more feathers: The Birds (1963)'
 subtitle: 'A lookback on one of Hitchcock’s Horrors, through the eyes of a modern watcher'
 image: >-
-  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1735/1735_news_bar.jpg
+  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1735/1735_film_hitchcock.jpg
 authors:
   - jasmin_daley
 date: '2019-11-22 17:00:00'
