@@ -1,6 +1,6 @@
 ---
 published: true
-id: guthrie_ruby
+id: "guthrie_ruby"
 name: Guthrie Ruby
 ---
 
