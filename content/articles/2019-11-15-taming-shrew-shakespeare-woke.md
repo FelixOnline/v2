@@ -12,6 +12,8 @@ date: '2019-11-15 17:00:00'
 categories:
   - arts
 ---
+_4 stars_
+
 The Royal Shakespeare Company return to the Barbican this winter with As You Like It, Measure for Measure and The Taming of the Shrew. Justin Audibert’s electrifying production of Shrew is a gender-flipped version of the original, where, instead of a rich gentleman looking for suitors for his daughters, a rich gentlewoman, Baptista, struggles to marry off her sons. She insists that her sharp-tongued, elder son, Katherine be married before the angelic, younger son, Bianco. This restriction is much to the dismay of Bianco’s numerous suitors, who instead hatch their own cunning plans to court him in secret.
 
 Every detail of this production is impeccably designed. The male characters are given long flowing locks that they flip over their shoulders with flirtatious ease as they dance gracefully on stage. The women’s gowns are voluminous and richly decorated in comparison to the men’s, emphasising that they hold the power. Movement is also key in demonstrating this. The female actors make bold eye contact, initiate conversation and take the men’s hands and kiss them in greeting, asserting dominance. 
