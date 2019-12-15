@@ -7,7 +7,7 @@ subtitle: 'ICBC Members and Alumni Sail across an Ocean to Raise Mental Health A
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1737/1737_sports_ICBCoceansail.jpg
 authors:
-  - abhijaysood
+  - bazil_saiq
 date: '2019-12-09 17:00:00'
 categories:
   - sport
