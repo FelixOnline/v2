@@ -1,5 +1,5 @@
 ---
 published: true
-id: paula_rowinska
+id: Paula_Rowińska
 name: Paula Rowińska
 ---
