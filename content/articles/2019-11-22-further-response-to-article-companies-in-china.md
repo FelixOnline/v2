@@ -52,6 +52,10 @@ To the first point, it is up to your audiences to judge if I was logical or not,
 
 7. Some recommendations to help readers learn about China
 
+![](https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1735/1735_comment_peaceful+protest.jpg)
+
+_Above: a protest in Hong Kong at a more peaceful time, as opposed to the violent protests occurring at time of publication_
+
 It seems that Mr. Titmuss only replied the third and the seventh point, so I will start my arguments address these two. 
 
 The so-called “re-education camps,” or what ever you call it, has nothing to do with diminishing the position of minorities in Xinjiang province. Xinjiang province is located near Afghanistan, and has long been influenced by extremist Muslims and terrorism. These facilities aim to provide professional training to those who have been influenced by terrorism but haven’t reached the level of committing crimes so that these people can go back to the society, work, and earn their lives. As there is potential of terrorist activities, safety insurances in these facilities are necessary. I watched BBC’s report on these facilities on Youtube, yes, Youtube again, and many things that the journalist found astonishing are actually quite common in China such as uniforms, 10 people sharing a room (actually some Chinese universities still have facilities of similar level). If this practice is inhumane, well, probably we should learn from the UK, sending fighters to bomb the terrorists when they have activities, kill them all and possibly some civilians? 
