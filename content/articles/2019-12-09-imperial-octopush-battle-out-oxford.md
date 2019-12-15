@@ -12,6 +12,7 @@ date: '2019-12-09 17:00:00'
 categories:
   - sport
 ---
+
 On Saturday 30th November, the Octopush team (also known as Underwater Hockey or UWH) played their first competition of the year at the University of Oxford.
 
 For the few people reading this who don’t already know, Octopush is a game created in 1954 by scuba divers to help them let off some steam (without damaging any of their incredibly expensive equipment). They devised a game where teams would attempt to push a weighted puck into a goal, all while holding their breath underwater. The game is ‘limited’ contact and involves ten players, with six in the pool at any one time and four as substitutes. Players also don a glamorous kit which includes a snorkel, mask, fins, a delightful hat, plus some specially made sticks that allow the player to manoeuvre the puck.
@@ -22,4 +23,4 @@ So who is your average underwater hockey player? Well, generally speaking, UWH p
 
 The most recent tournament was last Saturday’s competition in Oxford. It was against several other UK universities including Oxford, Warwick, Plymouth, and York. The Imperial team successfully won their first two games…and then promptly lost the next four. However, the six-person team was also lacking any substitute players, meaning a stream of relentless games with almost no breaks in between. Ultimately, Imperial battled hard (and accidentally made a player on one team cry), so all in all it was a hugely successful first competition. The team is now looking forward to their next competition and the student nationals in 2020.
 
-Imperial’s UWH team trains at Ethos pool every Thursday evening. Get in touch with benjamin.slater16@imperial.ac.uk to get involved.
+_Imperial’s UWH team trains at Ethos pool every Thursday evening. Get in touch with benjamin.slater16@imperial.ac.uk to get involved._
