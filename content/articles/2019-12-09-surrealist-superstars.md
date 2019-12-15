@@ -12,6 +12,8 @@ date: '2019-12-09 17:00:00'
 categories:
   - arts
 ---
+_4 stars_
+
 Brussels’s Place Royale is a mecca of art, like a small,  art-oriented brother to the museums surrounding our beautiful campus. The Royal Museums that flank it comprise some of the finest works of the European canon, from the Flemish masters to the modern genius of Magritte. The latter’s personal museum quickly became a favourite of mine when I discovered it last year, and it was already back then that a single painting by Dali amongst the sea of Magritte’s works piqued my interest.
 
 Saint Anthony, naked and ragged, kneels on one side of the canvas, confronted with fantastically vulgar beasts symbolising the devil’s temptations. A white horse heads this  procession, seemingly kept at bay by nothing but the cross that the naked saint is brandishing above his head. The proportions are horrifying. The horse seems to be at once right on top of poor old Tony, and at the same time his hind legs are far behind him, spindly and grotesque. But the gangly legs look even more terrifying on the elephants following in his wake. These carry beautiful naked women, palaces, an obelisk, and what appears to be a minaret. It is certainly a very striking image but more than that, it sheds light on some of the obsessions that both artists shared: the little window framing a woman’s body, the magnificent clouds, the masterful and lifelike rendering. Like many of Dali’s most poignant works, it is situated in the desert under a mesmerising blue sky. This stark blue was flashing in my mind as I made my way  to see Dali x Magritte, the exhibition commemorating ten years of the Belgian Surrealist master’s very own museum.
