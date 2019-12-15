@@ -7,10 +7,10 @@ subtitle: 'Yuchu Liu provides further opinions on the situation in Hong Kong, th
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1735/1735_comment_hongkong+protest.jpg
 authors:
-  - henry_alman
+  - yuchu_liu
 date: '2019-11-22 17:00:00'
 categories:
-  - news
+  - comment
 ---
 _This article forms part of a series of articles and responses originating with (2019-20) Comment Editor Charlie Titmuss' article "Companies in China"._
 
