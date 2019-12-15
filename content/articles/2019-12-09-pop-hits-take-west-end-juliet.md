@@ -12,6 +12,8 @@ date: '2019-12-09 17:00:00'
 categories:
   - arts
 ---
+_4.5 stars_
+
 Romeo and Juliet, is probably one of history’s most famous love stories which (spoiler alert) tragically ends in death. This modern retelling considers what could have happened if Juliet (Miriam-Teak Lee) was given a life beyond Romeo. She travels to Paris with an entourage consisting of Nurse (Melanie La Barrie) her mother figure, and her best friends Anne (Juliet Cassidy Janson) and May (Arun Blair-Mangat).
 
 Expanding on the universal themes of love and tragedy found in the original story, this rendition puts a modern twist on Juliet who is presented as a fully-formed, independent woman. If this premise seems a bit infantile and simple at first glance, fear not as it is actually a story within a story. These two parallel stories seem a bit cliche in the opening half, but in the second half, this added dimension is used as a way of exploring the relationship between William Shakespeare (Oliver Tompsett) and Anne Hathaway - yes she is his wife and Juliet’s best friend, keep up! Anne Hathaway, despite being Shakespeare’s wife is almost never mentioned in his work and has never been known historically in her own right. This parallels Juliet’s characterisation, simply as Romeo’s plus one, in the original Veronian story. Anne’s story is explored subtly at first, culminating in a powerful, slightly in your face, scene where she puts her feelings raw for the audience to understand.
