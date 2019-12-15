@@ -8,7 +8,7 @@ authors:
   - icanon
 date: '2019-11-29 17:00:00'
 categories:
-  - news
+  - comment
 ---
 Hong Kong. An asphalt jungle lit by neon lights. The brutal trek up the Tiger’s Head and down towards the beaches of Discovery Bay. A mere cog in the global economy machinery. For me it was all that and more. But somehow six thousand miles away from the city I called home, I’ve now come to realise I never knew it at all. This my dear reader, is my confession.
 
