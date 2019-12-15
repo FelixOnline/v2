@@ -5,7 +5,7 @@ featured: true
 headline: false
 subtitle: 'An anonymous student writes a eulogy to the Hong Kong that they once knew'
 authors:
-  - henry_alman
+  - icanon
 date: '2019-11-29 17:00:00'
 categories:
   - news
