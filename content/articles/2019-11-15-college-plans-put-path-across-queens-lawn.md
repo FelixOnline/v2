@@ -2,7 +2,7 @@
 published: true
 headline: false
 featured: true
-title: "College Plans to Put Path across Queen's Lawn"
+title: 'College Plans to Put Path across Lawn'
 subtitle: 'As part of the South Kensington masterplan, the College has planned to place a path across the lawn since December 2018 - but some of this year's student representatives are not happy with the decision'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1734/1734_news_queenslawn.jpg
