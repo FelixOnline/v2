@@ -3,7 +3,7 @@ title: 'The Rise and Fall of Jo Swinson’s Liberal Democrats'
 published: true
 featured: true
 headline: false
-subtitle: 'Union President Abhijay Sood reassures students that the Union is continuing to work hard to represent you despite the recent staffing and kitchen issues'
+subtitle: 'Following success in the EU elections and a pro-remain Brexit stance, why does support for the Liberal Democrats seem to be dwindling?'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1737/1737_politics_swanson.jpg
 authors:
