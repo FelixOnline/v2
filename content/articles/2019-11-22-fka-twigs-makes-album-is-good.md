@@ -12,6 +12,8 @@ date: '2019-11-22 17:00:00'
 categories:
   - music
 ---
+_4.5 stars_
+
 Tahliah Barnett, aka FKA Twigs quickly rose from ‘Video Girl’ to adored songstress in the mid 10’s, earning critical acclaim and a cult following from a series of releases including her 2014 record LP1.  Here, atmospheric synthesisers and industrial drums left plenty of space for Twig’s vocals to croon, soar or caress. Whilst being an aesthetically satisfying record,  one well worth a listen for any electronic or art-pop fans, Barnett’s song writing often felt hollow and repetitive to the point of redundancy, dampening the records listenability.
 
 On Magdalene Twig’s lyricism is significantly more rewarding, adding a layer of emotional precocity to her gorgeous sonic creations. Opener ‘thousand eyes’ sets the scene, embodying the terror of celebrity as a many-eyed-beast, behind a plodding, orchestral instrumental which splinters intermittently as if Twig’s insecurity corrupts the song’s file.
