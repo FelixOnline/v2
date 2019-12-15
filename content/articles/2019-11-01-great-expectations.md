@@ -12,6 +12,8 @@ date: '2019-11-01 17:00:00'
 categories:
   - arts
 ---
+_5 stars_
+
 My week began this Monday with Great Expectations. I was richly rewarded by a play that was wonderfully acted and brought to life the world of Pip, Miss Havisham and Magwitch.
 
 For those of you unfamiliar with the plot, it follows the life of Pip, an adopted blacksmith’s son. Pip, whilst mourning for his dead parents, meets Magwitch, an escaped convict, for whom he steals food and tools. At the same time, a capricious misandrist Miss Havisham, brilliantly portrayed by Tiwalade Ibirogba-Olulode, takes an interest in Pip as a companion for her protégé Estella. Pip is suddenly swept out of his poor station in life by a mysterious benefactor with the announcement that he has Great Expectations. The plot unfolds from there: those with any interest should watch this play. It was fantastic.
