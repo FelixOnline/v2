@@ -1,5 +1,5 @@
 ---
 published: true
 name: Zuzanna Janusz
-id: zuzanna_janusz
+id: "zuzanna_janusz"
 ---
