@@ -3,7 +3,7 @@ title: 'Imperial Octopush battle it out in Oxford'
 published: true
 featured: true
 headline: false
-subtitle: 'Union President Abhijay Sood reassures students that the Union is continuing to work hard to represent you despite the recent staffing and kitchen issues'
+subtitle: 'Benjamin Slater reports on Octopush's latest match'
 image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1737/1737_sports_octopush1.jpg
 authors:
