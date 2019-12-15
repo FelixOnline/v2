@@ -1,0 +1,29 @@
+---
+published: true
+headline: false
+featured: true
+title: 'I Will Still Be Whole (When You Rip Me in Half)/ Before I Was a Bear'
+subtitle: 'Double-bill production: an emotional play depicting mother-daughter bonds followed by a one-woman dark comedy production'
+image: >-
+  https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1735/1735_arts_bear.jpg
+authors:
+  - kestrel_maio
+date: '2019-11-22 17:00:00'
+categories:
+  - arts
+---
+_4 stars_
+
+I Will Still Be Whole (When You Rip Me in Half) harnesses you from the offset, the two characters stand facing outwards towards the audience, hands by their sides and speaking with urgency. It describes the events that take place for a young woman, EJ (Aoife Hinds), and her estranged mother, Joy (Tuyen Do), prior to and during their first meeting in 22 years. It navigates their emotional struggle as they face their fears of inadequacy, loss of direction and loneliness. The artful stage management encapsulates the tone of the play perfectly, the subtle interactions between the characters as they enact their separate stories manages to show the enthralling and emotional bond between both Joy and EJ. Hinds was particularly magnetic in her role,skillfully depicting the EJ’s struggles with abandonment and loss of direction with the necessary emotion, a heartbreaking listlessness and enough humour to lighten the heavy subjects at hand. Joy’s story was perhaps the more complex one, working through feeling trapped and incapable of providing sufficient care and love for her daughter.  
+
+The opening scene strikes a stark contrast between the two: EJ’s anger and insecurity are highlighted from her first lines, as are Joy’s feelings of fear, resentment and sadness. The characters don’t fully address each other until the very end. The majority of the play is spent with them dancing- figuratively- around each other, avoiding each other’s gaze, but still tentatively reaching for each other. The audience feels a sense of responsibility for both of the characters, and the writing manages to instill a sense of  empathy for both, as the central themes of self-destructiveness, loss, anxiety and lack of fulfilment are common feelings in most people. Impatience laces the lines they deliver, you get a sense of ‘waiting’ as they undergo their menial day-to-day tasks. On occasion, however, the story is quite difficult to follow, the abundance of metaphors at times unnecessary and thrusting the audience into a spiral of trying to translate the meaning behind every act. All-in-all this play is a beautiful depiction of love, loss and expectation and delivered a thought-provoking perspective on mother-daughter relationships. 
+
+The dancing bear in the opening scene of this ‘Before I was a Bear’ is more than enough to pull the audience in and convince them to invest their full and unfaltering focus into Cally’s (the bear) story. Even without the mask, Cally, is incredibly endearing and relatable. Her complex persona is portrayed by the actor, Jacoba Williams, and writer, Eleanor Tindall, delivering the line ‘my voice is bountiful and heavy and full’ which introduces the perfect pitch for the start of this one-woman-play. 
+
+The audience is drawn into this weirdly wonderful production further by Cally’s interaction with its members, handing individuals a variety of props she uses in the play. Cally describes the transition from the ‘unstoppable’ feelings of childhood to the insecurities and obsessions of the young teenager with startling accuracy, her eager smile and fervent way of communicating her arguments with her brother reflecting her youth. Some of the more impactful themes of this play is its exploration of friendship and sexuality. The unstable nature of friendship is explored in her account of events and the roles of perspective and self-interest are conveyed with profound accuracy.  
+
+The main storyline is centralized around her obsession and affair with a married TV detective. It reflects the modern problems surrounding social media and the tendencies of society towards villainization and victimization of women in an address which rang with an Attwood-like analysis. Her subsequent isolation is explored through her life as a bear, her shame, her lack of self care and her feelings of not belonging. Cally’s pain is delivered profoundly in the words ‘they want me dead.’ The feelings of loneliness and self-doubt are rife throughout this play. Its delivery is combined with plenty of humour and it provides the audience with an enjoyable evening but its analysis of the more modern issues of society, specifically for young women, are what make this play most worth the watch.  
+
+The production itself is given a more ‘home-y’ feel by the surroundings. The Bunker Theater is a small former parking garage down a nondescript alley which was difficult to locate but worth the search. Mismatching chairs surround the small stage and fairy lights are hung along the ceiling- it’s a perfectly Instagrammable place. For any potential viewers, however, I would recommend maybe bringing a pillow if attending the double bill production, the chairs are designed for their aesthetic not for their comfort. The audience and the staff helped to make the environment even warmer, investing fully in the characters from the start to the end of the show, laughing uproariously at appropriate points and more importantly listening when the scene required it. 
+
+Overall the experience was an extremely enjoyable one, with credit going to both the environment and the skills of the actors. On a more personal note, on further research I found out that the Bunker Theatre is to close down in 2020, which feels like a loss to the arts community of London. The friendly feel to the theatre itself is unmissable and the skill of the actors and writers it supports make it even more of a must-see.  
