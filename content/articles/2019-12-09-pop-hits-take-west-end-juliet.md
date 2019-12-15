@@ -27,3 +27,8 @@ The musical does make a concerted effort to have a diverse set of characters and
 A special shoutout has to be made to the set designers and costume designers on this production as they contributed to the killer combination of  traditional with the modern. The set was spectacular, bringing together a double rotating stage (move over Les Mis!) which could also become a raised platform. Almost every scene had a different set which would be seamlessly wheeled in; the audience hardly had to use their imagination at all! Together, the set and the costumes combined the fun and glitter of a pre-teen Jojo Siwa fan with a more grungier aesthetic of the same teenager a few years later. 
 
 Some people are quick to turn their noses up at those who seek to instil a bit of modern pop fun into the theatre world of by creating these jukebox musicals. However, not only do these new productions draw a wider audience into the theatre but they also tell very important stories with wider representation than more traditional musicals. If you like Shakespeare, Ariana Grande or the Backstreet Boys this is the show is for you!
+
+(**_The more you know_: Jukebox Musical**
+
+**A film or stage performance which features songs from well known artists. Examples include Mamma Mia, Pitch Perfect as well as the Rocky Horror Picture Show. 
+These types of shows do sometimes have original songs alongside tracks from one or multiple well known artists.**)
