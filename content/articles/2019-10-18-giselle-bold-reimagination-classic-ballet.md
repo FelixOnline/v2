@@ -12,6 +12,7 @@ date: '2019-10-18 17:00:00'
 categories:
   - arts
 ---
+_5 stars_
 
 Dada Masilo is famous for her works which rework the plots of well-known classical ballet pieces. Her previous works include her interpretation of Swan Lake which included twists such as a homosexual Siegfried, and social commentary on sexism and homophobia. Her vision for Giselle is equally refreshing, with a focus on storytelling, and presenting the audience with unforgiving protagonist.
 
