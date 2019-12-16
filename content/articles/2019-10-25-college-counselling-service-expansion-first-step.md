@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1731/1731_news_new+space.jpg
 authors:
   - henry_alman
-date: '2019-11-01 17:00:00'
+date: '2019-10-25 17:00:00'
 categories:
   - news
 ---
