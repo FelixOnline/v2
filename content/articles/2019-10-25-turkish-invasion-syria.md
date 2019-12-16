@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1731/1731_politics_syria.jpg
 authors:
   - charlestitmuss
-date: '2019-11-01 17:00:00'
+date: '2019-10-25 17:00:00'
 categories:
   - politics
 ---
