@@ -8,7 +8,7 @@ image: >-
   https://f001.backblazeb2.com/file/felixonline/2019_felix_issues/issue_1730/1730_comment_premierleague.jpg
 authors:
   - andrew_melville
-date: '2019-10-25 17:00:00'
+date: '2019-10-18 17:00:00'
 categories:
   - comment
 ---
