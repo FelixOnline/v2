@@ -6,8 +6,6 @@ comments_disabled: false
 title: Why I am going to vote in Thursday’s European Elections (23rd May)
 authors:
   - hilary_guite
-image: >-
-  https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1721/32376266987_91c5cd39a5_o+(1).jpg
 date: '2019-05-20 17:00:00'
 categories:
   - news
@@ -23,5 +21,3 @@ Since June last year, the [WhatUKThinks](https://whatukthinks.org/eu/opinion-pol
 So, I am going to vote because we have not left the EU yet and we still may not. We need to vote for the people who will best represent our views on all the [things that the EU does to affect our lives](http://www.europarl.europa.eu/because/en/home). The EU has put together a toolkit by region of what the EU has done to impact the area where we live, our lives and the way we live as a community from migration to climate change [https://www.what-europe-does-for-me.eu/en/portal](https://www.what-europe-does-for-me.eu/en/portal).
 
 Finally, I am also going to vote because it feels good. I always come away from voting with a smile on my face proud that I haven’t wasted the opportunity to use the vote that women in the past fought so hard to achieve. 
-
-![](https://f001.backblazeb2.com/file/felixonline/2018_felix_issues/issue_1721/40353115673_a306a49ded_o+(1).jpg)
