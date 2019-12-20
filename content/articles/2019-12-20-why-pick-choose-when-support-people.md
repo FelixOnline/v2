@@ -3,7 +3,7 @@ published: true
 featured: true
 headline: false
 title: "Why do we pick and choose when to support people?"
-authors:  damilola_toriola
+authors: damilola_toriola
 categories: comment
 ---
 
