@@ -1,10 +1,13 @@
 ---
+title: 'Why do we Pick and Choose when to Support People?'
 published: true
 featured: true
 headline: false
-title: "Why do we pick and choose when to support people?"
-authors: damilola_toriola
-categories: comment
+authors:
+  - damilola_toriola
+date: '2019-12-20 17:00:00'
+categories:
+  - comment
 ---
 
 
