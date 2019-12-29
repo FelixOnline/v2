@@ -1,11 +1,12 @@
 ---
 title: 'After the Collapse of Man Comes… Jellyfish?'
+subtitle: "Brief but powerful, this exhibition about climate change has the viewer glued all the way through."
 published: true
 featured: true
 headline: false
 authors:
   - amanda_hertzberg
-date: '2019-12-20 17:00:00'
+date: '2019-12-29 17:00:00'
 categories:
   - arts
 ---
