@@ -16,7 +16,7 @@
     <a href="{{ $baseLink }}{{ $year }}">
       <div class="publication-year">
         {{ $slug := printf "%v_%v" (index $page.Params.publications 0) $page.Params.issue_number }}
-        <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonline/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
+        <img style="border: 1px solid black" alt="cover" src="{{ $imageProxy }}f001.backblazeb2.com/file/felixonlinearchive/issues/thumbnails/{{ $slug }}_small.png&w=100"/>
         <div class="publication-issue-info">{{ $year }}</div>
       </div>
     </a>
