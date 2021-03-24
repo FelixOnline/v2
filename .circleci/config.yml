@@ -2,7 +2,7 @@ version: 2
 general:
   branches:
     ignore:
-      - gh-pages
+      - public
 jobs:
   build:
     docker:
