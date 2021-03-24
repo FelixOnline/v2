@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="google-site-verification" content="VPlpasTeVF5ex644wsH7FH1fYlWmITmo4XtVQJ2EFo0" />
+
+  
+    <meta name="keywords" content="felix, student news, student newspaper, felix online, imperial college union, imperial college, felixonline"/>
+  
+
+  <title>Matrices and monkeys
+</title>
+  <link rel="shortcut icon" href="https://old.felixonline.co.uk/favicon.ico">
+
+  
+    
+      <meta name="description" content="Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever …">
+
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@feliximperial" />
+      <meta name="twitter:title" content="Matrices and monkeys" />
+      <meta name="twitter:description" content="Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever …" />
+      
+
+      <meta property="og:url" content="https://old.felixonline.co.uk/articles/2011-10-13-matrices-and-monkeys/" />
+      <meta property="og:type" content="article" />
+      <meta property="og:title" content="Matrices and monkeys" />
+      <meta property="og:description" content="Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever …" />
+      
+    
+  
+
+  
+    <meta name="author" content="Felix Editor,">
+  
+
+  <link rel="stylesheet" href="https://old.felixonline.co.uk/css/main-776f5845.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700|PT+Sans:400,400i,700" rel="stylesheet">
+
+  
+
+  <script src="https://old.felixonline.co.uk/js/main-48a31d03.js"></script>
+</head>
+<body>
+  <div id="sidenav" class="site-nav-side">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <form class="site-search" action="https://old.felixonline.co.uk/search" method="get">
+      <input type="text" placeholder="Search..." name="q"><br>
+    </form>
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/news1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/news">
+            
+              news
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/politics1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/politics">
+            
+              politics
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/comment1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/comment">
+            
+              comment
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/science1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/science">
+            
+              science
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/arts1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/arts">
+            
+              arts
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/film1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/film">
+            
+              film
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/tv1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/tv">
+            
+              TV
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/music1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/music">
+            
+              music
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/games1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/games">
+            
+              games
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/food1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/food">
+            
+              food
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/travel1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/travel">
+            
+              travel
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/sport1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/sport">
+            
+              sport
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/books1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/books">
+            
+              books
+            
+          </a>
+        </div>
+      
+    
+      
+      
+        <div class="site-nav-side-link">
+          <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/tech1.png"></object>
+          <a href="https://old.felixonline.co.uk//categories/tech">
+            
+              tech
+            
+          </a>
+        </div>
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+  </div>
+
+  <div id="site-body">
+
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+      <a class="site-title" href="https://old.felixonline.co.uk/">Felix</a>
+      <img class="site-logo" src="https://old.felixonline.co.uk//images/cat-white.png">
+
+      <form class="site-search desktop" action="https://old.felixonline.co.uk/search" method="get">
+        <input type="text" placeholder="Search..." name="q"><br>
+      </form>
+
+      <div class="site-nav-side-button">
+        <div onclick="openNav()">
+          <div class="hamburger-line"></div>
+          <div class="hamburger-line"></div>
+          <div class="hamburger-line"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-nav">
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/news">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/news1.png"></object>
+              
+                <span>news</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/politics">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/politics1.png"></object>
+              
+                <span>politics</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/comment">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/comment1.png"></object>
+              
+                <span>comment</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/science">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/science1.png"></object>
+              
+                <span>science</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/arts">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/arts1.png"></object>
+              
+                <span>arts</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/film">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/film1.png"></object>
+              
+                <span>film</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/tv">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/tv1.png"></object>
+              
+                <span>TV</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/music">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/music1.png"></object>
+              
+                <span>music</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/games">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/games1.png"></object>
+              
+                <span>games</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/food">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/food1.png"></object>
+              
+                <span>food</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/travel">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/travel1.png"></object>
+              
+                <span>travel</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/sport">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/sport1.png"></object>
+              
+                <span>sport</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/books">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/books1.png"></object>
+              
+                <span>books</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+        <span class="page-link">
+          <a href="https://old.felixonline.co.uk//categories/tech">
+            <object class="icon" type="image/png" data="https://old.felixonline.co.uk/images/png/tech1.png"></object>
+              
+                <span>tech</span>
+              
+            </span>
+          </a>
+        </span>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </div>
+
+    <div class="site-social-nav">
+      <a href="https://www.facebook.com/FelixImperial">
+        <img class="site-social-logo" src="https://old.felixonline.co.uk//images/facebook.png">
+      </a>
+      <a href="https://twitter.com/feliximperial">
+        <img class="site-social-logo" src="https://old.felixonline.co.uk//images/twitter.png">
+      </a>
+      <a href="https://old.felixonline.co.uk/publications">
+        <img class="site-social-logo" src="https://old.felixonline.co.uk//images/archive.png">
+      </a>
+    </div>
+  </header>
+
+  
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+  
+
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">Matrices and monkeys
+</h1>
+      <h2 class="post-subtitle">David Clarke reports on the Kenyan Orphan Project
+</h2>
+
+      
+        <div class="post-authors">
+          By
+          
+          
+            
+            <a href="https://old.felixonline.co.uk/authors/felix">Felix Editor</a>
+          
+        </div>
+      
+
+      <div class="post-meta">
+        <time datetime="2011-10-13T23:23:45&#43;01:00" itemprop="datePublished">
+          Thursday,
+          13th
+          October 2011
+        </time>
+      </div>
+    </header>
+
+    
+  
+
+  <div class="post-content" itemprop="articleBody">
+    <p>Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever rocked out with a group of Luo tribeswoman, or been mauled by a velvet monkey?If you had told me a year ago by now I would have experienced all these events I would honestly have called you insane. Yet last July, I somehow found myself on a plane to Nairobi with 10 other students, ready to take part in the Kenyan Orphan Project (KOP) summer programme.</p>
+
+<p>I first heard about KOP at the Fresher’s Fair last October and to be honest I was slightly sceptical to begin with. Remnants of conversations with friends about their time spent on a “spiritual, cultural, political exchange thing” during their Gap-Yah had made me question the effectiveness of projects like this one but I thought “Why not?” and so signed up to attend the first meeting. If I liked what I heard, then great and if not, well, at least there were free Hummingbird Cakes.</p>
+
+<p>Throughout the following year I found myself in the middle of a mad fundraising effort to achieve our group target of over £8000. After a year we eventually gathered together the required amount and so the KOP summer team were ready to pack their bags (full of Kit-Kats and Pringles in some cases) and head out to Kisumu, eager to find out what lay in store. By the time we had touched down in Nairobi, I think it’s fair to say we were all exhausted from travelling. Luckily for us it was only an 8 hour journey to Kisumu… by coach…</p>
+
+<p>Upon arrival at the Duke of Breeze hotel in Kisumu we were introduced to the project leaders: Marti, with a love of jokes about cheese; and Shona, who had managed to find the only shop in Kisumu which sold Irn-Bru. After a warm introduction and a brief on each of the projects it was time for a nice cold Tusker (or three) on the amazing rooftop bar.</p>
+
+<p>An early start followed by a cold shower set us up for our first day at Ombeyi Feeding Centre, a joint project between KOP and local NGO – the Ogra Foundation. We arrived at the project and were immediately introduced to the lively manager Ada who quickly filled us in on the day’s activities. Our time at Ombeyi was mainly spent carrying out daily chores - such as watering the numerous papaya trees or helping to prepare food for the children - but we also got to interact with the kids: playing with them and learning about the circumstances they live in and how Ombeyi is trying to better their lives by improving nutrition.</p>
+
+<p>Special mention MUST be given to our transport, which can only be described as the most pimped out matatu (mini-bus) Kenya has ever seen. Clad in black and purple leather and featuring UV lighting to set off the neon interior, it’s fair to say we travelled in style.</p>
+
+<blockquote>
+<p>I have every intention of returning to Kenya</p>
+</blockquote>
+
+<p>HOVIC (Hope for Victoria’s Children) is a drop in centre for teenage boys who, for one reason or another, have found themselves living on the street. This project certainly proved to be hard-hitting and many of the KOP volunteers (myself included) were taken aback by the level of poverty which these young boys were facing. It was clear that the work going on at HOVIC was both effective and critical, giving teenage boys a roof over their heads, but more importantly trying to get them back to their families and back to school. The boys also received lessons in maths, English, Swahili and life-skills during their time spent at HOVIC, making the transition to school significantly easier.</p>
+
+<p>Having chatted to the guys at HOVIC (whose ages range from 8-16) we were able to hear about the reasons which led them to live on the streets, and also their plans for when they left HOVIC. The experience of HOVIC was inspiring, but also somewhat saddening; the genuine enthusiasm and kindness of these boys made it easy to forget thefact that many of them came from backgrounds of drug addiction, glue sniffing (which is very common in Kisumu) and domestic abuse and that many of them were suffering from diseases such as malaria and even HIV. As clichéd as it may sound, HOVIC has remained a key reminder of why KOP exists, to tackle the issues of education, nutrition and healthcare for some of Kenya’s poorest children. Of course it wasn’t all doom and gloom at HOVIC. We were kept busy by the guys and I would no sooner have finished one conversation when I would find myself being forced into another game of checkers… or having my shoes stolen! After three days it was time to leave for the final project, Oasis of Hope.</p>
+
+<p>This project is one which KOP has been involved in right from the beginning and it is amazing to see how the school has been transformed. One of the issues at the school is the fact that they are unable to provide free meals for the students (most of the pupils are unable to afford 20p for lunch) and this is something which KOP is planning to address in the future.</p>
+
+<p>I don’t want to say that this was a once in a lifetime experience because I have every intention of returning to Kenya with KOP again next summer. Instead I would say the experience was life altering. People have since asked me so many questions about my trip: “Did you go out and save the world?” Well, no, but that was never our intention. There were noempty promises of building a town, or curing world hunger in a fortnight. These things take time, I was just glad to have the opportunity to be involved in the slow process of improving the quality of life for the people of Kisumu. With KOP I managed to make a real contribution to the development of many children’s and at the same time I got to meet new people who have now become close friends, both in Kenya and from the other university students.</p>
+
+<p>So whether you feel like you want to experience a new culture, just do something different with your summer, or if you’re still sceptical about this sort of charity I would say one thing - just try it and see. It’s a chance to make a difference to the lives of people who really need it the most. All in all, I really couldn’t have asked for much more from a two week trip. But why would you take my word for it? The only way to really get what I’m talking about is to experience it for yourself&hellip; and you can always thank me later!</p>
+
+<p>KOP will be holding a Meet and Greet in room 119 in SAF (up the main stairs) on Thursday 20th Oct at 7pm. There will be a chance to meet the committee and other KOP members, find out what’s planned for the year ahead and ask any questions. There will also be free pizza and wine! A more formal presentation on the Student Summer Programme will follow in the coming weeks. Email cag-kop@imperial.ac.uk for more info.</p>
+
+  </div>
+
+  <hr class="logo">
+
+  <div class="post-footer">
+    <div class="post-tags">
+      
+        
+          <div class="post-tag-title">More</div>
+          
+            <div  class="post-tag">
+              <a href="https://old.felixonline.co.uk/tags/imported">imported</a>
+            </div>
+          
+            <div  class="post-tag">
+              <a href="https://old.felixonline.co.uk/tags/imported_comments">imported_comments</a>
+            </div>
+          
+        
+      
+    </div>
+
+    <div class="post-comments">
+      
+      <div class="post-comments-title">
+        Old Comments
+      </div>
+      <div class="post-comments-list">
+        
+          <div class="post-comments-comment">
+            Great article, David and very pleased to hear your thoughts. KOP is working hard to advance child health and to work with students on creating advocates for change so I am pleased you are involved. Dan Magnus, KOP Co-Founder.
+
+          </div>
+        
+      </div>
+      
+    </div>
+
+    <div class="post-social">
+      <a href="https://twitter.com/share" style="vertical-align: text-top;" class="twitter-share-button" data-via="feliximperial" data-size="large" data-related="feliximperial" data-dnt="true">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+      <div class="fb-like" data-href="https://old.felixonline.co.uk/articles/2011-10-13-matrices-and-monkeys/" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+    </div>
+  </div>
+
+  
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="fb-comments" data-href="https://old.felixonline.co.uk/articles/2011-10-13-matrices-and-monkeys/" data-numposts="5"></div>
+  
+
+  <div class="post-footnotes">
+    
+      <div>
+        This article was imported from an earlier version of Felix Online - see the original article <a href="http://felixonline.co.uk/news/1522/matrices-and-monkeys">here</a>.
+      </div>
+    
+  </div>
+</article>
+
+      </div>
+    </main>
+
+
+    <footer class="site-footer">
+        <div class="footer-slogan">
+          Keep the cat free
+        </div>
+        <div class="footer-sitemap">
+          <div class="wrapper">
+            <div class="section-links-container">
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/news">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/news1.png"></object>
+                      
+                        news
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/on-campus">
+                          on campus
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/higher-education">
+                          higher education
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/wider-world">
+                          wider world
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/politics">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/politics1.png"></object>
+                      
+                        politics
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/comment">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/comment1.png"></object>
+                      
+                        comment
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/politics">
+                          politics
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/world-affairs">
+                          world affairs
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/personal">
+                          personal
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/health-&amp;-mental-health">
+                          health &amp; mental health
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/on-campus">
+                          on campus
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/science">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/science1.png"></object>
+                      
+                        science
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/engineering">
+                          engineering
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/natural-science">
+                          natural science
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/medicine">
+                          medicine
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/interviews">
+                          interviews
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/arts">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/arts1.png"></object>
+                      
+                        arts
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/review">
+                          review
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/comment">
+                          comment
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/theatre">
+                          theatre
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/visual-art">
+                          visual art
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/opera-&amp;-ballet">
+                          opera &amp; ballet
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/film">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/film1.png"></object>
+                      
+                        film
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/review">
+                          review
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/opinion">
+                          opinion
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/festivals">
+                          festivals
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/tv">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/tv1.png"></object>
+                      
+                        TV
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/review">
+                          review
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/opinion">
+                          opinion
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/music">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/music1.png"></object>
+                      
+                        music
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/review">
+                          review
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/demo-dump">
+                          demo dump
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/opinion">
+                          opinion
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/games">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/games1.png"></object>
+                      
+                        games
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/review">
+                          review
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/opinion">
+                          opinion
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/food">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/food1.png"></object>
+                      
+                        food
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/out-&amp;-about">
+                          out &amp; about
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/recipe">
+                          recipe
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/feature">
+                          feature
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/travel">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/travel1.png"></object>
+                      
+                        travel
+                      
+                    </a>
+                  </div>
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/sport">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/sport1.png"></object>
+                      
+                        sport
+                      
+                    </a>
+                  </div>
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/match-report">
+                          match report
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="section-links-subsections">
+                        <a href="https://old.felixonline.co.uk/tags/tours">
+                          tours
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/books">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/books1.png"></object>
+                      
+                        books
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/tech">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/tech1.png"></object>
+                      
+                        tech
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/liberation">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/liberation1.png"></object>
+                      
+                        liberation
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/longread">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/longread1.png"></object>
+                      
+                        Longread
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/investment">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/investment1.png"></object>
+                      
+                        Investment
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/sustainability">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/sustainability1.png"></object>
+                      
+                        Sustainability
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+                <div class="section-links">
+                  <div class="section-links-title">
+                    
+                    <a href="https://old.felixonline.co.uk/categories/postgraduate">
+                      <object class="icon" width="20" type="image/png" data="https://old.felixonline.co.uk/images/png/postgraduate1.png"></object>
+                      
+                        Postgraduate
+                      
+                    </a>
+                  </div>
+                  
+                </div>
+              
+            </div>
+            <div class="other-info">
+              <div class="title">Felix Online</div>
+              <div class="contact">Felix, Beit Quad, Prince Consort Road, London, SW7 2BB. Tel: 020 7594 8072.</div>
+              <div class="copyright">Copyright © Felix Imperial. Registered newspaper ISSN 1040-0711.</div>
+              <div class="site-social">
+                <a href="https://www.facebook.com/FelixImperial">
+                  <img class="site-social-logo" src="https://old.felixonline.co.uk/images/facebook.png">
+                </a>
+                <a href="https://twitter.com/feliximperial">
+                  <img class="site-social-logo" src="https://old.felixonline.co.uk/images/twitter.png">
+                </a>
+                <a href="https://old.felixonline.co.uk/publications">
+                  <img class="site-social-logo" src="https://old.felixonline.co.uk/images/archive.png">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  </body>
+</html>
+

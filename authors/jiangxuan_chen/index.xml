@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/jiangxuan_chen/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/jiangxuan_chen/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Bangers, Bops, and Chunes</title>
+        <link>https://old.felixonline.co.uk/articles/2018-11-23-bangers-bops-and-chunes/</link>
+        <pubDate>Fri, 23 Nov 2018 17:00:00 +0000</pubDate>
+        
+          <author>Alex Mitcham,Jiangxuan Chen,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-11-23-bangers-bops-and-chunes/</guid>
+        <description>Do you know what the BBC in BBC Music stands for? If you guessed ‘Bangers, Bops, and Chunes’…you’d be completely wrong, but I’d applaud your guess, as this is what BBC Music provides the British music scene with daily. There’s a huge spectrum of British musicians who now dominate the charts and are …</description>
+      </item>
+    
+  </channel>
+</rss>

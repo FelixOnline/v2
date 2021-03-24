@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Felix</title>
+    <link>https://old.felixonline.co.uk/tags/recipes/</link>
+    <description>Recent content in Recipes on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/tags/recipes/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>‘Tis the season... again</title>
+        <link>https://old.felixonline.co.uk/articles/2017-10-27--tis-the-season-again/</link>
+        <pubDate>Fri, 27 Oct 2017 12:00:00 +0000</pubDate>
+        
+          <author>Chun Yuan Hii,Andrada Balmez,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-10-27--tis-the-season-again/</guid>
+        <description>I’ll bet my lunch that you have already seen those shop-fronts decorated in orangey strips, the vampire Frappucino adverts outside Starbucks, your friends marking ‘Interested’ on Halloween-themed Facebook events, and those tacky, plasticky, not-even-scary masks lining the aisles of Tesco. Well okay, …</description>
+      </item>
+    
+      <item>
+        <title>An introduction to the art of cooking</title>
+        <link>https://old.felixonline.co.uk/articles/2017-10-20-an-introduction-to-the-art-of-cooking/</link>
+        <pubDate>Fri, 20 Oct 2017 12:00:00 +0000</pubDate>
+        
+          <author>Andrada Balmez,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-10-20-an-introduction-to-the-art-of-cooking/</guid>
+        <description>Writing Food is so difficult when you don’t have anyone suggesting “maybe you want to write about that?”, or when you just don’t feel inspired to write about their suggestions. So, while I struggled with finding a topic for this page, I realised that I did not say “Hi!” to you this year. So, here I …</description>
+      </item>
+    
+  </channel>
+</rss>

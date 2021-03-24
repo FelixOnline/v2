@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/ignaty_romanov_chernigovsky/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/ignaty_romanov_chernigovsky/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>ICSEDS Successfully launch high altitude balloon</title>
+        <link>https://old.felixonline.co.uk/articles/2018-05-24-icseds-successfully-launch-high-altitude-balloon/</link>
+        <pubDate>Fri, 25 May 2018 12:00:00 +0000</pubDate>
+        
+          <author>Ignaty Romanov-Chernigovsky,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-05-24-icseds-successfully-launch-high-altitude-balloon/</guid>
+        <description>The members of the IC Students for the Exploration and Development of Space Society (ICSEDS) headed out on 21st April to Elsworth, near Cambridge, to launch a balloon from an open field up to 30km into the atmosphere. On board we had our Arduino powered tracker transmitting its GPS coordinates to us …</description>
+      </item>
+    
+  </channel>
+</rss>

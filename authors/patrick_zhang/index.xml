@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/patrick_zhang/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/patrick_zhang/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The importance of quality sleep</title>
+        <link>https://old.felixonline.co.uk/articles/2017-10-24-the-importance-of-quality-sleep/</link>
+        <pubDate>Fri, 13 Oct 2017 12:00:00 +0000</pubDate>
+        
+          <author>Connor Qiu,Patrick Zhang,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-10-24-the-importance-of-quality-sleep/</guid>
+        <description>In today’s elite academic institutions and high-performing workplaces, sleep is often downgraded to a status of secondary importance. The thrill of instant gratification takes precedence over the dull and laborious wait that inevitably precedes the onset of sleep. When time is limited, our attention …</description>
+      </item>
+    
+  </channel>
+</rss>

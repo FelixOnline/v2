@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/agr06/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/agr06/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Primes, primes everywhere!
+</title>
+        <link>https://old.felixonline.co.uk/articles/2013-5-29-primes-primes-everywhere/</link>
+        <pubDate>Wed, 29 May 2013 17:29:01 +0100</pubDate>
+        
+          <author>Andy Roast,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2013-5-29-primes-primes-everywhere/</guid>
+        <description>Mathematicians from the US, Hungary and Turkey just might be one step closer towards the impossible. One of the greatest problems in number theory is determining whether the number of prime tuples, prime numbers which lie very close to each other, is infinite. In short, “are there an infinite number …</description>
+      </item>
+    
+      <item>
+        <title>Sex, drugs and Professor David Nutt
+</title>
+        <link>https://old.felixonline.co.uk/articles/2012-11-9-sex-drugs-and-professor-david-nutt/</link>
+        <pubDate>Fri, 09 Nov 2012 12:48:17 +0000</pubDate>
+        
+          <author>Andy Roast,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2012-11-9-sex-drugs-and-professor-david-nutt/</guid>
+        <description>Until the recent “Ecstasy Live” TV show, Professor David Nutt was best known as “the scientist who got sacked”. After giving a lecture that discussed the harms of cannabis, Prof Nutt was asked (by the then Home Secretary, Alan Johnson) to resign as Chair of the Advisory Council on the Misuse of …</description>
+      </item>
+    
+  </channel>
+</rss>

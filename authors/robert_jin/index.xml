@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/robert_jin/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/robert_jin/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Felix reports: Wearable Technology Show 2018</title>
+        <link>https://old.felixonline.co.uk/articles/2018-05-11-felix-reports-wearable-technology-show-2018/</link>
+        <pubDate>Fri, 11 May 2018 12:00:00 +0000</pubDate>
+        
+          <author>Krithika Balaji,Robert Jin,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-05-11-felix-reports-wearable-technology-show-2018/</guid>
+        <description> Virtual Reality – the shift from gaming to healthcare
+ Current therapy for psychological phenomena like anxiety, depression, and addiction involves going to a therapist on a regular basis (maybe once a week) and talking with them about your progress. They would suggest treatment goals and tips that …</description>
+      </item>
+    
+      <item>
+        <title>The Audio Focus: An introduction to over-ear IEMs</title>
+        <link>https://old.felixonline.co.uk/articles/2018-02-12-the-audio-focus-an-introduction-to-over-ear-iems/</link>
+        <pubDate>Fri, 09 Feb 2018 12:00:00 +0000</pubDate>
+        
+          <author>Robert Jin,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-02-12-the-audio-focus-an-introduction-to-over-ear-iems/</guid>
+        <description>If you frequently turn up the volume on your earbuds to overcome external noise, you are at a high risk of noise induced hearing loss over time. The average hearing threshold for a young adult lies between 18 to 20 kHz, but can fall to as low as 15 to 16 kHz due to long exposure to sound above 85 …</description>
+      </item>
+    
+  </channel>
+</rss>

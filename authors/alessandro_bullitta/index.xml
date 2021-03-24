@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/alessandro_bullitta/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/alessandro_bullitta/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Imperial College takes over LSE</title>
+        <link>https://old.felixonline.co.uk/articles/2019-03-04-imperial-college-takes-over-lse/</link>
+        <pubDate>Fri, 01 Mar 2019 17:00:00 +0000</pubDate>
+        
+          <author>Alessandro Bullitta,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-03-04-imperial-college-takes-over-lse/</guid>
+        <description>A delegation of the ICMUN society took part in the LSEMUN, held on the main campus at LSE in early February. This is different than most of the MUN conferences as it’s completely focused on Crisis committees, an unusual and slightly underrated ‘mode’ in MUNs. In Crisis, delegates don’t represent …</description>
+      </item>
+    
+  </channel>
+</rss>

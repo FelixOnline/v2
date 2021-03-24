@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/thushaan_rajaratjam/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/thushaan_rajaratjam/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Why Blackboard?</title>
+        <link>https://old.felixonline.co.uk/articles/2018-03-09-why-blackboard/</link>
+        <pubDate>Fri, 09 Mar 2018 12:00:00 +0000</pubDate>
+        
+          <author>Thushaan Rajaratjam,Annika Guez,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-03-09-why-blackboard/</guid>
+        <description>Blackboard. The main framework that manages all the course material and information for most departments, and yet it still remains flawed. It is currently the principal exchange platform between professors and their respective students when it comes to sharing notes, tutorials, and all other …</description>
+      </item>
+    
+  </channel>
+</rss>

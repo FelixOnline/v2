@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/medad_newman/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/medad_newman/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Imperial’s Space Society launches High-Altitude weather balloon</title>
+        <link>https://old.felixonline.co.uk/articles/2018-11-23-imperial-s-space-society-launches-high-altitude-weather-balloon/</link>
+        <pubDate>Fri, 23 Nov 2018 17:00:00 +0000</pubDate>
+        
+          <author>Medad Newman,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-11-23-imperial-s-space-society-launches-high-altitude-weather-balloon/</guid>
+        <description>On 3rd November, members of the Imperial College Society for the Exploration and Development of Space headed off to Elsworth, Cambridgeshire, to launch our payload on board a large weather balloon.
+On board, we had 2 compact cameras as well as a flight computer, relaying telemetry on its location, …</description>
+      </item>
+    
+  </channel>
+</rss>

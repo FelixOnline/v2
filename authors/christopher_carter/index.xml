@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/christopher_carter/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/christopher_carter/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>LGBT&#43; History Month</title>
+        <link>https://old.felixonline.co.uk/articles/2019-03-04-lgbt-history-month/</link>
+        <pubDate>Fri, 01 Mar 2019 17:00:00 +0000</pubDate>
+        
+          <author>Christopher Carter,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-03-04-lgbt-history-month/</guid>
+        <description>As LGBT+ History Month draws to a close, IQ (Imperial College LGBT+ Society) is looking back on a successful month of inclusive and inspiring events. From film nights and quizzes, to bar nights and art exhibits, we’ve spent this month bringing Imperial’s LGBT+ community together to celebrate the …</description>
+      </item>
+    
+  </channel>
+</rss>

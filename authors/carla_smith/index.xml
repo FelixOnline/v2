@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/carla_smith/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/carla_smith/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>ESN Imperial</title>
+        <link>https://old.felixonline.co.uk/articles/2019-05-10-esn-imperial/</link>
+        <pubDate>Fri, 10 May 2019 17:00:00 +0000</pubDate>
+        
+          <author>Carla Smith,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-05-10-esn-imperial/</guid>
+        <description>Erasmus Student Network (ESN) is the largest student organisation in Europe. Whether you have been on a year abroad, are currently doing an exchange at Imperial or are keen to be part of the network, we’re looking for enthusiastic students to help run the society for the next academic year.
+You can …</description>
+      </item>
+    
+  </channel>
+</rss>

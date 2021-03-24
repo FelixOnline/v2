@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/tommrazek/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/tommrazek/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>What did we miss?</title>
+        <link>https://old.felixonline.co.uk/articles/2018-06-19-what-did-we-miss/</link>
+        <pubDate>Fri, 15 Jun 2018 12:00:00 +0000</pubDate>
+        
+          <author>Tom Mrazek,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-06-19-what-did-we-miss/</guid>
+        <description>The light blinded me as I climbed out of my cave. For many, time essentially stopped around March and didn’t restart until their very last exam. I was one of those people, and until a few hours ago I was convinced that nothing happened in the world of tech for the past three months.
+Holy crap was I …</description>
+      </item>
+    
+      <item>
+        <title>Falcon Heavy: looking past a brilliant publicity stunt </title>
+        <link>https://old.felixonline.co.uk/articles/2018-02-15-falcon-heavy-looking-past-a-brilliant-publicity-stunt/</link>
+        <pubDate>Fri, 16 Feb 2018 12:00:00 +0000</pubDate>
+        
+          <author>Tom Mrazek,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-02-15-falcon-heavy-looking-past-a-brilliant-publicity-stunt/</guid>
+        <description>Finally. There’s late, and then there’s this rocket. Conceived in 2004, Falcon Heavy was in the works before I could ride a bike or reliably spell the word “rocket”. Sure, expecting a timely release from Elon Musk would be simply ludicrous, but this is a bit much even by future-leader-of-Mars’ …</description>
+      </item>
+    
+  </channel>
+</rss>

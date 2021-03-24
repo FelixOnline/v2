@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Another Castle on Felix</title>
+    <link>https://old.felixonline.co.uk/publications/another-castle/</link>
+    <description>Recent content in Another Castle on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/publications/another-castle/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title></title>
+        <link>https://old.felixonline.co.uk/issues/another-castle_0/</link>
+        <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+        
+        <guid>https://old.felixonline.co.uk/issues/another-castle_0/</guid>
+        <description></description>
+      </item>
+    
+  </channel>
+</rss>

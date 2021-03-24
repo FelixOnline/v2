@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/henry_throp/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/henry_throp/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Fear Factor: Zombie ants</title>
+        <link>https://old.felixonline.co.uk/articles/2017-12-13-fear-factor-zombie-ants/</link>
+        <pubDate>Fri, 13 Oct 2017 12:00:00 +0000</pubDate>
+        
+          <author>Henry Throp,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-12-13-fear-factor-zombie-ants/</guid>
+        <description>Humans thrive off fear. Many put themselves in situations to induce a sense of tension, of being utterly in the moment, feeling truly alive; fear is a motivator for many a near-life experience, after all. These instances are fairly regular occurrences: be it horror films, deciding autonomously to …</description>
+      </item>
+    
+  </channel>
+</rss>

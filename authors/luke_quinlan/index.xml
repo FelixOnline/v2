@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/luke_quinlan/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/luke_quinlan/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>eSports Varsity sees Imperial dominating the tournament</title>
+        <link>https://old.felixonline.co.uk/articles/2018-02-06-esports-varsity-sees-imperial-dominating-the-tournament/</link>
+        <pubDate>Tue, 06 Feb 2018 12:00:00 +0000</pubDate>
+        
+          <author>Luke Quinlan,Anthony Li,Girish Vishwa,Hayato Murata,Milan Ding,Daniel Seah,Daniel Ko,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-02-06-esports-varsity-sees-imperial-dominating-the-tournament/</guid>
+        <description>The second annual eSports Varsity made a triumphant return last week, seeing Imperial take home the trophy after seeing off UCL in a series of matches. Over the course of numerous matches, across seven different games, players from both sides experienced joy, anguish, and success, in a gripping day …</description>
+      </item>
+    
+  </channel>
+</rss>

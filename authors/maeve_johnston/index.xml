@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/maeve_johnston/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/maeve_johnston/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Election Section: Understanding the Spanish Election</title>
+        <link>https://old.felixonline.co.uk/articles/2019-11-08-election-section-understanding-spanish-election/</link>
+        <pubDate>Fri, 08 Nov 2019 17:00:00 +0000</pubDate>
+        
+          <author>Maeve Johnston,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-11-08-election-section-understanding-spanish-election/</guid>
+        <description>Spain will be holding general elections yet again on the 10th of November, the second general election in six months and the fourth in four years.
+In recent decades, the Spanish political landscape has been drastically reshaped by the new, younger politicians entering the scene and a surging number …</description>
+      </item>
+    
+      <item>
+        <title>Understanding the 2019 Canadian Election</title>
+        <link>https://old.felixonline.co.uk/articles/2019-11-01-understanding-2019-canadian-election/</link>
+        <pubDate>Fri, 01 Nov 2019 17:00:00 +0000</pubDate>
+        
+          <author>Maeve Johnston,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-11-01-understanding-2019-canadian-election/</guid>
+        <description>Last week Justin Trudeau managed to claw his way to a minority government in an election which saw him lose his 2015 sweeping majority and came after a term that had few clear wins and was marred by controversy. There was a clear regional divide in election results, with a complete loss of Liberal …</description>
+      </item>
+    
+  </channel>
+</rss>

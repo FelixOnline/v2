@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/alisha_may/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/alisha_may/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Organoids are Nature’s method of the year</title>
+        <link>https://old.felixonline.co.uk/articles/2018-01-19-organoids-are-nature-s-method-of-the-year/</link>
+        <pubDate>Fri, 19 Jan 2018 12:00:00 +0000</pubDate>
+        
+          <author>Alisha May,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-01-19-organoids-are-nature-s-method-of-the-year/</guid>
+        <description>For almost a decade, researchers have been investigating the possibility of using stem cells to form organoids: three-dimensional, multicellular assemblies that mimic the structure and function of organs. Organoid models have now been established for multiple organs, including the brain, liver, and …</description>
+      </item>
+    
+  </channel>
+</rss>

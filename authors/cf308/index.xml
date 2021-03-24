@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/cf308/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/cf308/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Motorola Atrix 4G Versus the Cloud
+</title>
+        <link>https://old.felixonline.co.uk/articles/2011-1-20-the-motorola-atrix-4g-versus-the-cloud/</link>
+        <pubDate>Thu, 20 Jan 2011 19:16:51 +0000</pubDate>
+        
+          <author>Christopher Fonseka,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2011-1-20-the-motorola-atrix-4g-versus-the-cloud/</guid>
+        <description>With the introduction of the Motorola Atrix at CES, we saw a modern implementation of the “One Device to Rule them All” paradigm. Smartphones have reached a state where they encompass our phone, media player, casual web browser and camera, all to a level that is more than acceptable to the average …</description>
+      </item>
+    
+      <item>
+        <title>SkyFire = iPhone &#43; Flash
+</title>
+        <link>https://old.felixonline.co.uk/articles/2010-11-11-skyfire-iphone-flash/</link>
+        <pubDate>Thu, 11 Nov 2010 20:30:33 +0000</pubDate>
+        
+          <author>Christopher Fonseka,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2010-11-11-skyfire-iphone-flash/</guid>
+        <description>It’s no secret that Apple isn’t the biggest fan of Adobe’s Flash. One of the big criticisms of the iPhone is its inability to display Flash content, which upon the device’s release, made up a huge portion of the internet’s streaming videos and games.
+This inspired Steve Jobs to write an open letter …</description>
+      </item>
+    
+  </channel>
+</rss>

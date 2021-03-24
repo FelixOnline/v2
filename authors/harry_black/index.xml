@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/harry_black/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/harry_black/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Cultist Simulator devs come to Imperial for ICSF convention, Picocon</title>
+        <link>https://old.felixonline.co.uk/articles/2019-02-08-cultist-simulator-devs-come-to-imperial-for-icsf-convention-picocon/</link>
+        <pubDate>Fri, 08 Feb 2019 17:00:00 +0000</pubDate>
+        
+          <author>Harry Black,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-02-08-cultist-simulator-devs-come-to-imperial-for-icsf-convention-picocon/</guid>
+        <description>Cultist Simulator, as you can guess from the name, is an indie game designed to simulate creating and running a cult, which was released by Weather Factory on 31st May 2018. This is all I knew when I opened the game for the first time to live-tweet a playthrough. It’s been two weeks since then and I …</description>
+      </item>
+    
+      <item>
+        <title>Science fiction authors come to Imperial!</title>
+        <link>https://old.felixonline.co.uk/articles/2019-01-25-science-fiction-authors-come-to-imperial/</link>
+        <pubDate>Fri, 25 Jan 2019 17:00:00 +0000</pubDate>
+        
+          <author>Harry Black,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-01-25-science-fiction-authors-come-to-imperial/</guid>
+        <description>On 16th February, the Imperial College Science Fiction and Fantasy society will be holding their 36th Picocon, a yearly convention and celebration of science fiction and fantasy media. This year’s theme is ‘intrigue’, and three science fiction authors will be in attendance as Guests of Honour. …</description>
+      </item>
+    
+  </channel>
+</rss>

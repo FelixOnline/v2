@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/ts2213/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/ts2213/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A call for doctors
+</title>
+        <link>https://old.felixonline.co.uk/articles/2014-3-28-a-call-for-doctors/</link>
+        <pubDate>Fri, 28 Mar 2014 11:42:40 +0000</pubDate>
+        
+          <author>Thomas Stroud,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2014-3-28-a-call-for-doctors/</guid>
+        <description>The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic. In fact, more doctors in the less developed countries such as Ghana, Sierra Leone and Syria are migrating to the UK because of …</description>
+      </item>
+    
+      <item>
+        <title>Dirty Stethoscopes
+</title>
+        <link>https://old.felixonline.co.uk/articles/2014-3-28-dirty-stethoscopes/</link>
+        <pubDate>Fri, 28 Mar 2014 10:42:15 +0000</pubDate>
+        
+          <author>Thomas Stroud,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2014-3-28-dirty-stethoscopes/</guid>
+        <description>A study published this month has displayed the possibility that a doctor’s stethoscope could be a major source of bacterial transmission in clinical practice. The study, published in an issue of Mayo Clinic Proceedings, exposed how stethoscopes contain a huge number of bacteria relative to a …</description>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/mt3711/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/mt3711/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Exploring the God Particle
+</title>
+        <link>https://old.felixonline.co.uk/articles/2012-2-23-exploring-the-god-particle/</link>
+        <pubDate>Thu, 23 Feb 2012 20:54:06 +0000</pubDate>
+        
+          <author>Michele Tonutti,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2012-2-23-exploring-the-god-particle/</guid>
+        <description>If the God Particle is real, 2012 will be the year of its discovery. Scientists at CERN have been searching for proof of the existence Higgs boson since 2008, when the construction of the Large Hadron Collider finally came to an end. Now, after four years, the LHC – a 27-kilometre ring of …</description>
+      </item>
+    
+      <item>
+        <title>Nano-ear can hear microorganisms
+</title>
+        <link>https://old.felixonline.co.uk/articles/2012-1-26-nano-ear-can-hear-microorganisms/</link>
+        <pubDate>Thu, 26 Jan 2012 22:06:10 +0000</pubDate>
+        
+          <author>Michele Tonutti,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2012-1-26-nano-ear-can-hear-microorganisms/</guid>
+        <description>Is there something more we can learn from the sounds emitted by bacteria and viruses? Even though microbes cannot ‘speak’ in the way that animals can, scientists believe that there is a lot to learn from the noises produced when small organisms move around. Until now, these vibrations had always …</description>
+      </item>
+    
+  </channel>
+</rss>

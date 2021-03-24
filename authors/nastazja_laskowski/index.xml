@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/nastazja_laskowski/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/nastazja_laskowski/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Meeting of the minds</title>
+        <link>https://old.felixonline.co.uk/articles/2018-02-09-meeting-of-the-minds/</link>
+        <pubDate>Fri, 09 Feb 2018 12:00:00 +0000</pubDate>
+        
+          <author>Nastazja Laskowski,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-02-09-meeting-of-the-minds/</guid>
+        <description>This year, Imperial College Neuroscience Society held its fourth annual conference – ‘Meeting of the Minds’ – hosting prestigious clinicians and neuroscientists from across the UK. This was indeed an apt title for the event, as research findings were shared, creating stimulating discussions and a …</description>
+      </item>
+    
+  </channel>
+</rss>

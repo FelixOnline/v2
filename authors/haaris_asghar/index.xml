@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/haaris_asghar/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/haaris_asghar/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Artificial Intelligence for Social Good</title>
+        <link>https://old.felixonline.co.uk/articles/2018-11-02-artificial-intelligence-for-social-good/</link>
+        <pubDate>Fri, 02 Nov 2018 18:00:00 +0000</pubDate>
+        
+          <author>Haaris Asghar,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-11-02-artificial-intelligence-for-social-good/</guid>
+        <description>Google.org is an arm of Google that aims to support nonprofits through grants and contributing employee volunteer hours. The $25 million pool announced recently aims to support any ideas of situations where AI could be realistically applied. Winning organisations would not only receive funding, but …</description>
+      </item>
+    
+  </channel>
+</rss>

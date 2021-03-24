@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/freya_hepworth_lloyd/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/freya_hepworth_lloyd/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>World AIDS Day</title>
+        <link>https://old.felixonline.co.uk/articles/2019-12-09-world-aids-day/</link>
+        <pubDate>Mon, 09 Dec 2019 17:00:00 +0000</pubDate>
+        
+          <author>Freya Hepworth-Lloyd,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-12-09-world-aids-day/</guid>
+        <description>It is estimated that over 100,000 people in the UK are living with HIV. An estimated 7,500 of those are undiagnosed. The life expectancy for people diagnosed early (15-59) is the same as the general population. However nearly half of HIV diagnoses are late.
+HIV is transmitted through particular body …</description>
+      </item>
+    
+      <item>
+        <title>Too Young For What?</title>
+        <link>https://old.felixonline.co.uk/articles/2017-12-13-too-young-for-what/</link>
+        <pubDate>Fri, 06 Oct 2017 12:00:00 +0000</pubDate>
+        
+          <author>Freya Hepworth-Lloyd,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-12-13-too-young-for-what/</guid>
+        <description>Too Young For What? is a free day of art and activities at the Barbican Centre inspired by Basquiat: Boom For Real, a retrospective on the work of American artist Jean-Michel Basquiat. The day will feature work by glitch artist Antonio Roberts, poet Jacob Sam-La Rose and performance maker Paula …</description>
+      </item>
+    
+  </channel>
+</rss>

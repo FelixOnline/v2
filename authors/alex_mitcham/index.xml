@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/alex_mitcham/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/alex_mitcham/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Bangers, Bops, and Chunes</title>
+        <link>https://old.felixonline.co.uk/articles/2018-11-23-bangers-bops-and-chunes/</link>
+        <pubDate>Fri, 23 Nov 2018 17:00:00 +0000</pubDate>
+        
+          <author>Alex Mitcham,Jiangxuan Chen,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-11-23-bangers-bops-and-chunes/</guid>
+        <description>Do you know what the BBC in BBC Music stands for? If you guessed ‘Bangers, Bops, and Chunes’…you’d be completely wrong, but I’d applaud your guess, as this is what BBC Music provides the British music scene with daily. There’s a huge spectrum of British musicians who now dominate the charts and are …</description>
+      </item>
+    
+      <item>
+        <title>BBC Music Introducing Live</title>
+        <link>https://old.felixonline.co.uk/articles/2018-11-07-bbc-music-introducing-live/</link>
+        <pubDate>Wed, 07 Nov 2018 19:00:00 +0000</pubDate>
+        
+          <author>Alex Mitcham,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-11-07-bbc-music-introducing-live/</guid>
+        <description>The BBC is no stranger to treating the musical taste buds of music lovers across the capital. Organising what can only be considered the ‘Big Macs’ of musical events, the BBC have continuously jam-packed big names into their events boasting impressive flavours over a whole spectrum of genres. This …</description>
+      </item>
+    
+  </channel>
+</rss>

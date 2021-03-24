@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/jinay_patel/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/jinay_patel/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A Brief Introduction to Derivatives</title>
+        <link>https://old.felixonline.co.uk/articles/2019-11-08-brief-introduction-to-derivatives/</link>
+        <pubDate>Fri, 08 Nov 2019 17:00:00 +0000</pubDate>
+        
+          <author>Jinay Patel,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-11-08-brief-introduction-to-derivatives/</guid>
+        <description>If you’ve flicked past all of the puzzles and literally every other section to get to Investments, well then I know you’re probably a banker w*****. All jokes asides, if any of you have read more than 3 articles on FT or spoke to a Business School student for 5 minutes, you’ve probably heard of a …</description>
+      </item>
+    
+  </channel>
+</rss>

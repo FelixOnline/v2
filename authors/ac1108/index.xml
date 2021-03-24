@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/ac1108/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/ac1108/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Snapshots of the future
+</title>
+        <link>https://old.felixonline.co.uk/articles/2011-11-3-snapshots-of-the-future/</link>
+        <pubDate>Thu, 03 Nov 2011 18:25:21 +0000</pubDate>
+        
+          <author>Simon Worthington,Abhimanyu Chugh,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2011-11-3-snapshots-of-the-future/</guid>
+        <description>Douglas Heaven sees programmable cells, not silicon chips
+There’s a lot of speculation about where the future of computing lies. Quantum computers and qubits promise to open up computational problems that are unfeasable using bits alone; nanotech materials such as graphene look set to change the …</description>
+      </item>
+    
+  </channel>
+</rss>

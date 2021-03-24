@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/adrian_lua/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/adrian_lua/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Asian invasion</title>
+        <link>https://old.felixonline.co.uk/articles/2017-12-01-asian-invasion/</link>
+        <pubDate>Fri, 01 Dec 2017 12:00:00 +0000</pubDate>
+        
+          <author>Chun Yuan Hii,Adrian Lua,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2017-12-01-asian-invasion/</guid>
+        <description>Felix Food has been sharing simple and quick recipes for the past few issues, and that’s great! Hopefully they’ve helped you to survive the term in some ways. But don’t you occasionally imagine yourself cooking a Michelin-starred dish, unleashing your inner chef, and it no longer mattering if you …</description>
+      </item>
+    
+  </channel>
+</rss>

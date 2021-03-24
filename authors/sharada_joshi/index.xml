@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/sharada_joshi/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/sharada_joshi/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A power shift? </title>
+        <link>https://old.felixonline.co.uk/articles/2019-01-11-a-power-shift/</link>
+        <pubDate>Fri, 11 Jan 2019 17:00:00 +0000</pubDate>
+        
+          <author>Sharada Joshi,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-01-11-a-power-shift/</guid>
+        <description>Once upon a time, around 30 years ago, the oil industry was at the forefront of technological innovation, pushing boundaries with creations borne out of necessity, such as digital well logs, electrical submersible pumps and 3D seismic imaging tools, which use sound waves to create a 3D image of …</description>
+      </item>
+    
+  </channel>
+</rss>

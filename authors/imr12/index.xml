@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/imr12/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/imr12/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Engineering a good course
+</title>
+        <link>https://old.felixonline.co.uk/articles/2013-5-30-engineering-a-good-course/</link>
+        <pubDate>Thu, 30 May 2013 12:26:02 +0100</pubDate>
+        
+          <author>Iacopo Russo,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2013-5-30-engineering-a-good-course/</guid>
+        <description>When I found out that my team had made it to the finals of the Engineers Without Borders (EWB) Challenge I was of course really pleased to know that all of our effort was actually worth it. I feel really satisfied because I think that if they chose us out of the 50 teams in the UK and Ireland, this …</description>
+      </item>
+    
+  </channel>
+</rss>

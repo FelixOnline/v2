@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/bernadette_fernandes/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/bernadette_fernandes/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Werther at the Royal Opera House</title>
+        <link>https://old.felixonline.co.uk/articles/2019-09-27-werther-at-royal-opera-house/</link>
+        <pubDate>Fri, 27 Sep 2019 17:00:00 +0000</pubDate>
+        
+          <author>Bernadette Fernandes,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-09-27-werther-at-royal-opera-house/</guid>
+        <description>The opening night of Werther was a beautiful masterpiece, however it was underwhelming at times. Massenet’s Werther, based on Goethe’s Die Leiden des Jungen (The Sorrows of Young Werther), is a classic story of two star-crossed lovers – whose love brings sorrow to both themselves and the people …</description>
+      </item>
+    
+  </channel>
+</rss>

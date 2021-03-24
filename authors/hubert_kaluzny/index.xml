@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/hubert_kaluzny/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/hubert_kaluzny/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A deep dive: Cambridge Analytica</title>
+        <link>https://old.felixonline.co.uk/articles/2018-05-03-a-deep-dive-cambridge-analytica/</link>
+        <pubDate>Thu, 05 Apr 2018 12:00:00 +0000</pubDate>
+        
+          <author>Hubert Kaluzny,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-05-03-a-deep-dive-cambridge-analytica/</guid>
+        <description>Cambridge Analytica have been successfully controlling the minds of thousands of people – if not hundreds of thousands – since 2013. Working for political parties for over 200 elections in the United States and the United Kingdom, as well as Argentina, the Czech Republic, Kenya, India, and Nigeria, …</description>
+      </item>
+    
+      <item>
+        <title>Applications of blockchain technology</title>
+        <link>https://old.felixonline.co.uk/articles/2018-03-09-applications-of-blockchain-technology/</link>
+        <pubDate>Fri, 09 Mar 2018 12:00:00 +0000</pubDate>
+        
+          <author>Hubert Kaluzny,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-03-09-applications-of-blockchain-technology/</guid>
+        <description>X but on the blockchain”, has become as much of a technological mantra as “Uber but for X” in these recent months. Apart from the sharp peaks and shallow troughs of the price of cryptocurrencies produced by a mutual belief of value, is there any practical use of blockchain technology?
+Smart …</description>
+      </item>
+    
+      <item>
+        <title>Should we trust governments with our faces?  </title>
+        <link>https://old.felixonline.co.uk/articles/2018-02-02-should-we-trust-governments-with-our-faces/</link>
+        <pubDate>Fri, 02 Feb 2018 12:00:00 +0000</pubDate>
+        
+          <author>Hubert Kaluzny,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-02-02-should-we-trust-governments-with-our-faces/</guid>
+        <description>London is one of the world’s most surveilled cities. Recently, China has begun using facial recognition to keep track of one of their district’s Muslim populations. Ethically speaking, I believe we can all agree that, this is one of the worst uses of modern technology we have seen to date. At the …</description>
+      </item>
+    
+  </channel>
+</rss>

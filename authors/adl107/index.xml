@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/adl107/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/adl107/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Bitcoin
+</title>
+        <link>https://old.felixonline.co.uk/articles/2011-6-23-bitcoin/</link>
+        <pubDate>Thu, 23 Jun 2011 20:38:14 +0100</pubDate>
+        
+          <author>Adam Labi,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2011-6-23-bitcoin/</guid>
+        <description>Money made and traded online is valuable. Companies across the web have been striving to find a model for digital currency that works. From Facebook to Farmville; World of Warcraft to Second Life people are buying currency that is used online even though it has no physical manifestation. Stranger …</description>
+      </item>
+    
+  </channel>
+</rss>

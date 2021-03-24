@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/harvinder_power/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/harvinder_power/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Israel Tech Trip: Learning about culture and tech</title>
+        <link>https://old.felixonline.co.uk/articles/2018-06-19-israel-tech-trip-learning-about-culture-and-tech/</link>
+        <pubDate>Fri, 15 Jun 2018 12:00:00 +0000</pubDate>
+        
+          <author>Harvinder Power,Shubhangi Sharma,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-06-19-israel-tech-trip-learning-about-culture-and-tech/</guid>
+        <description>Often featured in the news for its continuing conflict, Israel is a country most people probably associate with conflict. However, a little known fact is that the country also houses the highest concentration of start-ups tech companies per capita. Given the country’s young history, Israel is firmly …</description>
+      </item>
+    
+  </channel>
+</rss>

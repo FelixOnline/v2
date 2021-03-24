@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/ld709/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/ld709/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Inception: the theory of the ring
+</title>
+        <link>https://old.felixonline.co.uk/articles/2013-1-18-inception-the-theory-of-the-ring/</link>
+        <pubDate>Fri, 18 Jan 2013 01:12:30 +0000</pubDate>
+        
+          <author>Luca De Benedetti,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2013-1-18-inception-the-theory-of-the-ring/</guid>
+        <description>Ok, yes, I am two years late. I am aware of that. I am also aware of the fact that everyone has now seen Inception, discussed it, explained it and looked for the mathematical inconsistencies of the dream world (although I suspect the latter is only true for Imperial students). What more can possibly …</description>
+      </item>
+    
+      <item>
+        <title>Surfing with the penguins
+</title>
+        <link>https://old.felixonline.co.uk/articles/2012-11-22-surfing-with-the-penguins/</link>
+        <pubDate>Thu, 22 Nov 2012 22:56:32 +0000</pubDate>
+        
+          <author>Luca De Benedetti,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2012-11-22-surfing-with-the-penguins/</guid>
+        <description>A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters. This is what you seek when you go surfing. This is not what you are going to find when you go surfing in …</description>
+      </item>
+    
+  </channel>
+</rss>

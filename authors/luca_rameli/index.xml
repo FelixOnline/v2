@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/luca_rameli/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/luca_rameli/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The End of a Decade: Italy</title>
+        <link>https://old.felixonline.co.uk/articles/2019-12-09-end-of-decade-italy/</link>
+        <pubDate>Mon, 09 Dec 2019 17:00:00 +0000</pubDate>
+        
+          <author>Luca Rameli,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-12-09-end-of-decade-italy/</guid>
+        <description>The past decade has witnessed a proper political earthquake in Italian politics: what once was is no more. The political framework that has been in place since the nineties has fallen – the abrupt political changes that have occurred are similar to the previous largescale reshaping of the political …</description>
+      </item>
+    
+  </channel>
+</rss>

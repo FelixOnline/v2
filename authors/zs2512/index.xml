@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/zs2512/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/zs2512/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A foundation in fractals
+</title>
+        <link>https://old.felixonline.co.uk/articles/2016-12-2-a-foundation-in-fractals/</link>
+        <pubDate>Fri, 02 Dec 2016 14:03:54 +0000</pubDate>
+        
+          <author>Felix Editor,Zofia Strzelecka,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2016-12-2-a-foundation-in-fractals/</guid>
+        <description>Fractals are everywhere we look. Clouds, snowflakes, broccoli – even mountains are full of them. Simply put, a fractal is a never-ending pattern that can be defined as ‘a rough or fragmented geometric shape that can be subdivided in parts, each of which is a reduced-size copy of the whole’. This …</description>
+      </item>
+    
+  </channel>
+</rss>

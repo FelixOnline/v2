@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/andrew_lee/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/andrew_lee/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Hong Kong Protests</title>
+        <link>https://old.felixonline.co.uk/articles/2019-10-18-hong-kong-protests/</link>
+        <pubDate>Fri, 18 Oct 2019 17:00:00 +0000</pubDate>
+        
+          <author>Andrew Lee,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-10-18-hong-kong-protests/</guid>
+        <description>Protests in Hong Kong have been in the news for almost 4 months. Initially the protests were targeted to stop the extradition law to pass. I am sure that many are confused why a seemingly common extradition law caused full-scale riots and protests. The proposed extradition law included an …</description>
+      </item>
+    
+  </channel>
+</rss>

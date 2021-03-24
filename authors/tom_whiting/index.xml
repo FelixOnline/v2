@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/tom_whiting/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/tom_whiting/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Mallorca – more than just a party island!</title>
+        <link>https://old.felixonline.co.uk/articles/2018-03-09-mallorca-more-than-just-a-party-island/</link>
+        <pubDate>Fri, 09 Mar 2018 12:00:00 +0000</pubDate>
+        
+          <author>Tom Whiting,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-03-09-mallorca-more-than-just-a-party-island/</guid>
+        <description>Despite its reputation as a European party destination, there is much more to Mallorca than drinking the night away in its numerous party resorts, such as Magaluf. With a peak higher than Ben Nevis in Scotland (the highest mountain in the British Isles) and many spots for hiking and climbing, this …</description>
+      </item>
+    
+  </channel>
+</rss>

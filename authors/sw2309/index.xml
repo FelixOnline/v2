@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/sw2309/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/sw2309/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hackers Unite!
+</title>
+        <link>https://old.felixonline.co.uk/articles/2012-11-22-hackers-unite/</link>
+        <pubDate>Thu, 22 Nov 2012 23:11:46 +0000</pubDate>
+        
+          <author>Sam Wong,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2012-11-22-hackers-unite/</guid>
+        <description>ackathons are magical. Hackathons are non-compulsory, unpaid, but last long enough to warrant overtime pay and a day off in a normal corporate environment. Yet somehow participants are highly engaged, and manage to produce creative solutions in a much tighter timeframe. Why do Hackathons work? What …</description>
+      </item>
+    
+  </channel>
+</rss>

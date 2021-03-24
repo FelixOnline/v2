@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/thomas_allen/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/thomas_allen/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Operation Black Antler</title>
+        <link>https://old.felixonline.co.uk/articles/2019-04-25-operation-black-antler/</link>
+        <pubDate>Thu, 25 Apr 2019 17:00:00 +0000</pubDate>
+        
+          <author>Thomas Allen,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-04-25-operation-black-antler/</guid>
+        <description>Sitting alone, in the dark, on a bench in a South London park waiting for a text from my ‘handler’, I felt as though I had found myself at the blunt end of the biggest practical joke since the admin team at the 2017 Oscars switched the winner’s envelopes. Instructed to remain vigilant for any …</description>
+      </item>
+    
+  </channel>
+</rss>

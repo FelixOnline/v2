@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/chippy/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/chippy/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Is #fakenews damaging your health?</title>
+        <link>https://old.felixonline.co.uk/articles/2019-03-15-is-fakenews-damaging-your-health/</link>
+        <pubDate>Fri, 15 Mar 2019 17:00:00 +0000</pubDate>
+        
+          <author>Alex &#39;Chippy&#39; Compton,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-03-15-is-fakenews-damaging-your-health/</guid>
+        <description>Fake News has made a bold entrance into the social media sphere. The term, commonly used by Donald Trump, was named 2017’s (ultimate) ‘Word of the Year’ by Collins Dictionary. It’s almost impossible to ignore fake news across social media and the sensationalist headlines have percolated into …</description>
+      </item>
+    
+  </channel>
+</rss>

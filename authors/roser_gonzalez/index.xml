@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/roser_gonzalez/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/roser_gonzalez/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Cancer and the immune system – friend or foe?</title>
+        <link>https://old.felixonline.co.uk/articles/2018-06-19-cancer-and-the-immune-system-friend-or-foe/</link>
+        <pubDate>Fri, 15 Jun 2018 12:00:00 +0000</pubDate>
+        
+          <author>Roser Gonzalez,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-06-19-cancer-and-the-immune-system-friend-or-foe/</guid>
+        <description>Why is cancer so difficult to beat, you might be wondering. The main problem with cancer is that it arises from our own cells. We are all unique and special, but so are our tumors, which makes it difficult to deal with them at a population level. Unfortunately, the same drug might not have the same …</description>
+      </item>
+    
+  </channel>
+</rss>

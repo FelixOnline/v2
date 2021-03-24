@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/nina_litman/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/nina_litman/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Price</title>
+        <link>https://old.felixonline.co.uk/articles/2019-02-26-the-price/</link>
+        <pubDate>Tue, 26 Feb 2019 17:00:00 +0000</pubDate>
+        
+          <author>Nina Litman,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-02-26-the-price/</guid>
+        <description>In Arthur Miller’s 1968 play ‘The Price’, four people quarrel over the price of old furniture. Yes, that is essentially the drama’s synopsis. Four characters in a New York attic, debating the value of relics of the past piled up from floor to ceiling from ancient dining sets, chairs, wardrobes, old …</description>
+      </item>
+    
+      <item>
+        <title>Art Below Hyde Park</title>
+        <link>https://old.felixonline.co.uk/articles/2019-01-25-art-below-hyde-park/</link>
+        <pubDate>Fri, 25 Jan 2019 17:00:00 +0000</pubDate>
+        
+          <author>Nina Litman,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-01-25-art-below-hyde-park/</guid>
+        <description>By using advertising space in London’s iconic underground stations to showcase artwork, independent arts organisation Art Below has two powerful missions: rendering contemporary art accessible to millions of commuters, and creating a platform for promising as well as internationally-renowned artists …</description>
+      </item>
+    
+  </channel>
+</rss>

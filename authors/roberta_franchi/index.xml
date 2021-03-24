@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/roberta_franchi/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/roberta_franchi/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The cost of wasting meat</title>
+        <link>https://old.felixonline.co.uk/articles/2019-04-27-the-cost-of-wasting-meat/</link>
+        <pubDate>Fri, 07 Dec 2018 17:00:00 +0000</pubDate>
+        
+          <author>Roberta Franchi,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-04-27-the-cost-of-wasting-meat/</guid>
+        <description>Consuming meat is bad for the environment. Meat production produces huge amounts of greenhouse gases, consumes millions of liters of water and takes up monstrous quantities of land. Yep, we’ve heard it over and over again. However, have you ever considered the impact of actually throwing away the …</description>
+      </item>
+    
+  </channel>
+</rss>

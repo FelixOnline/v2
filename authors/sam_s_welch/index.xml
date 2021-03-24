@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/sam_s_welch/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/sam_s_welch/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>EU moves to ban neonicotinoids</title>
+        <link>https://old.felixonline.co.uk/articles/2018-05-11-eu-moves-to-ban-neonicotinoids/</link>
+        <pubDate>Fri, 11 May 2018 12:00:00 +0000</pubDate>
+        
+          <author>Sam S Welch,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2018-05-11-eu-moves-to-ban-neonicotinoids/</guid>
+        <description>On Friday 27th April, member states of the EU moved to support the ban of outdoor agricultural uses of three important neonicotinoid pesticides, due to concerns surrounding their harmful effects on bees and other pollinators. This decision followed the European Food Safety Authority’s (EFSA) …</description>
+      </item>
+    
+  </channel>
+</rss>

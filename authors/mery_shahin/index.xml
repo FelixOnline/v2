@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix</title>
+    <link>https://old.felixonline.co.uk/authors/mery_shahin/</link>
+    <description>Recent content on Felix</description>
+    <atom:link href="https://old.felixonline.co.uk/authors/mery_shahin/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Power of Bugs in Today’s Climate Crisis</title>
+        <link>https://old.felixonline.co.uk/articles/2019-11-29-power-bugs-todays-climate-crisis/</link>
+        <pubDate>Fri, 29 Nov 2019 17:00:00 +0000</pubDate>
+        
+          <author>Mery Shahin,</author>
+        
+        <guid>https://old.felixonline.co.uk/articles/2019-11-29-power-bugs-todays-climate-crisis/</guid>
+        <description>From daily news features to public transport disruptions and political manifestos, climate change and all its consequences have finally become impossible to ignore. As temperatures rise, our relationship with nature will have to begrudgingly adjust. This adjustment will certainly involve the …</description>
+      </item>
+    
+  </channel>
+</rss>
